@@ -1,0 +1,15 @@
+<item>
+<title>Operação Obscura[COLOR yellow](2020)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1758613aafad437495c448921c533438c4209cea</link>
+<thumbnail>https://abutretorrents.com/imagens/operacao-obscura-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[COLOR yellow]Quando uma operação de rotina resulta na brutal e inexplicável morte de seu colega, uma policial percebe que ninguém, além dela, consegue enxergar a gravação do incidente. Com ataques misteriosos aumentando ao seu redor, ela precisa correr contra o tempo para entender a força sobrenatural por trás deles. [/COLOR]</info></item>
+
+
+<item>
+<title>O Assassino:O Primeiro Alvo[COLOR yellow](2017)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EF4B9133A8695778AC7B81F14541EC80B7EC045D</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9X8CZx9OfNroXVerYiHIAlIUomj.jpg</thumbnail><info>[COLOR yellow]Devastado pela morte da noiva diante de seus olhos em um atentado terrorista, Mitch Rapp (Dylan OBrien) dedica-se incansávelmente à vingança, o que chama a atenção da CIA. Recrutado, o descontrolado rapaz é enviado para o rígido treinamento de Stan Hurley (Michael Keaton), veterano militar que prepara assassinos secretos de atuação internacional e tem sérias ressalvas à avaliação psicológica de Mitch. [/COLOR]</info></item>
+
+<item><title>[COLOR white][B]Operação Secreta[COLOR yellow] (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7C864783896D444437F58368D26D232D259FFC7</link><thumbnail>https://i.imgur.com/lI55qT0.jpg</thumbnail><info>[COLOR yellow]Chul-soo (Kyung-gu Sol) leva uma vida aparentemente comum com a dominadora esposa Young-hee (So-ri Moon), que é aeromoça e acredita que ele seja um executivo. Na realidade, ele é o melhor agente secreto de seu país, a Coréia do Sul. Um dia, ele viaja escondido para a Tailândia em busca de cumprir uma missão, mas acaba dando de cara com sua mulher acompanhada de um homem misterioso. [/COLOR]</info></item>
+
+######################################################################################################################################

@@ -1,0 +1,27 @@
+<item><title>[COLOR white]Oração Diabólica[COLOR yellow](2020)[/COLOR]</title><link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/ORCAODIBLCA.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3WBUlYmc6U05pqM9i6NZBzIbNI.jpg</thumbnail><info>[COLOR yellow]Em Oração Diabólica, um grupo de amigos viaja num fim de semana e é forçado a buscar abrigo em uma prisão abandonada onde a freira Irmã Monday havia sido designada. Suspeita de matar prisioneiros que cupriam suas penas durante seu tempo na prisão, a Irmã Monday desapareceu. Já dentro da prisão, memórias ruins da infância e conflitos familiares começam a atormentar o grupo e eles precisam enfrentar seus medos, enquanto tentam não encontrar com a macabra Irmã Monday.[/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white]Festival Sangrento[COLOR yellow](2020)[/COLOR]</title><link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/FSTVLSNGRTO.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oglP0iKN7PXXzPny7jEuPqHIczg.jpg</thumbnail><info>[COLOR yellow]Fãs se reúnem para um festival que celebra os filmes de terror mais famosos, apenas para descobrir que o apresentador por trás do evento tem uma agenda diabólica. À medida que os participantes começam a morrer, três adolescentes que sabem tudo sobre filmes de terror devem se unir e combater todos os loucos, monstruosos e terríveis cenários para sobreviver.[/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white]Aterro Maldito[COLOR yellow](2020)[/COLOR]</title><link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/ATROMLDTO.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b0O9oVS2IipIQZ2Co0oUYDdhi9.jpg</thumbnail><info>[COLOR yellow]Um grupo de adolescentes é atormentado pelo Ceifador e seu animal de estimação depois de passar por um experimento que lhes permite revisitar os mortos.[/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white]O Segredo da Floresta[COLOR yellow](2020)[/COLOR]</title><link>https://proxy.ec.cx/video.php?url=RCFServer5/ondemand/FSTVLSNGRTO.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6b5idkJ0qJMt5W5oLzi4uMjqMiG.jpg</thumbnail><info>[COLOR yellow]Um casal de médicos, Jay e Amy, decide fugir um pouco da sua rotina da cidade grande e parte para um retiro no campo, o que supostamente seria um momento de tranquilidade e intimidade para eles. Durante um passeio, Jay pede Amy em casamento e tudo parece perfeito, quando, na volta, eles acabam entrando pela floresta e se deparam com um ritual estranho - eles encontram uma menina amarrada dentro de uma cabana. Ao libertarem a garota, eles libertam também um terrível mal.[/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white]O Desafio[COLOR yellow](2020)[/COLOR]</title><link></link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+
+#################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+
+#################################################################################################

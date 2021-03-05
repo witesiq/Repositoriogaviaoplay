@@ -1,0 +1,146 @@
+67 996955712  
+<item><title>[COLOR white]After[COLOR yellow](2019)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1r8T58Cz_heA8LWLr9NywvCgtYM_Ad16U/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+<item>
+<title>[COLOR white]Amigas De Verdade[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1iMtW-7lF9HDpUDDhf7C0hwKANHsA_oN9/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w7CDZajGXeihFY2z50fF9vHv9BK.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+<item>
+<title>[COLOR white]Assassinato no Grupo de Mães[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BpFWxCbM9aFdeh9spfSXSBkllZZLK5J-/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x4f17AjbME8Us3CR5IRQlvz5QZY.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Correndo Por Um Sonho[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xNOflmLzKohYKUFKl905fLTEBcZ_GVo2/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2L31gDii1TybJKveiaMhnnVaXZG.jpg</thumbnail><info>[COLOR yellow]Zach é um atleta que sonha em mudar de vida junto com o irmão, David, deixando conflitos familiares no passado. Quando ele sofre um acidente no campo de futebol e tudo parece perdido, o amor e a fé podem ser a chave para superar tudo[/COLOR]</info></item>
+###########################################################################################################################
+<item>
+<title>[COLOR white]De Quem E A Culpa[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18rV5HBt1XJcj_EB5PGyIIcBzW3ZbJb1S/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOXYA00nvxL7QGggB0zJtrKpBB3.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Em Busca De Zoe[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BSWs7ynn-aimbRGOGx0z77MVV7rTDkah/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqotnP1wZ7tn03cFmbzPFLRYx8O.jpg</thumbnail><info>[COLOR yellow]Faz um ano desde que sua irmã foi assassinada, mas Echo (Laura Marano) não consegue superar o ocorrido. A vida familiar está um caos, sua mãe toma muitos remédios e seu pai trabalha demais. No entanto, quando o antigo namorado de sua falecida irmã aparece com um diário, ela descobrirá muitos segredos escondidos.[/COLOR]</info></item>
+###########################################################################################################################
+
+<item>
+<title>[COLOR white]Ema[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1S-pB_Gm07uE7bYMgDH4naSEqZ4hFaOYJ/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Gangues De Londres[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1NkHfteFh5krM1EceF0a-3wKjiqzO7ETv/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9bHFSNe5ph0rztKbNdNuZUitv5.jpg</thumbnail><info>[COLOR yellow]Os melhores amigos Timmy (Stephen Odubola) e Marco (Micheal Ward) frequentam a mesma escola em Peckham, mas moram nos bairros vizinhos de Londres. Quando Marco é espancado por um dos amigos da escola primária de Timmy, os dois garotos terminam em lados rivais de um ciclo interminável de guerra de gangues de códigos postais em que não há vencedores … apenas vítimas.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]Inimigos Intimos[COLOR yellow](2019)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BUzbLLn29qX0S2LV9gZ669QSUlpUq1Y7/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b63u6pfSUqZt0BXgYIxpPLw3SA.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]Justica Sem Fronteira[COLOR yellow](2019)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WoT1eiTaDWBBbizd4UFIR8zoljSfroFi/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6mOic4rFKag7XrHUmpfXVkUlhZo.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Legado Nos Ossos[COLOR yellow](2020)[COLOR red]drama[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EfffhniXpakN1gLESgaOjnxi3vTCyo6J/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtldsr6Soiu1RzIG15Or4HiUnxv.jpg</thumbnail><info>[COLOR yellow]Um ano depois de solucionar uma série de assassinatos, a inspetora Amaia se vê diante de um novo mistério relacionado ao caso.[/COLOR]</info></item>
+###########################################################################################################################
+<item>
+<title>[COLOR white]Luce[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uuUFUkDILcBCfRMNiQS0QZvw4WoVr-pA/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ENjFEByHB4ESDOiOltBiZI2XJb.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white]Meu Não Tão Perfeito Marido[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yGHr1EhDeYr_ckbLFjYXFQ2EUPqQbrdN/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4NP2EKDM1hFuATixxQlCkJNiyK.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Missao No Mar Vermelho[COLOR yellow](2020)[COLOR lime]New[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1eeiBenpJXtAuviLgu6IN9DVjLMktLaUh/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6M9BPXLIVvPNs0gZW4yNyGobuW.jpg</thumbnail><info>[COLOR yellow]Agentes disfarçados abrem um hotel falso para turistas de verdade como fachada para salvar milhares de refugiados etíopes. Inspirado em fatos reais.[/COLOR]</info></item>
+###########################################################################################################################
+<item>
+<title>[COLOR white]No Limite Da Traicao[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1H9KVbBh4ufQS3NtiZGklhDf2I2R6Kei0/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uQqmFcKOSg7RVtaIKOTtv1vWQPx.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+item><title>[COLOR white]Notas De Rebeldia[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1P1rkceixsvBnmEZTBo8itS0x4lsjH3GZ/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sNB6DoHiAr1epeDlqIh3onfjv8M.jpg</thumbnail><info>[COLOR yellow]Dividido, ele tem de escolher entre o sonho de se tornar um mestre do vinho e as expectativas do pai para que assuma os negócios da família.[/COLOR]</info></item>
+###########################################################################################################################
+<item>
+<title>[COLOR white]Nunca Deixe De Lembrar[COLOR yellow](2020)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12lRnu8DNebh4pAyTTKPpBobhDnzAopLe/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1U0PYYW19bCPjCmmXjX9KJwa2O.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]O Bom Samaritano[COLOR yellow](2020)[/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1g6l76t9yMC9YPh2nlUqBdKBzUfDfHlyi/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W2Ocbj7UN89XbuecWvS4awmHpu.jpg</thumbnail>
+<info>[COLOR yellow]Karen é atacada durante uma noite enquanto voltava para casa, mas é salva por Daniel, um belo desconhecido. O rapaz se machuca no ataque e ela cuida de suas feridas. Porém, com o passar do tempo, Karen descobre que Daniel não é o herói que aparenta.[/COLOR]</info></item>
+#######################################################################################################################################
+<item><title>[COLOR white]O Escandalo[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dNNwKjRvNrDAEITYQnQDYufX-hGaCfyv/view?usp=sharing?usp=drivesdk</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7DTu2TAOzIcunFtFyqzyYoICiy.jpg</thumbnail><info>[COLOR yellow]Um gigante do telejornalismo e antigo CEO da Fox News, Roger Ailes (John Lithgow) tem seu poder questionado e sua carreira derrubada quando um grupo de mulheres o acusam de assédio sexual no ambiente de trabalho.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]O Oficial E O Espião[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/196QrgerjXcmlkFLFu_YV7bsatpmNrrtK/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/62U5xODn11soKOnXj0s0zc3iTlJ.jpg</thumbnail><info>[COLOR yellow]Alfred Dreyfus (Louis Garrel) é capitão e um dos poucos judeus a integrar o exército francês. Em dezembro de 1884, seus inimigos conseguem condená-lo por traição. E o julgamento, a portas fechadas, o sentenciou à prisão perpétua no exílio. O caso teve repercussão internacional, e o Coronel Georges Picquart (Jean Dujardin) decide investigar o mistério por trás da condenação. As descobertas são polêmicas e revelam um crime envolvendo peritos e até militares de alta patente. Vencedor de quatro prêmios no Festival de Veneza 2019, entre eles, o Prêmio da Crítica e o Leão de Prata, do Grande Júri. Escrito e dirigido pelo premiado diretor Roman Polanski, vencedor do Oscar com O Pianista (2002).[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]O Preço Da Verdade[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lmImej_YN9LXTJnhsiTCMYuQR6eWgzcK/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pONtsB0V4T10ETgaIgsyOkzqGDW.jpg</thumbnail><info>[COLOR yellow]Um advogado arrisca sua carreira e família para descobrir um sombrio segredo escondido por uma das maiores empresas do mundo e levar justiça a uma comunidade perigosamente exposta por décadas a produtos químicos mortais.[/COLOR]</info></item>
+#######################################################################################################################################
+item><title>[COLOR white]O Publico[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1OfbnN7PHcmapjGQA9wLNwgBAs1t2ONig/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fK81tBV5tBOEySpT5RH3IdyqYE.jpg</thumbnail><info>[COLOR yellow]Em uma biblioteca pública de Cincinnati, em Ohio, muitos dos clientes são moradores de rua e pessoas com problemas mentais. Quando o inverno severo começa a causar mortes por hipotermia nas ruas, os funcionários da biblioteca decidem transformá-la em um abrigo de emergência. O que eles não esperavam é que esse pequeno ato de desobediência fosse atrair tanta atenção da polícia, se transformando em uma grande batalha.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]O Rei Dos Ladroes[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1y2RpMRxw0kwmfMN8igGVcHA4hAtokT34/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hkI8oBMIOAnCEJFbgFgI7IZ302G.jpg</thumbnail><info>[COLOR yellow]Baseado em fatos reais, o filme traz a história de uma equipe de ladrões aposentados que decidem realizar um grande assalto no distrito de joias de Londres. Em 2015, uma quadrilha realizou um roubo no Hatton Garden Safe Deposit Company, uma instalação subterrânea de depósito seguro na área de Hatton Garden, em Londres. A mídia acreditava que o roubo tinha sido realizado por um grupo de criminosos atuais. Na verdade, os autores reais eram aposentados de 60 e 70 anos, e com diversas doenças. A invasão foi feita através de um poço do elevador, e o valor do roubo foi estimado em torno de 200 milhões de libras.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]O Silêncio da Cidade Branca[COLOR yellow](2020)[COLOR red]Drama[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/14b8RvTilbdnNSVr3Ha-7ECGmbSVbKULR/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1w6r8ynCu0VDwyuGZyZ27xJJsh.jpg</thumbnail><info>[COLOR yellow]Um detetive volta à ativa para investigar dois assassinatos que imitam crimes supostamente cometidos por um homem que está prestes a sair da prisão.[/COLOR]</info></item>
+#######################################################################################################################################
+<item><title>[COLOR white]Os Miseraveis[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1fZ0EYl579qnaUgRAs2uexm3rNSMA8wbj/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2aHucf8P3yhuAt3CJYGEJtSIvZw.jpg</thumbnail><info>[COLOR yellow]Stéphane (Damien Bonnard) é um jovem que acaba de se mudar para Montfermeil e se junta ao esquadrão anti-crime da comuna. Colocado no mesmo time de Chris (Alexis Manenti) e Gwada (Djibril Zonga), dois homens de métodos pouco convencionais, ele logo se vê envolvido na tensão entre as diferentes gangues do local.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]Parasita[COLOR yellow](2020)[COLOR red]Drama[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12rQFTeHWtE6w3mI5tO65_4iTQl9Twx01/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oxTwNRt1AXkgl8GYj7kBfDjOv3T.jpg</thumbnail><info>[COLOR yellow]Toda a família de Ki-taek está desempregada, vivendo num porão sujo e apertado. Uma obra do acaso faz com que o filho adolescente da família comece a dar aulas de inglês à garota de uma família rica. Fascinados com a vida luxuosa destas pessoas, pai, mãe, filho e filha bolam um plano para se infiltrarem também na família burguesa, um a um. No entanto, os segredos e mentiras necessários à ascensão social custarão caro a todos.[/COLOR]</info></item>
+###########################################################################################################################
+<item>
+<title>[COLOR white]Quem Com Fero Fere[COLOR yellow](2019)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CB_QR1RNhGTFK9FeTUyaGA_kA3Rx_CoO/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRIA3Pug05jrfFZ7CvuiS7U7hx.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Raca E Redencao[COLOR yellow](2020)[COLOR red]Drama[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RIpE8mfWIY_9IjioyMP6GskKM1gi-bCl/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2SZw4eBmDRDGjgG7ACxBdiiKBpO.jpg</thumbnail><info>[COLOR yellow]Ativista de direitos civis Ann Atwater (Taraji P. Henson), bate de frente com C.P. Ellis (Sam Rockwell), líder exaltado do Ku Klux Klan em Durham, na Carolina do Norte, de1971, sobre a questão de integração nas escolas.[/COLOR]</info></item>
+###########################################################################################################################
+<item>
+<title>[COLOR white]Roda Gigante[COLOR yellow](2019)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1dy6YH2qq-aRHZF3qXj9876p0mjcEsF3k/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkfebRm9rO6rQmIelznLIybPTHi.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Seducao Perigosa[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1SJs2PpNFmcbq_0z6ApBRgp0k9odi6aEg/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dztS7aqdW1BMbyr4beisngVf7kE.jpg</thumbnail><info>[COLOR yellow]Josie, Sophie Turner de "Game of Thrones", é uma adolescente que se muda para uma pequena cidade no interior dos EUA. Quando ela começa a se envolver com o solitário Hank, a garota rapidamente vira alvo das fofocas locais. Entretanto, conforme o passado vem à tona, as verdadeiras intenções da jovem se tornam mais sinistras do que aparentavam ser.[/COLOR]</info></item>
+###########################################################################################################################
+</item><title>[COLOR white]Segredos Da Familia[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TLHITT-DpT4aEVwxggVKa14aurYpOQHN/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1oGbCFLwIibp5jdjAtP9Y6cQ8s.jpg</thumbnail><info>[COLOR yellow]A história do cantor, compositor e pianista, Jerry Lee Lewis, um dos músicos pioneiros do rock and roll na década de 50. Ele enfrentou diversos conflitos por conta de sua arrogância, seu incrível talento e seu estilo de vida inconvencional. Um homem polêmico que enfrentou diversos problemas com a indústria musical e foi, muitas vezes, condenado pelo público.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]Torturado por Cristo[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1V21ghkiPQ1Ifmznf21gLNOiOZYLICVfH/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjsOC9eSuZiM9Maio7tLxPL8ICB.jpg</thumbnail><info>[COLOR yellow]Uma recontagem cinematográfica do testemunho do fundador da 'Voz dos Mártires', Pastor Richard Wurmbrand, conforme escrito em seu best-seller internacional homônimo.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]Uma Prova de Fé 2: Voltando para Casa[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1uzcUHd4w9zBmzF8D8kg2AxzA6pDXB4Hh/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tioEO1VMDKqrqM8EjFf1sGxZq9d.jpg</thumbnail><info>[COLOR yellow]Tudo parece estar dando errado para a família Taylor agora. No momento em que Alexa está começando a trabalhar no emprego dos seus sonhos, ela fica impressionada ao cuidar da mãe que sofre da doença de Alzheimer. Seu filho, Beau, acabou de perder sua carreira profissional no futebol devido a uma lesão e sua filha Ravyn precisa de ajuda para planejar seu casamento de última hora. Somente com o apoio de amigos e a graça orientadora de sua fé os Taylors podem encontrar forças para lidar com a onda de drama e tragédia que está rolando sobre suas vidas.[/COLOR]</info></item>
+###########################################################################################################################
+
+<item>
+<title>[COLOR white]Ultras[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cFkQJoRwhPZ9gvhJus33a99LIYkB3zuP/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vHqpFuguBugZZfXIyjsb4tOAXve.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Uma Batalha de Fé[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18VJlk2sLzMLobXB-BdyvLuiRO9YfLIFE/view?usp=sharing?usp=drivesdk</link></link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDprJajIe7RSV67PtnZ1S6X4iuC.jpg</thumbnail><info>[COLOR yellow]Hunter Wilde é o líder de um grupo de sobreviventes cristãos que está tentando viver o mais normal possível dois anos após um ataque eletromagnético que mudou os rumos da civilização. Em um mundo de caos, viver o dia a dia se tornou muito traiçoeiro, mas isso não é nada comparado a quando os portões do inferno são abertos e demônios surgem determinados a procurar e destruir os cristãos restantes na Terra, e Hunter está marcado por eles. Se as forças malignas puderem quebrá-lo, toda a cidade o seguirá e o mal vencerá.[/COLOR]</info></item>
+##########################################################################################################################
+
+<item>
+<title>[COLOR white]Uma Segunda Chance: Rivais! [COLOR yellow](2019)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1QcrcX7DHgS99FZCuTvcquYrT0Xjca3uD/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYIDpQ5Y29W11rusWVLJRxiZEqq.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Uma Vida Oculta[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aAJri32EJTibcj44vMgKP67QRImDjhn8/view?usp=sharing</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oh5cKQgC54MAu62YCXNHVPiKIoY.jpg</thumbnail><info>[COLOR yellow]Franz Jägerstätter (August Diehl) é um fazendeiro austríaco que se torna herói em circunstâncias um tanto quanto inusitadas. Quando ele é convocado a lutar junto ao exército alemão durante a Segunda Guerra Mundial, ele se recusa e acaba, com apenas 36 anos de idade, condenado à pena de morte por traição à pátria.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]Vida Selvagem[COLOR yellow](2020)[COLOR red]Drama[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1YyxLaxxfYK8hrtjWvGRAXCwHQqKSlb1J/view?usp=sharing?usp=drivesdk</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z5w5hM3tg9VzXaOOdR7m5cWayEn.jpg</thumbnail><info>[COLOR yellow]Aos 14 anos de idade, Joe (Ed Oxenbould) começa a perceber que sua família está desmoronando. O pai, Jerry (Jake Gyllenhaal), acaba de perder o emprego, mas não quer que a esposa trabalhe. A mãe, Jeanette (Carey Mulligan), não pretende ficar de braços cruzados diante da crise e começa a ganhar sua autonomia. Quando Jerry decide ficar muitos meses fora de casa, num trabalho temporário apagando incêndios pela região, Jeanette decide que é hora de refazer a sua vida. Mas para Joe, a única coisa que importa é ver os pais reunidos novamente.[/COLOR]</info></item>
+###########################################################################################################################
+<item><title>[COLOR white]Vitalina Varela[COLOR yellow](2020)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1skAjDszHddI-BpPv64-yGMdHDlPbHjW7/view?usp=sharing?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/umWEYDUL3XH3KpHAmd9dHFHvVE6.jpg</thumbnail><info>[COLOR yellow]Uma mulher espera 25 anos para voltar a Cabo Verde e chega três dias depois do funeral do marido.[/COLOR]</info></item>
+###########################################################################################################################
+
+

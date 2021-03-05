@@ -1,0 +1,48 @@
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]FLASH HITS 1[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://ia601509.us.archive.org/24/items/flashhitspoprockdance/FLASH%20HITS%20%20POP%20ROCK%201.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/7m3sV5JJ</externallink>
+<fanart>http://colectivosonoro.com/wp-content/uploads/2016/04/musi26-1.jpg</fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]FLASH HITS 2[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://ia601509.us.archive.org/24/items/flashhitspoprockdance/FLASH%20HITS%20%20POP%20ROCK%202.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/w4J0Zg6C</externallink>
+<fanart>http://colectivosonoro.com/wp-content/uploads/2016/04/musi26-1.jpg</fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]FLASH HITS DANCE[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://ia601509.us.archive.org/24/items/flashhitspoprockdance/FLASH%20HITS%20%20POP%20ROCK%201.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/vPceJ4Yd</externallink>
+<fanart>http://colectivosonoro.com/wp-content/uploads/2016/04/musi26-1.jpg</fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>  
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]SOM BRASIL[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://ia801502.us.archive.org/34/items/gpcapas/SOM%20BRASIL%202.JPG</thumbnail>
+<externallink>https://pastebin.com/raw/1ndY5s6q</externallink>
+<fanart></fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]MUNDO SERTANEJO[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://ia801502.us.archive.org/34/items/gpcapas/MUNDO%20SERTANEJO.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/dH6FnBTV</externallink>
+<fanart>https://i.ytimg.com/vi/JPITxZbf5H4/maxresdefault.jpg</fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]KARAOKE[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://ia801502.us.archive.org/34/items/gpcapas/KARAOKE.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/h5nNkSWZ</externallink>
+<fanart>https://www.tvaddons.co/wp-content/uploads/2019/09/plugin.video_.karaoke-fanart.jpg</fanart>
+<info>

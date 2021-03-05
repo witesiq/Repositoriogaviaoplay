@@ -1,0 +1,15 @@
+<item>
+<title>Classicos Sertanejos</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLofDO9VpE_gikFPMXSJH1pNQVUgkBKbJW/?page=0</jsonrpc>
+<thumbnail>https://pl.scdn.co/images/pl/default/b25374ce341a89fb738c01a89b89fb155bed2e72</thumbnail>
+<fanart></fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Sertanejo Raiz</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLN4Uo7gdvAc3OwpNcB6nRbj--NXM4MN2Z/?page=0</jsonrpc>
+<thumbnail>https://img.vagalume.fm/1486574587925026/default</thumbnail>
+<fanart></fanart>
+</item>

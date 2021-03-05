@@ -1,0 +1,314 @@
+<item><title>[B][COLOR yellow]###########################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]#################[COLOR lime]PAGINA 2 [/COLOR]#################[[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]SELEÇÃO DE SUCESSOS EM VIDEO CLIPS DOS ANOS:70,80,90 e 2000 PARTE 2[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###########################################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/ug8fNS4L</externallink><thumbnail>ignoreme</Thumbnail></item>
+ 
+
+<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/7m3sV5JJ</externallink><thumbnail>ignoreme</Thumbnail></item
+
+
+<item><title>[B][COLOR white]3 Doors Down  - [COLOR yellow] Here Without You[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/3%20Doors%20Down%20-%20Here%20Without%20You.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Brian McKnight  - [COLOR yellow] Back At One[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Brian%20McKnight%20-%20Back%20At%20One.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Aerosmith  - [COLOR yellow] Crazy[/COLOR][/B]</title><
+link>https://ia801800.us.archive.org/7/items/videohits2/Aerosmith%20-%20Crazy.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Status Quo  - [COLOR yellow] Whatever You Want[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Status%20Quo%20-%20Whatever%20You%20Want.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Joan Jett The Jet Blacks  - [COLOR yellow] I Love Rock 'N Roll[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Joan%20Jett%20The%20Jet%20Blacks%20-%20I%20Love%20Rock%20%27N%20Roll.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Suzanne Vega  - [COLOR yellow] Luka[/COLOR][/B]</title> 
+<link>https://ia801800.us.archive.org/7/items/videohits2/Suzanne%20Vega%20-%20Luka.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Annie Lennox  - [COLOR yellow] A Whiter Shade of Pale[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Annie%20Lennox%20-%20A%20Whiter%20Shade%20of%20Pale.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Christopher Cross  - [COLOR yellow]Sailling[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Christopher%20Cross%20-Sailling.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Backstreet Boys  - [COLOR yellow] I Want It That Way[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Backstreet%20Boys%20-%20I%20Want%20It%20That%20Way.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Deep Purple  - [COLOR yellow] Smoke On The Water[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Deep%20Purple%20-%20Smoke%20On%20The%20Water.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Aerosmith  - [COLOR yellow] I Don't Want to Miss a Thing[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Aerosmith%20-%20I%20Don%27t%20Want%20to%20Miss%20a%20Thing.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Carly Simon  - [COLOR yellow] Coming Around Again[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Carly%20Simon%20-%20%20%20Coming%20Around.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Jimmy Cliff  - [COLOR yellow] Now And Forever[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Jimmy%20Cliff%20-%20Now%20and%20forever.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Christie - [COLOR yellow] Yellow River[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Christie%20%20Yellow%20River.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Bon Jovi  - [COLOR yellow] You Give Love A Bad Name[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Bon%20Jovi%20-%20You%20Give%20Love%20A%20Bad%20Name.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]AC/DC  - [COLOR yellow] Rock N Roll Train[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/AC%E2%81%84DC%20-%20Rock%20N%20Roll%20Train.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Europe  - [COLOR yellow] The Final Countdown[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Europe%20-%20The%20Final%20Countdown.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Gloria Estefan  - [COLOR yellow] Don't Wanna Lose You[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Gloria%20Estefan%20-%20Don%27t%20Wanna%20Lose%20You.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Boney M  - [COLOR yellow] Rivers of Babylon[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Boney%20M%20-%20Rivers%20of%20Babylon.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Shania Twain  - [COLOR yellow] You're Still The One[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Shania%20Twain%20-%20You%27re%20Still%20The%20One.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]R.E.M.  - [COLOR yellow] Losing My Religion[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/R.E.M.%20-%20Losing%20My%20Religion.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Electric Light Orchestra  - [COLOR yellow] Last Train to London[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Electric%20Light%20Orchestra%20-%20Last%20Train%20to%20London.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Culture Club  - [COLOR yellow] Karma Chameleon[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Culture%20Club%20-%20Karma%20Chameleon.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Bon Jovi  - [COLOR yellow] Never Say Goodbye[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Bon%20Jovi%20-%20Never%20Say%20Goodbye.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]John Travolta & Olivia Newton John  - [COLOR yellow] You're The One That I Want[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/John%20Travolta%20Feat%20Olivia%20Newton%20John%20-%20You%27re%20The%20One%20That%20I%20Want.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Cyndi Lauper  - [COLOR yellow] She Bop[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Cyndi%20Lauper%20-%20She%20Bop.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Demis Roussos  - [COLOR yellow] Forever And Never[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Demis%20Roussos%20-%20Foreve%20And%20Never.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Green Day  - [COLOR yellow] When I Come Around[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Green%20Day%20-%20When%20I%20Come%20Around.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Dire Straits  - [COLOR yellow] So Far Away[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Dire%20Straits%20-%20So%20Far%20Away.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Baltimora  - [COLOR yellow] Woody Boogie[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Baltimora%20-%20Woody%20Boogie.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Elvis Presley  - [COLOR yellow] Love Me Tender[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Elvis%20Presley%20-%20Love%20Me%20Tender.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Creedence Clearwater Revival  - [COLOR yellow] Lookin' Out My Back Door[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Creedence%20Clearwater%20Revival%20-%20Lookin%27%20Out%20My%20Back%20Door.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Kenny Loggins  - [COLOR yellow] Danger Zone[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Kenny%20Loggins%20-%20Danger%20Zone.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Shakin' Stevens  - [COLOR yellow] Cry Just A Little Bit[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Shakin%27%20Stevens%20-%20Cry%20Just%20A%20Little%20Bit.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Bon Jovi  - [COLOR yellow] Always[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Bon%20Jovi%20-%20Always.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Johnny Hates Jazz  - [COLOR yellow] I Don't Want To Be A Hero[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Johnny%20Hates%20Jazz%20-%20I%20Don%27t%20Want%20To%20Be%20A%20Hero.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Kool & The Gang  - [COLOR yellow] Cherish[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Kool%20%26%20The%20Gang%20-%20Cherish.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Exile  - [COLOR yellow] Kiss You All Over[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Exile%20-%20Kiss%20You%20All%20Over.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Billy Idol  - [COLOR yellow] Eyes Without A Face[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Billy%20Idol%20-%20Eyes%20Without%20A%20Face.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Faith No More  - [COLOR yellow] Epic[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Faith%20No%20More%20-%20Epic.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Bruce Springsteen  - [COLOR yellow] Glory Days[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Bruce%20Springsteen%20-%20Glory%20Days.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Journey  - [COLOR yellow] Open Arms[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Journey%20-%20Open%20Arms.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Foreigner   - [COLOR yellow] Want to know what love is[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Foreigner%20%20-%20Want%20to%20know%20what%20love%20is.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Gipsy Kings  - [COLOR yellow] Bamboleo[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Gipsy%20Kings%20-%20Bambol%C3%A9o.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Bee Gees  - [COLOR yellow] Stayin' Alive[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Bee%20Gees%20-%20Stayin%27%20Alive.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Don Was& Fryends  - [COLOR yellow] Stand by Me [/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Don%20Was%26%20Fryends%20-%20Stand%20by%20Me.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]INXS - [COLOR yellow] By My Side[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/INXS%20-%20By%20My%20Side.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]James Blunt  - [COLOR yellow] Same Mistake[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/James%20Blunt%20-%20Same%20Mistake.ia.mp4/link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Kiss  - [COLOR yellow] Lick It Up[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Kiss%20-%20Lick%20It%20Up.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Scorpions  - [COLOR yellow] Big City Nights[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Scorpions%20-%20Big%20City%20Nights.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Bonnie Tyler - [COLOR yellow] It's A Heartache[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Bonnie%20Tyler%20%20It%27s%20A%20Heartache.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Juice Newton  - [COLOR yellow] Angel Of The Morning[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Juice%20Newton%20-%20Angel%20Of%20The%20Morning.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Kate Bush  - [COLOR yellow] Wuthering Heights[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Kate%20Bush%20-%20Wuthering%20Heights.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Bryan Adams  - [COLOR yellow] Summer Of '69[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Bryan%20Adams%20-%20Summer%20Of%20%2769.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Lee Jackson   - [COLOR yellow] Hey Girl[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Lee%20Jackson%20%20-%20Hey%20Girl.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Heart  - [COLOR yellow] Who Will You Run To[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Heart%20-%20Who%20Will%20You%20Run%20To.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Barry White  - [COLOR yellow] Just The Way You Are[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Barry%20White%20-%20Just%20The%20Way%20You%20Are.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Lifehouse  - [COLOR yellow] You And Me[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Lifehouse%20-%20You%20And%20Me.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Madonna  - [COLOR yellow] Crazy For You[/COLOR][/B]</title>
+<link>https://dc619.4shared.com/img/WBePfk8uea/c7ea53c2/dlink__2Fdownload_2FWBePfk8uea_3Fsbsr_3D09bef6e8802becc7b8d6d43647f3ea85a5e_26bip_3DMTc5LjIxNy4xNjUuMg_26lgfp_3D20_26dsid_3DOk2N2rlj.7228de6714831f695ce3b77dd35f02d6_26bip_3DMTc5LjIxNy4xNjUuMg_26bip_3DMTc5LjIxNy4xNjUuMg/preview.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Secret Service  - [COLOR yellow] Cry Softly[/COLOR][/B]</title>
+<link>hhttps://ia801800.us.archive.org/7/items/videohits2/Secret%20Service%20-%20Cry%20Softly.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Nazareth  - [COLOR yellow] Dream On[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Nazareth%20-%20Dream%20On.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Haddaway  - [COLOR yellow] I Miss You[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Haddaway%20-%20I%20Miss%20You.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]New Kids On The Block  - [COLOR yellow] I'll Be Loving You[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/New%20Kids%20On%20The%20Block%20-%20I%27ll%20Be%20Loving%20You.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Nikka Costa  - [COLOR yellow] On my Own[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Nikka%20Costa%20-%20On%20my%20Own.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Peter Frampton  - [COLOR yellow] Show Me The Way[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Peter%20Frampton%20-%20Show%20Me%20The%20Way.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Madonna  - [COLOR yellow] Like A Virgin[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Madonna%20-%20Like%20A%20Virgin.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Ph.D  - [COLOR yellow] I Won't Let You Down[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Ph.D%20-%20I%20Won%27t%20Let%20You%20Down.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Procol Harum  - [COLOR yellow] A Whiter Shade Of Pale[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Procol%20Harum%20-%20A%20Whiter%20Shade%20Of%20Pale.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Queen  - [COLOR yellow] Under Pressure[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Queen%20-%20Under%20Pressure.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Robert Palmer  - [COLOR yellow] Addicted To Love[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Robert%20Palmer%20-%20Addicted%20To%20Love.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Nazareth  - [COLOR yellow]  Moonlight Eyes[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Nazareth%20-%20%20Moonlight%20Eyes.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Michael Jackson  - [COLOR yellow] Don't Stop 'Til You Get Enough[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Michael%20Jackson%20-%20Don%E2%80%99t%20Stop%20%27Til%20You%20Get%20Enough.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]The Police  - [COLOR yellow] Roxanne[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/The%20Police%20-%20Roxanne.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Robin Gibb  - [COLOR yellow] Like A Fool[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Robin%20Gibb%20%20Like%20A%20Fool.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Cher  - [COLOR yellow] If I Could Turn Back Time[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Cher%20-%20If%20I%20Could%20Turn%20Back%20Time.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Rod Stewart  - [COLOR yellow] Have You Ever Seen The Rain[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Rod%20Stewart%20-%20Have%20You%20Ever%20Seen%20The%20Rain.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]The Walkers   - [COLOR yellow] There's No More Corn On The Brasos[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/The%20Walkers%20%20%20There%27s%20No%20More%20Corn%20On%20The%20Brasos.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Mariah Carey  - [COLOR yellow] Hero[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Mariah%20Carey%20-%20Hero.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Nazareth  - [COLOR yellow] Place In Your Heart[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Nazareth%20-%20Place%20In%20Your%20Heart.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]The Calling  - [COLOR yellow] Wherever You Will Go[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/The%20Calling%20-%20Wherever%20You%20Will%20Go.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Julian Lennon  - [COLOR yellow] Too Late For Goodbyes [/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Too%20Late%20For%20Goodbyes%20-%20Julian%20Lennon.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Roxette  - [COLOR yellow] Listen To Your Heart[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Roxette%20-%20Listen%20To%20Your%20Heart.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Santa  Esmeralda  - [COLOR yellow] Dont Let Me Be Misunderstood[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Santa%20%20Esmeralda%20-%20Don%C2%B4t%20Let%20Me%20Be%20Misunderstood.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Chris De Burgh  - [COLOR yellow] Lady In Red[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Chris%20De%20Burgh%20-%20Lady%20In%20Red.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Silver Convention  - [COLOR yellow] Get Up And Boogie[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Silver%20Convention%20-%20Get%20Up%20And%20Boogie.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Will to Power  - [COLOR yellow] Baby I Love Your Way[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Will%20to%20Power%20-%20Baby%20I%20Love%20Your%20Way.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]The Offspring  - [COLOR yellow] Come Out And Play[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/The%20Offspring%20-%20Come%20Out%20And%20Play.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Suzi Quatro  - [COLOR yellow] Can The Can[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Suzi%20Quatro%20-%20Can%20The%20Can.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Viola Wills  - [COLOR yellow] Gonna Get Along Without You Now[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Viola%20Wills%20-%20Gonna%20Get%20Along%20Without%20You%20Now.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Christie  - [COLOR yellow] San Bernadino[/COLOR][/B]</title>
+<link>https://ia601800.us.archive.org/7/items/videohits2/Christie%20-%20San%20Bernadino.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]The Beatles  - [COLOR yellow] I Saw Her Standing There[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/The%20Beatles%20-%20I%20Saw%20Her%20Standing%20There.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Sinead O'Connor  - [COLOR yellow] Nothing Compares 2 U[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Sinead%20O%27Connor%20-%20Nothing%20Compares%202%20U.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Menudo  - [COLOR yellow] Si Tu No Estas[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Menudo%20-%20Si%20T%C3%BA%20No%20Est%C3%A1s.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]The Manhattans  - [COLOR yellow] Kiss and Say Goodbye[/COLOR][/B]</title>
+<link>ttps://ia601800.us.archive.org/7/items/videohits2/The%20Manhattans%20-%20Kiss%20and%20Say%20Goodbye.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Rick Astley  - [COLOR yellow] Never Gonna Give You Up[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Rick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]The Rubettes  - [COLOR yellow] Sugar Baby Love[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/The%20Rubettes%20-%20Sugar%20Baby%20Love.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Toto  - [COLOR yellow] Rosanna[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Toto%20-%20Rosanna.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Village People  - [COLOR yellow] Can't Stop The Music[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Village%20People%20-%20Can%27t%20Stop%20The%20Music.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Whitesnake  - [COLOR yellow] Here I Go Again[/COLOR][/B]</title>
+<link>https://ia801800.us.archive.org/7/items/videohits2/Whitesnake%20-%20Here%20I%20Go%20Again.ia.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/ug8fNS4L</externallink><thumbnail>ignoreme</Thumbnail></item>
+ 
+
+<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/7m3sV5JJ</externallink><thumbnail>ignoreme</Thumbnail></item

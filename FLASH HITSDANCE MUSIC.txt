@@ -1,0 +1,23 @@
+<item>
+<title> *[COLOR yellow]DANCE MUSIC[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLofDO9VpE_gjVqCNec-4HRPP1iEEEkSuq/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> *[COLOR yellow]POP ROCK DANCE[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL64E6BD94546734D8/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title> *[COLOR yellow]POP MUSIC 2020 HITS[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcA6NptBH5BXQNo3tukYLB8pe20Re4MZA/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

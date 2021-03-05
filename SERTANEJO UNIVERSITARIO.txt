@@ -1,0 +1,21 @@
+<item>
+<title>[COLOR yellow]BALADA SERTANEJA[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL_Q15fKxrBb5r3VmBvh7TVNMLx_F1sxfa/?page=0</jsonrpc>
+<thumbnail>https://www.baressp.com.br/barreporter/imgs/Baladas_Sertanejas_SP_13052015165329.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]BATIDAO SERTANEJO[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL0ao6cotJFFUgKFlnkidAO7S5pWXQtiLB/?page=0</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/9sJnOOMukh4/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR yellow]Top Sertanejo Universitario[/COLOR]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLofDO9VpE_giOj7f_gHfQQWiKE1lre06d/?page=0</jsonrpc>
+<thumbnail>https://i.ytimg.com/vi/9f4tEKKsJXk/maxresdefault.jpg</thumbnail>
+<fanart></fanart>
+</item>

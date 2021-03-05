@@ -1,0 +1,85 @@
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] POP ROCK BRASIL [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia801407.us.archive.org/30/items/capascategorias/POP%20ROCK%20BRASIL.JPG</thumbnail>
+<externallink>https://pastebin.com/raw/NvdmFLAT</externallink>
+<fanart></fanart>
+<info>
+ 
+ 
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] SAMBA [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRWbyTV2Ny8fynV5knex-H16Z8n_qhJxfBmp3MoowmbsrSpnqJ8</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+ 
+ 
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] AXE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://www.cxradio.com.br/img/Radio/Logo/8471e59b12e1c80b75a81447e8f75c7f.jpg</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+ 
+ 
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] PAGODE [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBHjC6eRfuRf1qdre6qiJqLevinJ70iRUWxX4BnbG1u0ai6fq6</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+ 
+ 
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BREGA [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>http://4.bp.blogspot.com/-KNgLhkrxD7A/VEGaqOA2bgI/AAAAAAAAA64/gQIlYV-dtKY/s1600/brega.png</thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+ 
+ 
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] LISTAS MUSICAIS  [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>
+ 
+ 
+[COLOR deeppink]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>

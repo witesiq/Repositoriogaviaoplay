@@ -1,0 +1,98 @@
+#################################################################################################
+<item><title>[COLOR white]Milagre na Cela 7[COLOR yellow](2010)[/COLOR]</title><link>https://vze.azureedge.net/movies/milagrenacela7-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q5Sj4pMaKpdMyywQIJhexNvCZYz.jpg</thumbnail><genre>drama</genre></item>
+#################################################################################################
+<item><title>[COLOR white]O Melhor Está por Vir[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/omelhorestaporvir-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5EUDa4QUt6NvsA5N59Lj01iDsBP.jpg</thumbnail><genre>comedia</genre></item>
+#################################################################################################
+<item><title>[COLOR white]Tolkien[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/tolkien-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8PkKsI7EXAcnov2ap6dnu3fYWFe.jpg</thumbnail><genre>drama</genre></item>
+#################################################################################################
+<item><title>[COLOR white]Encontro Fatal[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/encontrofatal-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/s47hEzm44GkO6uxfIh29j5XL1Na.jpg</thumbnail><genre>suspense</genre></item>
+#################################################################################################
+<item><title>[COLOR white]Oferenda à Tempestade[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/oferendaatempestade-dub-1080p.mp4</link><thumbnailhttps://image.tmdb.org/t/p/w600_and_h900_bestv2/sqjcqqnmuVA74J6poTeBxrXuRoJ.jpg></thumbnail><genre>supense</genre></item>
+################################################################################################################################
+<item><title>[COLOR white]O Preço da Verdade[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/oprecodaverdade-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pONtsB0V4T10ETgaIgsyOkzqGDW.jpg</thumbnail><genre>drama</genre></item>
+################################################################################################################################O Preço da Verdade
+<item><title>[COLOR white] O Sol De Riccione[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/osoldericcione-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ySCx1nZXw5CRy0BHQdDjx6nc2HS.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Quebrando Regras[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/quebrandoregras-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eBnQWt0MDNKCrKdHuID5TcMSTDn.jpg</thumbnail><genre>comedia</genre></item>
+################################################################################################################################
+<item><title>[COLOR white]Casal Improvável[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/casalimprovavel-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pbGJQXK0NEYZmUmjdDVQRrufOle.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Entre Facas e Segredos[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/entrefacasesegredos-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9bPnWN7M0SmDvh4Nns0R4Jc2Jn.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Dr Dolittle[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/dolittle-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eiMUDeDBH4s1dbtbcnmasAtgssZ.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Midway - Batalha em Alto Mar[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/midwaybatalhaemaltomar-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]As Estrelas Brilham na Cidade[COLOR yellow](2019)[/COLOR]</title><link>https://vsee.azureedge.net/movies/asestrelasbrilhamnacidade-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw0m1Bf7CyKSp72brr9jGpDSgL2.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]O Primeiro Homem Na Lua[COLOR yellow](2018)[/COLOR]</title><link>https://vze.azureedge.net/movies/oprimeirohomem-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bRQ0CKECt5B3aE8YqW9r6DvaxRY.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Ad Astra - Rumo às Estrelas[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/adastra-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wigZBAmNrIhxp2FNGOROUAeHvdh.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]A Revolucao Em Paris[COLOR yellow](2018)[/COLOR]</title><link>https://vze.azureedge.net/movies/arevolucaoemparis-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgJAKz7eSNGNenjrI9Wbmi7MZeR.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]O Informante[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/oinformante-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSkZB2YJy7FjW96FcsQHGWxX0Lj.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Ventos da Liberdade[COLOR yellow](2019)[/COLOR]</title><link>https://vsee.azureedge.net/movies/ballon-leg-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LTqnQf9Hj4o0izLeennonXqq5A.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Anna - O Perigo Tem Nome[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/annaoperigotemnome-dub-480p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Acusada[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/acusada-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXknhDC48eVkn5dtJYtCxT6CBJo.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Quebrando As Regras[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/quebrandoregras-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYkTq569KOtjdq5zo9mrEY6ecip.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Fica Comigo[COLOR yellow](2018)[/COLOR]</title><link>https://vze.azureedge.net/movies/ficacomigo-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/n77eix8FNgxNihTx97PAdbxYJ8I.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Um Limite Entre Nos[COLOR yellow](2018)[/COLOR]</title><link>https://vze.azureedge.net/movies/umlimiteentrenos-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iFVv22WNrXCAFkTZFHYR6u77mfr.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]A Longa Caminhada de Billy Lynn[COLOR yellow](2017)[/COLOR]</title><link>https://vsee.azureedge.net/movies/billylynns-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdBDL8l2ZMHqIUVlwTn7Exg6qJ.jpg</thumbnail></item>
+################################################################################################################################<item><title>[COLOR white]Man Down - A Guerra[COLOR yellow](2017)[/COLOR]</title><link>https://vze.azureedge.net/movies/mandown-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4dlt8HUBgCuUiJTXID8OB4cZLF.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Hacker - Todo Crime Tem Um Início[COLOR yellow](2017)[/COLOR]</title><link>https://vze.azureedge.net/movies/hackertodocrime-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6zHdhfnreagE3Bv6n7BXtC8gk6r.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Beleza Oculta[COLOR yellow](2017)[/COLOR]</title><link>https://vze.azureedge.net/movies/belezaoculta-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/l7rwGxhH2ZDaViuxzT0qMPfhfo3.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Prisioneiro X[COLOR yellow](2017)[/COLOR]</title><link>https://vze.azureedge.net/movies/prisioneirox-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p4YobAREegYa6UVTdD0uIm37gEf.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Genios Do crime[COLOR yellow](2016)[/COLOR]</title><link>https://vze.azureedge.net/movies/geniosdocrime-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeGZwp0XPmtM08gA4ObdUT9OrGq.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Longe Dos Homens[COLOR yellow](2016)[/COLOR]</title><link>https://vze.azureedge.net/movies/longedoshomens-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xETsINWbkOH9MWnaDAzMKXo3GwP.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Escondidos[COLOR yellow](2016)[/COLOR]</title><link>https://vze.azureedge.net/movies/escondidos-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yJe3gLxKJYIsXaDbT7hl4TrOOci.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Mal Intencionados[COLOR yellow](2016)[/COLOR]</title><link>https://vze.azureedge.net/movies/malintencionados-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0PzZjHbgmGf9lT3tBczPBj61oY.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Quarto De Guerra[COLOR yellow](2015)[/COLOR]</title><link>https://vze.azureedge.net/movies/quartodeguerra-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/unxQeVUi5DH01r7ZNvAHwpvX7UK.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Boa Noite, Mamae[COLOR yellow](2015)[/COLOR]</title><link>https://vze.azureedge.net/movies/boanoitemamae-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pl3rsmrUuNjnanlxFE1rjazlYPJ.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Sucesso Acima de Tudo[COLOR yellow](2015)[/COLOR]</title><link>https://vze.azureedge.net/movies/sucessoacimadetudo-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hI9FMnGdywQhg7ukLLbrzeXLoNp.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Anjos da Lei[COLOR yellow](2014)[/COLOR]</title><link>https://vze.azureedge.net/movies/anjosdalei-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3rFfmfBmjClMIXjJb80DBUwFQh.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Gente Grande 2[COLOR yellow](2013)[/COLOR]</title><link>https://vze.azureedge.net/movies/gentegrande2-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKYW0oKPvy6HF8x5egL1ljC36xb.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Conexao Jamaica[COLOR yellow](2013)[/COLOR]</title><link>https://vze.azureedge.net/movies/conexaojamaica-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYTJI6uGhCg6mDTHNOdHkKVr7At.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Perigo Em Alto Mar[COLOR yellow](2012)[/COLOR]</title><link>https://vze.azureedge.net/movies/perigoemaltomar-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wwzu7971BmI3OCQmWEoHCbD9rct.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Imortais[COLOR yellow](2012)[/COLOR]</title><link>https://vze.azureedge.net/movies/imortais-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6AAE8SUJR6PEPkiQHtBPPLqQDe.jpg</thumbnail></item>
+################################################################################################################################
+</item><title>[COLOR white]Gente Grande[COLOR yellow](2011)[/COLOR]</title><link>https://vze.azureedge.net/movies/gentegrandel-dub-1080p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppU2xJnlKdW3F01AtC9wMuXRZCg.jpg</thumbnail></item>
+################################################################################################################################
+<item><title>[COLOR white]Implacavel[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/implacavel-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgbDomQPeLpgl6vB6Ehi8dYhQGQ.jpg</thumbnail><genre></genre</item>
+################################################################################################################################
+<item><title>[COLOR white]Desperados[COLOR yellow](2020)[/COLOR]</title><link>https://vze.azureedge.net/movies/desperados-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoUzSMxGu4Bm73EvH6B3iceFwW8.jpg</thumbnail><genre>comedia</genre></item>
+################################################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><genre></genre</item>
+################################################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><genre></genre</item>
+################################################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><genre></genre</item>
+################################################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><genre></genre</item>
+################################################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><genre></genre</item>
+################################################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><genre></genre</item>
+################################################################################################################################>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

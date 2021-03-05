@@ -1,0 +1,9 @@
+
+
+<item>
+<title>POP ROCK</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLofDO9VpE_gju71W5cscxiB-fQHl7YPWp/?page=0</jsonrpc
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4P4zRHBPB7lbdt4b7xlzS7xuUBzkMvMmyJjojQPyfYru5rjYZ</thumbnail>
+<fanart></fanart>
+</item>

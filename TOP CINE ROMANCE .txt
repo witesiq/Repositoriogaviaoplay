@@ -1,0 +1,60 @@
+
+#################################################################################################
+
+<item><title>[COLOR white]Antes Que Termine O Dia[COLOR yellow]()[/COLOR]</title><link></link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sEDsno11Vrfzxtoiy0LjdhtLivC.jpg</thumbnail><info>Ian (Paul Nicholls) e Samantha (Jennifer Love Hewitt) formam um casal feliz e cheio de planos para o futuro. Enquanto Samantha busca demonstrar seu amor a todo momento, Ian procura voltar sua atenção para a carreira e os amigos. Após um dia em que tudo deu errado, eles terminam o namoro. Entretanto um acidente faz com que a vida deles mude de rumo. No dia seguinte Ian percebe que acordou novamente no dia anterior, tendo a chance de refazer tudo o que tinha feito antes, só que agora da forma correta.</info></item>
+
+#################################################################################################
+
+<item><title>[COLOR white]Pra Sempre Minha Garota[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/parasempreminhagarota-dub-720p.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2019/06/a-minha-garota-para-_t210438.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Sexo,Musica E Amor[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/sexomusicaeamor-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2A0udDaAgWyJdZBYQC3aPZvjx9M.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]A Cinco Passos De Voce[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/acincopassosdevoce-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4s8lWdnMLKhWIGXuenty7QvXL4N.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Uma Segunda Chance Para Amar[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/umasegundachanceparaamar-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlFoRsSlS8nBpgMfV2njy74uyH.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Talvez UMa Historia De Amor[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/talvezumahistoriadeamor-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bflYSyIxPCL1DJJ4bp3t6VBJ1Dj.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]A Quimica Do Amor[COLOR yellow](2018)[/COLOR]</title><link>https://vze.azureedge.net/movies/aquimicadoamor-dub-720p.mp4 </link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/prryQfaBh5rlSjMaOmokpK428YA.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]After[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/after-leg-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Cinquenta Tons de Liberdade [COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/fiftyshadesfreed-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7hFP4LYQq3crRhdKJOjx391f2kD.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Amor Certo,Hora Errada[COLOR yellow](2015)[/COLOR]</title><link>https://vze.azureedge.net/movies/amorcertoerrado-dub-480p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bka5V6BESl3BH60a1TDBfWg1clb.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Como Eu Era Antes De Voce[COLOR yellow](2016)[/COLOR]</title><link>https://vze.azureedge.net/movies/comoeueraantesdevoce-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3WMts1hmXf7pjqtw7IPtTCf1OYw.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Uma Razao Para Viver[COLOR yellow](2016)[/COLOR]</title><link>https://vze.azureedge.net/movies/breathe-leg-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WbZrA6q3rcn69Bjx6xl8vvG3b4.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Cartas Para Julieta[COLOR yellow](2010)[/COLOR]</title><link>https://vze.azureedge.net/movies/cartasparajulieta-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4i8NMziIa5Vct1dJ3ej6EDgzXag.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Bem a Tempo Para O Natal[COLOR yellow](2019)[/COLOR]</title><link>https://vze.azureedge.net/movies/bematemponatal-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AscGzbSTuWECHN4ZEvMx0D2ug3i.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Tudo E Todas As Coisas[COLOR yellow](2017)[/COLOR]</title><link>https://vze.azureedge.net/movies/tudoetodascoisas-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cBvypIxJH5Jtmgk9LhpjqHoJNmk.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Danca Comigo[COLOR yellow](2004)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/139KHDjKmlB-NI2GNx7bff4zE-Odoh4cv/view?usp=sharing</link><thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/94/98/27/20370797.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Uma Linda Mulher  [COLOR yellow](1990)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1ycWxdQ8vBfUpiM42bMnOOUaghCChATL4/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lx3rr6yufCpSPVdkfUueqHstiw.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ghost- Do Outro Lado Da Vida[COLOR yellow](1990)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1avLP3bZaadoFD3HzoK3JxIRwvr21qgEx/view?usp=sharing</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMfOydZGY87t02bWzoMOXyyijDj.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

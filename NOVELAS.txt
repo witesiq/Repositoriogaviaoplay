@@ -1,0 +1,358 @@
+<item>
+<title>[B] *[COLOR yellow]A Usurpadopra[/COLOR] (2005)[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59131ae9416e91b2250e79f8898cb2618a4aa70f</link>  
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLzDvra0uL6HKTLJ_cffDDMlNkotxiaDaH/?page=0</jsonrpc>                                              
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnBu7Ym3WeMZy2goTl3c2YReVqE.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9BSKT3lZmQhYWz1NNfqtQedKpv9.jpg</fanart>
+</item>
+##############################################################################################
+<item>
+<title>[B] *[COLOR yellow]Alma Gêmea[/COLOR] (2005)[/B]</title>
+<link>Plugin://plugin.video.youtube/playlist/PLIjRzDkNY5LKD6M_eh3yAQxiljPjUvCP_</link>
+<jsonrpc>/?page=0</jsonrpc>                                               
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/a%20alma%20gemea.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+ <item>
+<title>[B] *[COLOR yellow]A Escrava Isaura[/COLOR](2004)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLp0kpB9vJhafsSn1bcO5h7aAatnwDGQFk/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/a%20escrava%20isaura.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]A Próxima Vítima[/COLOR](1995)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLEfCq4Tw2vATxxe7WOuXFVeb2GHLFFFBy/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/a%20proxima%20vitima.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]A Outra[/COLOR](2008)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1Wzbhu1_WLmAo_OGUWc3lucG1/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/a%20outra.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]A Viagem[/COLOR](1994)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL1SpZz1N5kn6IjVvdfoTfI7v37826FOmL/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/a%20viagem.jpg</thumbnail>
+<fanart></fanart>
+</item
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]América[/COLOR](2005)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1Wzb0msiP39iYJrDRTsptnzom/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/america.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Amor à Vida[/COLOR](2013)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLVM3jqcngTr_7xLJcVOGXbWqrjRoU-HyJ/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/amor%20a%20vida.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Barriga de Aluguel[/COLOR](1990)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLwB-B3HUfgBuoyI5qGPiP35nag8c29yvt/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/barriga%20de%20aluguel.jpg</thumbnail>
+<fanart></fanart>
+</item>  
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Betty a Feia[/COLOR](1999)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/novelabettyafeia/</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/Betty%20a%20feia.jpg</thumbnail>              
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Cabloca[/COLOR](2004)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLxmLYSscou_MmzSRr8VJ1r_4dEoLh4uIG/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/Cabocla.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Canavial de Paixões[/COLOR](2003)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL4XZQcg1l23eGuAkq8QSrknNapkGtyCTg/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/canavial%20de%20paixoes.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Cara & Coroa[/COLOR](1995)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL2jYBA7iQQfaruWDlsmJuqbtz788o1DhB/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart>https://ia601405.us.archive.org/7/items/cpsnovelas/cara%20e%20coroa.jpg</fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Coracão de Estudante[/COLOR](2002)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJiw6ambHUvoFd9x4z_FFPm/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/Cora%C3%A7%C3%A3o%20de%20Estudante.jpg</thumbnail>
+<fanart>coracaodeestudante.jpg</fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Cristal[/COLOR](2006)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLOa72JP04KcP_jqZXh8NyLtEecUwpH-Ic/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/cristal.jpg</thumbnail>
+<fanart></fanart>
+</item
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Dona Beija [/COLOR](1986)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1WzamhwFk43XIiR_R9xvhyo_u/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/dona%20beija.jpg</thumbnail>
+<fanart></fanart>
+</item>
+ ##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Duas Caras[/COLOR](2008)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqEcPsWKdBwTQwqqGwdkIZut_cmueRgKV/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/duas%20caras.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Era Uma Vez[/COLOR](1998)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLxaMt6DGAvTUt24Lkm37hS/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/era%20uma%20vez.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Eramos Seis[/COLOR](1991)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLq5y_WWxBzSDFSFZVd_fR6oKS27mNxft-/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/eramos%20seis.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Felicidade[/COLOR](1991)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWiuFWNI21oIvQUdZukvUSHfO6f-a7SGE/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/felicidade.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Fascinação[/COLOR](1998)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLqxm-RrKbwnQYziq9TbwkssToDz8Y7JXK/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/fascina%C3%A7%C3%A3o.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Guadalupe[/COLOR](1993)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLmKmH6bU1WzY4PIlPeI2LSK7uEq-qri_0/?page=0</jsonrpc>
+<thumbnail></thumbnail>
+<fanart>https://ia601405.us.archive.org/7/items/cpsnovelas/guadalupe.jpg</fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Historia De Amor[/COLOR](1995)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8B690A90A8FA1216/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/historia%20de%20amor.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Marisol[/COLOR](2002)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAGKzE94xITVoU3XXnwNXss2YlG-3Uilr/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/marisol.jpg</thumbnail>
+<fanart></fanart>
+</item
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Mulheres Apaixonadas[/COLOR](2002)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLGIwHt_pEj484icjRKiNeNUlJZ0_ZQfNM/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/mulheres%20apaixonadas.jpg</thumbnail>
+<fanart></fanart>
+</item
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Mulheres De Areia[/COLOR](2002)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAZISKN023QDPkHFf2u0KDjv/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/mulheres%20de%20areia.jpg</thumbnail>
+<fanart></fanart>
+</item
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]O Clone[/COLOR](2001)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLHcr1zQi5aUHSWDjwP1htc-ESziJoK9JB/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/o%20clone.jpg</thumbnail>
+<fanart></fanart>
+</item
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[B] *[COLOR yellow]Olho No Olho[/COLOR](1993)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLEDC7311507005C7E/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/olho%20no%20olho.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]O Salvador da Pátria[/COLOR](1989)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFkIs0kLfH6c-VnDzmEttnG_JSryX7X6V/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/o%20salvador%20da%20patria.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]O Rei Do Gado[/COLOR](1996)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLFeld_65d05BO4pUghQQk2P12TjIS5WNb/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/o%20rei%20do%20gado.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Pantanal[/COLOR](1990)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLVi7P8qHWU7ptmPvHS9WfSKT-zMCE7cDi/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/pantanal.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Paraíso Tropical[/COLOR](2007)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLA5CRGwnzm86rTYhk575Mp7CjV3eUSzMC/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/paraiso%20tropical.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Que Rei sou Eu?[/COLOR](1989)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLcEqpEvVTjbTFc8hLQP8zljKNohRcAak1/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/que%20rei%20sou%20eu.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Quem é Você[/COLOR](1996)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSICc3OVxA7cbvsin7we14Og/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/QUEM%20E%20VOCE.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Quatro por Quatro[/COLOR](1994)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSLcjh8Jg5yUoSKEFVGPZmeP/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/quatro%20por%20quatro.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Rebelde México[/COLOR](2011)- Temporada1[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM9wMcsX82dwWBpeSP7qr8pe/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/rebelde%20mexico.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Rebelde Brasil[/COLOR](2011)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL8YwOLzXJIM8lYW9TdQEyqUJCQ9aKRRYw/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/rebelde%20brasil.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Roque Santeiro [/COLOR](1985)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSJpKwmSlWPxPxC4yQOt9QL1/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/roque%20santeiro.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Renascer [/COLOR](1993)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLiU1L51rkFSL82clDEkJ71QkPd28QA5E-/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/renascer.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Salome (100) - (480p)[/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLj_fyNcQwr4b0I4tKvlW2p2NEN1m5GsrV/?page=0</jsonrpc>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2KO-cwohp92iaxSmhQXNruQz_204UyuLFytRY9UxoGC8F7aMZ</thumbnail>
+<fanart>salome.jpg</fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Uga Uga[/COLOR](2000)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLq5y_WWxBzSDDYdy7O1IpYQRAyqy1yZUP/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/uga%20uga.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Terra Nostra[/COLOR](1999)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLAZISKN023QAQSuz6cNbEDurRtDh4OP6k/?page=0</jsonrpc>
+<thumbnail>https://ia601405.us.archive.org/7/items/cpsnovelas/terra%20nostra.jpg</thumbnail>
+<fanart></fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Vamp[/COLOR](1991)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLjQJBMz1RjAHkms6EkpWH-0Uj73yt2TDS/?page=0</jsonrpc>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGubscujq--rbBqgQifwNvqSIkkKbnS66KWQAUXbhi5KWSE1YN</thumbnail>
+<fanart></fanart>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Betty a Feia[/COLOR](xxxx)[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLXsu_AHFCaOMiCdEaMCeJp-7rtI1Ao1el/?page=0</jsonrpc>
+<thumbnail>bettyafeia.jpg</thumbnail>
+<fanart>bettyafeia.jpg</fanart>
+</item>
+##############################################################################################>
+<item>
+<title>[B] *[COLOR yellow]Betty a Feia[/COLOR] (xxxx)- Dublado[/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/user/novelabettyafeia/</jsonrpc>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>

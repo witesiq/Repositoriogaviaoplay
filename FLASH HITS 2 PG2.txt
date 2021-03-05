@@ -1,0 +1,223 @@
+<item><title>[B][COLOR yellow]###########################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]#################[COLOR lime]PAGINA 2 [/COLOR]#################[[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]SELEÇÃO DE SUCESSOS EM VIDEO CLIPS DOS ANOS:70,80,90 e 2000 PARTE 2[/COLOR][/B]</info></item>
+<item><title>[B][COLOR yellow]###########################################[[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+
+<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/sLaCVTqu</externallink><thumbnail>ignoreme</Thumbnail></item>
+ 
+
+<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/w4J0Zg6C</externallink><thumbnail>ignoreme</Thumbnail></item>
+ 
+ 
+<item><title>[B][COLOR white]Dire Straits - [COLOR yellow] Walk Of Life[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/A%20Flock%20Of%20Seagulls%20-%20I%20Ran%20%28So%20Far%20Away%29.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Bruce Springsteen - [COLOR yellow] Dancing In the Dark[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Bruce%20Springsteen%20-%20Dancing%20In%20the%20Dark.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Dee D jackson - [COLOR yellow] Automatic Lover[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Dee%20D%20jackson%20-%20Automatic%20Lover.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]George Michael - [COLOR yellow] Careless Whisper[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/George%20Michael%20-%20Careless%20Whisper.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Johnny Hates Jazz - [COLOR yellow] Turn Back The Clock[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Johnny%20Hates%20Jazz%20-%20Turn%20Back%20The%20Clock.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Laura Branigan - [COLOR yellow] Gloria[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Laura%20Branigan%20-%20Gloria.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]A Flock Of Seagulls - [COLOR yellow] I Ran (So Far Away)[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/A%20Flock%20Of%20Seagulls%20-%20I%20Ran%20%28So%20Far%20Away%29.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Cheap Trick - [COLOR yellow] I Want You To Want Me[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Cheap%20Trick%20-%20I%20Want%20You%20To%20Want%20Me.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Britney Spears - [COLOR yellow] Baby One More Time[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Britney%20Spears%20-%20Baby%20One%20More%20Time.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Electric Light Orchestra - [COLOR yellow] Rock n' Roll Is King[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Electric%20Light%20Orchestra%20-%20Rock%20n%27%20Roll%20Is%20King.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Genesis - [COLOR yellow] Invisible Touch[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Genesis%20-%20Invisible%20Touch.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Madonna - [COLOR yellow] La Isla Bonita[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Madonna%20-%20La%20Isla%20Bonita.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Peter Frampton - [COLOR yellow] Breaking All The Rulles[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Peter%20Frampton%20-%20Breaking%20All%20The%20Rulles.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Starship - [COLOR yellow] Nothing's Gonna Stop Us Now[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Starship%20-%20Nothing%27s%20Gonna%20Stop%20Us%20Now.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Aerosmith - [COLOR yellow] I Don't Want to Miss a Thing[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Aerosmith%20-%20I%20Don%27t%20Want%20to%20Miss%20a%20Thing.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Whitesnake - [COLOR yellow] Give Me All Your Love[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Whitesnake%20-%20Give%20Me%20All%20Your%20Love.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Deep Purple - [COLOR yellow] Perfect Strangers[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Deep%20Purple%20-%20Perfect%20Strangers.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Elton John & Kiki Dee - [COLOR yellow] Don't Go Breaking My Heart[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Elton%20John%20%26%20Kiki%20Dee%20-%20Don%27t%20Go%20Breaking%20My%20Heart.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Laura Branigan - [COLOR yellow] Self Control[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Laura%20Branigan%20-%20Self%20Control.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Rod Stewart - [COLOR yellow] Da Ya Think I'm Sexy[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Rod%20Stewart%20-%20Da%20Ya%20Think%20I%27m%20Sexy.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]The Communards - [COLOR yellow] Don't Leave Me This Way[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/The%20Communards%20-%20Don%27t%20Leave%20Me%20This%20Way.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Dionne Warwick - [COLOR yellow] That's What Friends Are For[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Dionne%20Warwick%20-%20That%27s%20What%20Friends%20Are%20For.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]a-ha - [COLOR yellow] The Sun Always Shines on T.V.[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/a-ha%20-%20The%20Sun%20Always%20Shines%20on%20T.V..ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Hanson - [COLOR yellow] MMMBop[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/28/items/flash-hits2/Hanson%20-%20MMMBop.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Nazareth - [COLOR yellow] Holy Roller[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Nazareth%20-%20Holy%20Roller.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Survivor - [COLOR yellow] Eye Of The Tiger[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Survivor%20-%20Eye%20Of%20The%20Tiger.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Village People - [COLOR yellow] In the Navy[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Village%20People%20-%20In%20the%20Navy.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Glenn Frey - [COLOR yellow] The Heat Is On[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Glenn%20Frey%20-%20The%20Heat%20Is%20On.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Alanis Morissette - [COLOR yellow] Ironic[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Alanis%20Morissette%20-%20Ironic.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Taylor Dayne - [COLOR yellow] Tell It to My Heart[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Taylor%20Dayne%20-%20Tell%20It%20to%20My%20Heart.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Pholhas - [COLOR yellow] My Mistake[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Pholhas%20-%20My%20Mistake.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Cutting Crew - [COLOR yellow]  I Just Died In Your Arms[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Cutting%20Crew%20%20%20-%20I%20Just%20Died%20In%20Your%20Arms%20Tonight.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Journey - [COLOR yellow] Don't Stop Believin[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Journey%20-%20Don%27t%20Stop%20Believin.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Simply Red - [COLOR yellow] Stars[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Simply%20Red%20-%20Stars.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Tina Turner - [COLOR yellow] What's Love Got To Do With It[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Tina%20Turner%20-%20What%27s%20Love%20Got%20To%20Do%20With%20It.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Bonnie Tyler - [COLOR yellow] Total Eclipse of the Heart[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Bonnie%20Tyler%20-%20Total%20Eclipse%20of%20the%20Heart.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Elton John - [COLOR yellow] Sacrifice[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Elton%20John%20-%20Sacrifice.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Madonna - [COLOR yellow] Dress You Up[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Madonna%20-%20Dress%20You%20Up.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Starship - [COLOR yellow] We Built This City[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Starship%20-%20We%20Built%20This%20City.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Bon Jovi - [COLOR yellow] Bad Medicine[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Bon%20Jovi%20-%20Bad%20Medicine.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Dschinghis Khan - [COLOR yellow] Dschinghis Khan[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Dschinghis%20Khan%20-%20Dschinghis%20Khan.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Kiss - [COLOR yellow] Reason To Live[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Kiss%20-%20Reason%20To%20Live.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]The Sorels - [COLOR yellow] I Can Dream About You[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/The%20Sorels%20-%20I%20Can%20Dream%20About%20You.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Bryan Adams - [COLOR yellow] Please Forgive Me[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Bryan%20Adams%20-%20Please%20Forgive%20Me.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Natalie Imbruglia - [COLOR yellow] Torn[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Natalie%20Imbruglia%20-%20Torn.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]The Animals - [COLOR yellow] The House Of The Rising Sun[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/The%20Animals%20-%20The%20House%20Of%20The%20Rising%20Sun.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Oingo Boingo - [COLOR yellow] Stay[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Oingo%20Boingo%20-%20Stay.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Mr. Mister - [COLOR yellow] Broken Wings[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Mr.%20Mister%20-%20Broken%20Wings.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Bee Gees - [COLOR yellow] More Than A Woman[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Bee%20Gees%20-%20More%20Than%20A%20Woman.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Jimmy Cliff - [COLOR yellow] I Can See Clearly Now[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Jimmy%20Cliff%20-%20I%20Can%20See%20Clearly%20Now.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Inxs - [COLOR yellow] Elegantly Wasted[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Inxs%20-%20Elegantly%20Wasted.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]The Communards - [COLOR yellow] Tomorrow[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/The%20Communards%20-%20Tomorrow.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Klymaxx - [COLOR yellow] I Miss You[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Klymaxx%20-%20I%20Miss%20You.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Paul Anka - [COLOR yellow] Diana[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Paul%20Anka%20-%20Diana.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Nelly Furtado - [COLOR yellow] Say It Right[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Nelly%20Furtado%20-%20Say%20It%20Right.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Anita Ward - [COLOR yellow] Ring My Bell[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Anita%20Ward%20-%20Ring%20My%20Bell.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Hanson - [COLOR yellow] I Will Come To You[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Hanson%20-%20I%20Will%20Come%20To%20You.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Nickelback - [COLOR yellow] Savin Me[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Nickelback%20-%20Savin%20Me.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]USA for Africa - [COLOR yellow] We are the World[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/USA%20for%20Africa%20-%20We%20are%20the%20World.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Annie Lennox - [COLOR yellow] No More 'I Love You's[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Annie%20Lennox%20-%20No%20More%20%27I%20Love%20You%27s.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Firehouse - [COLOR yellow] Love of a Lifetime[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Firehouse%20-%20Love%20of%20a%20Lifetime.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Take That - [COLOR yellow] Back for Good[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Take%20That%20-</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Glenn Frey - [COLOR yellow] You Belong To The City[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Glenn%20Frey%20-%20You%20Belong%20To%20The%20City.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Cutting Crew   - [COLOR yellow] I Just Died In Your Arms Tonight[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Cutting%20Crew%20-%20%20I%20Just%20Died%20In%20Your%20Arms.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Patrick Hernandes - [COLOR yellow] Born To Be Alive[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Patrick%20Hernandes%20-%20Born%20To%20Be%20Alive.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Earth, Wind & Fire - [COLOR yellow] Let's Groove[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Earth%2C%20Wind%20%26%20Fire%20-%20Let%27s%20Groove.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]The Pointer Sisters - [COLOR yellow] I'm So Excited[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/The%20Pointer%20Sisters%20-%20I%27m%20So%20Excited.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Creed - [COLOR yellow] With Arms Wide Open[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Creed%20-%20With%20Arms%20Wide%20Open.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Journey - [COLOR yellow] Separate Ways (Worlds Apart)[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Journey%20-%20Separate%20Ways%20%28Worlds%20Apart%29.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Alannah Myles - [COLOR yellow] Black Velvet[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Alannah%20Myles%20-%20Black%20Velvet.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Madonna - [COLOR yellow] Express Yourself[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Madonna%20-%20Express%20Yourself.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]The Beatles - [COLOR yellow] A Day In The Life[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/The%20Beatles%20-%20A%20Day%20In%20The%20Life.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Whitesnake - [COLOR yellow] Love Ain't No Stranger[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Whitesnake%20-%20Love%20Ain%27t%20No%20Stranger.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Michael Bolton - [COLOR yellow] When a Man Loves a Woman[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Michael%20Bolton%20-%20When%20a%20Man%20Loves%20a%20Woman.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Donna Summer - [COLOR yellow] Last Dance[/COLOR][/B]</title><link>https://ia601409.us.archive.org/27/items/donna-summer-last-dance/Donna%20Summer%20-%20Last%20Dance.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Paul Young - [COLOR yellow] Everytime You Go Away[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Paul%20Young%20-%20Everytime%20You%20Go%20Away.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Elvis Presley   Suspicious Minds[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Elvis%20Presley%20%20%20Suspicious%20Minds.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Twisted Sister - [COLOR yellow] We're Not Gonna Take It[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Twisted%20Sister%20-%20We%27re%20Not%20Gonna%20Take%20It.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Madonna - [COLOR yellow] Papa Don't Preach[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Madonna%20-%20Papa%20Don%27t%20Preach.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Wham! - [COLOR yellow] Wake Me Up Before You Go-Go[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Wham%21%20-%20Wake%20Me%20Up%20Before%20You%20Go-Go.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Bruce Springsteen - [COLOR yellow] Born in the U.S.A.[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Bruce%20Springsteen%20-%20Born%20in%20the%20U.S.A..ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Gilbert Montagn‚ - [COLOR yellow] Just For Tonight[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Gilbert%20Montagn%C3%A9%20-%20Just%20For%20Tonight.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Savage Garden - [COLOR yellow] Truly Madly Deeply[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Savage%20Garden%20-%20Truly%20Madly%20Deeply.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Eurythmics - [COLOR yellow] There Must Be An Angel (Playing With My Heart)[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/28/items/flash-hits2/Eurythmics%20-%20There%20Must%20Be%20An%20Angel%20%28Playing%20With%20My%20Heart%29.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Donna Summer - [COLOR yellow] Hot Stuff[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/28/items/flash-hits2/Donna%20Summer%20-%20Hot%20Stuff.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Toto - [COLOR yellow] Africa[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/28/items/flash-hits2/Toto%20-%20Africa.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Scorpions - [COLOR yellow] Holiday[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Scorpions%20-%20Holiday.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Kiss - [COLOR yellow] I Love It Loud[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Kiss%20-%20I%20Love%20It%20Loud.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Nazareth - [COLOR yellow] Where Are You Now[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Nazareth%20-%20Where%20Are%20You%20Now.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Toni Braxton - [COLOR yellow] Another Sad Love Song[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Toni%20Braxton%20-%20Another%20Sad%20Love%20Song.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Europe - [COLOR yellow] Carrie[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/28/items/flash-hits2/Europe%20-%20Carrie.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Lionel Richie - [COLOR yellow] All Night Long[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Lionel%20Richie%20-%20All%20Night%20Long.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Slade - [COLOR yellow] My Oh My[/COLOR][/B]</title><
+link>https://ia601405.us.archive.org/28/items/flash-hits2/Slade%20-%20My%20Oh%20My.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Heart - [COLOR yellow] I Didn't Want To Need You[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Heart%20-%20I%20Didn%27t%20Want%20To%20Need%20You.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Vanilla Ice - [COLOR yellow] Ice Ice Baby[/COLOR][/B]</title><link>https://ia601405.us.archive.org/28/items/flash-hits2/Vanilla%20Ice%20-%20Ice%20Ice%20Baby.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Joe Cocker Feat Jenifer Warnes Up Where We Belong[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Joe%20Cocker%20Feat%20Jenifer%20Warnes%20Up%20Where%20We%20Belong.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Rick Astley - [COLOR yellow] Together Forever[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Rick%20Astley%20-%20Together%20Forever.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Michael Bolton - [COLOR yellow] How Am I Supposed To Live Without You[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Michael%20Bolton%20-%20How%20Am%20I%20Supposed%20To%20Live%20Without%20You.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Prince - [COLOR yellow] 1999[/COLOR][/B]</title>
+<link>https://ia801405.us.archive.org/28/items/flash-hits2/Prince%20-%201999.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+<item><title>[B][COLOR white]Village People - [COLOR yellow] Macho Man[/COLOR][/B]</title><link>https://ia801405.us.archive.org/28/items/flash-hits2/Village%20People%20-%20Macho%20Man.ia.mp4</link><thumbnail>ignoreme</thumbnail></item>
+ 
+ 
+<item><title>[B][COLOR yellow]##########[/COLOR][COLOR lime]PROXIMA PAGINA[/COLOR][COLOR yellow]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/sLaCVTqu</externallink><thumbnail>ignoreme</Thumbnail></item>
+ 
+<item><title>[B][COLOR crimson]##########[/COLOR][COLOR yellow]PAGINA ANTERIOR[/COLOR][COLOR crimson]##########[/COLOR][/B]<title><link>IGNOREME</link><externallink>https://pastebin.com/raw/w4J0Zg6C</externallink><thumbnail>ignoreme</Thumbnail></item>

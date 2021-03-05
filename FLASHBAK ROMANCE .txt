@@ -1,0 +1,19 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Danca Comigo[COLOR yellow](2004)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/jBmXpLmmFVCfmKR/360/3daf414d11bf15b515fb85eb7adf6df2/</link><thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/94/98/27/20370797.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Uma Linda Mulher  [COLOR yellow](1990)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/CHzrxh1VzeU0otu/360/730df26efbeca03c17462e34c3c30bd2/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y08Ax7rgiFplS6Pb32o5trqwGdy.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ghost- Do Outro Lado Da Vida[COLOR yellow](1990)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/KYNyj2DPPBSwqOb/480/ba608a324c8cbeceef003b846758da56/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fMfOydZGY87t02bWzoMOXyyijDj.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item><title>[COLOR white]Quatro casamentos e um  funeral[COLOR yellow] (1994)[/COLOR]</title><link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zvlaIIZzNmeXyOkoOVSebosY_MmPM8xT/view?usp=sharing?usp=drivesdk</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wMiCfPLgpVoyGQ5veOYGDhduJ22.jpg</thumbnail><fanart></fanart></item>
+https://svr3.cloudplayer.online/link/PPkW0p84f69z0tG/1080/2b52097e320ac1272c0d7466b67b391d/
+
+<item><title>[COLOR white]Outono em Nova York[COLOR yellow] (2000)[/COLOR]</title><utube>z6WWoLcwHuo</utube><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vmHvrhfYfUZ58RtLaq4LOHp9q5m.jpg</thumbnail><fanart></fanart></item>
+
+<item><title>[COLOR white]Noiva Em Fuga[COLOR yellow] (1999)[/COLOR]</title><utube>ObgWE0tKSs8</utube><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jZfC415kZQZRlTeGBJfTpnXwG4J.jpg</thumbnail><fanart></fanart></item>
+
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link></link><thumbnail></thumbnail><fanart></fanart></item>

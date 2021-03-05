@@ -1,0 +1,15 @@
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]CLASSICOS SERTANEJOS[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://s3.amazonaws.com/vinils3/wp-content/uploads/2015/06/conjunto-cristal3.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/4X0Fv0mg</externallink>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] SERTANEJO UNIVERSITARIO[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://img.discogs.com/UMtvgo0tEdf3HILhFnE5V4YLyAQ=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-745151-1448152745-7982.jpeg.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/LQSMdrsq</externallink>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
