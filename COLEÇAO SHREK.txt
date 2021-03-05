@@ -1,0 +1,50 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Shrek[COLOR yellow] (2001)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05968ec30ded898b9a843975df9a192418a16ecf</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CA626440A21F3B5400E24B6BF3A50330692E4E6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg</thumbnail><info>[COLOR yellow][/COLOR]</info>[B[<info>[COLOR yellow]Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.[/COLOR][/B]</info></item>
+ 
+######################################################################################################################################
+<item><title>[COLOR white][B]Shrek 2[COLOR yellow] (2004)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91976e894a021553dc8d79b50129155f67e20dec</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:503A35DFF56B3BE10D1AD4CDD787A141EEB189AA</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg</thumbnail><info>[B][COLOR yellow]Após se casar com a Princesa Fiona (Cameron Diaz), Shrek (Mike Myers) vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro (Eddie Murphy). Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe (Rupert Everett), a quem havia sido prometida, e enviam o Gato de Botas (Antonio Banderas) para separá-los.[/COLOR][/B]</info></item>
+ 
+######################################################################################################################################
+<item><title>[COLOR white][B]Shrek 3[COLOR yellow] (2007)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:503A35DFF56B3BE10D1AD4CDD787A141EEB189AA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ABAA66E56A6DE58DD969C6D822D3C62DFC03B4D</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</thumbnail><info>[B][COLOR yellow]O rei Harold (John Cleese), pai de Fiona (Cameron Diaz), morre repentinamente. Com isto Shrek (Mike Myers) precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro (Eddie Murphy) e o Gato de Botas (Antonio Banderas), ele precisa encontrar alguém que possa substituí-lo no cargo de soberano do Reino de Tão, Tão Distante. O principal candidato é Artie (Justin Timberlake), um jovem desprezado por todos em sua escola, que é primo de Fiona.[/COLOR][/B]</info></item>
+ 
+######################################################################################################################################
+<item><title>[COLOR white][B]Shrek Para Sempre[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33E3B71E62776F974553149DCE81545BF98CB42A</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:871E696E83DF2DCE9FD32A11D8B4E168AA0C77EC</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</thumbnail><info>[B][COLOR yellow]Shrek (Mike Myers) está entediado. Sua antiga vida de aventuras foi substituída pela de pacato pai de família. Casado com Fiona (Cameron Diaz) e pai de três filhos, Shrek sente falta da adrenalina e da liberdade que tinha no passado. Para recuperá-los, ele firma um pacto com Rumpelstiltiskin (Walt Dohrm). Imediatamente Shrek é levado a uma versão alternativa do Reino de Tão, Tão Distante, onde Fiona é uma temível ogro e ele não é mais reconhecido pelo Burro (Eddie Murphy) e o Gato de Botas (Antonio Bandera), seus melhores amigos.[/COLOR][/B]</info></item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Shrek[COLOR yellow] (2001)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/SHREK01.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o04jZs5SXhbvhqO4981W7KJXOWZ.jpg</thumbnail><info>[COLOR yellow][/COLOR]</info>[B[<info>[COLOR yellow]Em um pântano distante vive Shrek (Mike Myers), um ogro solitário que vê, sem mais nem menos, sua vida ser invadida por uma série de personagens de contos de fada, como três ratos cegos, um grande e malvado lobo e ainda três porcos que não têm um lugar onde morar. Todos eles foram expulsos de seus lares pelo maligno Lorde Farquaad (John Lithgow). Determinado a recuperar a tranquilidade de antes, Shrek resolve encontrar Farquaad e com ele faz um acordo: todos os personagens poderão retornar aos seus lares se ele e seu amigo Burro (Eddie Murphy) resgatarem uma bela princesa (Cameron Diaz), que é prisioneira de um dragão. Porém, quando Shrek e o Burro enfim conseguem resgatar a princesa logo eles descobrem que seus problemas estão apenas começando.[/COLOR][/B]</info></item>
+ 
+######################################################################################################################################
+<item><title>[COLOR white][B]Shrek 2[COLOR yellow] (2004)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun//RCFServer1/ondemand/SHREK02.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg</thumbnail><info>[B][COLOR yellow]Após se casar com a Princesa Fiona (Cameron Diaz), Shrek (Mike Myers) vive feliz em seu pântano. Ao retornar de sua lua-de-mel Fiona recebe uma carta de seus pais, que não sabem que ela agora é um ogro, convidando-a para um jantar juntamente com seu grande amor, na intenção de conhecê-lo. A muito custo Fiona consegue convencer Shrek a ir visitá-los, tendo ainda a companhia do Burro (Eddie Murphy). Porém os problemas começam quando os pais de Fiona descobrem que ela não se casou com o Príncipe (Rupert Everett), a quem havia sido prometida, e enviam o Gato de Botas (Antonio Banderas) para separá-los.[/COLOR][/B]</info></item>
+ 
+######################################################################################################################################
+<item><title>[COLOR white][B]Shrek 3[COLOR yellow] (2007)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/SHREK03.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtsu9H1mZ3ecRTXAB0WhrTUiut2.jpg</thumbnail><info>[B][COLOR yellow]O rei Harold (John Cleese), pai de Fiona (Cameron Diaz), morre repentinamente. Com isto Shrek (Mike Myers) precisa ser coroado rei, algo que ele jamais pensou em ser. Juntamente com o Burro (Eddie Murphy) e o Gato de Botas (Antonio Banderas), ele precisa encontrar alguém que possa substituí-lo no cargo de soberano do Reino de Tão, Tão Distante. O principal candidato é Artie (Justin Timberlake), um jovem desprezado por todos em sua escola, que é primo de Fiona.[/COLOR][/B]</info></item>
+ 
+######################################################################################################################################
+<item><title>[COLOR white][B]Shrek Para Sempre[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/SHREKPRSMPR.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQ1vzJuKui9btHYqzn4ZEFwth2w.jpg</thumbnail><info>[B][COLOR yellow]Shrek (Mike Myers) está entediado. Sua antiga vida de aventuras foi substituída pela de pacato pai de família. Casado com Fiona (Cameron Diaz) e pai de três filhos, Shrek sente falta da adrenalina e da liberdade que tinha no passado. Para recuperá-los, ele firma um pacto com Rumpelstiltiskin (Walt Dohrm). Imediatamente Shrek é levado a uma versão alternativa do Reino de Tão, Tão Distante, onde Fiona é uma temível ogro e ele não é mais reconhecido pelo Burro (Eddie Murphy) e o Gato de Botas (Antonio Bandera), seus melhores amigos.[/COLOR][/B]</info></item>

@@ -1,0 +1,62 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Karatê Kid - A Hora da Verdade[COLOR yellow] (1984)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:263092e5bfcf7f5e01e5d58ff332add53164f4d9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/26jKJtfe0rVzCRYRncEUPwKys5D.jpg</thumbnail></item>
+<info>[B][COLOR yellow]O adolescente Daniel se envolve com a ex-namorada de um mau caráter na escola e passa a ser atormentado por sua gangue. Para sua sorte, ele contará com os ensinamentos de um mestre de karatê, o senhor Miyagi, que o prepara para autodefesa e também para um importante campeonato.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karatê Kid 2 - A Hora da Verdade Continua[COLOR yellow] (1986)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d271e94c29e435b5f7e091bba6ace1ab7d78296b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgnolnYAgrORkSoY89TSIyy79Sq.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Ao descobrir que seu pai está à beira da morte, o professor Miyagi volta para Okinawa, no Japão, junto com seu aprendiz, Daniel. Na terra natal, o mestre de caratê é surpreendido com a notícia de que Yukie, seu grande e antigo amor, está solteira.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karatê Kid 3 - O Desafio Final[COLOR yellow] (1989)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f04b4b2d05e8d18a780348e4b190c1e2af58da0</link>
+<thumbnail>https://2.bp.blogspot.com/-JXmtxuQe6GM/XBChaAMG0NI/AAAAAAAADqw/kOseNGmUfCw5HfB2C8zOX3j8HubCXhSEgCLcBGAs/s1600/Karat%25C3%25AA%2BKid%2B3%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Em Los Angeles, Daniel (Ralph Macchio) é desafiado por um lutador de karatê que quer também destruir seu mestre, Miyagi (Pat Morita). Inicialmente ele reluta em aceitar o desafio, mas termina sendo obrigado a aceitá-lo. Porém, desta vez ele não poderá contar com o apoio de Miyagi, que se recusa a treiná-lo argumentando que o karatê é para defender a honra e a vida e não para se obter títulos e troféus.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karate Kid 4 - A Nova Aventura [COLOR yellow] (1995)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B5080FB82BA8DA88ED27D93F4E07BBD33714665</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Nas comemorações para os nipo-americanos que lutaram no exército dos Estados Unidos durante a Segunda Guerra Mundial, um mestre de karatê (Pat Morita) encontra a viúva do seu oficial-comandante e descobre que a neta (Hilary Swank) dela é uma adolescente problemática e muito sofrida, pois perdeu seus pais em um acidente. Assim, ele decide ensinar karatê à jovem para que ela possa se recuperar.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karatê Kid[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5190d9b042e33ac6a2272c7bdd576ebf8aec49b0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Dre Parker se mudou com a mãe para Pequim, devido ao trabalho dela. Logo ao chegar ele se interessa por Meiying, uma garota que conhece praticando violino na praça. A aproximação deles provoca a irritação de Cheng, que lhe dá uma surra usando a técnica do kung fu. A partir de então a vida de Dre se torna um inferno, já que passa a ser perseguido na escola por Cheng e seus colegas. Um dia, ao escapar deles, Dre é auxiliado pelo sr. Han, o zelador de seu prédio, que é também um mestre de kung fu.[/COLOR][/B]</info>
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Karatê Kid - A Hora da Verdade[COLOR yellow] (1984)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun//RCFServer1/ondemand/KRTKD1.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/26jKJtfe0rVzCRYRncEUPwKys5D.jpg</thumbnail></item>
+<info>[B][COLOR yellow]O adolescente Daniel se envolve com a ex-namorada de um mau caráter na escola e passa a ser atormentado por sua gangue. Para sua sorte, ele contará com os ensinamentos de um mestre de karatê, o senhor Miyagi, que o prepara para autodefesa e também para um importante campeonato.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karatê Kid 2 - A Hora da Verdade Continua[COLOR yellow] (1986)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/KRTKD2.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dgnolnYAgrORkSoY89TSIyy79Sq.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Ao descobrir que seu pai está à beira da morte, o professor Miyagi volta para Okinawa, no Japão, junto com seu aprendiz, Daniel. Na terra natal, o mestre de caratê é surpreendido com a notícia de que Yukie, seu grande e antigo amor, está solteira.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karatê Kid 3 - O Desafio Final[COLOR yellow] (1989)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/KRTKD3.mp4</link>
+<thumbnail>https://2.bp.blogspot.com/-JXmtxuQe6GM/XBChaAMG0NI/AAAAAAAADqw/kOseNGmUfCw5HfB2C8zOX3j8HubCXhSEgCLcBGAs/s1600/Karat%25C3%25AA%2BKid%2B3%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Em Los Angeles, Daniel (Ralph Macchio) é desafiado por um lutador de karatê que quer também destruir seu mestre, Miyagi (Pat Morita). Inicialmente ele reluta em aceitar o desafio, mas termina sendo obrigado a aceitá-lo. Porém, desta vez ele não poderá contar com o apoio de Miyagi, que se recusa a treiná-lo argumentando que o karatê é para defender a honra e a vida e não para se obter títulos e troféus.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karate Kid 4 - A Nova Aventura [COLOR yellow] (1995)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/KRTKD4.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI3gCi9w1cuUJCiwhviAy46we9Q.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Nas comemorações para os nipo-americanos que lutaram no exército dos Estados Unidos durante a Segunda Guerra Mundial, um mestre de karatê (Pat Morita) encontra a viúva do seu oficial-comandante e descobre que a neta (Hilary Swank) dela é uma adolescente problemática e muito sofrida, pois perdeu seus pais em um acidente. Assim, ele decide ensinar karatê à jovem para que ela possa se recuperar.[/COLOR][/B]</info>
+#######################################################################################################################################
+<item><title>[COLOR white][B]Karatê Kid[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun//RCFServer1/ondemand/KRTKDRMK1.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg</thumbnail></item>
+<info>[B][COLOR yellow]Dre Parker se mudou com a mãe para Pequim, devido ao trabalho dela. Logo ao chegar ele se interessa por Meiying, uma garota que conhece praticando violino na praça. A aproximação deles provoca a irritação de Cheng, que lhe dá uma surra usando a técnica do kung fu. A partir de então a vida de Dre se torna um inferno, já que passa a ser perseguido na escola por Cheng e seus colegas. Um dia, ao escapar deles, Dre é auxiliado pelo sr. Han, o zelador de seu prédio, que é também um mestre de kung fu.[/COLOR][/B]</info>

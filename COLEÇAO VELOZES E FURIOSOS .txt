@@ -1,0 +1,138 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B][/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS - [COLOR yellow](2001)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60f08b1bf9a7dc1c7fc103bc74a5b649c2c75adf&dn=Velozes+e+furiosos+1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FUqXrudOZ1jbvnVxPLoph0H8yF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lmIqH8Qsv3IvDg0PTFUuVr89eBT.jpg</fanart>
+<info>[B][COLOR yellow]Dominic Toretto (Vin Diesel) é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian O'Conner (Paul Walker), que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes ou se há alguém mais por trás deles.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]+VELOZES E+ FURIOSOS- [COLOR yellow](2003)[/COLOR] - [COLOR lime]1080P[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:463FC4FB69A54B274926B85C61C8C627DBA60B01</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/03/20/20077808.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/HBu8xfdpi6A/hqdefault.jpg</fanart>
+<info>[B][COLOR yellow]Após deixar a polícia de Los Angeles e ser capturado pela polícia de Miami em meio as corridas de rua, o ex-oficial Brian O'Conner (Paul Walker) é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone (Cole Hauser), o chefe do tráfico local. Para isso, ele recebe a ajuda de seu amigo de infância Roman Pearce (Tyrese Gibson), e da agente secreta Monica Fuentes (Eva Mendes). [/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS:DESAFIO EM TOQUIO [COLOR yellow](2006)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1608fff4fd261334f1a5f6d3e6febbd8b91b5176</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHojCCXnSW4Kn294E0BYgq74D5o.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/67Cvciv67nyJml3DjYIKVzYMLFV.jpg</fanart>
+<info>[B][COLOR yellow]Sean Boswell é um adolescente superficial e infeliz, que usa as corridas de rua como válvula de escape. Seu envolvimento irresponsável nas corridas fez com que Sean tivesse problemas com a polícia anteriormente. Após bater com o carro, e como forma de evitar a prisão, Sean é enviado para Tóquio, onde passa a morar com seu pai. Em sua nova cidade Sean fica inteiramente deslocado até conhecer Twinkie, que lhe apresenta as corridas de drift. O drift é uma mistura de derrapagem e velocidade, que corre em circuitos bastante perigosos. Sean logo se empolga com a novidade, o que faz com que se envolva com os corredores locais.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 4 [COLOR yellow](2009)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a193920ddd5a26089198c3ab46c9d9b16dc509df</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bcTh72gxATouEOl4C06yFl81sLB.jpg</fanart>
+<info>[B][COLOR yellow]Depois de ser visto rumo ao México no filme que deu origem a série, Dominic "Dom" Toretto reaparece na República Dominicana praticando seus golpes ao lado de sua namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O'Conner numa perigosa missão.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 5 :OPERAÇÃO RIO [COLOR yellow](2011)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D606B02261EE919492C45C899FBBD3BF2088F0B</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bZXL4mVkmE3exTk91WlndgpU8R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nHYuhAfK1xXBoHcrvS1z67er3ah.jpg</fanart>
+<info>[B][COLOR yellow]Dominic Toretto (Vin Diesel) foi resgatado da prisão por sua irmã Mia (Jordana Brewster) e Brian O'Conner (Paul Walker), que realizam um ousado resgate sobre rodas. Logo em seguida, ele desaparece. Brian e Mia vão até o Rio de Janeiro, onde encontram Vince (Matt Schulze). Ele propõe ao casal o roubo de carros que estão sendo levados em um trem, algo que, segundo ele, será uma operação simples que renderá um bom lucro. Durante a operação, Dominic reaparece e diz à irmã que os planos mudaram. Ela então leva um dos carros a um esconderijo em plena favela carioca, deixando Dominic e Brian enfrentando policiais e bandidos. Ao desmontar o carro, o trio descobre que ele contém um chip com todas as operações ilegais de Hernan Reis (Joaquim de Almeida), incluindo onde guarda o dinheiro arrecadado. É o suficiente para que eles elaborem um plano para roubar a fortuna de Reis, contando com a ajuda de vários amigos.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 6 [COLOR yellow](2013)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88838251250c0a139fde201a29220c50af5166ec</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLWnVSy5RvGqLKHxmb4obKER6gj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ia3EZnWBq5vZNSxjwViAg2h7ida.jpg</fanart>
+<info>[B][COLOR yellow]Desde que o golpe de Dom (Vin Diesel) e Brian (Paul Walker) no Rio de Janeiro deixou o grupo com US$100 milhões, os heróis se espalharam pelo globo. Mas a incapacidade de voltar para casa e viver em um lar tornou suas vidas incompletas. Enquanto isso, Hobbs (Dwayne Johnson) esteve perseguindo uma organização de mercenários sobre rodas, um grupo de homens cruéis divididos em 12 países, cujo mentor (Luke Evans) tem ajuda da destemida Letty (Michelle Rodriguez), a antiga namorada de Dom, que ele acreditava estar morta. A única maneira de parar este grupo de criminosos é superá-los nas ruas, por isso Hobbs pede a Dom para reunir um grupo de elite em Londres. A recompensa? Perdão a todos eles, para poderem voltar para as suas casas e tornarem suas famílias completas novamente.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 7 [COLOR yellow](2015)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:588B2397893C64C5EA14A42B6EFCE9BA4AA8D2D8</link>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/filme-velozesfuriosos7-fa7b8d1b7c8a6b9b4815132804701501-640-0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uVo6BMTKdCwjN8eRnpQl3HjLC32.jpg</fanart>
+<info>[B][COLOR yellow]Após os acontecimentos em Londres, Dom (Vin Diesel), Brian (Paul Walker), Letty (Michelle Rodriguez) e o resto da equipe tiveram a chance de voltar para os Estados Unidos e recomeçarem suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw (Jason Statham), um assassino profissional, quer vingança pela morte de seu irmão. Agora, a equipe tem que se reunir para impedir este novo vilão. Mas dessa vez, não é só sobre ser veloz. A luta é pela sobrevivência.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 8 [COLOR yellow](2017)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E2A570DB55CC699D34D73038B5DCE369A14EC46</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iFK4yrFgETUyaAkoTv8M3egWbM.jpg</fanart>
+<info>[B][COLOR yellow]Depois que Brian (Paul Walker) e Mia (Jordana Brewster) se aposentaram, e o resto da equipe foi exonerado, Dom (Vin Diesel) e Letty (Michelle Rodriguez) estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado acaba voltando com tudo quando uma mulher misteriosa (Charlize Theron) faz com que Dom retorne ao mundo do crime e da velocidade.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS:HOBBS & SHAW [COLOR yellow](2019)[/COLOR][B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55ba809b23568d4212f70ec4521643f60326e76a</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg</fanart>
+<info>[B][COLOR yellow]Desde que se conheceram, em "Velozes & Furiosos 7", Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.[/COLOR][/B]</info>
+</item>
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow][B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B][/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS - [COLOR yellow](2001)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/VLZEFROSOS01.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FUqXrudOZ1jbvnVxPLoph0H8yF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/lmIqH8Qsv3IvDg0PTFUuVr89eBT.jpg</fanart>
+<info>[B][COLOR yellow]Dominic Toretto (Vin Diesel) é o líder de uma gangue de corridas de ruas em Los Angeles que está sendo investigado pela polícia por roubo de equipamentos eletrônicos. Para investigá-lo é enviado Brian O'Conner (Paul Walker), que se infiltra na gangue na intenção de descobrir se Toretto é realmente o autor dos crimes ou se há alguém mais por trás deles.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]+VELOZES E+ FURIOSOS- [COLOR yellow](2003)[/COLOR] - [COLOR lime]1080P[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/VLZEFROSOS02.mp4</link>
+<thumbnail>http://br.web.img3.acsta.net/c_215_290/medias/nmedia/18/90/03/20/20077808.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/HBu8xfdpi6A/hqdefault.jpg</fanart>
+<info>[B][COLOR yellow]Após deixar a polícia de Los Angeles e ser capturado pela polícia de Miami em meio as corridas de rua, o ex-oficial Brian O'Conner (Paul Walker) é forçado a participar de uma nova missão: se infiltrar no crime organizado de Miami de forma a investigar sobre o transporte de dinheiro sujo para Carter Verone (Cole Hauser), o chefe do tráfico local. Para isso, ele recebe a ajuda de seu amigo de infância Roman Pearce (Tyrese Gibson), e da agente secreta Monica Fuentes (Eva Mendes). [/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS:DESAFIO EM TOQUIO [COLOR yellow](2006)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/VLZEFROSOS03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHojCCXnSW4Kn294E0BYgq74D5o.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/67Cvciv67nyJml3DjYIKVzYMLFV.jpg</fanart>
+<info>[B][COLOR yellow]Sean Boswell é um adolescente superficial e infeliz, que usa as corridas de rua como válvula de escape. Seu envolvimento irresponsável nas corridas fez com que Sean tivesse problemas com a polícia anteriormente. Após bater com o carro, e como forma de evitar a prisão, Sean é enviado para Tóquio, onde passa a morar com seu pai. Em sua nova cidade Sean fica inteiramente deslocado até conhecer Twinkie, que lhe apresenta as corridas de drift. O drift é uma mistura de derrapagem e velocidade, que corre em circuitos bastante perigosos. Sean logo se empolga com a novidade, o que faz com que se envolva com os corredores locais.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 4 [COLOR yellow](2009)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/VLZEFROSOS04.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zvjQPVttJWaCSbzMijyc2x2MLr4.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/bcTh72gxATouEOl4C06yFl81sLB.jpg</fanart>
+<info>[B][COLOR yellow]Depois de ser visto rumo ao México no filme que deu origem a série, Dominic "Dom" Toretto reaparece na República Dominicana praticando seus golpes ao lado de sua namorada Letty e sua gangue. Com o FBI na sua cola, Dom decide fugir para não comprometer seus comparsas. Contudo, um assassinato cometido por um traficante de drogas acende nele uma sede de vingança que o faz cruzar novamente com o agente Brian O'Conner numa perigosa missão.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 5 :OPERAÇÃO RIO [COLOR yellow](2011)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/VLZEFROSOS05.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bZXL4mVkmE3exTk91WlndgpU8R.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/nHYuhAfK1xXBoHcrvS1z67er3ah.jpg</fanart>
+<info>[B][COLOR yellow]Dominic Toretto (Vin Diesel) foi resgatado da prisão por sua irmã Mia (Jordana Brewster) e Brian O'Conner (Paul Walker), que realizam um ousado resgate sobre rodas. Logo em seguida, ele desaparece. Brian e Mia vão até o Rio de Janeiro, onde encontram Vince (Matt Schulze). Ele propõe ao casal o roubo de carros que estão sendo levados em um trem, algo que, segundo ele, será uma operação simples que renderá um bom lucro. Durante a operação, Dominic reaparece e diz à irmã que os planos mudaram. Ela então leva um dos carros a um esconderijo em plena favela carioca, deixando Dominic e Brian enfrentando policiais e bandidos. Ao desmontar o carro, o trio descobre que ele contém um chip com todas as operações ilegais de Hernan Reis (Joaquim de Almeida), incluindo onde guarda o dinheiro arrecadado. É o suficiente para que eles elaborem um plano para roubar a fortuna de Reis, contando com a ajuda de vários amigos.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 6 [COLOR yellow](2013)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/VLZEFROSOS06.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nLWnVSy5RvGqLKHxmb4obKER6gj.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ia3EZnWBq5vZNSxjwViAg2h7ida.jpg</fanart>
+<info>[B][COLOR yellow]Desde que o golpe de Dom (Vin Diesel) e Brian (Paul Walker) no Rio de Janeiro deixou o grupo com US$100 milhões, os heróis se espalharam pelo globo. Mas a incapacidade de voltar para casa e viver em um lar tornou suas vidas incompletas. Enquanto isso, Hobbs (Dwayne Johnson) esteve perseguindo uma organização de mercenários sobre rodas, um grupo de homens cruéis divididos em 12 países, cujo mentor (Luke Evans) tem ajuda da destemida Letty (Michelle Rodriguez), a antiga namorada de Dom, que ele acreditava estar morta. A única maneira de parar este grupo de criminosos é superá-los nas ruas, por isso Hobbs pede a Dom para reunir um grupo de elite em Londres. A recompensa? Perdão a todos eles, para poderem voltar para as suas casas e tornarem suas famílias completas novamente.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 7 [COLOR yellow](2015)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/VLZEFROSOS07.mp4</link>
+<thumbnail>http://d26lpennugtm8s.cloudfront.net/stores/148/504/products/filme-velozesfuriosos7-fa7b8d1b7c8a6b9b4815132804701501-640-0.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/uVo6BMTKdCwjN8eRnpQl3HjLC32.jpg</fanart>
+<info>[B][COLOR yellow]Após os acontecimentos em Londres, Dom (Vin Diesel), Brian (Paul Walker), Letty (Michelle Rodriguez) e o resto da equipe tiveram a chance de voltar para os Estados Unidos e recomeçarem suas vidas. Mas a tranquilidade do grupo é destruída quando Deckard Shaw (Jason Statham), um assassino profissional, quer vingança pela morte de seu irmão. Agora, a equipe tem que se reunir para impedir este novo vilão. Mas dessa vez, não é só sobre ser veloz. A luta é pela sobrevivência.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS 8 [COLOR yellow](2017)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/VLZEFROSOS08.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/iFK4yrFgETUyaAkoTv8M3egWbM.jpg</fanart>
+<info>[B][COLOR yellow]Depois que Brian (Paul Walker) e Mia (Jordana Brewster) se aposentaram, e o resto da equipe foi exonerado, Dom (Vin Diesel) e Letty (Michelle Rodriguez) estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado acaba voltando com tudo quando uma mulher misteriosa (Charlize Theron) faz com que Dom retorne ao mundo do crime e da velocidade.[/COLOR][/B]</info>
+</item>
+
+<item><title>[B][COLOR white]VELOZES E FURIOSOS:HOBBS & SHAW [COLOR yellow](2019)[/COLOR][B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/VLZEFROSOSHBSESWDUB.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mKRiLf2SCU9ySjByMLMxKYs5c1i.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/hpgda6P9GutvdkDX5MUJ92QG9aj.jpg</fanart>
+<info>[B][COLOR yellow]Desde que se conheceram, em "Velozes & Furiosos 7", Luke Hobbs (Dwayne Johnson) e Deckard Shaw (Jason Statham) constantemente bateram de frente, não só por inicialmente estarem em lados opostos mas, especialmente, pela personalidade de cada um. Agora, a dupla precisa unir forças para enfrentar Brixton (Idris Elba), um anarquista alterado geneticamente que se tornou uma ameaça biológica global. Para tanto, eles contam com a ajuda de Hattie (Vanessa Kirby), irmã de Shaw, que é também agente do MI6, o serviço secreto britânico.[/COLOR][/B]</info>
+</item>

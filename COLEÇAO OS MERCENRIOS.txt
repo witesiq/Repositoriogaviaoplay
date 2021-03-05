@@ -1,0 +1,43 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Os Mercenários[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a9b3a456a42801de0178b31b6297f345921243</link
+><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y54f5FL59mupEsWCVAMEfRXC5e.jpg</thumbnail><info>[B][COLOR yellow]Um grupo de mercenários, liderado por Barney Ross, e seus homens de confiança aceitam uma missão que parece ser rotineira: uma operação secreta, a mando da Igreja, para invadir o país sul-americano de Vilena e derrubar seu ditador. Não demora muito para o grupo perceber que a missão é uma operação suicida. Presos em uma perigosa teia de traições, mas sabendo que um inocente está em perigo, Barney e seus homens decidem finalizar o trabalho.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Os Mercenários 2:De Volta A Acao[COLOR yellow](2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13cdb76ebf4cb3e65eba12bbe6d2c466e72bfb22</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg</thumbnail><info>[B][COLOR yellow]O grupo de mercenários se unem para evitar que um criminoso roube uma grande quantidade de plutônio, que possibilitaria a produção de armas nucleares. Após o assassinato de um amigo e o sumiço do mapa que leva ao plutônio, o grupo sai em busca de vingança.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Os Mercenários 3[COLOR yellow](2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:342945E063D6C5AC99B1C9E3D226C4B3AE433851</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg</thumbnail><info>[B][COLOR yellow]RCFServer1/ondemand/OMRCNRS03[/COLOR][/B]</info>
+</item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Diretos,Porem As Vezes Ficam Off Line,Mas logo Volta a ficar on line.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Os Mercenários[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/OMRCNRS01.mp4</link>
+><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2y54f5FL59mupEsWCVAMEfRXC5e.jpg</thumbnail><info>[B][COLOR yellow]Um grupo de mercenários, liderado por Barney Ross, e seus homens de confiança aceitam uma missão que parece ser rotineira: uma operação secreta, a mando da Igreja, para invadir o país sul-americano de Vilena e derrubar seu ditador. Não demora muito para o grupo perceber que a missão é uma operação suicida. Presos em uma perigosa teia de traições, mas sabendo que um inocente está em perigo, Barney e seus homens decidem finalizar o trabalho.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Os Mercenários 2:De Volta A Acao[COLOR yellow](2012)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/OMRCNRS02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gEDpD6l2CJ8aLbtYLL2ecQ3yk09.jpg</thumbnail><info>[B][COLOR yellow]O grupo de mercenários se unem para evitar que um criminoso roube uma grande quantidade de plutônio, que possibilitaria a produção de armas nucleares. Após o assassinato de um amigo e o sumiço do mapa que leva ao plutônio, o grupo sai em busca de vingança.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Os Mercenários 3[COLOR yellow](2014)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/OMRCNRS03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vd22faXhHRCr8d1FSiXuFfnpSKv.jpg</thumbnail><info>[B][COLOR yellow]RCFServer1/ondemand/OMRCNRS03[/COLOR][/B]</info>
+</item>
+
+

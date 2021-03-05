@@ -1,0 +1,497 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] 3 % [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qexbQteX7G3065zAksoPOdz165C.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/wN9h1H4T</externallink>
+<fanart>https://image.tmdb.org/t/p/original/sYJngGwwFLoDAbFNzpAbmULXSzB.jpg</fanart>
+<info>[B][COLOR yellow]Depois de diversas crises que deixaram o planeta devastado. No norte do Brasil, a maior parte da população sobrevivente mora no Continente, um lugar miserável, decadente, onde falta tudo: água, comida, energia. Aos 20 anos de idade, todo cidadão tem direito de participar do Processo, uma seleção que oferece a única chance de passar para o Maralto, onde tudo é abundante e há oportunidades de uma vida digna e justa. Mas somente 3% dos candidatos são aprovados no Processo.[/B][/COLOR]</info>
+##########################################################################################################################
+ 
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE 12 MONKEYS[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kuiSCE5xfZspVqU7vAyQ377YIU6.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/J3inKg5g</externallink>
+<fanart>https://image.tmdb.org/t/p/original/cNPipmZrU4Ah2PJJgxhZEqlWt1j.jpg</fanart>
+<info>[B][COLOR yellow]Em um mundo pós-apocalíptico, a humanidade é forçada a viver nos subterrâneos depois que um vírus mortal é liberado. James Cole, um condenado, é enviado ao passado com o objetivo de reunir informações sobre o vírus para que os cientistas possam erradicá-lo.[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]XIII:THE SERIES [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/jgnlayjH6iMEvEoKrxH3BZjjRDQ.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/5ygJCULp</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ybIEMNaV8QNp1xvg2bfEalwSTbn.jpg</fanart>
+<info>[B][COLOR yellow]Um homem desmemoriado tenta descobrir sua verdadeira identidade. Suas únicas pistas são: o número XIII, em algarismos romanos, tatuado em seu corpo e uma foto sua ao lado da viúva de um Capitão das Forças Armadas.
+Tentando localizá-la, XIII (Stuart Townsend, do remake de “Kolchack/Night Stalker”) passa a ser perseguido por assassinos de uma organização secreta que tenta derrubar o governo americano.[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AGENDA PROIBIDA [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tKjcU6BKcLN6GtjClKnTwuLj7KK.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/B0RgDYUa</externallink>
+<fanart>https://image.tmdb.org/t/p/original/m3NvwhIemvl8XMJWmKuntm9ZgeQ.jpg</fanart>
+<info>[B][COLOR yellow]Riley Parks tenta equilibrar suas duas vidas: em casa, ela é mãe e batalhadora; em uma casa de massagem, ela possui clientes especiais.[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]AMERICAN GODS [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gevw5nZRYz2kWj1PqW9pz4sgeeZ.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/YDFFntuf</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7dnjFPoa22Yl3RKctp8kgUxiUg9.jpg</fanart>
+<info>[B][COLOR yellow]O drama é centrado em uma guerra entre os velhos e os novos deuses. Os seres bíblicos e mitológicos estão perdendo cada vez mais fiéis para novos deuses, que refletem o amor da sociedade por dinheiro, tecnologia, celebridades e drogas.[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ARROW [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oaLXsduGoDOOftWziIOvyZzrR4T.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/zXbgEWCr</externallink>
+<fanart>https://image.tmdb.org/t/p/original/elbLQbocvW9vwrHRjYTSjXr5BX5.jpg</fanart>
+<info>[B][COLOR yellow]Oliver Queen/Arqueiro Verde, descrito como um bad boy reabilitado de 27 anos que, depois de sofrer um naufrágio, passa cinco anos brutais em uma ilha no sul da China e retorna para a cidade como um homem mudado: um mestre torturado e reflexivo do arco e flecha, determinado a fazer a diferença.?[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+<channels>  
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A MEDIUM[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7JiKpw5HZpf1nf8US4bR8lbTAp.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/sEc9fZjA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/jqUgrSO7U3ILxEigy15NjaHwHLc.jpg</fanart>
+<info>[B][COLOR yellow]Allison, uma jovem mulher, luta para entender seus sonhos e visões de pessoas mortas desde a infância. Ela é dedicada aos três filhos, marido, curso de direito e ao estágio na promotoria. Seu desafio é convencer seu chefe, Devalos, e outros no departamento de que seus poderes psíquicos podem ajudar na solução de crimes, cujos mistérios só podem ser esclarecidos pelos que vivem além do túmulo.[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A TERRA PROMETIDA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/aPmhGirvnPVsJ_wzGuZ0Vn3uDIs=/290x478/smart/media/movies/covers/2018/11/p1829099_b_v5_v1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/teQ8tMw9</externallink>
+<fanart>https://novelas.redenoticia.com.br/imagens/2018/08/a-terra-prometida-resumo-novela.jpg</fanart>
+<info>[B][COLOR yellow]Após a fuga do Egito, eles peregrinaram no deserto por 40 anos. Nesse período, muitos começaram a se voltar contra Deus e passaram a desobedecer as ordens do Senhor. Até mesmo Moisés será punido por Deus e não adentrará na terra prometida. Dos saídos da escravidão no Egito, apenas Josué e Calebe herdarão Canaã. Ao chegar na terra prometida, eles perceberam que a mesma já estava sendo habitada. Por isso, terão que enfrentar algumas batalhas para conseguir conquistar terra e reinos.[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BONES [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1bwF1daWnsEYYjbHXiEMdS587fR.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/qnr9vGux</externallink
+<fanart>https://image.tmdb.org/t/p/original/fb3e06LJr5mNhtmVMFv9pFeWKWj.jpg</fanart>
+<info>[B][COLOR yellow]O agente Seeley Booth do F.B.I. trabalha com a antropóloga forense Dra. Temperance 'Bones' Brennan (Emily Deschanel) e sua pouco convencional equipe de cientistas. Juntos solucionam alguns dos mais intrigantes e bizarros crimes de todos os tempos com a ajuda de um corajoso instinto, sólidos procedimentos investigativos e tecnologia de última geração. Inspirado nas aventuras da vida real da antropóloga forense e escritora Kathy Reichs, Bones é um inteligente drama investigativo, com muita tensão romântica e humor negro.[/B][/COLOR]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BREAKING BAD [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/30erzlzIOtOK3k3T3BAl1GiVMP1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Z15XjibN</externallink>
+<fanart>https://image.tmdb.org/t/p/original/nPJ1quzQIDhu4u5tqjE6baKcOMT.jpg</fanart>
+<info>[B][COLOR yellow]Ao saber que tem câncer, um professor passa a fabricar metanfetamina pelo futuro da família, mudando o destino de todos.[/B][/COLOR]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CHICAGO FIRE[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMmYyZmQ0MTItMDNmMy00YzkwLWI2ZjEtOWJkNWI1YzY5OTQ5XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_UY1200_CR90,0,630,1200_AL_.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/yTdwPAiB</externallink>
+<fanart>https://image.tmdb.org/t/p/original/oXZvfpJdmfQ15ER1NCvjNAFEfD9.jpg</fanart>
+<info[B][COLOR yellow]Acompanhe o dia-a-dia intenso e os dramas dos oficiais do Departamento de Bombeiros de Chicago e paramédicos do Quartel 51. A equipe composta por bombeiros, equipe de resgate e paramédicos, irá passar por situações tensas e delicadas, arriscando suas próprias vidas para salvar pessoas em perigo, além de ter que lidar com os conflitos pessoais e os desafios que surgem por conta das diferenças entre os companheiros de equipe.[/COLOR][/B]</info>
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CHICAGO MED[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dym3jEbdFnIp7LXvyn2AAE7ld8F.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/b7rQE5eT</externallink>
+<fanart>https://image.tmdb.org/t/p/original/zulhCioyfCpXaDPxMSMpPgbStrh.jpg</fanart>
+<info>[B][COLOR yellow]A série acompanha o dia-a-dia de um corajoso grupo de médicos e enfermeiros de um hospital de Chicago. Juntos, eles confrontam os casos médicos mais desafiadores de Chicago e enfrentam dilemas éticos com coragem, paixão e cuidado incomparável[/B][/COLOR]</info>
+ 
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CHICAGO P.D. - DISTRITO 21[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFwVBFMA7TQH2IAie9OVeR0wz55.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/b7MKH2eT</externallink>
+<fanart>https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/06/795.jpg</fanart>
+<info>[B][COLOR yellow]O Distrito 21 do Departamento de Polícia de Chicado é composto pelos policiais uniformizados que lidam com o crime nas ruas e pela Unidade de Inteligência, que lida com crimes maiores como tráfico de drogas e assassinatos.[COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CRIMINAL MINDS [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qdyuyfHBSPEN6Zvicr8kM6dBYTS.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/aSdyUybS</externallink>
+<fanart>https://image.tmdb.org/t/p/original/glulGeOutPLK0HpFi4iPCCxIooC.jpg</fanart>
+<info>[B][COLOR yellow]Suspense centrado numa equipe de elite do FBI especializada em analisar os perfis dos mais temidos serial killers, antecipando seus próximos passos antes que eles voltem a atacar.  Quando não há outras pistas para um caso em série, o FBI logo pede ajuda para a Unidade de Análise Comportamental em Quântico. Enquanto detetives comuns estudam as evidências de um crime, a unidade analisa o comportamento do criminoso para chegar à uma lista de suspeitos. Eles investigam o crime de dentro para fora — sem examinar as evidências no laboratório; ao invés disso, eles estudam o comportamento dos criminosos nas cenas dos crimes ou onde eles vivem ou trabalham, para descobrirem o que eles pensam. Liderando a equipe está o agente especial Jason Gideon (Mandy Patinkin, "Dead Like Me", "Chicago Hope"), o principal analista comportamental do FBI. Os experts do time de Gideon incluem o agente especial Dr. Spencer Reid (Matthew Gray Gubler), um típico gênio com um QI alto e pouca vida social; o agente especial Aaron Hotch (Thomas Gibson, "Dharma & Greg"), um homem de família capaz de ganhar a confiança das pessoas e descobrir seus segredos; o agente especial Derek Morgan (Shemar Moore, "Birds of Prey"), um especialistas em crimes obsessivos; e Elle Greenway (Lola Glaudini, "Família Soprano"), uma agente que é motivada pela agressão não-resolvida que ela sofreu há alguns anos.Cada membro da equipe une suas especialidades únicas enquanto eles apontam as motivações dos predadores e identificam seus gatilhos emocionais na tentativa de impedi-los.[/COLOR][/B]</info>
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EXPRESSO DO AMANHA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/qVi_BomJQsHGjpfAOx9BdelkTSA=/210x312/smart/media/movies/covers/2015/07/o-expresso-do-amanha_t51518_XbcklQR.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/6myt1UVZ</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/zvxv186qY8MI0RpdsdCjfq4OUd0.jpg</fanart>
+<info>[B][COLOR yellow]Um grupo de pesquisadores cria um experimento capaz de pôr fim à ameaça do aquecimento global, mas seus planos não saem como o planejado e eles acabam eliminando quase toda a vida da Terra, que, por sua vez, transforma-se em um deserto de gelo. Os únicos sobreviventes vagam pelo planeta a bordo de um trem chamado Snowpiercer, mas nem todos estão conformados com a situação. Com isso, uma revolução está prestes a eclodir.[/COLOR][/B]</info>
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FALLING SKIES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/uEeQxvfy</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4QQaPrCeEbMr6DiCOB9CbV92Oix.jpg</fanart>
+<info>[B][COLOR yellow]Falling Skies começa em meio a um ataque alienígena caótico de que deixou a maior parte do mundo completamente incapacitado. Nos seis meses desde a invasão inicial, os poucos sobreviventes uniram-se fora das grandes cidades para começar a difícil tarefa de combater os invasores. Cada dia é um teste de sobrevivência como soldados e cidadãos, que trabalham para proteger as pessoas sob seus cuidados, ao mesmo tempo que uma campanha de repressão acontece contra a força alienígena ocupante.[/COLOR][/B]</info>
+ 
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]F B I [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJZUfoGqtiuGfGXtVgYqIafZ1Ii.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/4MaLai3g</externallink>
+<fanart>https://image.tmdb.org/t/p/original/h5t16ED4wClAHLcvHOYXdP61NAZ.jpg</fanart>
+<info>[B][COLOR yellow]A série acompanha os bastidores das operações do FBI em NY, onde os agentes Maggie Bell, Omar Adom e equipe buscam manter a cidade e o país a salvo.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FEAR THE WALKING DEAD[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2YqizJIln6ZEF4QJ7WlbPKkLn4.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/kGuTdJK7</externallink>
+<fanart>https://image.tmdb.org/t/p/original/n74JqgUY7MzHRA79RbQOM2XV2y7.jpg</fanart>
+<info>[B][COLOR yellow]Ambientada em Los Angeles, a série mostra o começo do apocalipse zumbi e a temível desintegração da sociedade pelos olhos de uma família disfuncional, que precisa se unir para tentar sobreviver ao caos do fim dos tempos.[/COLOR][/B]</info>
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GAME OF THRONES [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/original/gEVI0iWzhwSfiPHDrKQHfWsq9By.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/mP1MSFhz</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7ayvQAUwbhuogldZrgtn9wGf01r.jpg</fanart>
+<info>[B][COLOR yellow]Em uma terra onde os verões podem durar vários anos e o inverno toda uma vida, sete nobres famílias lutam pelo controle da mítica terra de Westeros, dividida depois de uma guerra. Num cenário que lembra a Europa medieval, reis, rainhas, cavaleiros e renegados usam todos os meios possíveis em um jogo político pela disputa do Trono de Ferro, o símbolo do poder absoluto.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GREY'S ANATOMY [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jnsvc7gCKocXnrTXF6p03cICTWb.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/sDtBxhX1</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6yUbsvFXLojGXlD86yz79toYywn.jpg</fanart>
+<info>[B][COLOR yellow]Os médicos do Grey Sloan Memorial Hospital lidam diariamente com casos e consequências de vida ou morte. É um no outro que eles encontram apoio, conforto, amizade e, às vezes, até mais que amizade... Juntos, eles descobrem o quanto a vida profissional e a pessoal podem ser complicadas e se misturarem no meio do caminho.[/B][/COLOR]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GRIMM - CONTOS DE TERROR [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/40Lrj8AKZhGrEmbYbgLbHkqPZvq.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/nxLSWcUi</externallink>
+<fanart>https://image.tmdb.org/t/p/original/kQGv9n8B7s8kmIbqXr0t8u4NXZE.jpg</fanart>
+<info>[B][COLOR yellow]Nick Burkhardt (David Giuntoli) achou que estava preparado para a realidade de trabalhar como detetive policial até ele começar a ver coisas inexplicáveis. Tudo fica ainda mais complicado quando ele descobre ser um dos últimos descendentes de um grupo de caçadores sobrenaturais chamados “Grimms”.[/COLOR][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HOMELAND [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kmZTqevNRhyxvIyXWvnbQEY69ab.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/FqiR99wn</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7xvIDNFVGOzj5uN3a5EoTADxjRr.jpg</fanart>
+<info>[B][COLOR yellow]Um soldado americano a quem acreditavam ter sido morto no Iraque volta depois de oito anos de seu desaparecimento. Mas, depois de sua volta para casa, surgem suspeitas a respeito de ele ser realmente um herói americano ou parte de uma célula adormecida que planeja um ataque terrorista.[/B][/COLOR]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HOUSE OF CARDS[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFzNptp0vSAL7jOqHAb6UM2nU3y.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/fNG1vZUC</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ex4kvQb0Ski5KL2fsnKQU2hV3oo.jpg</fanart>
+<info>[B][COLOR yellow]Astuto e inescrupuloso, o congressista Francis Underwood (Kevin Spacey) e sua esposa Claire (Robin Wright) são implacáveis na busca pelo poder. Esta instigante série política entra no mundo de ganância, corrupção e sexo de Washington.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JACK RYAN[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1raUrQr8Y2tSYjTDbk8wfWGKTmX.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/abnvMhYw</externallink>
+ <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
+<info>[B][COLOR yellow]Quando o analista da CIA Jack Ryan esbarra em uma série de transferências bancárias suspeitas, sua busca por respostas o afasta da segurança de sua mesa de trabalho e o joga em um jogo mortal de gato e rato pela Europa e pelo Oriente Médio, com um terrorista em ascensão preparando um grande ataque contra os EUA e seus aliados.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LA CASA DE PAPEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDlCaXdC5Z8elYuRto7pPNDb3ho.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/LJsQHAP6</externallink>
+<fanart>https://image.tmdb.org/t/p/original/tIudPXmaWLs7nsgq4xJgfmMtn4o.jpg</fanart>
+<info>[B][COLOR yellow]Um homem misterioso que atende pelo nome de El Profesor, está planejando o maior assalto do século. A fim de realizar o ambicioso plano ele recruta uma gangue de oito pessoas com certas habilidades que não tem nada a perder. O objetivo é infiltrar na Casa da Moeda, de modo que eles possam imprimir 2,4 bilhões de euros. Para fazer isso eles precisam de onze dias de reclusão, durante o qual eles vão ter que lidar com sessenta e sete reféns e as forças da Polícia de Elite, com cenas de muita ação e planos brilhantes de El Profesor.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LEI & 0RDEM - SVU [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXZ1hq7vqX2a7cY9BmcfxHRBBD.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/AiGJz0TU</externallink>
+<fanart>https://image.tmdb.org/t/p/original/2wgk47yrb2WnXAdSBLFX9EiU882.jpg</fanart>
+<info>[B][COLOR yellow]Detetives que fazem parte da Unidade de Vítimas Especiais da polícia de Nova York investigam crimes de natureza sexual, como estupros, em que a vítima sobrevive, e auxilia as autoridades na investigação.[/COLOR][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LUCIFER [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwMSxBawcVtkpJmP6X0Ravdf76r.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/n5W7kiYR</externallink>
+<fanart>https://image.tmdb.org/t/p/original/vauFEN12Exuck3nO9WWmjB1R5cJ.jpg</fanart>
+<info>[B][COLOR yellow]Entediado e infeliz como o Senhor do inferno, Lúcifer (Tom Ellis) abdica seu trono e abandona seu reinado para viver na atordoada Los Angeles. Lá, ele dá início a outro empreendimento: um Piano-Bar chamado Lux[/COLOR].[/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LENDAS DO AMANHA [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/icv3e1l8od9VjQD4NlvpBySyY09.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/4NK8Z5HK</externallink>
+<fanart>https://image.tmdb.org/t/p/original/guBnWzTNVung9e0yifzwOvtwNAf.jpg</fanart>
+<info>[B][COLOR yellow]Após ter visto o futuro, o viajante do tempo Rip Hunter recebe a missão de montar um grupo eclético de heróis e vilões para confrontar uma ameaça invencível - uma que não somente põe em risco o planeta, mas também o tempo.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MARVEL'S AGENTS OF S.H.I.E.L.D.  [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w5X3mGIXW0hvbWivgtNb5TH7aC9.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/RhNLmwdh</externallink>
+<fanart>https://image.tmdb.org/t/p/original/RYGirTio1TLQTFUNqyN9271Ddy.jpg</fanart>
+<info>[B][COLOR yellow]O agente Phil Coulson, visto em ação no filme “Os Vingadores”, monta uma equipe com os melhores agentes da S.H.I.E.L.D. para investigar ameaças bizarras.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O BOM DOUTOR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zHdy8qTrKG0szzic3FCMkCrodnq.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/LywA4aG8</externallink>
+<fanart>https://image.tmdb.org/t/p/original/edLV34FXx1iFJA3hbZE7SYRSS4m.jpg</fanart>
+<info>[B][COLOR yellow]Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.[/COLOR][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MANIFEST [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFPHeAedYwKpF1iW83qKXtPoX9B.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/LywA4aG8</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3ib0uov9Qq9JtTIEGL39irTa3vZ.jpg</fanart>
+<info>[B][COLOR yellow]Um avião reaparece cinco anos após ter decolado, mas para os passageiros apenas cinco horas se passaram. Antes dados como mortos, agora eles encaram uma realidade misteriosa.[/COLOR][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] O MANDALORIANO : STAR WARS [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/vhsxIclrqUGy2otVCqy0nDHYbgg=/210x312/smart/media/movies/covers/2019/08/98_0I9zHLO.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/tib1CN8t</externallink>
+<fanart>https://media.fstatic.com/ACDh2bT3LiO6Zrq_-mz8fNf2nI0=/640x480/smart/media/movies/covers/2019/08/83_GfUnbUR.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info>
+ 
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]0 ULTIMO GUARDIAO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRFaI0aTLOkg2EZqej46ojNnarL.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/rZkQ5p7r</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4pYKilHt2XuDs1HYnxu2TKcWOE3.jpg</fanart>
+<info>[B][COLOR yellow]Descobrindo seus laços com uma ordem secreta antiga, um jovem de Istambul embarca em uma missão para salvar a cidade de um inimigo imortal.[/COLOR][/B]</Info
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]0 ULTIMO REINO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3b4Kar7TJyVCRxPGzwXzFgPQB6Z.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/pDmAmypE</externallink>
+<fanart>https://image.tmdb.org/t/p/original/TET7KlEP2uhUgpRYwzeygWACYj.jpg</fanart>
+<info>[B][COLOR yellow]Situada no ano de 872, a série apresenta as invasões vikings em território hoje conhecido como Inglaterra. Wessex, sob o comando do Rei Alfred, o Grande, é o único reino que resiste aos ataques.
+A história tem como protagonista o jovem Uhtred, um nobre que perdeu os pais em um dos ataques vikings. Levado e criado por eles, Uhtred cresce e se torna um guerreiro. Mais tarde, ele parte com a missão de conquistar as terras onde nasceu. Enquanto isso, o Rei Alfred enfrenta problemas políticos e religiosos para unificar os reinos e transformá-lo no que hoje é a Inglaterra.[/COLOR][/B]</Info
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]0ULTLANDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS4rPAt11fBiSyrOhgUtCgzVqJA.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/PvKRpx10</externallink>
+<fanart>https://image.tmdb.org/t/p/original/Ai6HryU8R00XSgiCTeQoF75um84.jpg</fanart>
+<info>[B][COLOR yellow]Claire Randall é uma enfermeira em combate em 1945. Ela é misteriosamente transportada através do tempo e mandada para 1743, e sua vida passa a correr riscos que ela desconhece. Forçada a se casar com Jamie Fraser, um cortês e nobre guerreiro escocês. Um relacionamento apaixonado se acende, e deixa o coração de Claire dividido entre dois homens completamente diferentes, em duas vidas que não podem ser conciliadas.[/COLOR][/B]</Info
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]0S DEZ MANDAMENTOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQRLMWx39G3SBZSq8kVZ18bezBs.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/xFstykph</externallink>
+<fanart>https://observatoriodocinema.elav.tmp.br/wp-content/uploads/2016/01/os10mandamentos.jpg</fanart>
+<info>[B][COLOR yellow]Os Dez Mandamentos é a primeira novela brasileira baseada numa história bíblica. Com efeitos especiais grandiosos e uma história emocionante, a superprodução da Rede Record reconta uma das mais famosas passagens da Bíblia: a saga de Moisés, desde seu nascimento até a chegada de seu povo à Terra Prometida, passando pela fuga do Egito através do Mar Vermelho e o encontro com Deus no Monte Sinai.
+Livre adaptação dos livros Êxodo, Levítico, Números e Deuteronômio, a novela cobre mais de cem anos de história e terá 150 capítulos divididos em quatro fases, com dezenas de personagens. Além do conteúdo histórico, a novela Os Dez Mandamentos será repleta de conflitos familiares, intrigas, luta pelo poder, traições, inveja, ódio, paixões proibidas e amores impossíveis, em tramas recheadas de muita emoção.[/COLOR][/B]</Info
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PARANORMAL[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCEc46PoQ5uZlX4917jEYY3Ohoh.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/sZAsYK9S</externallink>
+<fanart>https://image.tmdb.org/t/p/original/jXzz2uSnj4GTwqwnTWpnMAQPRFJ.jpg      </fanart>
+<info>[B][COLOR yellow]Nos anos 60, o Dr. Refaat Ismail se torna uma referência em investigações paranormais, mesmo contra a vontade dele. Baseado nos livros de Ahmed Khaled Tawfik. [/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PEAKY BLINDERS:SANGUE,APOSTAS E NAVALHAS[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqRZFXubClzWvxufuijg5Ls2mNW.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/j2vK3R6v</externallink>
+<fanart>https://image.tmdb.org/t/p/original/kfUWupX3phYp7AleZA2U1dmVcjX.jpg</fanart>
+<info>[B][COLOR yellow]Baseada em uma história real, a trama gira em torno de uma família de Birmingham que, em 1919, vive de assaltos, extorsões e apostas. Conhecida pelo apelido de Peaky Blinders, por utilizarem navalhas para atacar seus adversários, o grupo é liderado por Tommy, personagem de Murphy. A situação da família muda com o fim da Primeira Guerra Mundial, quando Tommy descobre que precisará enfrentar um novo chefe de polícia. Recém chegado de Belfast, o policial está determinado a limpar as ruas de Birmingham dos criminosos e revolucionários.[/COLOR][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] PESSOA DE INTERESSE [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQEktLlZ3GgygeAz6h2edB55xSQ.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/HB8Y2ita</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7j7J9A0ZnleRtKb5fSEy10Vwcgi.jpg</fanart>
+<info>[B][COLOR yellow]Um ex-agente da CIA, que todos achavam que estava morto, se une a um bilionário misterioso para impedir que crimes violentos sejam cometidos. Um deles tem o treinamento especial e a experiência de trabalhar em operações secretas, enquanto o outro é um gênio da computação, criador de um programa que usa padrões de reconhecimento para identificar pessoas que estejam prestes a se envolver em crimes violentos. Juntos, eles impedem os crimes, antes que aconteçam.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] POWER [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/prQZ1NiS1GDSH35F1e03PKhLKnL.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/XBAwipxf</externallink>
+<fanart>https://image.tmdb.org/t/p/original/7wdsLEnDryyl1gP3QKPfcpZNuYf.jpg</fanart>
+<info>[B][COLOR yellow]O produtor-executivo Curtis "50 Cent" Jackson apresenta "Power", um drama criminal sobre o dono de uma boate que também é o senhor de um lucrativo império das drogas..[/COLOR ][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] PRISION BREAK [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/236x/ba/06/ec/ba06eccd60b65878ecb2da199749a099--wentworth-miller-prison-break.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/XeiGk1c9</externallink>
+<fanart>https://cdn.fstatic.com/public/articles/files/2015/06/d331326d-caa4-4cda-b535-7b5d2c7d6ece.jpg</fanart>
+<info>[B][COLOR yellow]O irmão de Michael está no corredor da morte e será executado em alguns meses, após ser condenado por um assassinato que Michael está convencido que ele não cometeu. Michael então decide assaltar um banco para ser preso e levado a Penitenciária, o mesmo local onde seu irmão está a cumprir pena. Uma vez lá, ele começa a executar um elaborado plano para libertar Lincoln e provar sua inocência.[/COLOR ][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]REI DAVI [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/sXzEJcFb</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aDbXvMnXfxCXQQ50GqXfmslqKvl.jpg</fanart>
+<info>[B][COLOR yellow]Tudo foi baseado em I Samuel e II Samuel. A produção mostrou a vida de Davi, sendo súdito vil de um monarca reinante, simples pastor de ovelhas filho de Jessé, e que é muito invejado por outras pessoas. Saul, então monarca de seu país e seu principal inimigo, quer matá-lo, para tentar manter sua dinastia reinante no trono real israelita. Após diversas batalhas Saul entrega a Davi sua filha Mical para se tornar sua esposa na qual sempre se invejou das outras esposas de Davi por conta de sua infertilidade. Saul então é morto em batalha e Davi assume o trono real de Judá, mas mesmo assim o homem segundo a personalidade do Deus eterno terá inimigos e acontecerá muitas outras coisas maléficas com o ungido de Deus. Após a morte de Saul e Jônatas seu filho Esbaal assume o trono de Israel enquanto Davi é soberano de Judá. Após a morte de Esbaal, Davi se torna o rei de toda Israel e torna a capital do país Jerusalém. O tempo passa e Israel vive um reinado de glória e prosperidade nas mãos de seu rei que é um homem segundo o coração de Deus. Davi comete um grave pecado ao ficar com seu grande amor, Bate Seba, que era esposa de Urias. Esse erro lhe traz consequências terríveis onde o herói terá que caminhar para sua redenção e paz.[/COLOR][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]STAR TREK DISCOVERY[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aYPCPVlVPf6HFAIOVE8SyCl4ML.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/YgkjET1n</externallink>
+<fanart>https://cdn.cinepop.com.br/2020/08/star-trek-discovery-season-3-starfleet-insignia-32nd-century-1231799.jpeg</fanart>
+<info>[B][COLOR yellow]Após um século de isolamento, a Federação e o Império Klingon entram em guerra, e as ações de uma oficial da Frota Estelar estão no centro do conflito.[/COLOR][/B]</info>
+ 
+##########################################################################################################################
+
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERNATURAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/KoYWXbnYuS3b0GyQPkbuexlVK9.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/v0wyufQA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg</fanart>
+<info>[B][COLOR yellow]Os irmãos Dean e Sam vasculham o país em busca de atividades paranormais, brigando com demônios, fantasmas e monstros no caminho[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE 100 [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.pinimg.com/originals/ac/0a/6a/ac0a6af3607603881d00eaa89ae5b866.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/QYxaYGGN</externallink>
+<fanart>https://image.tmdb.org/t/p/original/zXzBqbXieqRem290H5HZxtXXcZl.jpg</fanart>
+<info>[B][COLOR yellow]Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE FLASH [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/3/3b/The_Flash_Temporada_2_Poster.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/MEUheZkW</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/jC1KqsFx8ZyqJyQa2Ohi7xgL7XC.jpg</fanart>
+<info>[B][COLOR yellow]Barry enfrenta diversos assassinos que invadem a premiação onde ele acompanha Iris, mas os efeitos colaterais de seus novos superpoderes representam uma ameaça.[/COLOR][/B]</info
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE SHIELD - ACIMA DA LEI [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfdZXqqlFsPUEfi6kWWWthxw7Nz.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/his14YdJ</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/oSEXourx9CYZLoPxH9QRbS0qG25.jpg</fanart>
+<info>[B][COLOR yellow]Vic Mackey é um policial que anda na corda bamba entre o certo e o errado, e lidera uma equipe de detetives que luta contra gangues nas ruas de Los Angeles.[/COLOR][/B]</info
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]THE WALKING DEAD [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fJKucbYtIzWwglqtRVOOH8i60Ug.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/aQS7g643</externallink>
+<fanart>https://image.tmdb.org/t/p/original/qaQH3qWucxIYv5ztQ176Q59CYSy.jpg</fanart>
+<info>[B][COLOR yellow] The Walking Dead conta a história de um pequeno grupo de sobreviventes de um apocalipse de zumbis, ou "walkers", como os personagens os denominam. A maior parte da história se passa nos arredores de Atlanta e, em seguida, em torno da região rural do norte da Geórgia. Os sobreviventes são vistos em busca de refúgio e de um local seguro, longe das hordas de mortos-vivos, que devoram pessoas e cuja mordida é infecciosa para os seres humanos. Os sobreviventes tem conhecimentos limitados sobre o que realmente está acontecendo no mundo. O enredo da série é voltado principalmente para os dilemas que o grupo enfrenta, como a luta para manterem-se vivos, os sentimentos confusos e os desafios do dia-a-dia em um mundo hostil e praticamente dominado por mortos-vivos.[/COLOR][/B]</info>
+ 
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UNFORGETTABLE[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/Fyo6rC7AoBamEYk9ZkGJUFOCUI0=/290x478/smart/media/movies/covers/2013/05/f00515dcc20693d0b0518f803a40fc7e.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/2qN8R2aA</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4dMHWBelytDpAWtdx4q6RNIGK3O.jpg</fanart>
+<info>[B][COLOR yellow]Carrie Wells é uma enigmática ex-policial que sofre de uma rara condição: Carrie possui uma memória perfeita. Isso significa que ela é capaz de se lembrar de tudo nos mínimos detalhes. Tal condição pode ser tanto uma benção como uma maldição, afinal, Carrie é incapaz de esquecer-se de todas as coisas ruins que viveu e presenciou.[/COLOR][/B]</info>
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIKINGS [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oktTNFM8PzdseiK1X0E0XhB6LvP.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/RcRtz2Pf</externallink>
+<fanart>https://image.tmdb.org/t/p/original/aTWWfOZU2uGvFACBtJzsqsKvwea.jpg</fanart>
+<info>[B][COLOR yellow]Ragnar Lothbrok, um jovem que se considera descendente de Odin, é um guerreiro, fazendeiro e chefe de família. Visionário e sonhando viver diversas aventuras, ele acredita que as riquezas sonhadas por seu povo encontram-se além do mar Báltico. Mas para conseguir conquistá-las ele precisa convencer Earl Haraldson, o líder de seu povo, a permitir que ele e seus guerreiros viagem em direção à Inglaterra.[/COLOR][/B]</info>
+
+##########################################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WESTWORLD [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/QM0gsLuYP8PuyLjB6bBjTcJfJyo=/290x478/smart/media/movies/covers/2020/02/9998852.jpeg</thumbnail>
+<externallink>https://pastebin.com/raw/hkwLxtTb</externallink>
+<fanart>https://image.tmdb.org/t/p/original/yp94aOXzuqcQHva90B3jxLfnOO9.jpg</fanart>
+<info>[B][COLOR yellow]Westworld é um parque temático futurístico para adultos, dedicado à diversão dos ricos. Um espaço que reproduz o Velho Oeste, povoado por androides – os anfitriões –, programados pelo diretor executivo do parque, o Dr. Robert Ford (Anthony Hopkins), para acreditarem que são humanos e vivem no mundo real. Lá, os clientes – ou novatos – podem fazer o que quiserem, sem obedecer a regras ou leis. No entanto, quando uma atualização no sistema das máquinas dá errado, os seus comportamentos começam a sugerir uma nova ameaça, à medida que a consciência artificial dá origem à "evolução do pecado". Entre os residentes do parque, está Dolores Abernathy (Evan Rachel Wood), programada para ser a típica garota da fazenda, que está prestes a descobrir que toda a sua existência não passa de bem arquitetada mentir[/COLOR][/B]</info>
+
+
+##########################################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]WINONNA EARP [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/MhJ0nRnS</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/nl5WMoCFy7DfBUHRTmINVBN3WNy.jpg</fanart>
+<info>[B][COLOR yellow]Depois de anos de fuga e em detenção juvenil, Wynonna Earp está finalmente voltando para casa. O único problema é que ninguém em casa quer que ela volte. Mas quando ela se torna a única esperança da cidade de erradicar demônios misteriosos, Wynonna deve escolher de que lado da lei ela quer lutar, enquanto limpa o nome de seu lendário bisavô Wyatt Earp de uma vez por todas.[/COLOR][/B]</info>

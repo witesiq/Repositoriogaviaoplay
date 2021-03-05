@@ -1,0 +1,59 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item>
+<title>[COLOR white][B]Mad Max[COLOR yellow] (1979)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e21c421392a7634d5161ec171bdda8e0d35430e4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj9wPX2zfqfoA0TYu5fQgGTFTwe.jpg</thumbnail><info>[B][COLOR yellow]Num futuro próximo, o combustível que alimenta os motores dos carros é também motivo para crimes perpretados por violentas gangues. Max é um jovem policial e junto com seus companheiros patrulha as estradas a fim de impedir a ação daqueles que insistem em perturbar a paz. A morte de um membro pelas mãos de Max dá início a uma série de crimes cruéis cometidos contra sua família e o melhor amigo. Assim, Max só tem uma escolha: vingança.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<title>[COLOR white][B]Mad Max 2: A Cacada Continua[COLOR yellow] (1981)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bea7786d63edfc25efa02f78aad86636c282bd69</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hqDHnVaRV5NBTZs99kaz2RcyY5.jpg</thumbnail><info>[B][COLOR yellow]No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max (Mel Gibson) resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Mad Max: Além da Cúpula do Trovão[COLOR yellow] [/B](1985)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92c07d9c31204b13253f9159e8253dee78984427</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg</thumbnail><info>[B][COLOR yellow]Após a destruição da civilização surge Bartertown, uma cidade no deserto com regras primitivas e mortais que tem uma governante que deseja consolidar seu poder a qualquer preço. Até que lá chega Max, que é forçado a participar de uma luta e, por ter se recusado a matar seu oponente, acaba sendo banido no deserto. Até que um grupo de jovens selvagens o salvam e passam a considerá-lo um messias que os levará até uma nova terra.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Mad Max: Estrada da Fúria[COLOR yellow] (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F82C4258667E5D40BD1497C946F4F6E60FB6CD4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg</thumbnail><info>[B][COLOR yellow]Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.[/COLOR][/B]</info>
+</item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item>
+<title>[COLOR white][B]Mad Max[COLOR yellow] (1979)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/MDMX01.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oj9wPX2zfqfoA0TYu5fQgGTFTwe.jpg</thumbnail><info>[B][COLOR yellow]Num futuro próximo, o combustível que alimenta os motores dos carros é também motivo para crimes perpretados por violentas gangues. Max é um jovem policial e junto com seus companheiros patrulha as estradas a fim de impedir a ação daqueles que insistem em perturbar a paz. A morte de um membro pelas mãos de Max dá início a uma série de crimes cruéis cometidos contra sua família e o melhor amigo. Assim, Max só tem uma escolha: vingança.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<title>[COLOR white][B]Mad Max 2: A Cacada Continua[COLOR yellow] (1981)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/MDMX02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5hqDHnVaRV5NBTZs99kaz2RcyY5.jpg</thumbnail><info>[B][COLOR yellow]No futuro o bem mais precioso é a gasolina, em virtude de uma guerra que acabou com os campos petrolíferos do Oriente Médio. Tendo combustível pode-se fugir da morte ou se dirigir a algum lugar para matar alguém. Neste contexto, Max (Mel Gibson) resolve ajudar uma comunidade a defender sua refinaria contra uma gangue de motoqueiros.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Mad Max: Além da Cúpula do Trovão[COLOR yellow] [/B](1985)[/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/MDMX03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/o4rv4JyeDmDKGaZgvmQxSkaCJXX.jpg</thumbnail><info>[B][COLOR yellow]Após a destruição da civilização surge Bartertown, uma cidade no deserto com regras primitivas e mortais que tem uma governante que deseja consolidar seu poder a qualquer preço. Até que lá chega Max, que é forçado a participar de uma luta e, por ter se recusado a matar seu oponente, acaba sendo banido no deserto. Até que um grupo de jovens selvagens o salvam e passam a considerá-lo um messias que os levará até uma nova terra.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Mad Max: Estrada da Fúria[COLOR yellow] (2015)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/MDMXESTDFUR.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg</thumbnail><info>[B][COLOR yellow]Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################

@@ -1,0 +1,46 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Matrix[COLOR yellow] (1999)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51ca3ba90f04bf50394e9eb7e448ceea214d5ad6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8cc4fdc2c777d1464d9043397309f45859b9297b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/etJHvVsM9aefWWrW23r5BXgVK1F.jpg</thumbnail><info>[B][COLOR yellow]Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Matrix Reloaded[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:172863ab4080c8c2538da526b2e1d37c4f4d129f&dn=Matrix+Reloaded+%282003%29+BDRip+Bluray+720p+dublado+-+derew&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dbb83021c10fd6919e134268e17291ed2455c9d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg</thumbnail><info>[B][COLOR yellow]Após derrotar as máquinas em seu combate inicial, Neo ainda vive na Nabucodonosor ao lado de Morpheus, Trinity e Link, o novo tripulante da nave. As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil delas escavam rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada para retornar a Zion e participar da reunião que definirá o contra-ataque para salvar a humanidade da extinção. Entretanto, um recado enviado pelo Oráculo faz com que Neo retorne à Matrix.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Matrix Revolutions[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e20368c163a5b597da05d68d63b16c519e8b97b</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9340217b505e38ee9d3e317af539ce8c661329a3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg</thumbnail><info>[B][COLOR yellow]Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanidade, está preso entre a Matrix e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam desesperadamente afastar as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso programa de computador, Agente Smith, aparece na forma humana.[/COLOR][/B]</info>
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Matrix[COLOR yellow] (1999)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/MTRX.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/etJHvVsM9aefWWrW23r5BXgVK1F.jpg</thumbnail><info>[B][COLOR yellow]Um jovem programador é atormentado por estranhos pesadelos nos quais sempre está conectado por cabos a um imenso sistema de computadores do futuro. À medida que o sonho se repete, ele começa a levantar dúvidas sobre a realidade. E quando encontra os misteriosos Morpheus e Trinity, ele descobre que é vítima do Matrix, um sistema inteligente e artificial que manipula a mente das pessoas e cria a ilusão de um mundo real enquanto usa os cérebros e corpos dos indivíduos para produzir energia.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Matrix Reloaded[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/MTRXRLD.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pTGg4gT6yBAxm6bskTkOjdRsbit.jpg</thumbnail><info>[B][COLOR yellow]Após derrotar as máquinas em seu combate inicial, Neo ainda vive na Nabucodonosor ao lado de Morpheus, Trinity e Link, o novo tripulante da nave. As máquinas estão realizando uma grande ofensiva contra Zion, onde 250 mil delas escavam rumo à cidade e podem alcançá-la em poucos dias. A Nabucodonosor é convocada para retornar a Zion e participar da reunião que definirá o contra-ataque para salvar a humanidade da extinção. Entretanto, um recado enviado pelo Oráculo faz com que Neo retorne à Matrix.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Matrix Revolutions[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/MTRXREV.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1wm4PgOQ8e4z1C6tk1yDNrps4T.jpg</thumbnail><info>[B][COLOR yellow]Após enfrentar os sentinelas no mundo real, Neo, a maior esperança da humanidade, está preso entre a Matrix e a realidade. A maioria da população do planeta permanece em um estado de suspensão da realidade virtual. Os poucos humanos que estão cientes das duras realidades tentam desesperadamente afastar as máquinas a tempo de Neo escapar e salvar o dia. Mas as coisas pioram quando o poderoso programa de computador, Agente Smith, aparece na forma humana.[/COLOR][/B]</info>
+
+
+

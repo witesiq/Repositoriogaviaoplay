@@ -1,0 +1,75 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo:Crepúsculo[COLOR yellow] (2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1397272ae7943fd47a00107f3bdc143a0b932a7</link>
+/view?usp=sharing<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg</thumbnail>
+<info>[B][COLOR yellow]Isabella Swan (Kristen Stewart) e seu pai, Charlie (Billy Burke), mudaram-se recentemente. No novo colégio ela logo conhece Edward Cullen (Robert Pattinson), um jovem admirado por todas as garotas locais e que mantém uma aura de mistério em torno de si. Eles aos poucos se apaixonam, mas Edward sabe que isto põe a vida de Isabella em risco.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4nLNe9HQwT1TW5EVVc1bk1EU2c
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Lua Nova[COLOR yellow] (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b113ede954aa4a83d6cfeccb5d0225ed853bf6bb</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRl49JRhLi2mBhe1HcQcby205QN.jpg</thumbnail>
+<info>[B][COLOR yellow]Um incidente na festa de aniversário de Isabella "Bella" Swan (Kristen Stewart) faz com que Edward Cullen (Robert Pattinson) vá embora. Arrasada, Bella encontra consolo ao lado de Jacob Black (Taylor Lautner). Aos poucos ela é atraída para o mundo dos lobisomens, ancestrais inimigos dos vampiros, e passa a ter sua lealdade testada. Quando descobre que a vida de Edward está em perigo, Bella corre contra o tempo para ajudá-lo no combate aos Volturi, um dos mais poderosos clãs de vampiros existentes.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4nLNe9HQwT1OFVpcGhwblB2OWM/view?usp=sharing
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Eclipse[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3328de13210f8cb8e11b32f020cbf92682d128</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRCDPUxmsaZrSYAnhXXp2q0xgqZ.jpg</thumbnail>
+<info>[B][COLOR yellow]O perigo novamente ronda Bella com uma série de crimes misteriosos aterrorizando Seattle e um vampiro malicioso em busca de vingança. Em meio ao tumulto, Bella precisa escolher entre seu amor por Edward e sua amizade com Jacob, sabendo que sua decisão pode desencadear uma batalha entre vampiro e lobisomem.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4nLNe9HQwT1SXQ2OWt6cDY3bU0/view?usp=sharing
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Amanhecer - Parte 1[COLOR yellow](2011) [/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21be7aa7d7cd5fa9052e37169daadef399110ae2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlpb8Xm7VBDNxZGeIIAgtqhURuT.jpg</thumbnail>
+<info>[B][COLOR yellow]O casamento de Edward e Bella, sua lua de mel e o nascimento do filho desencadeiam uma série de acontecimentos que trará desdobramentos chocantes para Jacob.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8S56XOJY1VgTTJzNTlNUTRTVlE/view?usp=sharing
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Amanhecer - Parte 2[COLOR yellow] (2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3b166ab0e7ea690cd32d902a44a5dff4b32d6f7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNobbWwSM2xpv2rRejxwnHf4xH.jpg</thumbnail>
+<info>[B][COLOR yellow]Depois do nascimento da filha de Bella e Edward, Renesmee, os Cullen reúnem lobisomens, clãs de vampiros e outros aliados de todo o mundo para protegê-la, já que uma falsa alegação faz com que os Volturi queiram matá-la.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8owNGE9rUjgYTNjRThzVHIzUEE/view?usp=sharing</link>
+#####################################################################################################################################
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo:Crepúsculo[COLOR yellow] (2008)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/ASGCRSPCLO01.mp4</link>
+/view?usp=sharing<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sgxHeCZE3H9n5jQFumQPs9HBnTV.jpg</thumbnail>
+<info>[B][COLOR yellow]Isabella Swan (Kristen Stewart) e seu pai, Charlie (Billy Burke), mudaram-se recentemente. No novo colégio ela logo conhece Edward Cullen (Robert Pattinson), um jovem admirado por todas as garotas locais e que mantém uma aura de mistério em torno de si. Eles aos poucos se apaixonam, mas Edward sabe que isto põe a vida de Isabella em risco.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4nLNe9HQwT1TW5EVVc1bk1EU2c
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Lua Nova[COLOR yellow] (2009)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/ASGCRSPCLO02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uRl49JRhLi2mBhe1HcQcby205QN.jpg</thumbnail>
+<info>[B][COLOR yellow]Um incidente na festa de aniversário de Isabella "Bella" Swan (Kristen Stewart) faz com que Edward Cullen (Robert Pattinson) vá embora. Arrasada, Bella encontra consolo ao lado de Jacob Black (Taylor Lautner). Aos poucos ela é atraída para o mundo dos lobisomens, ancestrais inimigos dos vampiros, e passa a ter sua lealdade testada. Quando descobre que a vida de Edward está em perigo, Bella corre contra o tempo para ajudá-lo no combate aos Volturi, um dos mais poderosos clãs de vampiros existentes.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4nLNe9HQwT1OFVpcGhwblB2OWM/view?usp=sharing
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Eclipse[COLOR yellow] (2010)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/ASGCRSPCLO03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRCDPUxmsaZrSYAnhXXp2q0xgqZ.jpg</thumbnail>
+<info>[B][COLOR yellow]O perigo novamente ronda Bella com uma série de crimes misteriosos aterrorizando Seattle e um vampiro malicioso em busca de vingança. Em meio ao tumulto, Bella precisa escolher entre seu amor por Edward e sua amizade com Jacob, sabendo que sua decisão pode desencadear uma batalha entre vampiro e lobisomem.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B4nLNe9HQwT1SXQ2OWt6cDY3bU0/view?usp=sharing
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Amanhecer - Parte 1[COLOR yellow](2011) [/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/ASGCRSPCLO04.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vlpb8Xm7VBDNxZGeIIAgtqhURuT.jpg</thumbnail>
+<info>[B][COLOR yellow]O casamento de Edward e Bella, sua lua de mel e o nascimento do filho desencadeiam uma série de acontecimentos que trará desdobramentos chocantes para Jacob.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8S56XOJY1VgTTJzNTlNUTRTVlE/view?usp=sharing
+#####################################################################################################################################
+<item><title>[COLOR white][B]A Saga Crepúsculo: Amanhecer - Parte 2[COLOR yellow] (2012)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/ASGCRSPCLO05.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVNobbWwSM2xpv2rRejxwnHf4xH.jpg</thumbnail>
+<info>[B][COLOR yellow]Depois do nascimento da filha de Bella e Edward, Renesmee, os Cullen reúnem lobisomens, clãs de vampiros e outros aliados de todo o mundo para protegê-la, já que uma falsa alegação faz com que os Volturi queiram matá-la.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/0B8owNGE9rUjgYTNjRThzVHIzUEE/view?usp=sharing</link>
+#####################################################################################################################################

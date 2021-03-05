@@ -1,0 +1,73 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white][B]COLEÇÃO TROPAS ESTELARES [COLOR yellow](TORRENT)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:824b0afdc761c08a5435a4012d83c</link>
+<thumbnail>https://torrentfacil.com/wp-content/uploads/2020/07/Pentalogia-Tropas-Estelares-8211-Dublado-BluRay-720p-1080p.jpg</thumbnail><info>[B][COLOR yellow]COLEÇÃO COMPLETA  COM TODOS OS 5 FILMES EM TORRENTS[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares[COLOR yellow](1997)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F13118E505FDCC2DAD74BF516EEC1C4D9EBEA3A</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0oVrDAh05pdHwnV6mRQzL1QHYk.jpg</thumbnail>
+<info>[B][COLOR yellow]Em um futuro distante, a Terra está em guerra contra uma raça de insetos gigantes alienígenas. Pouco se sabe sobre eles, exceto que têm a intenção de eliminar toda forma de vida humana. Mas houve um tempo, antes da guerra, em que a Infantaria Móvel viajava para planetas distantes a fim de combater os insetos, inimigos implacáveis, com apenas uma missão: garantir a sobrevivência de sua espécie a qualquer custo.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares 2[COLOR yellow](2004)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6067B99E2FD8773F064AABE685DDA85E5C4BEB43</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8bXhhXuwmi6J1NtzHjvReasDcS.jpg</thumbnail>
+<info>[B][COLOR yellow]Um esquadrão de soldados, está detido em um planeta infestado por insetos gigantes que estão indo para uma região remota. Quando eles chegam, encontram um sobrevivente solitário o qual está trancado por ter matado seu comandante. Os problemas do esquadrão aumentam quando são ameaçados por insetos saqueadores e um novo grupo de estranhos.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares 3[COLOR yellow](2008)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:121B3C97B9AFB6C4D7F2F73D0311B32A2F0EB65E</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu5gYDmKuUd4lM1ABURPRFHzI8N.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma nave espacial da Federação cai no distante planeta alienígena OM-1 e acaba ficando encalhada com o líder Sky Marechal Anoke, a piloto Lola Beck e vários outros no local. Agora cabe ao Coronel Johnny Rico, herói relutante da invasão de insetos no Planeta P, liderar uma equipe de soldados em uma ousada missão de resgate.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares: A Invasão[COLOR yellow](2012)[COLOR red]Anime[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F2466641653A37A4FEB70233D14105D4872D463</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHDNShZLOEPgtGsoOCeQkRQ7mUN.jpg</thumbnail>
+<info>[B][COLOR yellow]O distante posto avançado da Federação, Fort Casey, é atacado por insetos. A equipe da nave Alesia recebe a missão de ajudar a nave John A. Warden que está em Fort Casey à evacuar, juntamente com os sobreviventes e trazer a inteligência militar em segurança de volta à Terra. Carl Jenkins, ministro da Paranormal Warfare, leva a nave numa missão clandestina antes de seu encontro com o Alesia e desaparece na nebulosa. Agora, os soldados veteranos são enviados em uma missão de resgate que pode levar a consequências muito mais sinistras do que jamais poderiam ter imaginado.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares: Invasores de Marte[COLOR yellow](2017)[COLOR red]Anime[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89C8922DBE93938082A9F6350C96E2044A6C9EC3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOnOi38PFO1k9Sk7jLprhFYsWSj.jpg</thumbnail><info>[B][COLOR yellow]Johnny Rico e enviado para uma pequena estação satélite em Marte, enquanto a Federação ataca o planeta natal dos insetos. Enquanto treina os seus novos recrutas nesta estação remota e silenciosa, os insetos aparecem num ataque surpresa, mas a Frota da Federação está muito longe para ajudar. Cabe a Rico e aos seus soldados salvar o planeta e descobrir como os insetos chegaram tão perto de casa.[/COLOR][/B]</info></item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]Tropas Estelares[COLOR yellow](1997)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/TRPSESTLRS1.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h0oVrDAh05pdHwnV6mRQzL1QHYk.jpg</thumbnail>
+<info>[B][COLOR yellow]Em um futuro distante, a Terra está em guerra contra uma raça de insetos gigantes alienígenas. Pouco se sabe sobre eles, exceto que têm a intenção de eliminar toda forma de vida humana. Mas houve um tempo, antes da guerra, em que a Infantaria Móvel viajava para planetas distantes a fim de combater os insetos, inimigos implacáveis, com apenas uma missão: garantir a sobrevivência de sua espécie a qualquer custo.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares 2[COLOR yellow](2004)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/TRPSESTLRS2.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y8bXhhXuwmi6J1NtzHjvReasDcS.jpg</thumbnail>
+<info>[B][COLOR yellow]Um esquadrão de soldados, está detido em um planeta infestado por insetos gigantes que estão indo para uma região remota. Quando eles chegam, encontram um sobrevivente solitário o qual está trancado por ter matado seu comandante. Os problemas do esquadrão aumentam quando são ameaçados por insetos saqueadores e um novo grupo de estranhos.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares 3[COLOR yellow](2008)[/COLOR][/B][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/TRPSESTLRS3.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu5gYDmKuUd4lM1ABURPRFHzI8N.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma nave espacial da Federação cai no distante planeta alienígena OM-1 e acaba ficando encalhada com o líder Sky Marechal Anoke, a piloto Lola Beck e vários outros no local. Agora cabe ao Coronel Johnny Rico, herói relutante da invasão de insetos no Planeta P, liderar uma equipe de soldados em uma ousada missão de resgate.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares: A Invasão[COLOR yellow](2012)[COLOR red]Anime[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/TRPSESTLRINVSAO.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHDNShZLOEPgtGsoOCeQkRQ7mUN.jpg</thumbnail>
+<info>[B][COLOR yellow]O distante posto avançado da Federação, Fort Casey, é atacado por insetos. A equipe da nave Alesia recebe a missão de ajudar a nave John A. Warden que está em Fort Casey à evacuar, juntamente com os sobreviventes e trazer a inteligência militar em segurança de volta à Terra. Carl Jenkins, ministro da Paranormal Warfare, leva a nave numa missão clandestina antes de seu encontro com o Alesia e desaparece na nebulosa. Agora, os soldados veteranos são enviados em uma missão de resgate que pode levar a consequências muito mais sinistras do que jamais poderiam ter imaginado.[/COLOR][/B]</info></item>
+
+#####################################################################################################################################
+<item><title>[B][COLOR white]Tropas Estelares: Invasores de Marte[COLOR yellow](2017)[COLOR red]Anime[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/TRPSESTLRSINVSRSDMRTE.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yOnOi38PFO1k9Sk7jLprhFYsWSj.jpg</thumbnail><info>[B][COLOR yellow]Johnny Rico e enviado para uma pequena estação satélite em Marte, enquanto a Federação ataca o planeta natal dos insetos. Enquanto treina os seus novos recrutas nesta estação remota e silenciosa, os insetos aparecem num ataque surpresa, mas a Frota da Federação está muito longe para ajudar. Cabe a Rico e aos seus soldados salvar o planeta e descobrir como os insetos chegaram tão perto de casa.[/COLOR][/B]</info></item>
+

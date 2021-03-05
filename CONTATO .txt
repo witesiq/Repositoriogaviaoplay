@@ -1,0 +1,10 @@
+<item><title>[COLOR white]facebook.com/gaviaoplayer[/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item>
+<item><title>[COLOR yellow]ACESSE PELO SEU FACE [/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item>
+<item><title>[COLOR yellow]FAÇA SEU PEDIDO [/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item>
+<item><title>[COLOR yellow]AVISE-ME SOBRE LINKS QUEBRADOS[/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item>
+<item><title>[COLOR yellow]DE SUA OPINIÃO[/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item>
+<item><title>[COLOR yellow]ADDON TOTALMENTE GRATUITO[/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item>
+<item><title>[COLOR yellow]CRONSTRUIDO SO POR PRAZER[/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item>
+<item><title>[COLOR yellow]MUITO OBRIGADO[/COLOR]</title><link>IGNOREME</link><thumbnail>https://ia801407.us.archive.org/0/items/icon_20200414/icon.png</thumbnail></item></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

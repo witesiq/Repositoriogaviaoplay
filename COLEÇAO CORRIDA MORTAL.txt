@@ -1,0 +1,74 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Corrida Mortal[COLOR yellow(2008)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A19591880DF8A2E6FEF0B27249F4105CAD803936</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a58L5z5LyADGVfAYfYmf5VaEk3y.jpg</thumbnail><info>[B][COLOR yellow]Jensen Ames (Jason Statham) é um ex-piloto profissional condenado por um terrível assassinato. Encarcerado em Terminal Island, uma prisão de segurança máxima com regras próprias, ele se vê obrigado a voltar às pistas e participar de uma competição mortal cujo vencedor pode conquistar a liberdade. O problema é que lá a corrida e os competidores são diferentes, enquanto a vontade de matar e ser livre correm lado a lado.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LwmAYrFtNyhX4GN0DDJTeOjMyN0gN2cL/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 2 [COLOR yellow(2010)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50E16D4E2157D404D1EB428D17A63C937E2FF971</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrGcj3TbaeIYlr5itXoLONI2Ki7.jpg</thumbnail><info>[B][COLOR yellow]Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aM1cl8aPPjCHvE8skOLylxqz70kJLNZ4/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 3 - Inferno[COLOR yellow(2013)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CA8A07AA8A1F469933B458F029BCB1F177FCE42</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egDHHUofifBhvjqmCxIe4RueE3a.jpg</thumbnail><info>[B][COLOR yellow]O assassino de policiais Carl Lucas (Luke Goss), mais conhecido como Frankenstein, é um astro do volante que participa de uma disputa brutal de carros conhecida como corrida mortal. Após vencer quatro corridas, ele precisa de apenas mais uma vitória para enfim conseguir a sonhada liberdade. O problema é que ele e sua equipe são transferidos para outra prisão, onde precisam competir em uma corrida mortal no deserto.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xuuny7yhE2n_wqsafPl28isYsKtkVCtn/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 4 - Alem da Anarquia[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb7d0cd842baee280b8b328110d21cf36c55ed24</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/licxEAA2QYy4zLrd6N03vvrBtzo.jpg</thumbnail><info>[B][COLOR yellow]Danny Trejo retorna como o bookie implacável, Goldberg, no mais selvagem e mais sangrento da Death Race. Após um ataque fracassado contra o detentor e motorista lendário, Frankenstein, especialista da Black Ops Connor Gibson (McGowan) infiltra uma prisão federal super-máxima com um objetivo - entre na iminente e ilegal Death Race e tira Frankenstein. Connor recruta a ajuda de Baltimore Bob (Glover) e Lists (Koehler), e inesperadamente se apaixona pela bartending beauty, Jane (Marzano). Connor terá que lutar por mais do que sua vida neste mundo brutal, sem guardas, sem regras, sem trilha e sem medo.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RiaGCxIZACjud5uWoeDqol2TFK8t2rTr/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 2050  [COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE01CC4C27C77F3790F96CE5EDB33BE912FC7AF2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLgEozCt7Sws03V2dIVphBsFYK.jpg</thumbnail><info>[B][COLOR yellow]É o ano de 2050 e a América é controlada pelo todo-poderoso governo corporativo, comandado pelo Presidente (Malcolm McDowell). O povo recebeu lavagem cerebral através das diversões violentas da realidade virtual. O evento do ano é a Corrida Mortal, na qual um bando de truculentos motoristas pilotos competem em uma corrida pelo país, marcando pontos quando atropelam pessoas cruelmente e jogando uns aos outros para fora da estrada. O campeão reinante e favorito dos fãs, Frankenstein (Manu Bennett), que é meio homem, meio máquina, quer levar a coroa, mas seu rebelde copiloto espião ameaça sua fama.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cD4PW47LdT5gOmcHgV8LjhwioZC_SKO8/view?usp=sharing
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]Corrida Mortal[COLOR yellow(2008)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/CRDAMRTL.mp4</link> <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/a58L5z5LyADGVfAYfYmf5VaEk3y.jpg</thumbnail><info>[B][COLOR yellow]Jensen Ames (Jason Statham) é um ex-piloto profissional condenado por um terrível assassinato. Encarcerado em Terminal Island, uma prisão de segurança máxima com regras próprias, ele se vê obrigado a voltar às pistas e participar de uma competição mortal cujo vencedor pode conquistar a liberdade. O problema é que lá a corrida e os competidores são diferentes, enquanto a vontade de matar e ser livre correm lado a lado.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LwmAYrFtNyhX4GN0DDJTeOjMyN0gN2cL/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 2 [COLOR yellow(2010)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/CRDAMRTL2.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rrGcj3TbaeIYlr5itXoLONI2Ki7.jpg</thumbnail><info>[B][COLOR yellow]Recém-chegado à Terminal Island, uma prisão de segurança máxima com regras próprias, Carl “Luke” Lucas (Luke Goss) tem de provar o seu valor em uma corrida mortal. As regras para este jogo sanguinário repleto de adrenalina são simples: dirigir ou morrer.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1aM1cl8aPPjCHvE8skOLylxqz70kJLNZ4/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 3 - Inferno[COLOR yellow(2013)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/CRDAMRTL3.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/egDHHUofifBhvjqmCxIe4RueE3a.jpg</thumbnail><info>[B][COLOR yellow]O assassino de policiais Carl Lucas (Luke Goss), mais conhecido como Frankenstein, é um astro do volante que participa de uma disputa brutal de carros conhecida como corrida mortal. Após vencer quatro corridas, ele precisa de apenas mais uma vitória para enfim conseguir a sonhada liberdade. O problema é que ele e sua equipe são transferidos para outra prisão, onde precisam competir em uma corrida mortal no deserto.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1xuuny7yhE2n_wqsafPl28isYsKtkVCtn/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 4 - Alem da Anarquia[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/CRDAMRT4.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/licxEAA2QYy4zLrd6N03vvrBtzo.jpg</thumbnail><info>[B][COLOR yellow]Danny Trejo retorna como o bookie implacável, Goldberg, no mais selvagem e mais sangrento da Death Race. Após um ataque fracassado contra o detentor e motorista lendário, Frankenstein, especialista da Black Ops Connor Gibson (McGowan) infiltra uma prisão federal super-máxima com um objetivo - entre na iminente e ilegal Death Race e tira Frankenstein. Connor recruta a ajuda de Baltimore Bob (Glover) e Lists (Koehler), e inesperadamente se apaixona pela bartending beauty, Jane (Marzano). Connor terá que lutar por mais do que sua vida neste mundo brutal, sem guardas, sem regras, sem trilha e sem medo.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1RiaGCxIZACjud5uWoeDqol2TFK8t2rTr/view?usp=sharing
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Corrida Mortal 2050  [COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/CRDAMRTL2050.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cVLgEozCt7Sws03V2dIVphBsFYK.jpg</thumbnail><info>[B][COLOR yellow]É o ano de 2050 e a América é controlada pelo todo-poderoso governo corporativo, comandado pelo Presidente (Malcolm McDowell). O povo recebeu lavagem cerebral através das diversões violentas da realidade virtual. O evento do ano é a Corrida Mortal, na qual um bando de truculentos motoristas pilotos competem em uma corrida pelo país, marcando pontos quando atropelam pessoas cruelmente e jogando uns aos outros para fora da estrada. O campeão reinante e favorito dos fãs, Frankenstein (Manu Bennett), que é meio homem, meio máquina, quer levar a coroa, mas seu rebelde copiloto espião ameaça sua fama.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1cD4PW47LdT5gOmcHgV8LjhwioZC_SKO8/view?usp=sharing

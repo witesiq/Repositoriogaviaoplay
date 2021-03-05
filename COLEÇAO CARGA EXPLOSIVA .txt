@@ -1,0 +1,49 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva [COLOR yellow] (2002)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5FD330330535ED9D43A672908925EB97AEFC76C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbb4e1cbaaea22463d319ed87058671b7b47ed53</link>
+<thumbnail>https://i.imgur.com/7UlAWsr.jpg</thumbnail><info>[B][COLOR yellow]Frank Martin (Jason Statham) é um ex-soldado do exército norte-americano, que agora trabalha transportando cargas e vive em uma vila tranquila, na costa do Mediterrâneo. Martin segue sempre à risca o lema de nunca saber o que está transportando nem para quem é a carga, a fim de evitar problemas. Até que, após ser contratado por um americano apelidado de Wall Street (Matt Schulze), ele se envolve em uma grande problema. Após o pneu de seu carro furar Martin percebe que a carga que transporta está se mexendo. Passando por cima de suas regras, ele abre o porta-malas e descobre que lá está presa uma bela garota (Lai Kwai). Martin a solta, mas logo precisa fugir com ela de um poderoso chefão do crime asiático, Sr. Kwai (Ric Young), além de um policial (François Berléand), que investiga Martin por estar desconfiado que ele realiza o transportes de cargas ilegais. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva 2 [COLOR yellow] (2005)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E81D57D4729FCF8B571577B6FD2A41D16157FFFB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14a51b926c922921e8ad200ff685e7fc27b6aefb</link>
+<thumbnail>https://i.imgur.com/B6jSAXu.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Frank Martin está em Miami, aposentado do comando de elite, dirigindo para a família Billings. Querido pelos jovens patrões, Jack e Devon, ele desafia o FBI e parte na frente na tentativa de achá-los, quando René Regan os seqüestra. O filme é uma continuação do sucesso de 2002, "Carga Explosiva". Luc Besson ("O Profissional","O Quinto Elemento") mais uma vez assina a produção e o roteiro do longa. Jason Statham ("Snatch - Porcos e Diamantes") retorna ao papel do ex-soldado das forças especias do exército, Frank Martin. [/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva 3 [COLOR yellow] (2008)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9CC97766DAAF4B97FD8C73F21398AFA32DDF5DE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5175a93c910d94caaae82337582d4e7598fbe23f</link>
+<thumbnail>https://i.imgur.com/5pocNCi.jpg</thumbnail><info>[B][COLOR yellow]Frank Martin (Jason Statham) é obrigado a transportar de Marselha até Odessa, no Mar Negro, Valentina (Natalya Rudakova), a filha seqüestrada de Leonid Vasilev (Jeroen Krabbé), chefe da Agência de Proteção Ambiental da Ucrânia. No longo caminho, com a ajuda do Inspetor Tarconi (François Berléand), Frank tem de lidar com as pessoas que o forçaram a fazer esse trabalho, como os agentes enviados por Vasilev para o interceptar e a total não cooperação de Valentina. Apesar da sua personalidade cínica, seu constante sarcasmo, e sua vontade de resistir a Frank, eles se apaixonam, enquanto tentam fugir de situações bizarras, perigosas e fatais.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva 4 - O Legado [COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E0C8DE3EB64B2F1FDD666F958F6E698D752C2165</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC82C6B7D59536E9BB57E074DAD7FE381A332CBB</link>
+<thumbnail>https://abutretorrents.com/capa/carga-explosiva-o-legado-the-transporter-refueled-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]O filmeconta a história anterior ao primeiro filme da franquia. O início da trajetória de Frank Martin. Seu relacionamento com o pai e a vida antes de se tornar transportador de mercadorias desconhecidas[/COLOR][/B]</info></item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva [COLOR yellow] (2002)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/CRGEXPLSV1.mp4</link>
+<thumbnail>https://i.imgur.com/7UlAWsr.jpg</thumbnail><info>[B][COLOR yellow]Frank Martin (Jason Statham) é um ex-soldado do exército norte-americano, que agora trabalha transportando cargas e vive em uma vila tranquila, na costa do Mediterrâneo. Martin segue sempre à risca o lema de nunca saber o que está transportando nem para quem é a carga, a fim de evitar problemas. Até que, após ser contratado por um americano apelidado de Wall Street (Matt Schulze), ele se envolve em uma grande problema. Após o pneu de seu carro furar Martin percebe que a carga que transporta está se mexendo. Passando por cima de suas regras, ele abre o porta-malas e descobre que lá está presa uma bela garota (Lai Kwai). Martin a solta, mas logo precisa fugir com ela de um poderoso chefão do crime asiático, Sr. Kwai (Ric Young), além de um policial (François Berléand), que investiga Martin por estar desconfiado que ele realiza o transportes de cargas ilegais. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva 2 [COLOR yellow] (2005)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/CRGEXPLSV2.mp4</link>
+<thumbnail>https://i.imgur.com/B6jSAXu.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Frank Martin está em Miami, aposentado do comando de elite, dirigindo para a família Billings. Querido pelos jovens patrões, Jack e Devon, ele desafia o FBI e parte na frente na tentativa de achá-los, quando René Regan os seqüestra. O filme é uma continuação do sucesso de 2002, "Carga Explosiva". Luc Besson ("O Profissional","O Quinto Elemento") mais uma vez assina a produção e o roteiro do longa. Jason Statham ("Snatch - Porcos e Diamantes") retorna ao papel do ex-soldado das forças especias do exército, Frank Martin. [/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva 3 [COLOR yellow] (2008)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/CRGEXPLSV3.mp4</link>
+<thumbnail>https://i.imgur.com/5pocNCi.jpg</thumbnail><info>[B][COLOR yellow]Frank Martin (Jason Statham) é obrigado a transportar de Marselha até Odessa, no Mar Negro, Valentina (Natalya Rudakova), a filha seqüestrada de Leonid Vasilev (Jeroen Krabbé), chefe da Agência de Proteção Ambiental da Ucrânia. No longo caminho, com a ajuda do Inspetor Tarconi (François Berléand), Frank tem de lidar com as pessoas que o forçaram a fazer esse trabalho, como os agentes enviados por Vasilev para o interceptar e a total não cooperação de Valentina. Apesar da sua personalidade cínica, seu constante sarcasmo, e sua vontade de resistir a Frank, eles se apaixonam, enquanto tentam fugir de situações bizarras, perigosas e fatais.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Carga Explosiva 4 - O Legado [COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/CRGEXPLSVOLEGADO.mp4</link>
+<thumbnail>https://abutretorrents.com/capa/carga-explosiva-o-legado-the-transporter-refueled-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]O filmeconta a história anterior ao primeiro filme da franquia. O início da trajetória de Frank Martin. Seu relacionamento com o pai e a vida antes de se tornar transportador de mercadorias desconhecidas[/COLOR][/B]</info></item>
+

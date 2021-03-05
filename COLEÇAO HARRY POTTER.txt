@@ -1,0 +1,105 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]Harry Potter e a Pedra Filosofal [COLOR yellow](2001)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20288b27c8a957b056af012f7283b7433364daa1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnw9610ojLT0jU3lMSZOAFttt1e.jpg</thumbnail><info>[B][COLOR yellow]Harry Potter é um garoto órfão de 10 anos que vive infeliz com seus tios, os Dursley. Até que, repentinamente, ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente Harry é impedido de ler a carta por seu tio Válter, mas logo ele recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega em sua casa para levá-lo até a escola. A partir de então Harry passa a conhecer um mundo mágico que jamais imaginara, vivendo as mais diversas aventuras com seus mais novos amigos, Rony Weasley e Hermione Granger.[/COLOR][/B]<info>
+</item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e a Câmara Secreta[COLOR yellow](2002)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba794413620f255a6848e0d4c160cde11f61a66c</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg</thumbnail><info>[B][COLOR yellow]Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e que algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a correr o risco e se livrar do lar problemático.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e o Prisioneiro de Azkaban[COLOR yellow](2004)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e832667da21c240ceb5f7e0291840c373fa37a4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg</thumbnail><info>[B][COLOR yellow]O 3º ano de ensino na Escola de Magia e Bruxaria de Hogwarts se aproxima. Porém um grande perigo ronda a escola: o assassino Sirius Black fugiu da prisão de Azkaban, considerada até então como à prova de fugas. Para proteger a escola são enviados os Dementadores, estranhos seres que sugam a energia vital de quem se aproxima deles, que tanto podem defender a escola como piorar ainda mais a situação[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e o Cálice de Fogo[COLOR yellow](2005)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae56a714d5f687edb9e93ec73d6d632ca8395f3b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg</thumbnail><info>[B][COLOR yellow]Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa do Mundo de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e a Ordem da Fênix[COLOR yellow](2007)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5552e74da912f030d2b4a6dc1c5c3eed800b2f15</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg</thumbnail><info>[B][COLOR yellow]Harry Potter está em seu quinto ano em Hogwarts e acaba ouvindo que muitos não sabem a verdade sobre seu encontro com Lord Voldemort. O Ministro de Mágica, Cornelius Fudge, indica Dolores Umbridge para ser a nova professora de Defesa Contra as Artes das Trevas, por acreditar que Dumbledore planeja tomar seu lugar. Porém, os métodos que ela usa são totalmente inapropriados. Harry, então, se reúne com um grupo de alunos para defender sua escola.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+<item><title>[B][COLOR white]Harry Potter e o Enigma do Príncipe[COLOR yellow](2009)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77a3d5d22db6b90ab5afa9d562866c7fde46ae2f</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg</thumbnail><info>[B][COLOR yellow]No sexto ano de Harry em Hogwarts, Lord Voldemort e seus Comensais da Morte estão criando o terror nos mundos bruxo e trouxa. Dumbledore convence seu velho amigo Horácio Slughorn para retornar a Hogwarts como professor de poções após Harry encontrar um estranho livro escolar. Draco Malfoy se esforça para realizar uma ação destinada por Voldemort, enquanto Dumbledore e Harry secretamente trabalham juntos a fim de descobrir o método para destruir o Lorde das Trevas uma vez por todas.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e as Relíquias da Morte - Parte 1[COLOR yellow](2010)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cb7603da007bcbcc69c3b5eaac7628af48b5bea</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg</thumbnail><info>[B][COLOR yellow]Sem a orientação e proteção de seus professores, Harry, Rony e Hermione iniciam uma missão para destruir as horcruxes, que são as fontes da imortalidade de Voldemort. Embora devam confiar um no outro mais do que nunca, forças das trevas ameaçam separá-los. Os Comensais da Morte de Voldemort tomaram o controle do Ministério da Magia e de Hogwarts, e eles estão procurando por Harry enquanto ele e seus amigos se preparam para o confronto final.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e as Relíquias da Morte - Parte 2[COLOR yellow](2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:964bfde63f03b1150843c938862a3c1884f0febf</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg</thumbnail><info>[B][COLOR yellow]Harry Potter e seus amigos Rony Weasley e Hermione Granger seguem à procura das horcruxes. O objetivo do trio é encontrá-las e, em seguida, destruí-las, de forma a eliminar lorde Voldemort de uma vez por todas. Com a ajuda do duende Grampo, eles entram no banco Gringotes de forma a invadir o cofre de Bellatrix Lestrange. De lá retornam ao castelo de Hogwarts, onde precisam encontrar mais uma horcrux. Paralelamente, Voldemort prepara o ataque definitivo ao castelo.[/COLOR][/B]<info></item>
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Harry Potter e a Pedra Filosofal [COLOR yellow](2001)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HRYPTR01.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnw9610ojLT0jU3lMSZOAFttt1e.jpg</thumbnail><info>[B][COLOR yellow]Harry Potter é um garoto órfão de 10 anos que vive infeliz com seus tios, os Dursley. Até que, repentinamente, ele recebe uma carta contendo um convite para ingressar em Hogwarts, uma famosa escola especializada em formar jovens bruxos. Inicialmente Harry é impedido de ler a carta por seu tio Válter, mas logo ele recebe a visita de Hagrid, o guarda-caça de Hogwarts, que chega em sua casa para levá-lo até a escola. A partir de então Harry passa a conhecer um mundo mágico que jamais imaginara, vivendo as mais diversas aventuras com seus mais novos amigos, Rony Weasley e Hermione Granger.[/COLOR][/B]<info>
+</item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e a Câmara Secreta[COLOR yellow](2002)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HRYPTR02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/811j0Jf2D0mK1U6RxXJoZgOB29n.jpg</thumbnail><info>[B][COLOR yellow]Após as sofríveis férias na casa dos tios, Harry Potter se prepara para voltar a Hogwarts e começar seu segundo ano na escola de bruxos. Na véspera do início das aulas, a estranha criatura Dobby aparece em seu quarto e o avisa de que voltar é um erro e que algo muito ruim pode acontecer se Harry insistir em continuar os estudos de bruxaria. O garoto, no entanto, está disposto a correr o risco e se livrar do lar problemático.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e o Prisioneiro de Azkaban[COLOR yellow](2004)[/COLOR][/B]</title>
+<link>https://image.tmdb.org/t/p/original/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HdMUghqlgOIvbsU9ZtO40IPRzl.jpg</thumbnail><info>[B][COLOR yellow]O 3º ano de ensino na Escola de Magia e Bruxaria de Hogwarts se aproxima. Porém um grande perigo ronda a escola: o assassino Sirius Black fugiu da prisão de Azkaban, considerada até então como à prova de fugas. Para proteger a escola são enviados os Dementadores, estranhos seres que sugam a energia vital de quem se aproxima deles, que tanto podem defender a escola como piorar ainda mais a situação[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e o Cálice de Fogo[COLOR yellow](2005)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HRYPTR04.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oWB3hjzyECRBAjgWkmZinxl9qA.jpg</thumbnail><info>[B][COLOR yellow]Em seu 4º ano na Escola de Magia e Bruxaria de Hogwards, Harry Potter é misteriosamente selecionado para participar do Torneio Tribruxo, uma competição internacional em que precisará enfrentar alunos mais velhos e experientes de Hogwards e também de outras escolas de magia. Além disso a aparição da marca negra de Voldemort ao término da Copa do Mundo de Quadribol põe a comunidade de bruxos em pânico, já que sinaliza que o temido bruxo está prestes a retornar.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e a Ordem da Fênix[COLOR yellow](2007)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HRYPTR05.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIf9aUyNljda9MG1pjlOLHCZ3b0.jpg</thumbnail><info>[B][COLOR yellow]Harry Potter está em seu quinto ano em Hogwarts e acaba ouvindo que muitos não sabem a verdade sobre seu encontro com Lord Voldemort. O Ministro de Mágica, Cornelius Fudge, indica Dolores Umbridge para ser a nova professora de Defesa Contra as Artes das Trevas, por acreditar que Dumbledore planeja tomar seu lugar. Porém, os métodos que ela usa são totalmente inapropriados. Harry, então, se reúne com um grupo de alunos para defender sua escola.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+<item><title>[B][COLOR white]Harry Potter e o Enigma do Príncipe[COLOR yellow](2009)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HRYPTR06.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hTQQ5l9mxA3Rob8PTyvrNNGuj6y.jpg</thumbnail><info>[B][COLOR yellow]No sexto ano de Harry em Hogwarts, Lord Voldemort e seus Comensais da Morte estão criando o terror nos mundos bruxo e trouxa. Dumbledore convence seu velho amigo Horácio Slughorn para retornar a Hogwarts como professor de poções após Harry encontrar um estranho livro escolar. Draco Malfoy se esforça para realizar uma ação destinada por Voldemort, enquanto Dumbledore e Harry secretamente trabalham juntos a fim de descobrir o método para destruir o Lorde das Trevas uma vez por todas.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e as Relíquias da Morte - Parte 1[COLOR yellow](2010)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HRYPTR07.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/67FVFOTaeBUQnimhCWpUkDawDct.jpg</thumbnail><info>[B][COLOR yellow]Sem a orientação e proteção de seus professores, Harry, Rony e Hermione iniciam uma missão para destruir as horcruxes, que são as fontes da imortalidade de Voldemort. Embora devam confiar um no outro mais do que nunca, forças das trevas ameaçam separá-los. Os Comensais da Morte de Voldemort tomaram o controle do Ministério da Magia e de Hogwarts, e eles estão procurando por Harry enquanto ele e seus amigos se preparam para o confronto final.[/COLOR][/B]<info></item>
+
+######################################################################################################################################
+
+<item><title>[B][COLOR white]Harry Potter e as Relíquias da Morte - Parte 2[COLOR yellow](2011)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HRYPTR08.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yD3VosOVW8WxPUzBDpEdzfv5pGx.jpg</thumbnail><info>[B][COLOR yellow]Harry Potter e seus amigos Rony Weasley e Hermione Granger seguem à procura das horcruxes. O objetivo do trio é encontrá-las e, em seguida, destruí-las, de forma a eliminar lorde Voldemort de uma vez por todas. Com a ajuda do duende Grampo, eles entram no banco Gringotes de forma a invadir o cofre de Bellatrix Lestrange. De lá retornam ao castelo de Hogwarts, onde precisam encontrar mais uma horcrux. Paralelamente, Voldemort prepara o ataque definitivo ao castelo.[/COLOR][/B]<info></item>
+

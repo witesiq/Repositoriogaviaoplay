@@ -1,0 +1,41 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]jhon  wick - De Volta ao Jogo [COLOR yellow] (2014)[/COLOR][/B]</title>
+https://cdn.gamesgo.fun/RCFServer4/ondemand/DVLTAOJG.mp4
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D62277010056E03D126D5407985630157AA36AD</link>
+<thumbnail>https://i.imgur.com/uqNu9tF.jpg</thumbnail><info>[B][COLOR yellow]John Wick (Keanu Reeves) já foi um dos assassinos mais temidos da cidade de Nova York, trabalhando em parceria com a máfia russa. Um dia, ele decide se aposentar, e neste período tem que lidar com a triste morte de sua esposa. Vítima de uma doença grave, ela já previa a sua própria morte, e deu de presente ao marido um cachorro para cuidar em seu período de luto. No entanto, poucos dias após o funeral, o cachorro é morto por ladrões que roubam o seu carro. John Wick parte em busca de vingança contra estes homens que ele já conhecia muito bem, e que roubaram o último símbolo da mulher que ele amava. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]John Wick 2 - Um Novo Dia Para Matar[COLOR yellow] (2017)[/COLOR][/B]</title>
+https://cdn.gamesgo.fun/RCFServer4/ondemand/JHNWCKUMNVDIAPRMTR.mp4
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76745548A60B9469B009EDD5BF73CAA1FB31EC47</link>
+<thumbnail>https://2.bp.blogspot.com/-qJ-OAwYOMEo/WSQJnhagv2I/AAAAAAAADEQ/aJhIB9BBU2AWf5XTlIlC85QMevEeNejhACLcB/s1600/john-wick-um-novo-dia-para-matar-torrent-2017-filme.jpg</thumbnail><info>[B][COLOR yellow]Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino DAntonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]John Wick 3 - Parabellun[COLOR yellow] (2019)[/COLOR][/B]</title>
+https://cdn.gamesgo.fun/RCFServer1/ondemand/JHNWCK3.mp4
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9BFEC0D85CF6B9A4B8BC66CBCAF4B409D6377023</link>
+<thumbnail>https://abutretorrents.com/capas/john-wick-3-parabellum-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]John Wick (Keanu Reeves) está fugindo por dois motivos… ele está sendo caçado por um contrato de $14 milhões de dólares por sua vida, e por quebrar uma regra central: tirar uma vida dentro do Hotel Continental. A vítima era integrante da Mesa Alta que encomendou o contrato aberto. John já deveria ter sido executado, exceto que o gerente do Continental, Winston, deu a ele um período de uma hora até ele ser Excommunicado, ou seja, ter sua associação removida, banido de todos os serviços e ter todos seus laços com os outros membros cortados. John usa a indústria do serviço para se manter vivo enquanto luta e mata em seu caminho para fora da cidade de Nova York. [/COLOR][/B]</info></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]jhon  wick - De Volta ao Jogo [COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/DVLTAOJG.mp4</link>
+<thumbnail>https://i.imgur.com/uqNu9tF.jpg</thumbnail><info>[B][COLOR yellow]John Wick (Keanu Reeves) já foi um dos assassinos mais temidos da cidade de Nova York, trabalhando em parceria com a máfia russa. Um dia, ele decide se aposentar, e neste período tem que lidar com a triste morte de sua esposa. Vítima de uma doença grave, ela já previa a sua própria morte, e deu de presente ao marido um cachorro para cuidar em seu período de luto. No entanto, poucos dias após o funeral, o cachorro é morto por ladrões que roubam o seu carro. John Wick parte em busca de vingança contra estes homens que ele já conhecia muito bem, e que roubaram o último símbolo da mulher que ele amava. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]John Wick 2 - Um Novo Dia Para Matar[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/JHNWCKUMNVDIAPRMTR.mp4</link>
+<thumbnail>https://2.bp.blogspot.com/-qJ-OAwYOMEo/WSQJnhagv2I/AAAAAAAADEQ/aJhIB9BBU2AWf5XTlIlC85QMevEeNejhACLcB/s1600/john-wick-um-novo-dia-para-matar-torrent-2017-filme.jpg</thumbnail><info>[B][COLOR yellow]Após recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim poderá se aposentar. Entretanto, a reaparição de Santino DAntonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissória em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cúpula, Santino cobra a dívida existente e insiste para que ele mate sua própria irmã, Gianna (Claudia Gerini[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]John Wick 3 - Parabellun[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/JHNWCK3.mp4</link>
+<thumbnail>https://abutretorrents.com/capas/john-wick-3-parabellum-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]John Wick (Keanu Reeves) está fugindo por dois motivos… ele está sendo caçado por um contrato de $14 milhões de dólares por sua vida, e por quebrar uma regra central: tirar uma vida dentro do Hotel Continental. A vítima era integrante da Mesa Alta que encomendou o contrato aberto. John já deveria ter sido executado, exceto que o gerente do Continental, Winston, deu a ele um período de uma hora até ele ser Excommunicado, ou seja, ter sua associação removida, banido de todos os serviços e ter todos seus laços com os outros membros cortados. John usa a indústria do serviço para se manter vivo enquanto luta e mata em seu caminho para fora da cidade de Nova York. [/COLOR][/B]</info></item>
+
+
+

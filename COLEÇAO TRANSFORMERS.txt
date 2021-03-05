@@ -1,0 +1,70 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Tranformers[COLOR yellow] (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bb14c6e9817975b9fd371471b0bcb3bec6b9416</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29f888c18bff09e53e5185b87cc4df0928491c9b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N4sipl8T72tNE4earcctQa2Kw2.jpg</thumbnail><info>[B][COLOR yellow]O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Transformers: A Vingança dos Derrotados[COLOR yellow] (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c396a150d94d7bc09dd80fe4c97b7be65d314652</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c396a150d94d7bc09dd80fe4c97b7be65d314652</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgUlcYSp0iY1fJN9mPx6ZR50mjp.jpg</thumbnail><info>[B][COLOR yellow]Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a raça humana e tentam ter uma vida normal: Sam está começando a faculdade, enquanto os Autobots trabalham com uma organização militar secreta e tentam construir uma casa para eles na Terra. Porém, um antigo Decepticon conhecido como 'The Fallen' aparece para se vingar, então Sam e sua namorada Mikaela precisam desvendar a história dos Transformes e achar um caminho para derrotá-lo.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Transformers: O Lado Oculto da Lua[COLOR yellow] (2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:151042f571e8ab618efa4706174f37da739b217f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E92B494DC41D5F79D48F11F023BB7D9DE5AB408</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS5kxfgLUPw3ukVg0Pu1OMTfzn2.jpg</thumbnail><info>[B][COLOR yellow]Sam Witwicky e sua nova namorada, Carly, entram na briga quando os Decepticons renovam sua guerra contra os Autobots. Optimus Prime acredita que ressuscitar o antigo Transformer Sentinel Prime, ex-líder dos Autobots, pode levar à vitória. Essa decisão tem consequências devastadoras e a guerra parece pender a favor dos Decepticons, causando um conflito épico em Chicago.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Transformers: A Era da Extinção[COLOR yellow ](2014)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5475BB82287EC632F81B1B8606C2946CC62C7CD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:307cfc4c11ce7d452ecb9067684c952e9a165253</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEoefzCucns2lKgw5eH35EW3kjL.jpg</thumbnail><info>[B][COLOR yellow]Após a batalha entre os Autobots e os Decepticons, que arrasou Chicago, os gigantescos robôs alienígenas desapareceram. Atualmente, eles são caçados pelos humanos, que não desejam passar por apuros novamente. Porém, enquanto a humanidade tenta se recuperar dessa terrível batalha, uma nova ameaça paira sobre a Terra.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white[B]]Transformers: O Último Cavaleiro[COLOR yellow] (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79FC338A15DC896B61B1E2E87572AF7926967562</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79FC338A15DC896B61B1E2E87572AF7926967562</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg</thumbnail><info>[B][COLOR yellow]Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e descobre que foi responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Bumblebee[COLOR yellow] (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0E0AD94D41FF90D7EF28855DA5C7C7283C56FCFD</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4DABAC463E5637FC79464E0079A6D094D058D1A8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg</thumbnail><info>[B][COLOR yellow]Refugiado em um ferro-velho na Califórnia, Bumblebee, machucado e sem condição de uso, é encontrado e consertado pela jovem Charlie. Quando Bee ganha vida, porém, ela percebe que seu novo amigo é bem mais do que um simples automóvel.[/COLOR][/B]</info></item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Tranformers[COLOR yellow] (2007)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/TNSFRMRS01.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4N4sipl8T72tNE4earcctQa2Kw2.jpg</thumbnail><info>[B][COLOR yellow]O destino da humanidade está em jogo quando duas raças de robôs, os Autobots e os vilões Decepticons, chegam à Terra. Os robôs possuem a capacidade de se transformarem em diferentes objetos mecânicos enquanto buscam a chave do poder supremo com a ajuda do jovem Sam.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Transformers: A Vingança dos Derrotados[COLOR yellow] (2009)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/TNSFRMRS02.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgUlcYSp0iY1fJN9mPx6ZR50mjp.jpg</thumbnail><info>[B][COLOR yellow]Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a raça humana e tentam ter uma vida normal: Sam está começando a faculdade, enquanto os Autobots trabalham com uma organização militar secreta e tentam construir uma casa para eles na Terra. Porém, um antigo Decepticon conhecido como 'The Fallen' aparece para se vingar, então Sam e sua namorada Mikaela precisam desvendar a história dos Transformes e achar um caminho para derrotá-lo.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Transformers: O Lado Oculto da Lua[COLOR yellow] (2011)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/TNSFRMRS03.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dS5kxfgLUPw3ukVg0Pu1OMTfzn2.jpg</thumbnail><info>[B][COLOR yellow]Sam Witwicky e sua nova namorada, Carly, entram na briga quando os Decepticons renovam sua guerra contra os Autobots. Optimus Prime acredita que ressuscitar o antigo Transformer Sentinel Prime, ex-líder dos Autobots, pode levar à vitória. Essa decisão tem consequências devastadoras e a guerra parece pender a favor dos Decepticons, causando um conflito épico em Chicago.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Transformers: A Era da Extinção[COLOR yellow ](2014)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/TNSFRMRS04.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEoefzCucns2lKgw5eH35EW3kjL.jpg</thumbnail><info>[B][COLOR yellow]Após a batalha entre os Autobots e os Decepticons, que arrasou Chicago, os gigantescos robôs alienígenas desapareceram. Atualmente, eles são caçados pelos humanos, que não desejam passar por apuros novamente. Porém, enquanto a humanidade tenta se recuperar dessa terrível batalha, uma nova ameaça paira sobre a Terra.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white[B]]Transformers: O Último Cavaleiro[COLOR yellow] (2017)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/TNSFRMRS05.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7FhfQhH1Qppc9Xlyiglj75QQSKx.jpg</thumbnail><info>[B][COLOR yellow]Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e descobre que foi responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Bumblebee[COLOR yellow] (2018)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/BUMBLE.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x9vAcoPsyFQ6m3Re5S9DQSbudyi.jpg</thumbnail><info>[B][COLOR yellow]Refugiado em um ferro-velho na Califórnia, Bumblebee, machucado e sem condição de uso, é encontrado e consertado pela jovem Charlie. Quando Bee ganha vida, porém, ela percebe que seu novo amigo é bem mais do que um simples automóvel.[/COLOR][/B]</info></item>

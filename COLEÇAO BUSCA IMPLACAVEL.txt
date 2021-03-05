@@ -1,0 +1,42 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Busca Implacavel[COLOR yellow] (2008)[/B][/COLOR]</title>
+<link><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05b33d3d856cc444138f6a7d713548d239b4533f</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtsoJsoIweDa4pxFq4VenNdrcDz.jpg</thumbnail><info>[B][COLOR yellow]Bryan Mills (Liam Neeson) é um ex-agente do governo, que deixou o emprego para que pudesse passar mais tempo com Kim (Maggie Grace), a filha que teve com sua ex-esposa Lenore (Famke Janssen). Ele passa então a trabalhar com antigos colegas, realizando serviços leves de segurança particular. Um dia Kim pede ao pai autorização para que viaje a Paris com uma amiga, a qual é negada pelo fato de que Bryan sabe bem os perigos que ela correria em um país estranho. Isto não a impede, fazendo a viagem assim mesmo. Só que o temor de Bryan se concretiza, já que logo após a chegada Kim e sua amiga desaparecem.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lQLcoSthJtzBFqZ5ctWosu_s4_PLWGgy/view?usp=sharing
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Busca Implacavel 2[COLOR yellow] (2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55d51cd0764dc222b8e33f390d4fad0e629b646d</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/59/41/20103765.jpg</thumbnail><info>[B][COLOR yellow]Em busca de vingança, um chefe do crime de Istambul sequestra um ex-agente da CIA e sua ex-esposa, forçando a filha deles a correr contra o tempo pelas ruas da cidade tentando resgatá-los antes que seja tarde demais.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Busca Implacavel 3[COLOR yellow](2014)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UTQQV7TON3TINAH4YRGEOGEVH2NH7ZHB</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/urQE6vRrk0fkOtnRr68sef4D6aF.jpg</thumbnail><info>[B][COLOR yellow] ex-agente do governo norte-americano Bryan Mills tenta tornar-se um homem família, mas vê tudo ruir quando sua esposa, Lenore, é assassinada. Acusado de ter cometido o crime, ele entra na mira da polícia de Los Angeles. Desolado e caçado, ele tenta encontrar os verdadeiros culpados e proteger a única coisa que lhe resta: a filha Kim.[/COLOR][/B]</info></item>
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orangen]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Diretos,Porem As Vezes Ficam Off Line,Mas logo Volta a ficar on line.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Busca Implacavel[COLOR yellow] (2008)[/B][/COLOR]</title>
+<utube>KnNyGumTChk</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gtsoJsoIweDa4pxFq4VenNdrcDz.jpg</thumbnail><info>[B][COLOR yellow]Bryan Mills (Liam Neeson) é um ex-agente do governo, que deixou o emprego para que pudesse passar mais tempo com Kim (Maggie Grace), a filha que teve com sua ex-esposa Lenore (Famke Janssen). Ele passa então a trabalhar com antigos colegas, realizando serviços leves de segurança particular. Um dia Kim pede ao pai autorização para que viaje a Paris com uma amiga, a qual é negada pelo fato de que Bryan sabe bem os perigos que ela correria em um país estranho. Isto não a impede, fazendo a viagem assim mesmo. Só que o temor de Bryan se concretiza, já que logo após a chegada Kim e sua amiga desaparecem.[/COLOR][/B]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1lQLcoSthJtzBFqZ5ctWosu_s4_PLWGgy/view?usp=sharing
+######################################################################################################################################
+<item><title>[COLOR white][B]Busca Implacavel 2[COLOR yellow] (2012)[/B][/COLOR]</title>
+<utube>lQdqZN0LGZo</utube>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/59/41/20103765.jpg</thumbnail><info>[B][COLOR yellow]Em busca de vingança, um chefe do crime de Istambul sequestra um ex-agente da CIA e sua ex-esposa, forçando a filha deles a correr contra o tempo pelas ruas da cidade tentando resgatá-los antes que seja tarde demais.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Busca Implacavel 3[COLOR yellow](2014)[/B][/COLOR]</title>
+<utube>0fgDpdbA-7k</utube>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/urQE6vRrk0fkOtnRr68sef4D6aF.jpg</thumbnail><info>[B][COLOR yellow] ex-agente do governo norte-americano Bryan Mills tenta tornar-se um homem família, mas vê tudo ruir quando sua esposa, Lenore, é assassinada. Acusado de ter cometido o crime, ele entra na mira da polícia de Los Angeles. Desolado e caçado, ele tenta encontrar os verdadeiros culpados e proteger a única coisa que lhe resta: a filha Kim.[/COLOR][/B]</info></item>

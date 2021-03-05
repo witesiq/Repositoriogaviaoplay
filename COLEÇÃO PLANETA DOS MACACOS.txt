@@ -1,0 +1,42 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item>
+<title>[B][COLOR white]O Planeta dos Macacos 5 Filmes [COLOR yellow]( 1968-1973 )[/COLOR][/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61be4fc8b746fc197a65916d552dccaf4008d53b</link>
+<thumbnail></thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white]O Planeta dos Macacos[COLOR yellow]( 2001 )[/COLOR][/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ec813c84c95d6984f684a7bbc7c2fcdc7c8b3e0</link>
+<thumbnail></thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white]Planeta Dos Macacos: A Origem [COLOR yellow]( 2011 )[/COLOR][/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white]Planeta dos Macacos: O Confronto[COLOR yellow]( 2014 )[/COLOR][/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Diretos,Porem As Vezes Ficam Off Line,Mas logo Volta a ficar on line.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item>
+<title>[B][COLOR white]Roberto Carlos Especial[COLOR yellow]()[/COLOR][/COLOR][/B]<title>
+<link></link>
+<thumbnail></thumbnail></info>[B][COLOR yellow][/COLOR][/B]</info>
+</item> 

@@ -1,0 +1,73 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item>
+<title>[B][COLOR white]A Identidade Bourne[COLOR yellow](2002)[/COLOR][/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ef8636d845ad45a4f8bb3605bb99fd2c86619ee</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2q17OHj5coMCq1cwWQ3V7AQhMF.jpg</thumbnail></info>[B][COLOR yellow]Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele só sabe que tem talento para matar e um chip implantado no quadril. Enquanto busca sua história, tenta escapar de pessoas que, inexplicavelmente, querem matá-lo.[/COLOR][/B]</info>
+</item> 
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white]A Supremacia Bourne[COLOR yellow](2004)[/COLOR][/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:461f2147ab29fe4ffd153662957ee59e40ccfa38</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIyEJ8nKrbXhIMGqDRxTtBBn8h.jpg</thumbnail></info>[B][COLOR yellow]Jason Bourne está vivendo na Índia quando é enquadrado por um agente russo, Kirill, pelo roubo de milhões da CIA. Kirill começa a perseguir Bourne com a intenção de assassiná-lo, mas, por engano, mata a namorada de Bourne, Marie. Jurando vingança, Bourne se propõe a provar sua inocência e trazer os culpados à justiça.[/COLOR][/B]</info>
+</item> 
+########################################################################################################################################
+<item>
+<title>[B][COLOR white]O Ultimato Bourne[COLOR yellow](2007)[/COLOR][/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab2c5136cd3bb0ac98475e2cfbe3745b231f3649</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFQCaO4G9YgnSUGX99jJsuJkG9n.jpg</thumbnail></info>[B][COLOR yellow]Jason Bourne ainda está tentando descobrir sua identidade. Percorrendo a Rússia, países da Europa, o norte da África e os Estados Unidos, Bourne precisa manter-se um passo à frente daqueles que querem matá-lo antes que ele descubra toda a verdade sobre seu passado.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[B][COLOR white] O Legado Bourne[COLOR yellow](2012)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:508f92ca25324d999e3e7a5a20ca528626c93e1b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIXzjirvmasyho2jTzD2FzT1vJn.jpg</thumbnail></info>[B][COLOR yellow]Eric Byer é encarregado de apagar os rastros que possam incriminar o governo em projetos sigilosos. Um deles é o Outcome, projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força dos agentes por meio de remédios. Com o fim do Outcome, os agente passam a ser eliminados a mando do próprio governo. No entanto, Aaron Cross consegue escapar e vai à casa da Dra. Martha Shearing atrás de respostas. Juntos, eles precisam sobreviver enquanto Aaron sofre da abstinência forçada.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[B][COLOR white] Jason Bourne[COLOR yellow](2016)[/COLOR][/B]<title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9A52FEFCBE27B80C9F4AB90FE192F232FB6589E9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT5XMzFOw6Sp1M9KuvKxihpwl0j.jpg</thumbnail></info>[B][COLOR yellow]Afastado da CIA há 10 anos, o agente Jason Bourne retorna ao campo de batalha para enfrentar uma rede sinistra que utiliza tecnologia e terror para se manter no poder.[/COLOR][/B]</info>
+</item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item>
+<title>[B][COLOR white]A Identidade Bourne[COLOR yellow](2002)[/COLOR][/COLOR][/B]<title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/AIDBOURN.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p2q17OHj5coMCq1cwWQ3V7AQhMF.jpg</thumbnail></info>[B][COLOR yellow]Um homem sem memória é resgatado do oceano por barco de pesca. Sobre si, ele só sabe que tem talento para matar e um chip implantado no quadril. Enquanto busca sua história, tenta escapar de pessoas que, inexplicavelmente, querem matá-lo.[/COLOR][/B]</info>
+</item> 
+##########################################################################################################################################
+<item>
+<title>[B][COLOR white]A Supremacia Bourne[COLOR yellow](2004)[/COLOR][/COLOR][/B]<title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/ASPBOURN.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcIyEJ8nKrbXhIMGqDRxTtBBn8h.jpg</thumbnail></info>[B][COLOR yellow]Jason Bourne está vivendo na Índia quando é enquadrado por um agente russo, Kirill, pelo roubo de milhões da CIA. Kirill começa a perseguir Bourne com a intenção de assassiná-lo, mas, por engano, mata a namorada de Bourne, Marie. Jurando vingança, Bourne se propõe a provar sua inocência e trazer os culpados à justiça.[/COLOR][/B]</info>
+</item> 
+########################################################################################################################################
+<item>
+<title>[B][COLOR white]O Ultimato Bourne[COLOR yellow](2007)[/COLOR][/COLOR][/B]<title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/OULBOURN.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFQCaO4G9YgnSUGX99jJsuJkG9n.jpg</thumbnail></info>[B][COLOR yellow]Jason Bourne ainda está tentando descobrir sua identidade. Percorrendo a Rússia, países da Europa, o norte da África e os Estados Unidos, Bourne precisa manter-se um passo à frente daqueles que querem matá-lo antes que ele descubra toda a verdade sobre seu passado.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[B][COLOR white] O Legado Bourne[COLOR yellow](2012)[/COLOR][/B]<title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/OLGBOURN.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bIXzjirvmasyho2jTzD2FzT1vJn.jpg</thumbnail></info>[B][COLOR yellow]Eric Byer é encarregado de apagar os rastros que possam incriminar o governo em projetos sigilosos. Um deles é o Outcome, projeto que pretende suprimir a dor e aumentar a sensibilidade, inteligência e força dos agentes por meio de remédios. Com o fim do Outcome, os agente passam a ser eliminados a mando do próprio governo. No entanto, Aaron Cross consegue escapar e vai à casa da Dra. Martha Shearing atrás de respostas. Juntos, eles precisam sobreviver enquanto Aaron sofre da abstinência forçada.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[B][COLOR white] Jason Bourne[COLOR yellow](2016)[/COLOR][/B]<title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/JSONBRNE.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uT5XMzFOw6Sp1M9KuvKxihpwl0j.jpg</thumbnail></info>[B][COLOR yellow]Afastado da CIA há 10 anos, o agente Jason Bourne retorna ao campo de batalha para enfrentar uma rede sinistra que utiliza tecnologia e terror para se manter no poder.[/COLOR][/B]</info>
+</item>
+

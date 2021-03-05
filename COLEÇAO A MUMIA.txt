@@ -1,0 +1,53 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]A Mumia [COLOR yellow](1999)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4684ff8cdef0046dd1f2bb04aa10095c92b6e45</link><thumbnail>https://i.imgur.com/v0Rvywj.jpg</thumbnail>
+<info>[B][COLOR yellow]Em 1923, um grupo de arqueólogos exploram o egito. Nessa exploração encontram o corpo mumificado de Imhotep. Quando um deles lê o texto do livro de Amon-Dei, acidentalmente traz Imhoptep de volta a vida. Ele ressurge cheio de ódio e só pensa em reencontrar sua amada e destruir todos que cruzem o seu caminho, trazendo consigo as dez pragas do Egito.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Retorno Da Mumia [COLOR yellow](2001)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB06B0097508DF5A9A52B5A02F5E821ADC61466E</link><thumbnail>https://abutretorrents.com/capas/o-retorno-da-mumia-bluray-download-torrent-2001-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Rick e Evelyn O'Connell estão morando na Londres de 1935, onde criam o filho. Quando uma série de eventos revela o corpo de Imhotep ressuscitado, os O'Connell iniciam uma corrida desesperada para salvar o mundo do mal e resgatar o filho antes que seja tarde demais.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Múmia - Tumba do Imperador Dragão [COLOR yellow](2008)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BEAD7F5BD4FFDAB806BEBF6B83E2BC30FFE30DCF</link><thumbnail>https://abutretorrents.com/capas/a-mumia-tumba-do-imperador-dragao-bluray-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]O imperador chinês Dragão e seu grande exército são enfeitiçados e enterrados por uma bruxa maldita. Quando o jovem arqueólogo Alex O' Connell é enganado para ressuscitar o imperador, ele e seus famosos parentes devem encontrar uma forma de mandar o mal de volta para a tumba antes que Dragão desperte seu grande exército. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Mumia - A Ressureição [COLOR yellow](2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CCCE3F7A68DEAD6C2F003823F0ABCA396B865C1</link><thumbnail>https://i.imgur.com/hAsToXZ.jpg</thumbnail>
+<info>[B][COLOR yellow]Em meio as areias do Egito, um grupo de arqueologistas descobrem uma múmia antiga. No processo, elese acabam desencadeando uma praga mortal da sua tumba eterna.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Múmia: A Ressurreição [COLOR yellow](2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3CCCE3F7A68DEAD6C2F003823F0ABCA396B865C1</link><thumbnail>https://i.imgur.com/hAsToXZ.jpg</thumbnail>
+<info>[B][COLOR yellow]Em meio as areias do Egito, um grupo de arqueologistas descobrem uma múmia antiga. No processo, elese acabam desencadeando uma praga mortal da sua tumba eterna.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Mumia [COLOR yellow](2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8576963854563A6915C85160A12A11EEBD1E76C7</link><thumbnail>https://2.bp.blogspot.com/-UfclTxaJouA/WbhyMn2VNZI/AAAAAAAAFeU/8qwOYYUiTJMNijZk40cSbhFxR-xaSiGbgCLcBGAs/s1600/A-Mumia-torrent-2017-download-bluray-1080p-720p.jpg</thumbnail>
+<info>[B][COLOR yellow]Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe tirado está mumificada. Apesar de sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espalha terror desde as areais do Oriente Médio até os becos de Londres.[/COLOR][/B]</info></item>
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime]links diretos [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links diretos porem as vezes ficam of line,mas logo voltam on line[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]A Mumia [COLOR yellow](1999)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/AMUMIA.mp4</link><thumbnail>https://i.imgur.com/v0Rvywj.jpg</thumbnail>
+<info>[B][COLOR yellow]Em 1923, um grupo de arqueólogos exploram o egito. Nessa exploração encontram o corpo mumificado de Imhotep. Quando um deles lê o texto do livro de Amon-Dei, acidentalmente traz Imhoptep de volta a vida. Ele ressurge cheio de ódio e só pensa em reencontrar sua amada e destruir todos que cruzem o seu caminho, trazendo consigo as dez pragas do Egito.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Retorno Da Mumia [COLOR yellow](2001)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/ORTNDAMUMIA.mp4</link><thumbnail>https://abutretorrents.com/capas/o-retorno-da-mumia-bluray-download-torrent-2001-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Rick e Evelyn O'Connell estão morando na Londres de 1935, onde criam o filho. Quando uma série de eventos revela o corpo de Imhotep ressuscitado, os O'Connell iniciam uma corrida desesperada para salvar o mundo do mal e resgatar o filho antes que seja tarde demais.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Múmia - Tumba do Imperador Dragão [COLOR yellow](2008)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/AMUMIATMBDIMPRDDRG.mp4</link><thumbnail>https://abutretorrents.com/capas/a-mumia-tumba-do-imperador-dragao-bluray-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]O imperador chinês Dragão e seu grande exército são enfeitiçados e enterrados por uma bruxa maldita. Quando o jovem arqueólogo Alex O' Connell é enganado para ressuscitar o imperador, ele e seus famosos parentes devem encontrar uma forma de mandar o mal de volta para a tumba antes que Dragão desperte seu grande exército. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Mumia - A Ressureição [COLOR yellow](2016)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/MUMARSRCAO.mp4</thumbnail>
+<info>[B][COLOR yellow]Em meio as areias do Egito, um grupo de arqueologistas descobrem uma múmia antiga. No processo, elese acabam desencadeando uma praga mortal da sua tumba eterna.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Mumia [COLOR yellow](2017)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/AMUM.mp4</link><thumbnail>https://2.bp.blogspot.com/-UfclTxaJouA/WbhyMn2VNZI/AAAAAAAAFeU/8qwOYYUiTJMNijZk40cSbhFxR-xaSiGbgCLcBGAs/s1600/A-Mumia-torrent-2017-download-bluray-1080p-720p.jpg</thumbnail>
+<info>[B][COLOR yellow]Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe tirado está mumificada. Apesar de sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espalha terror desde as areais do Oriente Médio até os becos de Londres.[/COLOR][/B]</info></item>

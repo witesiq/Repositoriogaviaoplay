@@ -1,0 +1,116 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Resident Evil: O Hóspede Maldito[COLOR yellow] (2002)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D311CC8276CDA92F7D8A45BDD8356B255A759AA</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vJX0Q9LSoOlTio8cTAm2ms0sWz.jpg</thumbnail>
+<info>[B][COLOR yellow]Alice e Rain Ocampo têm a missão de destruir um laboratório genético operado pela poderosa corporação Umbrella, um dos maiores conglomerados do mundo, onde um vírus foi disseminado, matando seu criador e ressurgindo como uma criatura demoníaca, que sente uma fome incontrolável e transforma todas as suas vítimas em zumbis. O time tem apenas três horas para evitar que o vírus invada a Terra.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 2: Apocalipse [COLOR yellow](2004)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:251FC172798B5678825E1552E04E2FC51CE17D9F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8afaa9899d12a316640b3ac01fe15adf208359ac</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppAMfnKoXkDX5Mh3zr7Qqy4umw6.jpg</thumbnail>
+<info>[B][COLOR yellow]Desde que foi capturada pela Corporação Umbrella, Alice passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine e Carlos Olivera para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 3: A Extinção[COLOR yellow] (2007)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e17cef71ffbaba0a020dc04d6b9cd7f6d65144f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e17cef71ffbaba0a020dc04d6b9cd7f6d65144f</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qetrFNiG9kbsI5nyM853S0N9ydP.jpg</thumbnail>
+<info>[B][COLOR yellow]Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que o vírus que transforma humanos em aterrorizantes zumbis contamine todo o mundo.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 4: Recomeço[COLOR yellow](2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d672b868ba00ba011391e6f6b45aa836ab1607df</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d672b868ba00ba011391e6f6b45aa836ab1607df</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b45vZ4hr8avVfR5LEz2Syi7EJ3X.jpg</thumbnail>
+<info>[B][COLOR yellow]Em um mundo dominado por mortos-vivos, Alice continua sua batalha para salvar sobreviventes. Sua batalha se intensifica e ela recebe a ajuda de um velho amigo. Em Los Angeles, pode existir um lugar para salvar-se, mas a cidade foi invadida por mortos-vivos.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[B][COLOR white] Resident Evil 5: Retribuição[COLOR yellow] (2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c32b58564f2877e233b81ae1c86e355bc9359aca</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0FA4C289B0B3DAFC6E865823CC9D856461A526D</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
+<info>[B][COLOR yellow]O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 6: O Capítulo Final[COLOR yellow] (2016)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:644999F255916C0FB87F041E5F06CAD54E6AAC21</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:699FFA4C61E4608F6796140E63B8ACE225696D75</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg</thumbnail>
+<info>[B][COLOR yellow]Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR RED]#############     RESIDENT EVIL  ANIMES    ##########[/COLOR]</title<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white][B]Resident Evil:A Condenação[COLOR yellow] (2012)[/B][/COLOR]Anime</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4azYtt5OxJbyUbqfaD6tHKZ4ejS.jpg</thumbnail>
+<info>[B][COLOR yellow]O agente especial dos Estados Unidos, Leon S. Kennedy, vai a um pequeno país da Europa Oriental investigar rumores de que armas biológicas (B.O.W.s) estão sendo usadas em guerra. Logo após infiltrar-se no local, o governo ordena que Leon se retire imediatamente. Determinado a descobrir a verdade, Leon ignora a ordem e entra no campo de batalha para encerrar a cadeia de tragédias causadas por B.O.W.s.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil: A Vingança[COLOR yellow] (2017)[/B][/COLOR]Anime</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZW3ZgtoP7LN9U2qpvhNevKWBX8.jpg</thumbnail>
+<info>[B][COLOR yellow]Um inimigo sem escrúpulos planeja uma vingança brutal e libera um vírus mortal. O capitão Chris Redfield, membro da organização que luta contra o bioterrorismo, terá que responder ao ataque.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil: Degeneração[COLOR yellow] (2008)[/B][/COLOR] Anime</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ee47207effec8bd8ea8a7d694299405d51c8696</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ3rh5Yu7akSFKXUjKpBU9CsH39.jpg</thumbnail>
+<info>[B][COLOR yellow]O vírus mortal T foi erradicado. Sete anos depois, um passageiro chega aos EUA com os mesmos sintomas, e zumbis tomam o aeroporto. Surgem dúvidas sobre a erradicação do vírus, e o governo manda seus melhores agentes investigarem.[/COLOR][/B]</info>
+</item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Resident Evil: O Hóspede Maldito[COLOR yellow] (2002)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/REVIL01.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vJX0Q9LSoOlTio8cTAm2ms0sWz.jpg</thumbnail>
+<info>[B][COLOR yellow]Alice e Rain Ocampo têm a missão de destruir um laboratório genético operado pela poderosa corporação Umbrella, um dos maiores conglomerados do mundo, onde um vírus foi disseminado, matando seu criador e ressurgindo como uma criatura demoníaca, que sente uma fome incontrolável e transforma todas as suas vítimas em zumbis. O time tem apenas três horas para evitar que o vírus invada a Terra.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 2: Apocalipse [COLOR yellow](2004)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/REVIL02.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppAMfnKoXkDX5Mh3zr7Qqy4umw6.jpg</thumbnail>
+<info>[B][COLOR yellow]Desde que foi capturada pela Corporação Umbrella, Alice passou por várias experiências biogênicas. Ela teve seus genes modificados, o que fez com que adquirisse poderes, sentidos e agilidade sobre-humanos. Agora ela precisa retornar à cidade de Racoon, onde recebe o apoio de Jill Valentine e Carlos Olivera para eliminar um vírus mortal que ameaça fazer com que todo ser humano retorne como morto-vivo.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 3: A Extinção[COLOR yellow] (2007)[/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/REVIL03.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qetrFNiG9kbsI5nyM853S0N9ydP.jpg</thumbnail>
+<info>[B][COLOR yellow]Alice e os sobreviventes da catástrofe de Raccon tentam chegar ao Alasca, atravessando o deserto de Nevada. O grupo se une para lutar contra a poderosa organização Umbrella antes que o vírus que transforma humanos em aterrorizantes zumbis contamine todo o mundo.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 4: Recomeço[COLOR yellow](2010)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/REVIL04.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b45vZ4hr8avVfR5LEz2Syi7EJ3X.jpg</thumbnail>
+<info>[B][COLOR yellow]Em um mundo dominado por mortos-vivos, Alice continua sua batalha para salvar sobreviventes. Sua batalha se intensifica e ela recebe a ajuda de um velho amigo. Em Los Angeles, pode existir um lugar para salvar-se, mas a cidade foi invadida por mortos-vivos.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[B][COLOR white] Resident Evil 5: Retribuição[COLOR yellow] (2012)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/REVIL05.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Hd7OTdX1Q3pccZn2TUsU9isJpz.jpg</thumbnail>
+<info>[B][COLOR yellow]O vírus-T fatal da Corporação Umbrella está se espalhando pelo mundo, transformando pessoas comuns em legiões de zumbis. Prestes à extinção, a raça humana só tem uma esperança: Alice. Ela tem uma missão, lutando pelas cidades e através de continentes, sempre dentro da principal instalação de pesquisa da Corporação Umbrella. Velhos amigos se tornam novos inimigos, enquanto ela batalha para se libertar e descobre que tudo em que acreditou pode nem ser verdade.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil 6: O Capítulo Final[COLOR yellow] (2016)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/REVIL06.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkaLHoFk6dmTHZNW17FmeybZsdf.jpg</thumbnail>
+<info>[B][COLOR yellow]Sobrevivente do massacre zumbi, Alice retorna para onde o pesadelo começou, Raccoon City, em que a Umbrella Corporation reúne suas forças para um ataque final contra os remanescentes do apocalipse. Para vencer a dura batalha final e salvar a raça humana, a heroína recruta velhos e novos amigos.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR RED]#############     RESIDENT EVIL  ANIMES    ##########[/COLOR]</title<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white][B]Resident Evil:A Condenação[COLOR yellow] (2012)[/B][/COLOR]Anime</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/REVILCNDNCAO.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4azYtt5OxJbyUbqfaD6tHKZ4ejS.jpg</thumbnail>
+<info>[B][COLOR yellow]O agente especial dos Estados Unidos, Leon S. Kennedy, vai a um pequeno país da Europa Oriental investigar rumores de que armas biológicas (B.O.W.s) estão sendo usadas em guerra. Logo após infiltrar-se no local, o governo ordena que Leon se retire imediatamente. Determinado a descobrir a verdade, Leon ignora a ordem e entra no campo de batalha para encerrar a cadeia de tragédias causadas por B.O.W.s.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil: A Vingança[COLOR yellow] (2017)[/B][/COLOR]Anime</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/REVILAVNGNC.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ZW3ZgtoP7LN9U2qpvhNevKWBX8.jpg</thumbnail>
+<info>[B][COLOR yellow]Um inimigo sem escrúpulos planeja uma vingança brutal e libera um vírus mortal. O capitão Chris Redfield, membro da organização que luta contra o bioterrorismo, terá que responder ao ataque.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Resident Evil: Degeneração[COLOR yellow] (2008)[/B][/COLOR] Anime</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/REVILDGNRC.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pZ3rh5Yu7akSFKXUjKpBU9CsH39.jpg</thumbnail>
+<info>[B][COLOR yellow]O vírus mortal T foi erradicado. Sete anos depois, um passageiro chega aos EUA com os mesmos sintomas, e zumbis tomam o aeroporto. Surgem dúvidas sobre a erradicação do vírus, e o governo manda seus melhores agentes investigarem.[/COLOR][/B]</info>
+</item>

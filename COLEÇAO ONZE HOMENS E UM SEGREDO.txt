@@ -1,0 +1,38 @@
+
+<item><title>[B][B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Onze Homens e Um Segredo[COLOR yellow](2001)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35018c195bd00ce0162087f27531bb4b91590f99</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbSiE9xnymrcMEfiUbSM9it7hq.jpg</thumbnail><info>[B][COLOR yellow]Danny Ocean é um homem de ação. Apenas 24 horas após deixar a penitenciária de Nova Jersey ele já está pondo em prática seu novo plano: assaltar três cassinos de Las Vegas em apenas uma noite, em meio à realização de uma luta que vale o título mundial dos pesos-pesados. Ocean reúne uma equipe de 11 especialistas a fim de ajudá-lo em seu plano, seguindo sempre três regras básicas: não ferir ninguém, não roubar alguém que realmente não mereça e seguir o plano como se não tivesse nada a perder.[/COLOR][/B]</info></item>
+###########################################################################################################################
+<item><title>[B][COLOR white]Doze Homens e Outro Segredo[COLOR yellow](2004)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:440fdec498079fc26e79cb1391c5e7f50e9c39ed</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfyER2uKU2lBJGp4pxrFNCCcUAP.jpg</thumbnail><info>[B][COLOR yellow]Após o sucesso do roubo e de conseguir de volta sua esposa, Danny Ocean reparte o dinheiro e cada um da equipe vai viver de forma discreta. No entanto, Terry Benedict, o dono do cassino assaltado, reaparece e exige a quantia roubada de volta com juros, mas os membros da gangue já gastaram grande parte do dinheiro. Danny e seu melhor amigo, Rusty Ryan, concluem que a melhor opção é roubar uma raríssima obra que está sendo exibido em um museu de Roma, no valor que eles precisam.[/COLOR][/B]</info></item>
+###########################################################################################################################>
+<item><title>[B][COLOR white]Treze Homens e Um Novo Segredo[COLOR yellow](2007)[/COLOR][/B]</title><link>https://ia801408.us.archive.org/24/items/servicos_202003/NVSGRD.mp4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0427ac8baf26dfe18646d1127e739eeb00722947</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4wbB7EjcBqkO4uQZGxR67UMi1j.jpg</thumbnail><info>[B][COLOR yellow]Reuben Tishkoff, o homem que bancou financeiramente o assalto triplo aos cassinos de Terry Benedict, foi traído por Willy Bank, um inescrupuloso dono de cassinos. Com Reuben no hospital, Danny Ocean, Rusty Ryan e sua trupe mais uma vez se reúnem para iniciar um plano de vingança. O objetivo é derrotar Bank na noite de inauguração de seu mais luxuoso cassino, afundando-o financeiramente ao fazer com que os jogadores ganhem dinheiro a cada nove minutos, e também atingindo sua reputação[/COLOR][/B]</info></item>
+
+
+
+<item><title>[B][B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Onze Homens e Um Segredo[COLOR yellow](2001)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/ONZHOMNSEUMSGRDO.mp4</link>
+<link>https://ia801408.us.archive.org/24/items/servicos_202003/11H1SGRD.mp4?cnt=0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbSiE9xnymrcMEfiUbSM9it7hq.jpg</thumbnail><info>[B][COLOR yellow]Danny Ocean é um homem de ação. Apenas 24 horas após deixar a penitenciária de Nova Jersey ele já está pondo em prática seu novo plano: assaltar três cassinos de Las Vegas em apenas uma noite, em meio à realização de uma luta que vale o título mundial dos pesos-pesados. Ocean reúne uma equipe de 11 especialistas a fim de ajudá-lo em seu plano, seguindo sempre três regras básicas: não ferir ninguém, não roubar alguém que realmente não mereça e seguir o plano como se não tivesse nada a perder.[/COLOR][/B]</info></item>
+###########################################################################################################################
+<item><title>[B][COLOR white]Doze Homens e Outro Segredo[COLOR yellow](2004)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/DZHMNSEOUTRSGRDO.mp4</link>
+<link>https://ia801408.us.archive.org/24/items/servicos_202003/12HOSGRD.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wfyER2uKU2lBJGp4pxrFNCCcUAP.jpg</thumbnail><info>[B][COLOR yellow]Após o sucesso do roubo e de conseguir de volta sua esposa, Danny Ocean reparte o dinheiro e cada um da equipe vai viver de forma discreta. No entanto, Terry Benedict, o dono do cassino assaltado, reaparece e exige a quantia roubada de volta com juros, mas os membros da gangue já gastaram grande parte do dinheiro. Danny e seu melhor amigo, Rusty Ryan, concluem que a melhor opção é roubar uma raríssima obra que está sendo exibido em um museu de Roma, no valor que eles precisam.[/COLOR][/B]</info></item>
+###########################################################################################################################>
+<item><title>[B][COLOR white]Treze Homens e Um Novo Segredo[COLOR yellow](2007)[/COLOR][/B]</title><link>https://ia801408.us.archive.org/24/items/servicos_202003/NVSGRD.mp4</link>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/TRZHMNSEUMNVSGDO.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4wbB7EjcBqkO4uQZGxR67UMi1j.jpg</thumbnail><info>[B][COLOR yellow]Reuben Tishkoff, o homem que bancou financeiramente o assalto triplo aos cassinos de Terry Benedict, foi traído por Willy Bank, um inescrupuloso dono de cassinos. Com Reuben no hospital, Danny Ocean, Rusty Ryan e sua trupe mais uma vez se reúnem para iniciar um plano de vingança. O objetivo é derrotar Bank na noite de inauguração de seu mais luxuoso cassino, afundando-o financeiramente ao fazer com que os jogadores ganhem dinheiro a cada nove minutos, e também atingindo sua reputação[/COLOR][/B]</info></item>

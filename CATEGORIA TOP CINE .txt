@@ -1,0 +1,101 @@
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] TOP CINE[COLOR yellow] NOVIDADES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/XYXdXmkG/TOP-CINE-NOVIDADES.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/e8xDenTk</externallink>
+<fanart>https://ia601406.us.archive.org/30/items/fanarts/fanart%20a%C3%A7%C3%A3o.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE  [COLOR yellow]AÇÃO[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/D0h4kcH9/top-cine-a-o.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/46i0niuY</externallink>
+<fanart>https://i.postimg.cc/JzMDdKZZ/top-cine-a-o.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  AVENTURA[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/vTvgQVdc/top-cine-aventura.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/yibSxJWB</externallink>
+<fanart>https://i.postimg.cc/pV5F9mPh/top-cine-aventura.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  ADULTO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/jSrTYHGJ/Top-cine-adulto.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/2m9jPQF0</externallink>
+<fanart>https://i.postimg.cc/FHg4rf4C/fanart-top-cine-nacional.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  DIVERSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/MKWf9dyR/top-cine-diversos.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/tzaAuQz4</externallink>
+<fanart>https://i.postimg.cc/FsjkZwdh/top-cine-diversos.jpg</fanart>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[COLOR yellow] DRAMA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/L6NYwLTW/top-cine-drama.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Tp7P7Mhs</externallink>
+<fanart>https://i.postimg.cc/q77tpRm7/top-cine-drama.jpg</fanart>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow] ÉPICO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/L8Wq6SGB/top-cine-epico.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/2fEd0Fst</externallink>
+<fanart>https://i.postimg.cc/XvDrqbhk/top-cine-epico.jpg</fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  FICÇÃO [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/RF7qRHhX/top-cine-fic-o.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/wgZLatfN</externallink>
+<fanart>https://i.postimg.cc/Y9GhmPBK/top-cine-fic-o.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  INFANTIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/XvyrrhbM/top-cine-infantil.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/bmNj9pYW</externallink>
+<fanart>https://i.postimg.cc/BnpLWDBy/top-cine-infantil.jpg</fanart>
+<info>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ 
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  NACIONAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/wM9MbjsH/top-cine-nacional.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Uc86mSgp</externallink>
+<fanart>https://i.postimg.cc/FHg4rf4C/fanart-top-cine-nacional.jpg</fanart>
+<info>
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] TOP CINE[COLOR yellow]  ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/V6QdnRfJ/top-cine-romance.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/gd3p4DyJ</externallink>
+<fanart>https://i.postimg.cc/rmBzG9qd/top-cine-romance.jpg</fanart>
+<info>
+ 

@@ -1,0 +1,15 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]007 SERVIDOR 1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://abutretorrents.com/capas/007-colecao-completa-james-bond-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/bt2i5UD6</externallink>
+<fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></channel>
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]007 SERVIDOR 2[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://abutretorrents.com/capas/007-colecao-completa-james-bond-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/m5vgvb2t</externallink>
+<fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</info></channel>

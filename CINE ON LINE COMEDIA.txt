@@ -1,0 +1,109 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/convencao-das-bruxas-the-witches-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Convenção Das Bruxas(2021)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32a9cbf6032b934c750facbd4b8b6732ee969ce5
+
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/como-construir-uma-garota-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Como Construir Uma Garota[COLOR yellow] (2021) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CLG67DLG6REFOROPXQKPEK4Z6IQKGMJA
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/jogos-entre-amigos-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Jogo Entre Amigos[COLOR yellow] (2021) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0409a694f333d7b3163470a168920f3a55fb524d
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/como-casar-com-um-milionario-jak-poslubic-milionera-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Como Casar Com Um Milionario[COLOR red]romance[COLOR yellow] (2021)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9f81a1eb3245a684df8ce7e2c8d7c400e8655da
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/lar-doce-lar-ou-nao-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Lar Doce Lar ... Ou Não[COLOR yellow] (2021) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:642777c66210973e30b9eb9c5ddca4438801c746
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/meu-bebe-mon-bebe-download-torrent-2021-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Meu Bebe[COLOR yellow] (2021) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10537be37ccd09e7ecc06e4669225a37f28a92a1
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/o-ultimo-turno-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]O Ultimo Turno[COLOR yellow] (2020) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c2c9c3c3a63ef156062896edee7529cc3812f0
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/high-school-musical-o-musical-especial-de-festas-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia"High School Musical - O Musical - Especial de Festas[COLOR yellow] (2020) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53b3f815da3024d45369249329bcae9a3d617a3f
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/ninguem-brinca-com-jesus-quintana-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Ninguem Brinca Com Jesus Quintana[COLOR yellow] (2020) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0005d5cc262b12c105bb73ee060fc882caef616c
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/a-despedida-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]A Despedida[COLOR yellow] (2020) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:335c5785bdfc307785c638667eede513ab2c6b85
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/resgate-em-malibu-a-proxima-onda-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Resgate em Malibu: A Próxima Onda[COLOR yellow] (2020) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20306ae6d81abab380da3b9beb9b4c7af9102c97
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/a-pe-ele-nao-vai-longe-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]A Pe Ele Não Vai Longe[COLOR yellow] (2019) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fada456767bb857ae220180915aeb39cb01ffb6
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/a-pequena-suica-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]A Pequena Suiça[COLOR yellow] (2020) [/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DD44CF641B34F48E97E10BE30AC40F3AF3670AF
+###########################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/sem-dormir-ate-o-natal-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Sem Dormir Ate O Natal[COLOR yellow] (2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66c2fd1fe19695aa4a8109ef2e641788df9bbbb2
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/com-quem-sera-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Com Quem Sera[COLOR yellow] (2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1D68EAC01353167E46F6C3C0DCC0E3170088E020
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/casal-improvavel-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Casal Improvavel[COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:403D9BC486B4CFB020EB65DD6FF1D15C1694BBE4
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/forjando-campeoes-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Forjando Campeões[COLOR yellow] (2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e26c237e958b2d061ee9f88a1009a9c59f6f46c
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/arizona-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Arizona[COLOR yellow](2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acd02a73f5f0ede5130a6a0fa4eb20ae2367426d
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/onde-esta-a-vovo-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Onde Esta A Vovó[COLOR yellow](2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:451af9af70a4a14850d5ce7b756fd6207bb4c110
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/operacao-supletivo-agora-vai-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Operação Supletivo - Agora Vai[COLOR yellow](2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5B2FEC838B738132255B467F0DE9298C6328A94
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/4-latas-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Quatro Latas[COLOR yellow](2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1f79f6541a6811f0c700913ee863f086c1dbc64
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/praca-publica-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Praça Publica[COLOR yellow](2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:64dfd70beaec829c56787a0ead94c5cbf9e18678
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/aqui-em-casa-tudo-bem-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Aqui Em Casa Tudo Bem[COLOR yellow](2018)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:407FE89ACE8C5F5C292D8FEEB800FC38523A67B2
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/swiped-arrasando-coracoes-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Swiped - Arrasando Corações[COLOR yellow](2018)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F60388EDF35197FD078FFEA5C1923315343B710C
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/desculpe-te-incomodar-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Desculpe Te Incomodar[COLOR yellow](2018)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59270a0de4f317c231349ca9ed6b7cba7ab25055
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capa/budapest-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Rede canais",Budapeste[COLOR yellow](2017)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33d1a6b4992ecd7213ba276a7c51b20bb0fc7c7e
+#########################################################################################
+########################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/um-motorista-em-apuros-sexo-delivery-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Um Motorista em apuros - Sexo Delivery[COLOR yellow](2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D6DF1D7324A17D0C865C8A11F6AEB81EF1BF53C
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/nossos-amantes-nuestros-amantes-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Nossos amantes[COLOR yellow](2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:45610DD751923F5EA7B0C513039DDD2884DB8115
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/em-toda-parte-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Em Toda Parte[COLOR yellow](2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee5708766ab3609bd20d90eb27fed529449dd8b9
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/kelly-e-cal-uma-amizade-inesperada-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Rede canais",Kelly e Cal - Uma Amizade Inesperada[COLOR yellow](2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5067F6D6A5CC65D436D33F6F8656A0C638AE1CAD
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/inseguranca-armed-response-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Insegurança - Armados e perigosos[COLOR yellow](2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:147DCC78E0BA29AA252966A8EA8D4DD56491E3EC
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-exercito-do-papai-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]O Exercito Do Papai[COLOR yellow](2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:116169A913BC3D2E2FEA5BEE2C50B7DE6622DA18
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/familia-do-bagulho-bluray-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Familia Do Bagulho[COLOR yellow](2013)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa5e83e156f60f696dca8ea58fe6ec7527f40e87
+#################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/encontro-de-casais-dvd-r-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Encontro De Casais[COLOR yellow](2012)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18eb84ddf68feab2c154b71c01b8291237bdab1c
+#################################################################################################################################
+########################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capa/morte-no-funeral-download-torrent-2010-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Comedia",[B]Morte No Funeral[COLOR yellow](2010)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE75D7D7A92014D3FFC085259325C4D7F283D410
+#################################################################################################################################

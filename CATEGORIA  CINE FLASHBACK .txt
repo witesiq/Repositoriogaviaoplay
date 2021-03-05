@@ -1,0 +1,63 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] AÇÃO [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/DCHDenuQ</externallink>
+<fanart></fanart>
+<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+</channel>
+
+ 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ <channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] AVENTURA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/GhaM4EXT</externallink>
+<fanart></fanart>
+<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+</channel>
+
+ 
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FICÇÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/H26Dpq5g</externallink>
+<fanart></fanart>
+<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+</channel>
+
+ 
+<channels>
+<channel>
+<name>[B][[COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FAROESTE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/fgH996zN</externallink>
+<fanart></fanart>
+<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+</channel>
+
+ 
+ 
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] DIVERSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/m97UTqiP</externallink>
+<fanart></fanart>
+<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+</channel>
+
+ 
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/fbhJ8abp</externallink>
+<fanart></fanart>
+<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+</channel>
+
+ 
+ 

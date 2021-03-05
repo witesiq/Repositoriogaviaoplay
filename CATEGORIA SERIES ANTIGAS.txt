@@ -1,0 +1,190 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] 24 HORAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/71OcHSi5dV0VYHsczS5gdUeWNW6.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/iCUHHEma</externallink>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/u1nLaddBiOQkWcGYFCtGxzHh1dw.jpg</fanart>
+<info>[B][COLOR yellow]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo. Cada temporada da série tem 24 episódios, cada um, em desdobramento em tempo real, de uma hora consecutiva num dia muito ruim.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  A BIBLIA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqGupIDrTHosdGTm5N0V4qMrZyf.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/SYkhPTZe</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qDDnuOJxq3jd91PHlea8XWFmfzt.jpg</fanart>
+<info>[B][COLOR yellow]Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  A FEITIÇEIRA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail></thumbnail>
+<externallink>https://pastebin.com/raw/tx0Xy9ND</externallink>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiQOwu7boQQU5NneAOtyYcxff80Og3HZE-MFPAUAL3oCj42oaW</fanart>
+<info>[B][COLOR yellow]A série mostra o dia a dia de uma dona de casa comum que tem poderes paranormais, Samantha, casada com o mortal Darrin, sobre quem promete não usar seus poderes. Mais tarde, já no meio da série, eles tem uma filha, Tabatha. [/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  ARQUIVO X [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0uhiJmkzlJsvTyn0KKiLwrwGwA.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/4fYXcfvN</externallink>
+<fanart>https://image.tmdb.org/t/p/original/ucyQMoSTH5FkCcQl4G4rLMtRSsJ.jpg</fanart>
+<info>[B][COLOR yellow]Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] COLD CASE [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://dg31sz3gwrwan.cloudfront.net/season/72167/1/906286-4-q80.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/0ibFgKQf</externallink>
+<fanart>https://image.tmdb.org/t/p/original/k9rXmhd01NHzan6o2usVu7ogbh9.jpg</fanart>
+<info>[B][COLOR yellow]Lilly Rush (Kathryn Morris) é uma detetive trabalhando para o departamento de homicídio da Philadelphia, e foi designada para a sessão dos "arquivos mortos". Com sua equipe, ela investiga crimes cometidos há muito tempo e que não foram resolvidos. Lilly deve repensá-los, entrevistar pessoas envolvidas com as vítimas e encontrar alguma ligação que a leve ao assassino.[/COLOR][/B]</info>
+
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] CSI : MIAMI [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zjv3yTBt13i1fqmeEaYIUD3txFZ.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/nj1cXczM</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/c1VZ4ZmabAmBrevRGtP9IFKKlhS.jpg</fanart>
+<info>[B][COLOR yellow]CSI: Miami mostra o trabalho da equipe de investigadores do sul da Flórida que soluciona crimes através da mistura de métodos científicos, técnicas tradicionais, tecnologia de ponta e instinto apurado para descobrir pistas.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EDIÇÃO DE AMANHÃ[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://d1aid1ai1ve9l.cloudfront.net/capasm/8203.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/mJaDhypj</externallink>
+<fanart>https://seriemaniacos.tv/wp-content/uploads/2010/12/Early-Edition.jpg</fanart>
+<info>[B][COLOR yellow]Todas as manhãs, Gary recebe um jornal em sua porta, trazido por um gato. O curioso é que este jornal é do dia seguinte, logo, antecipa tudo o que vai acontecer. De posse das informações, Gary tem de evitar desastres, resolver problemas e evitar que o pior aconteça às pessoas de Chicago. Ele conta com a ajuda de Chuck Fishman, seu melhor amigo, que vive tentando tirar vantagem da situação, e com a ajuda da deficiente visual Marissa Clark, secretária e assistente de Gary.[/COLOR][/B]</info>
+</channel>
+
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GHOST WHISPERER [COLOR red LEGENDADA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/23oIfiF2wdbvIJh87c90QYhOtbw.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/DL2gLV4z</externallink>
+<fanart>https://image.tmdb.org/t/p/original/1O58gxnbtNiBduKTMJXpokOtrHz.jpg</fanart>
+<info>[B][COLOR yellow]Melinda Gordon (Jennifer Love Hewitt) tem um dom. Desde criança, ela sempre teve a habilidade de ver e falar com espíritos. Esses espíritos utilizam Melinda como um meio de falar com seus entes queridos, vivos. Capaz de ajudar tanto os já falecidos como os vivos a seguirem em frente, ela sabe que seu dom é diferente de qualquer outro, e seus parentes e amigos estão cientes e dispostos a estarem sempre ao seu lado.[/COLOR][/B]</info>
+</channel>
+
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HAWAII 5 - 0[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/Dx2J1m6McIedbL0izICP8tpiBg4=/fit-in/640x480/smart/media/movies/covers/2018/09/hawaii_five-o.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/DuW4BYs4</externallink>
+<fanart>https://media.fstatic.com/BRCxWQB7Q6j-RaUOjEz1BZjBL4c=/640x480/smart/media/movies/covers/2018/09/hawaii_five-0.jpg</fanart>
+<info>[B][COLOR yellow]A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.[/COLOR][/B]</info>
+</channel>
+
+######################################################################################################
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HERCULES - A LENDARIA JORNADA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cVJ8YzHUD2vHiDLtyfUxgO2im4.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Tp9g4B8a</externallink>
+<fanart>https://image.tmdb.org/t/p/original/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg</fanart>
+<info>[B][COLOR yellow]A série acompanha a vida e aventuras do semideus da mitologia grega Hércules, filho de Zeus com uma mortal, que nasceu em uma época que a Terra precisava de um herói. Com sua grande generosidade, ele vai cuidar do povo e trazer a paz, com a ajuda de seu melhor amigo Iolaus para se aventurar matando monstros místicos e fazendo uso de toda sua força.[/COLOR][/B]</info>
+</channel>
+
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] IMPERIO ROMANO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gr4hFhqfuGUQPyQ2a2dOTM1ewnm.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/84gEFTvx</externallink>
+<fanart>https://image.tmdb.org/t/p/original/boooA17n9ojRj7Rh43ucOybZORh.jpg</fanart>
+<info>[B][COLOR yellow]Esta mistura de documentário e épico histórico narra o período de turbulência e violência em Roma durante os impérios de Cômodo e Júlio César  e Caligula.[/COLOR]/info>
+######################################################################################################
+<channels>
+<channel> 
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JEANNIE É UM GENIO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.harperapps.com/hcanz/covers/9780732293253/y648.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/3f1Tfvm3</externallink>
+<fanart></fanart>
+<info>[B][COLOR yellow][/COLOR]O então capitão Anthony Nelson, piloto da Força Aérea Americana e depois astronauta da NASA, cai acidentalmente numa ilha, onde encontra uma misteriosa garrafa. Ao abri-la, descobre que esta era a morada de uma bela moça chamada Jeannie, que é um gênio das histórias das Mil e Uma Noites, com incríveis poderes e que o chama de "amo". O piloto a liberta, mas a moça se apaixona por ele e o acompanha até sua casa nos Estados Unidos, onde passa a tumultuar a vida do pobre homem e do Dr. Bellows, médico e psiquiatra que acompanha Nelson e tenta descobrir a causa das coisas estranhas que passam a acontecer quando ele está por perto, mas sempre é convencido de que o louco é ele e não o piloto. [/B]</info>
+######################################################################################################
+<channels>
+<channel> 
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JORNADA NAS ESTRELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/f2wbC7fxiOJqzTb6HPr4N6bsjLF.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/gGBNK5cC</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/be1YqppKzGxMFbK659zY7ysqZup.jpg</fanart>
+<info>[B][COLOR yellow]Aqui estão as viagens da nave Enterprise. Sua missão de cinco anos: explorar novos mundos, buscar novas formas de vida e novas civilizações. Ir com toda a coragem até onde nenhum ser humano jamais chegou. É o ano de 2264. 201 anos depois que o homem viajou mais rápido que a velocidade da luz, e 113 anos depois da primeira viagem da Enterprise nx-01, o Capitão James T. Kirk e sua tripulação partem na constitucional USS Enterprise. No decorrer dos primeiros 3 anos, a tripulação da Enterprise irá conhecer enganadores e vigaristas, assassinos e psicopatas, seres poderosos o suficiente para controlar a mente de comunidades inteiras, e seres tão frágeis para controlar suas próprias capacidades mentais. Os membros da Enterprise serão amados, ameaçados, seduzidos, assassinados, convidados para procriação, duplicados, ressuscitados e forçados a retroceder no tempo. Eles serão obrigados a lutar por suas vidas e pelas vidas de seus amigos. E ao longo desses desafios, uma aliança vai nascer entre três improváveis amigos: o ousado e carismático capitão, o irascível doutor e o imperturbável Vulcano.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LOST[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.imgur.com/moxv50o.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/uuHGhBe8</externallink>
+<fanart>https://image.tmdb.org/t/p/original/5FdGYic4Sho6DpOJCEVhcY83mc5.jpg</fanart>
+<info>[B][COLOR yellow]Em Lost você acompanha a vida dos sobreviventes de um acidente aéreo numa misteriosa ilha tropical, após o avião que viajava de Sydney, Austrália para Los Angeles, Estados Unidos cair em algum lugar do Oceano Pacífico.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MULHER MARAVILHA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28x1xLflB5xwnEJWanJXB4qkeEY.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/DNM5igV1</externallink>
+<fanart>https://www.themoviedb.org/t/p/original/6qeVW1tKaoeDvSCmZ1rD8xBUypL.jpg</fanart>
+<info>[B][COLOR yellow]Com a força de Hércules, a sabedoria de Atenas, a velocidade de Mercúrio e a beleza de Afrodite, ela é a Mulher Maravilha. A bela princesa da Amazônia, Mulher Maravilha, viaja para a América dos anos 1940 disfarçada de Diana Prince, assistente do belo, mas propenso a problemas, Major Steve Trevor. Usando seu cinto de ouro, que a imbui de uma força surpreendente, suas pulseiras desviadoras de balas, um laço de ouro que dissipa a desonestidade e um plano supersônico invisível, a Mulher Maravilha combate o mal.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel> 
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MUNDO DA LUA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5a/Mundo_da_Lua.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/E7AQTKrz</externallink>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/lDswYdqQRv4NGp2GSWqWV1CT4x7.jpg</fanart>
+<info>[B][COLOR yellow]O seriado apresenta Lucas Silva e Silva, um garoto que ganha um gravador de seu avô paterno Orlando ao completar dez anos. Em meio aos problemas típicos da passagem da infância para a adolescência, Lucas cria no gravador histórias a partir de como gostaria que as coisas fossem. Ele vive na casa do avô com os pais, Rogério, professor que se desdobra para conseguir trabalhar em três empregos, e Carolina, que trabalha em uma boutique; a irmã mais velha, Juliana; e a empregada Rosa, que enquanto namora Marcelo, conversa com apresentador Ney Nunes em seu rádio.[/COLOR][/B]</info> 
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O MUNDO PERDIDO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iCpCsyJ1CYLQOp4y52ctrAco9oj.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/0TQyxmJ7</externallink>
+<fanart>https://s1.dmcdn.net/v/J8hPe1Od6knXE7lrv/x1080</fanart>
+<info>[B][COLOR yellow]No início do século XX, um grupo de aventureiros toma parte em uma expedição que visa provar a existência de um mundo isolado da vida moderna. Desastres acontecem e o grupo termina preso nessa terra, contando unicamente com a ajuda de uma jovem mulher selvagem que também terminou presa na ilha quando criança. Juntos, eles lutam para sobreviver aos ataques dos dinossauros e a outros perigos que a ilha traz, conforme procuram por um jeito de escapar.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] O TUNEL DO TEMPO [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/sEGRkEPt</externallink>
+<fanart>https://image.tmdb.org/t/p/original/3tcteH6sY807370HWLgBtpd0cDB.jpg</fanart>
+<info>[B][COLOR yellow]Dois cientistas de um projeto do governo norte-americano que produz uma máquina do tempo, se perdem no tempo e são monitorados por uma equipe que permanece no laboratório e os acompanham em seus deslocamentos de várias épocas, através de imagens que recebem pelo equipamento chamado de Túnel do Tempo.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel> 
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROMA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vLrZegzRvSNQW70QVmRmyxLfsu8.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/xB13cdm6</externallink>
+<fanart>https://tecnoblog.net/meiobit/wp-content/uploads/2018/02/20180213rome-hbo.jpg</fanart>
+<info>[B][COLOR yellow]Série retrata acontecimentos que datam de 52 a.C., quatrocentos anos depois da fundação da república na principal metrópole mundial da época, marcada por rivalidades, traições e guerras. Os episódios da primeira temporada mostram desde a vitória de Júlio César na batalha de Alésia até seu assassinato por conspiradores do Senado por causa de medidas populistas.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  STARGATE SG1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rst5xc4f7v1KiDiQjzDiZqLtBpl.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/ubawC0eF</externallink>
+<fanart>https://www.syfy.pt/sites/default/files/styles/content_image_large/public/stargate_sg-1_cast.jpg?itok=ucjz6QWK&timestamp=1523014216</fanart>
+<info>[B][COLOR yellow]O enfoque do seriado é uma equipe denominada SG-1 que opera a partir de uma base ultra-secreta da Força Aérea dos EUA chamada Stargate Command (ou SGC), utilizando um "Stargate" encontrado na Terra para explorar outros mundos e defender o planeta contra ameaças alienígenas estabelecidas no filme original ou apresentadas ao longo da série. Assim sendo, e diferentemente de diversos outros seriados de ficção científica com uma temática de exploração interplanetária, Stargate SG-1 tem como tempo ficcional o presente, é baseada na Terra e envolve principalmente humanos.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIAGEM AO FUNDO DO MAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://media.fstatic.com/8WSepKhcVEuxSImA6Wn-kRCcB7g=/fit-in/290x478/smart/media/movies/covers/2017/07/viafun.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/NVW1rukM</externallink
+<fanart>https://image.tmdb.org/t/p/original/58JWKf2FjsXwuiIS4wngeFG5A6e.jpg</fanart>
+<info>[B][COLOR yellow]Uma expedição científica de rotina ao Pólo Norte transforma-se em uma corrida para salvar a vida sobre a Terra, quando um cinturão de radiação no espaço incendia-se e começa a aquecer o planeta de maneira incontrolável. O Almirante Nelson (Walter Pidgeon) e a tripulação do submarino atômico Seaview enfrentam sabotadores, criaturas marinhas gigantescas e ataques de submarinos durante sua corrida para evitar a catástrofe global.[/COLOR][/B]</info>
+######################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]XENA:A PRINCESA GUERREIRA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZ7UQJTGJrOLPylhjNA0i969jAU.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/95b5xTjq</externallink>
+<fanart>https://image.tmdb.org/t/p/original/6pquLTX8cNRkt8k5izHthxRf0H6.jpg</fanart>
+<info>[B][COLOR yellow]Xena, uma guerreira que já foi conhecida como "Destruidora das Nações", começa sua épica aventura para provar, não só para si mesma, mas para todos, que mudou para o bem. Ainda assombrada por todo o mal que já cometeu no passado, ela quer se redimir. É quando ela conhece Gabrielle, uma trovadora de uma pequena cidade, cheia de vida e louca por aventuras. Juntas, elas viajam e passam pelas dificuldades a fim de derrubar os piores oponentes e fazer do mundo um lugar melhor.[/COLOR ][/B]</info>
+</channel>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
+

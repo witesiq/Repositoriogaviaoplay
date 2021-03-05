@@ -1,0 +1,102 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Diretos,Porem As Vezes Ficam Off Line,Mas logo Volta a ficar on line.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Alien - O 8º Passageiro[COLOR yellow] (1979)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5896B050BA5EC18ADA240FF2A754E0EE6DBA0863</link>
+<link>https://ia601401.us.archive.org/4/items/camera2_20200222/ALNPSSGR.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/42GP5o4nA7ewroeRwWza9mV4td.jpg</thumbnail>
+<info>[B][COLOR yellow]Durante seu retorno à Terra, uma nave espacial de mineração tem seu rumo alterado devido a uma transmissão, interpretada como pedido de socorro. Sua tripulação ao investigar o local, se depara como uma forma de vida desconhecida.[/COLOR][/B]</info></item>
+
+#############################################################################################################
+<item><title>[COLOR white][B]Alien 2:o resgate [COLOR yellow] (1986)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a897bd47b83f9994bc6a4209a28cb242b4780bd</link>
+<link>https://ia601401.us.archive.org/4/items/camera2_20200222/ALNRSGT.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg</thumbnail>
+<info>[B][COLOR yellow]Depois de dormir por 57 anos, a única sobrevivente de uma tragédia espacial descobre que o local onde tudo aconteceu com sua nave foi colonizado e, apesar das pressões, decide retornar para salvar as 70 famílias lá existentes.[/COLOR][/B]</info></item>
+
+#############################################################################################################
+<item><title>[COLOR white][B]Alien 3[COLOR yellow] (1992)[/B][/COLOR]</title
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4537dd7c38250d61bdcfd785a80249c470bb49dc</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRhrDAcFlJyeyZwg88sGogHnBzb.jpg</thumbnail>
+<info>[B][COLOR yellow]Ripley é a única sobrevivente quando sua nave avariada cai em Fiorina 161, um planeta inóspito habitado por ex-condenados de uma prisão de segurança máxima. Mas um Alien estava a bordo de sua espaçonave... e logo o número de cadáveres começa a crescer.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Alien 4:A Ressurreição[COLOR yellow] (1997)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:05FC89738AE78FAC9C2FDF1AB7691EDB23EB87F1</link>
+https://ia601401.us.archive.org/4/items/camera2_20200222/LENRSSR%C3%87A.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOHaqkOBzLBBQVCec9e9AQC54c0.jpg</thumbnail>
+<info>[B][COLOR yellow]Dois séculos depois de sua morte, a tenente Ripley é clonada por cientistas a bordo de uma espaçonave, a qual é também um laboratório. Porém, o clone vem com um toque de sangue Alien na sua composição.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Prometheus[COLOR yellow](2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cc02a3cc3a89979cd6bfc2657f2c67540301a2a</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw6HlfbjK1h548lNfAEH1qTRczj.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras.[/COLOR][/B]</info></item>
+https://ia601401.us.archive.org/4/items/camera2_20200222/PRMTHS.mp4
+#############################################################################################################
+<item><title>[COLOR white][B]Alien: Covenant[COLOR yellow](2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B2050E1F60B899853076429609E53AD44C995A98</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg</thumbnail>
+<info>[B][COLOR yellow]Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David como habitante solitário.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Alien vs Predador[COLOR yellow] (2004)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9658c2ad0f395cc397fb3040acb48f2b28767bc</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DKoPom57PVtJWcJlq7bS7JpahU.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma pirâmide até então desconhecida é encontrada na Antártica através de satélites, fazendo com que uma equipe de cientistas e aventureiros seja enviada para investigar o local. Porém lá eles fazem uma descoberta atra: a pirâmide serve de abrigo para duas raças alienígenas extremamente violentas, que estão em guerra.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Alien vs Predador 2[COLOR yellow] (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8C8C52CD04CFB9D25D823812EBAB923F84A89DAC</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddJXSgQyR71Y1siH7iOtYmzqBME.jpg</thumbnail>
+<info>[B][COLOR yellow]Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.[/COLOR][/B]</info></item>
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Diretos,porem as vzs eles ficam off line mas logo voltam  on line[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Alien - O 8º Passageiro[COLOR yellow] (1979)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/ALIEN.mp4</link>
+<link>https://ia601401.us.archive.org/4/items/camera2_20200222/ALNPSSGR.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/42GP5o4nA7ewroeRwWza9mV4td.jpg</thumbnail>
+<info>[B][COLOR yellow]Durante seu retorno à Terra, uma nave espacial de mineração tem seu rumo alterado devido a uma transmissão, interpretada como pedido de socorro. Sua tripulação ao investigar o local, se depara como uma forma de vida desconhecida.[/COLOR][/B]</info></item>
+
+#############################################################################################################
+<item><title>[COLOR white][B]Alien 2:o resgate [COLOR yellow] (1986)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/ALIENORSGT.mp4</link
+<link>https://ia601401.us.archive.org/4/items/camera2_20200222/ALNRSGT.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3QU9EP8BFLnTh6w9ycDSCvhqbRU.jpg</thumbnail>
+<info>[B][COLOR yellow]Depois de dormir por 57 anos, a única sobrevivente de uma tragédia espacial descobre que o local onde tudo aconteceu com sua nave foi colonizado e, apesar das pressões, decide retornar para salvar as 70 famílias lá existentes.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Alien 3[COLOR yellow] (1992)[/B][/COLOR]</title
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/ALIEN3.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tRhrDAcFlJyeyZwg88sGogHnBzb.jpg</thumbnail>
+<info>[B][COLOR yellow]Ripley é a única sobrevivente quando sua nave avariada cai em Fiorina 161, um planeta inóspito habitado por ex-condenados de uma prisão de segurança máxima. Mas um Alien estava a bordo de sua espaçonave... e logo o número de cadáveres começa a crescer.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Alien 4:A Ressurreição[COLOR yellow] (1997)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/ALIENARSSC.mp4</link>
+<link>https://ia601401.us.archive.org/4/items/camera2_20200222/LENRSSR%C3%87A.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOHaqkOBzLBBQVCec9e9AQC54c0.jpg</thumbnail>
+<info>[B][COLOR yellow]Dois séculos depois de sua morte, a tenente Ripley é clonada por cientistas a bordo de uma espaçonave, a qual é também um laboratório. Porém, o clone vem com um toque de sangue Alien na sua composição.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Prometheus[COLOR yellow](2012)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/PROMTHS.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dw6HlfbjK1h548lNfAEH1qTRczj.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma equipe de cientistas embarca em uma jornada espacial para descobrir a verdade sobre a origem da raça humana. No planeta de destino, eles encontram criaturas poderosas e revelações assustadoras.[/COLOR][/B]</info></item>
+https://ia601401.us.archive.org/4/items/camera2_20200222/PRMTHS.mp4
+#############################################################################################################
+<item><title>[COLOR white][B]Alien: Covenant[COLOR yellow] (2017)[/B][/COLOR]</title
+><link>https://cdn.gamesgo.fun/RCFServer4/ondemand/ALIENCVNT.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRITPlHYjHiOLQXr0sFxVz5TPmj.jpg</thumbnail>
+<info>[B][COLOR yellow]Viajando pela galáxia, os tripulantes da nave colonizadora Covenant encontram um planeta remoto com ares de paraíso inexplorado. Encantados, eles acreditam na sorte e ignoram a realidade do local: uma terra sombria que guarda terríveis segredos e tem o sobrevivente David como habitante solitário.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Alien vs Predador[COLOR yellow] (2004)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/ALIENVSPRDR.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2DKoPom57PVtJWcJlq7bS7JpahU.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma pirâmide até então desconhecida é encontrada na Antártica através de satélites, fazendo com que uma equipe de cientistas e aventureiros seja enviada para investigar o local. Porém lá eles fazem uma descoberta atra: a pirâmide serve de abrigo para duas raças alienígenas extremamente violentas, que estão em guerra.[/COLOR][/B]</info></item>
+#############################################################################################################
+<item><title>[COLOR white][B]Alien vs Predador 2[COLOR yellow] (2007)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/ALIENVSPRDR2.mp4?</link>
+<info>[B][COLOR yellow]Gunnison, uma pequena cidade localizada nas montanhas da área central do Colorado. Uma nave dos predatores aterrisa no local, mas os aliens que estavam escondidos nela conseguem matar a todos, com exceção de um. Para sobreviver ele precisará destruir todos os aliens remanescentes. Mas em meio a esta guerra há os humanos, residentes da pequena Gunnison, que assistem a esta batalha como vítimas e espectadores.[/COLOR][/B]</info></item>

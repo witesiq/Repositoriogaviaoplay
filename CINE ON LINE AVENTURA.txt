@@ -1,0 +1,748 @@
+######################################################################################################################################
+<item><title>[B][COLOR white]O Chamado da Floresta[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85ec615f7f8ab2c810f940e74fbd4b8156bd73b7$$lsname=[B]LINK 1 [COLOR yellow]720 p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:663c598e8ac41996eaa7e3214ec961b0e1ef39a5$$lsname=[B]LINK 2 [COLOR yellow]1080 p[/COLOR][/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/05/1SIlV2p8355FAuKTGje9ZgtXujN-185x278.jpg</thumbnail><info>[B][COLOR yellow]Depois de anos vivendo como um cachorro de estimação na casa de uma família na Califórnia, Buck precisa entrar em contato com os seus instintos mais selvagens para conseguir sobreviver em um ambiente hostil como o Alaska. Com o tempo, seu lado feroz se desenvolve e ele se torna o grande líder de sua matilha. Baseado no livro homônimo de Jack London, lançado em 1903.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Artemis Fowl: O Mundo Secreto[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0a4367ce556e0785484f2873eeb48540249f8a3f$$lsname=LINK 1 [COLOR yellow]720 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34730fcf1c1c7bc9fa0f963ca8855d36da345f2b$$lsname= LINK 2 [COLOR yellow]1080 p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/avb3THg1FTxBc79h2QECsuwjujY.jpg</thumbnail><info>[B][COLOR yellow]Artemis Fowl é um garoto de 12 anos extremamente inteligente que usa sua capacidade para roubar. Um dia, ele descobre um local mágico chamado mundo das fadas. Decidido a roubar a fortuna local, ele sequestra um elfo e cobra um resgate para libertá-lo. Só que logo a Liga de Elite da Polícia parte em seu encalço.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Enola Holmes[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4129ccd88372366ac8241b0826cac8eedcc60acd$$lsname= LINK 1 [COLOR yellow]720 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80e76ddf1769ebb181708e353215d33addf60c40$$lsname= LINK 2 [COLOR yellow] 1080 p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mmRu2io9K21RioNDEWgE2eD88gR.jpg</thumbnail><info>[B][COLOR yellow]Enola Holmes só tem 16 anos, mas vai fazer de tudo para encontrar a mãe desaparecida, inclusive despistar o irmão Sherlock e ajudar um jovem lorde fugitivo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Ilha da Fantasia[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0744ed0f7c417cf4e9bb330eecf283d762917a1c$$lsname= LINK 1 [COLOR yellow]720 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b0598c623245d9d050a99dfe8495b3439995591$$lsname= LINK 2 [COLOR yellow]1080 P[/COLOR]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/07/zEae3Y5gB7e8Z3LZWsMWZcrsf92-185x278.jpg</thumbnail><info>[B][COLOR yellow]Uma ilha mágica no meio do Oceano Pacífico oferece aos seus visitantes a possibilidade de realizar seus sonhos e viver aventuras que parecem impossíveis em qualquer outro lugar. Porém, como avisa o anfitrião da ilha, Sr. Roarke (Michael Pena), realizar seus desejos pode não acontecer da maneira esperada.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]As Aventuras do Dr. Dolittle[COLOR yellow] (2020)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5716966012a1a5aa785d78e1675f145b8094464d$$lsname= LINK 1 [COLOR yellow]720 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9601a19dbc4029bea5188272379fadc88f2a8d6a$$lsname= LINK 2 [COLOR yellow]1080 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea7433f9342e02645db557c1a2c9265c30ef3ef2$$lsname= LINK 3 [COLOR yellow]4k[/COLOR]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/05/eiMUDeDBH4s1dbtbcnmasAtgssZ-185x278.jpg</thumbnail><info>[B][COLOR yellow]O Dr. Dolittle vive com uma variedade de animais exóticos e conversa com eles diariamente. Quando a jovem rainha Victoria fica doente, o excêntrico médico e seus amigos peludos embarcam em uma aventura épica em uma ilha mítica para encontrar a cura.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Em Busca do Castelo Dourado[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5da02f710c23a1eae15de89d47a005372b3d0988$$lsname= LINK 1 [COLOR lime]720 p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aDKrLfuaqVAQ8L3etC7Kd34fjDu.jpg</thumbnail><info>[B][COLOR yellow]Quando o Rei e a rainha são envenenados, os irmãos Per e Pål são presos, suspeitos de estar por trás disso. O irmão mais novo Espen "Ash Lad" e a princesa Kristin partem em uma busca para encontrar o mítico Castelo Dourado, que se diz ser construído em ouro puro. Em Soria Moria, fica um poço contendo a Água da Vida, a única coisa que pode curar os pais de Kristin. Mas alguns dinamarqueses perversos também estão em busca do Castelo Dourado. Se Espen e Kristin falharem, isso significará o fim dos irmãos, do reino e talvez do mundo inteiro.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Os Aeronautas[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04f907f3bf3c00003bfd16ac51dc7d97dda5d98e$$lsname= LINK 1 [COLOR yellow]720 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44c613cdfceb2e56133df23734617016f426ec1$$lsname= LINK 2 [COLOR yellow]1080 p[/COLOR]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/01/dEsKxpvT5D2VxCIFWGZ72nxPlr2-185x278.jpg</thumbnail><info>[B][COLOR yellow]Londres, 1862. O cientista James Glaisher (Eddie Redmayne) está prestes a realizar o grande sonho de sua vida, ao iniciar uma viagem de balão de forma a pesquisar formas de se prever a meteorologia. Sua companheira de viagem é Amelia Rennes (Felicity Jones), veterana do balonismo que topou o desafio após um grande trauma em sua viagem anterior, quando seu marido faleceu. Juntos, eles enfrentam uma aventura rumo ao céus na tentativa de chegar a uma altitude inédita até então a qualquer ser humano.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Ad Astra – Rumo às Estrelas[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CB2BB87317F1C08B13EF82E389BCFDFDD0E4950B$$lsname= LINK 1 [COLOR yellow]720 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7B50F1224E333DF6567BC0D3C36A8D2A8AE9A68$$lsname= LINK 2 [COLOR yellow]1080 p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:855BB80EF8E64CD5FCDA7F59E269AF5E58D8E1F2$$lsname= LINK 3 [COLOR yellow]4 k[/COLOR]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/12/wigZBAmNrIhxp2FNGOROUAeHvdh-185x278.jpg</thumbnail><info>[B][COLOR yellow]Roy McBride é um engenheiro espacial, portador de um leve grau de autismo, que decide empreender a maior jornada de sua vida: viajar para o espaço, cruzar a galáxia e tentar descobrir o que aconteceu com seu pai, um astronauta que se perdeu há vinte anos atrás no caminho para Netuno.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Valhalla: A Lenda de Thor[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4de54fabc0792473b56bd55a16d03e1c9f2136b9$$lsname= LINK 1 [COLOR yellow]720p[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b36c971d7adf9727234d3ebd1b1635dc1ff1cff$$lsname= LINK 2 [COLOR yellow]1080 p[/COLOR]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oD7ujF444E6lMnqnf8MqwNIpyc.jpg</thumbnail><info>[B][COLOR yellow]As crianças Vikings Røskva e Tjalfe embarcam em uma viagem de aventura de Midgard a Valhalla com os deuses Thor e Loki. A vida em Valhalla, no entanto, acaba por ser ameaçada pelo temido lobo Fenrir e pelos arqui-inimigos bárbaros do deus, o Jotnar. Lado a lado com os deuses, os dois filhos devem lutar para salvar Valhalla do fim do mundo – Ragnarok.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Malévola: Dona do Mal[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:754F22331D8FB4F429ABF6484381820342978A97$$lsname=LINK 1 [COLOR yellow]720 p[/COLOR] </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15903A29091ED57953E8D834E636488DC6CA0A94$$lsname=LINK 2 [COLOR yellow]1080 p[/COLOR] </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A01FBD10BB754D479A710887D6F9B3AAE993D714$$lsname=LINK 3 [COLOR yellow]4 k[/COLOR] </link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/oP3TasnCKqSvGDv0sHLUhpioNVb-185x278.jpg</thumbnail><info>[B][COLOR yellow]Uma aventura que se passa vários anos depois de “Malévola” – em que o público aprendeu sobre os eventos que endureceram o coração da vilã mais famosa da Disney e a levou a amaldiçoar a pequena princesa Aurora, “Malévola II” continua a explorar a relação complexa entre a fada de chifres e a quase rainha, ao formarem novas alianças e enfrentarem novos adversários em sua luta para proteger os mouros e as criaturas mágicas.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Dora e a Cidade Perdida[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01672DB5C6F8E7D89906ABFA57204576013DA103$$lsname=[B]LINK 1 [COLOR yellow] 720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C204F15DEA6C9182E9918BF4F08B98750DBDD768$$lsname=[B]LINK [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/11/gHR6tyMsmlguestxaU5PtRd1APD-185x278.jpg</thumbnail><info>[B][COLOR yellow]A aventureira Dora rapidamente se vê liderando o macaco Botas, o primo Diego, um misterioso habitante da selva, seus pais e um grupo de adolescentes em uma aventura para resolver um mistério impossível por trás de uma cidade perdida de ouro[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Gente Se Ve Ontem[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE3092AB180AC41FCF011FF4994B32CE4036F1D7$$lsname=[B]LINK 1[COLOR yellow] 1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/sE2MSSjAHVU8gOz2SPQMaTQtO9c-185x278.jpg</thumbnail><info>[B][COLOR yellow]C.J. e Sebastian são dois melhores amigos adolescentes muito talentosos no mundo das ciências. Quando o irmão mais velho de C.J. é assassinado injustamente pela polícia, os dois constroem uma máquina do tempo para voltar ao passado e tentar evitar a tragédia que aconteceu.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Aladim[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4D6EEC0199A4755C07E4BCC0E34D0A3CF4097554$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B8D6F68106D9A3FC3E34E4D757F679E95B1A687F$$lsname=[B]LINK 2  [COLOR yellow]1080p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B96640E94A66CFE3A4C812D48EE610813B098A9F$$lsname=[B]LINK 3[COLOR yellow] 4k[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/cYlzLYlhUXS0kW9T3ttAQ6fvZuV-185x278.jpg</thumbnail><info>[B][COLOR yellowUm jovem humilde descobre uma lâmpada mágica, com um gênio que pode lhe conceder desejos. Agora o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que está prestes a se noivar. Agora, com a ajuda do Gênio (Will Smith), ele tenta se passar por um príncipe e para conquistar o amor da moça e a confiança de seu pai.][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Outro Lado do Céu 2[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7f7b4bd93d75ea0366f9e633dd552d625c5a3ff$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29232fe0e8836fa22a84dcfcab98c52c82d8cb87$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/01/iORt4mfwcMYyqfC7slFqv0Rcz6k-185x278.jpg</thumbnail><info>[B][COLOR yellow]O missionário John H. Groberg (Christopher Gorham) retorna em 1960 ao Reino de Tonga com seus filhos e sua esposa. Quando seu sexto filho nasce com uma grave doença, sua família enfrenta um teste final de fé e encontram apoio na oração das pessoas da região. As barreiras religiosas são destruídas quando todos se unem pela única esperança de um milagre que salve o bebê.[/COLOR][/B]</info></item>
+https://d2mu534h5p4wkr.cloudfront.net/RCFServer3/ondemand/ABGLEACDEPRBDA.mp4
+######################################################################################################################################
+<item><title>[B][COLOR white]IO – O Último na Terra[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7035f1e328dd7edfde7544c433c3482988c58d90$$lsname=[B]LINK 1 [COLOR yellow] 720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02f36f05b8c94e1476ee5ec4985b5b68e2a3cb0e$$lsname=[B]LINK 2[COLOR yellow] 1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/utH781EwjzzXQC6fZUO3cw8L5Ht-185x278.jpg</thumbnail><info>[B][COLOR yellow]Quando um jovem cientista procura uma maneira de salvar uma Terra agonizante, ela encontra uma conexão com um homem que está correndo para pegar o último ônibus espacial do planeta[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Hellboy[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aeed2f40446cb25bc997f55e4ddf8d930be43b06$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11294289A7B3B83864D9D74C344110E7FDDA28FB$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B6F903C65880A5F5438907C1C1CCFD8F273F6DF$$lsname=[B]LINK 3 [COLOR yellow]4k[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/pIFrwfbOjGrMv48OAkDnrP3gcnj-185x278.jpg</thumbnail><info>[B][COLOR yellow]Ao chegar à Terra ainda criança, após ser invocado por um feiticeiro contratado pelo governo nazista, Hellboy (David Harbour) foi criado como um filho por Trevor Bruttenholm (Ian McShane), um professor que estava no local no momento em que emergiu do inferno. Já adulto, Hellboy se torna um aliado dos humanos na batalha contra monstros de todo tipo. Quando a poderosa feiticeira Nimue (Milla Jovovich), também conhecida com a Rainha Sangrenta, insinua seu retorno, ele logo é convocado para enfrentá-la.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Robin Hood: A Origem[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C701A8E8F3F7DF7F7A5F95203E35C4B087F3DE2$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ACA185097DD88975117CC7DF6BEBF2FC9C98762$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58F65238D3E28A117F7819ADE9F45261961CF9CF$$lsname=[B]LINK 3 [COLOR yellow]4k[/COLOR][/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/mSlnp6REiluUxL0Xa628iWw5NJm-185x278.jpg</thumbnail><info>[B][COLOR yellow]A origem da famosa lenda sobre o ladrão que rouba dos ricos para dar aos pobres é contada a partir de quando Robin Hood (Taron Egerton) volta das Cruzadas e surpreende-se ao encontrar a Floresta Sherwood infestada de criminosos. Ele não deixará que as coisas permaneçam desse jeito e contará com a ajuda de John (Jamie Foxx) e Marian (Eve Hewson) para trazer justiça à cidade.[/COLOR][/B]</info></item>
+https://d2mu534h5p4wkr.cloudfront.net/RCFServer3/ondemand/ANMSFNTSTCEONDHBTM.mp4
+######################################################################################################################################
+<item><title>[B][COLOR white]Aventura Perigosa[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FF47B6A5B6DB45B21351F6B7F258B074281CD54$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:52812E413D4316D04675CC0A1813523E5BE47764$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4GrN9nRhzUrpz0KKYzBFI3Oc13.jpg</thumbnail><info>[B][COLOR yellow]Dois irmãos azarados que fingem se perder em uma floresta para depois lucrar com uma grande história de sobrevivência. A armação, porém, acaba sendo mais real do que eles planejavam.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Caçadores de Recompensas[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88a0e635ab66a3f71dc48d389890a4629b84751d$$lsname=[B]LINK 1 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/07/2BEikhobwXkTS78dmgNQZNPg20n-185x278.jpg</thumbnail><info>[B][COLOR yellow]Dois caçadores de recompensas (Tony Chiu-wai Leung, O Grande Mestre) rivais descobrem um novo motivo para se enfrentarem: uma arma secreta, sofisticada e letal. Eles iniciam uma corrida de ação com tons de comédia, do sul da Ásia até a Itália. Quem será que vai chegar primeiro?[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Quebra-Nozes e os Quatro Reinos[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A0A2A0264608C19DAA859374CF89E997A82EE22$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA58400320D0AC64782914D877167ABF8BBBA502$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4AF1803BA1512468625F945BDCDE2AC71FB6DB46$$lsname=[B]LINK 3 [COLOR yellow]4k[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/qQziRQeYUIc9I3lVEcdwQJGy5dS-185x278.jpg</thumbnail><info>[B][COLOR yellow]Clara (Mackenzie Foy), jovem esperta e independente, perde a única chave mágica capaz de abrir um presente de valor incalculável dado por seu padrinho (Morgan Freeman). Safa na solução de problemas, ela decide então iniciar uma jornada de resgate que a leva pelo Reino dos Doces, o Reino das Neves, o Reino das Flores e o sinistro Quarto Reino.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Godzilla: O Devorador de Planetas[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c03ca338dc1581ee75d19a6c2ced4985808798$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d76dfa3e81666214f144961c0b8ee76ae1054a5$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/2F2rxcQJT9OXqsnWt5TcE2fe6Fw-185x278.jpg</thumbnail><info>[B][COLOR yellow]Com o enfraquecimento da aliança com a Terra, Haruo considera se aliar aos Exifs, praticantes de um culto mortal que pode destruir o mundo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Animais Fantásticos: Os Crimes de Grindelwald[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78a26dc5ae539b028ea143cfa4c3f1de4e279d33$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:61832f56adf0dfa7e0d6e94fcb02491ce0496c9c$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dcIfTb2nNWnyV9WHL2jh0HEjNw2.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Newt Scamander (Eddie Redmayne) reencontra os queridos amigos Tina Goldstein (Katherine Waterston), Queenie Goldstein (Alison Sudol) e Jacob Kowalski (Dan Fogler). Ele é recrutado pelo seu antigo professor em Hogwarts, Alvo Dumbledore (Jude Law), para enfrentar o terrível bruxo das trevas Gellert Grindelwald (Johnny Depp), que escapou da custódia da MACUSA (Congresso Mágico dos EUA) e reúne seguidores, dividindo o mundo entre seres de magos sangue puro e seres não-mágicos.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Próxima Parada: Apocalipse[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:130FBFBE86EAF1CD7ABF2ACE08E95680D0AF8E96$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75F9E27A0F9047D1AA701271AD682078E4E77EBD$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/07/yGf2Ms0ExStHa0QwZoreiykB63m-185x278.jpg</thumbnail><info>[B][COLOR yellow]Quando uma misteriosa catástrofe transforma os Estados Unidos em uma zona de guerra, um homem decide cruzar o país com seu futuro sogro em busca da noiva grávida.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Anel do Rei: A Última Batalha[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab904bdbac69a11694365501ef9a77fd30f78cf4$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ed4293eaca9387e3ffff7e52a122f750210a102$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/iM0Qn26un9HaGoWyxwlOIyGDIHD-185x278.jpg</thumbnail><info>[B][COLOR yellow]O maligno e cínico guerreiro cruzado Max von Buxhoveden está tentando destruir as crenças pagãs do povo espalhando mentiras e fomentando a dissidência. O velho rei das últimas terras pagãs livres está em seu leito de morte e sem um herdeiro para ocupar seu lugar. Max quer assumir o trono e reinar sobre a antiga tribo do rei. Inesperadamente, com sua respiração agonizante, o rei passa seu anel para seu sobrinho Namejs. Namejs, que cresceu entre os sacerdotes pagãos e estudou a sabedoria antiga, agora tem que defender seu povo. Será ele capaz de desvendar o segredo do Anel e obter seu poder?[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Perda Total[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:756D4E6F8C80EA2B3809F47427A5556FD56309E9$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2EA888EEB60911373CD5EE70EDBEBB5221DE11BB$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cdokJoHaX0DnoX58b7Wn52sYJSo.jpg</thumbnail><info>[B][COLOR yellow]Os desajeitados Alexx (Adam Devine), Darren (Anders Holm) e Joel (Blake Anderson) são três colegas que trabalham em um hotel em Los Angeles e são considerados verdadeiros perdedores. Mas quando o hotel é tomado por bandidos durante uma festa repleta de celebridades, eles precisam se tornar heróis... ou alguma coisa parecida com isso.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Psychokinesis[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C85C667447521D41F20BCF74941911AC3E4A0586$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:907D38999BF62DF741382F9F87171C750BC9B1EA$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LRL9cvVQl0Mne8CZslb5VNwY6v.jpg</thumbnail><info>[B][COLOR yellow]Ao adquirir superpoderes, um homem embarca em uma jornada para ajudar sua filha e as pessoas ao seu redor, mas descobre que a vida de super-herói não é fácil.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B]Alfa[COLOR white][COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27335D58718E2D4E558DA8A5F172EEFC535030A3$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3C0FCC108916EE5A82C562F5CA7DBCC6B8B5B7A9$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR][/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65BF096AD68098B1F1DFE756456550D8A9F1B459$$lsname=[B]LINK 3 [COLOR yellow]4k[/COLOR][/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/rbIY58MsNfwoUtMQ4GSGl2aAqP-185x278.jpg</thumbnail><info>[B][COLOR yellow]Há 20 mil anos, durante a Era do Gelo, a humanidade lutava em meio à selvageria por sobrevivência. Neste cenário, um rapaz se afasta de sua tribo e dá de cara com inimigos. Sua única chance de viver mais um dia é se aliar a uma criatura que quase o matou. Uma jornada de aprendizagem, luta, sobrevivência. Conheça a origem de um relacionamento que mudou nosso mundo para sempre.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Uma Dobra No tempo[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA76D2B3B99FE904222BD9C4C1A10748AFE1F5F1$$lsname=[B]LINK 1 [COLOR yellow]p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A76FD95862D36FDBF9970A4AFA170ABF827019D$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADFA7F1AFA3015BC9FCAE831E314F5F9E0DEC60$$lsname=[B]LINK 3 [COLOR yellow]4k[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/05/wbevoY1JitEd1EmSAaZOsozCUND-185x278.jpg</thumbnail><info>[B][COLOR yellow]Os irmãos Meg (Storm Reid) e Charles (Deric McCabe) decidem reencontrar o pai, um cientista que trabalha para o governo e está desaparecido desde que se envolveu em um misterioso projeto. Eles contarão com a ajuda do colega Calvin (Levi Miller) e de três excêntricas mulheres em uma ousada jornada por diferentes lugares do universo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Os Investigadores e a Maldição da Montanha[COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33e9b299966f232afa2468b8b93a1c323b03648b$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1645287fb25ad030ce505733ffe71420947253a$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://abutretorrents.com/capas/os-investigadores-e-a-maldicao-da-montanha-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]Mia e Benny viajam para encontrar o amigo Luca, que vive em uma aldeia em uma região montanhosa. Chegando lá, coisas estranhas começam a acontecer, aterrorizando os aldeões. Para conseguir resolver esse mistério, Mia e Benny precisam trabalhar em conjunto com outras crianças locais. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Armadilha do Tempo[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ba202c17656496fe6ef749201f9a4c81b60295e$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb111f0a392c0daa5eea7f76283224bd94f6e11f$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qIBGXM6oXOu3wBYH6QpamXdXuB.jpg</thumbnail><info>[B][COLOR yellow]Um grupo de jovens acaba preso dentro de uma misteriosa caverna, onde eles descobrem que o tempo passa de maneira diferente embaixo da terra.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Wu Kong – Contra a Ira dos Deuses [COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0704ad0c87b89a93f775f6b7da3c98debd331b47$$lsname=[B]LINK 1 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/07/uGk95dWcHnAxh7mTm0o5qXQqaGD-185x278.jpg</thumbnail><info>[B][COLOR yellow]Há muitos anos, o Monte Huaguo foi destruído pelo Reino Celestial, a morada dos deuses da mitologia chinesa, deixando Sun Wu Kong, o Rei Macaco, furioso, já que o local era seu lar. Kong está decidido a confrontar aqueles que determinaram seu destino[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Oro – A Cidade Perdida[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f78a86ecc6224bbc92090df7a39f93e922d02d25$$lsname=[B]LINK 1 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad6c1a6826220cef5a3e32bd380028683ba5d35d$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/06/5L8ni4ll8ZwYknpiocPgiapqbUt-185x278.jpg</thumbnail><info>[B][COLOR yellow]No século XVI, os conquistadores espanhóis Lope de Aguirre e Núñez de Balboa embarcam em uma expedição épica pela selva amazônica em busca de uma cidade mítica que, segundo dizem, é feita completamente de ouro.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Depois Daquela Montanha[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:036131D92C0713A3A2D086EC495FDD218947627F$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78ECD56B402B338A3CC1C47EB6D329F02665575F$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2773D736B33F2F75E595553FEC433C37A3D54FF3$$lsname=[B]LINK 3 [COLOR yellow]4k[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/02/gmK474PvjZoDq2XX4i4syLpvKD4-185x278.jpg</thumbnail><info>[B][COLOR yellow]Alex (Kate Winslet), uma jornalista que está indo preparar seu casamento, e Ben (Idris Elba), um doutor voltando de uma conferência médica, iriam pegar o mesmo avião, mas o voo é cancelado e os dois estranhos decidem fretar um jatinho. Durante a viagem o piloto sofre um ataque cardíaco e o avião cai em uma região montanhosa coberta por neve. Um romance começa a ganhar força enquanto eles tentam sobreviver, feridos e perdidos.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Na Selva[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A307B91D4670AF6A979FD05A15E419C34F3D0E8$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36880738E83435EC732D98EC292F01102437AFB5$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/05/tDgxknTVwrScxpCYyGUjXSn5NRk-185x278.jpg</thumbnail><info>[B][COLOR yellow]Baseado em fatos reais, “Jungle” conta a história do mochileiro israelense Yossi Ghinsberg (Daniel Radcliffe) que, acompanhado de dois amigos, viaja até a cidade de La Paz na Bolívia para o que seria uma aventura inesquecível. Guiados pelos caminhos desconhecidos da Amazônia por um austríaco que mora no local há anos, os amigos embarcam numa viagem pela selva que se transforma em um pesadelo de onde nem todos voltarão com vida.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Kong: A Ilha da Caveira[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46169A6620D6211DDB95244779D67B9FDF6FFB18$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24CE361A282FA7C7F644ED1F8E853D27F07F10B2$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02910E19CA3D780A56AEC757A38A129D3F6F8631$$lsname=[B]LINK 3 [COLOR yellow]4k[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg</thumbnail><info>[B][COLOR yellow]Um ex-militar viaja com um grupo de desbravadores até a mítica Ilha da Caveira, onde seu irmão desapareceu enquanto procurava o Titan, soro que teria o poder de curar todas as doenças. Além de resgatar o irmão, o homem irá enfrentar as criaturas que habitam o local. A equipe de exploradores se aventura nas profundezas da ilha desconhecida no Pacífico, que é tão bonita quanto traiçoeira, sem saber que estão atravessando para o domínio do mítico Kong[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[COLOR white]As Aventuras De Eron Flyn[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ad705c39fddb45b6da6c101bfd3a50105dd4c315$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6c05e83a169755d6a57702c559371050385c509$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/obJ01xl2ULrlA5Ueuy0ivbauqZx.jpg</thumbnail>
+<info>[COLOR yellow]A biografia mostra o começo da vida de Errol Flynn na Austrália, antes de se tornar uma celebridade internacionalmente famosa. Naquela época, ele era um aventureiro, um traficante de ópio, um jogador, um lutador de rua, mulherengo e prospector de ouro.[/COLOR]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Perdido Na Fama[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8C2D67EDAC34CC3C709E5D9AD55153073B03299D$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D86689A240701390EAF4C68CA1016CF828BC48FF$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/04/tFwTq1L8bQMZ5gOj9AXoTeJyytB-185x278.jpg</thumbnail><info>[B][COLOR yellow]Turk Henry, um baixista de uma banda mega-platina recentemente separada, leva sua esposa mimada para férias exóticas para o Chile, mas ela é levada por um grupo de piratas que querem dinheiro para comprar um barco. Turk embarca em uma missão desafiadora de resgate em Santiago, na América do Sul.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Poder e o Impossível[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/CgkjbiVUTCYe1QabchGYjJyID.jpg</thumbnail><info>[B][COLOR yellow]Um atleta de snowboard, viciado em adrenalina, acaba preso em uma grande tempestade de neve. Isolado, nos limites de sua resistência e sem conseguir contato com ninguém, ele precisará fazer o possível e o impossível para sair dessa situação fatal, enfrentando seus medos e também seu passado.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Ouro E Cobiça[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://media.fstatic.com/xtRVLeN3Ft2PgS0ec412c5tU6S8=/290x478/smart/media/movies/covers/2017/04/260x365_1483536893.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Kenny Wells (Matthew McConaughey) é um homem americano que tem como sonho mudar de vida. Filho de pai garimpeiro, ele vê na busca pelo ouro a chance para mudar sua situação e é por isso que vai atrás de um geólogo picareta para, juntos, viajarem para Indonésia em busca de grandes reservas do metal precioso. O que não esperavam é que, ao encontrar o que procuravam, teriam que fugir de ferozes inimigos que querem barrar seus negócios.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Tesouros Da Vida[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QQaj7ZLUkL7KmmIMhdDP88s376.jpg</thumbnail><info>[B][COLOR yellow]Quando Emily Landis, que está indo para a faculdade, muda-se da cidade para a casa de campo de seu avô, espera-se que ela cuide de Lucky, o cavalo de sua falecida avó, e torne sua missão mostrar a luz de Cristo a seu avô enlutado. Lutando, Emily faz amizade com um local chamado Jake. Quando os dois descobrem que a avó de Emily morreu em busca de um tesouro escondido, os dois tentam encontrar a rara moeda de ouro que iludiu os caçadores de tesouros por décadas. Um conto de amor, aventura e intriga LUCKY'S TREASURE é um poderoso lembrete de que coisas há muito perdidas ainda podem ser encontradas hoje.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Lowriders A Arte nos Carros[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/09/mafycJVTwbsArAycD9yv1KzeAxH-185x278.jpg</thumbnail><info>[B][COLOR yellow]O filme acompanha a jornada diária de uma adolescente que vive em Los Angeles. Ela se sente que sua rotina está presa entre seu pai tradicionalista e seu irmão ex-presidiario que é obcecado com carros.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Rei Arthur: A Lenda da Espada[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wI8OOeEIN8k9HD2HaBM8jOHm2LF.jpg</thumbnail><info>[B][COLOR yellow]Arthur (Charlie Hunnam) é um jovem das ruas que controla os becos de Londonium e desconhece sua predestinação até o momento em que entra em contato pela primeira vez com a Excalibur. Desafiado pela espada, ele precisa tomar difíceis decisões, enfrentar seus demônios e aprender a dominar o poder que possui para conseguir, enfim, unir seu povo e partir para a luta contra o tirano Vortigern, que destruiu sua família.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Torre Negra[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iteeOxSMhWQ0giEzri83Beq1fvN.jpg</thumbnail><info>[B][COLOR yellow]Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, prédio mágico que está prestes a desaparecer. Essa busca envolve uma intensa perseguição ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusões entre o real e o imaginário. Baseado na obra literária homônima de Stephen King.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Nada Mais A Perder[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVo7gSTaHevkR3TpXXzKJ6TYdWN.jpg</thumbnail><info>[B][COLOR yellow]Samantha Wick (Sophie Bolen), uma das ginastas mais promissoras de sua geração, é cortada da equipe olímpica e decide finalmente seguir seu verdadeiro sonho de cavalgar. Quando o campo de treino de equitação ameaça fechar por problemas financeiros, ela junta suas duas habilidades, criando uma equipe de Volteio Artístico para salvar o local.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Em Busca Do Tesouro Desaparecido[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+/EMBSCDTSRDSPCDO.mp4</link><thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/boseVDKJASsZzs9hw4IH3MBFwRN-185x278.jpg</thumbnail><info>[B][COLOR yellow]Um jovem encontra um mapa em um livro que pertencia à seu avô e acredita que ele o guiará para um tesouro escondido durante a Guerra do Paraguai. Com amigos ajudando na empreitada, ele decide ir atrás da suposta fortuna escondida.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Último Assalto[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuDFri9vueus4azeYAr6iq5Fliv.jpg</thumbnail><info>[B][COLOR yellow]A história do "roubo da década" ocorrido em 2015 nos cofres da companhia de segurança de Londres 'Hatton Garden', que instantaneamente se tornou folclore depois que ficou aparente que muitos dos autores estavam com mais de 60 anos de idade, sendo liderados pelo pensionista chamado Brian Reader.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Peregrinação[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lPbdCha7QzGWeHL6HW9Wq0sfso.jpg</thumbnail><info>[B][COLOR yellow]O filme se passa no século 13, acompanhando um grupo de monges escoltando uma relíquia sagrada, e uma paisagem irlandesa cheio de perigo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Múmia[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg</thumbnail><info>[B][COLOR yellow]Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe tirado está mumificada. Apesar de sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espalha terror desde as areais do Oriente Médio até os becos de Londres.[/COLOR][/B]</info></item>
+https://d2mu534h5p4wkr.cloudfront.net/RCFServer4/ondemand/OSULTMSSBRV.mp4
+######################################################################################################################################
+<item><title>[B][COLOR white]A Forma Da Agua[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/05/p8BrYR42REzSTXPPifu7SmzCvSo-185x278.jpg</thumbnail><info>[B][COLOR yellow]Década de 60. Em meio aos grandes conflitos políticos e bélicos e as grandes transformações sociais ocorridas nos Estados Unidos, Elisa (Sally Hawkins), zeladora em um laboratório experimental secreto do governo, conhece e se afeiçoa a uma criatura fantástica mantida presa no local. Para elaborar um arriscado plano de fuga ela recorre a um vizinho (Richard Jenkins) e à colega de trabalho Zelda (Octavia Spencer).[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Escalada[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/06/jxmnYUawdlSUctpN1JJ9wvE47ZH-185x278.jpg</thumbnail><info>[B][COLOR yellow]“Para você, eu poderia escalar o Everest!” Samy teria feito melhor se tivesse ficado calado aquele dia… Especialmente por que Nadia não acredita muito em palavras. Por amor a ela, Samy deixa projetos de vida de lado e vai subir os 8.848 metros que fazem do Everest o telhado do mundo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Em Busca da Carta Proibida[COLOR yellow] (2017)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/rqfnk0DRzDHc9TZSv3Z1lTmVFIA-185x278.jpg</thumbnail><info>[B][COLOR yellow]Antuérpia, 1521. Em uma Europa devastada por guerras religiosas, nos tempos da Reforma Protestante, vive Storm Voeten, um garoto de apenas 12 anos de idade, filho de Klaas, dono de uma gráfica. Certo dia, Klaas, que está imprimindo obras de literatura que estão proibidas pela Igreja, é pego pela Inquisição, que está buscando por uma carta perdida escrita por Martinho Lutero. Com isso, Storm é forçado a também procurar tal carta, já que ela poderá ser a chave para libertar seu pai. E, para encontrar a carta, o garoto contará com a inesperada ajuda de Marieke, uma menina órfã que vive nos esgotos da cidade e que também foi vítima de perseguição.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Warcraft: O Primeiro Encontro de Dois Mundos[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cPJhbIwsmMXsV9vihoPEFBFFHm.jpg</thumbnail><info>[B][COLOR yellow]A região de Azeroth sempre viveu em paz, até a chegada dos guerreiros Orc. Com a abertura de um portal, eles puderam chegar à nova Terra com a intenção de destruir o povo inimigo. Cada lado da batalha possui um grande herói, e os dois travam uma disputa pessoal, colocando em risco seu povo, sua família e todas as pessoas que amam.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B]Deixados Para Trás: A Nova Geração[COLOR white][COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jBN2K6HXXuqJvRTRltS1GyJo9nR.jpg</thumbnail><info>[B][COLOR yellow]Quando milhares de pessoas de repente desaparecem do mundo, o caos começa. Gabby (Amber Frank), junto com sua irmã mais nova Claire (Keely Wilson), Josh (Mason Dye) e Flynn (Dylan Sprayberry) tentam descobrir o que aconteceu. E, ao mesmo tempo, precisam sobreviver no mundo em que vivem.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Lar das Crianças Peculiares[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6V4jtpUAdAEE1rkzCnGaeDRW9Qk.jpg</thumbnail><info>[B][COLOR yellow]Quando Jacob descobre pistas para um mistério que abrange diferentes mundos e tempos, ele encontra um lugar mágico conhecido como Lar da Srta. Peregrine para Crianças Peculiares. Mas o mistério e o perigo se aprofundam à medida que ele conhece os moradores e aprende sobre seus poderes especiais... e seus poderosos inimigos. Em última análise, Jacob descobre que apenas sua própria "peculiaridade" especial pode salvar seus novos amigos.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Deuses do Egito[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4xJb2Nll3vHKztHVasHwf6603MB.jpg</thumbnail><info>[B][COLOR yellow]Bek (Brenton Thwaites) é um mortal pacato que se considera apenas mais um soldado, e que vive em um Egito ancestral dominado por deuses e forças ocultas. Quando o impiedoso Set (Gerard Butler), deus da escuridão, toma o trono da nação e mergulha a sociedade no caos, o jovem se unirá a outros cidadãos e com o poderoso Deus Horus (Nikolaj Coster-Waldau), para formar uma expressiva resistência.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Maximum Ride: Projeto Angel[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gESiRTYgRSyrBM2647hqDjWsgyd.jpg</thumbnail><info>[B][COLOR yellow]Um grupo de seis jovens com poderes extraordinários está em FUGA. O seu líder é Maximum Ride, ou Max. Retirados dos seus pais à nascença, os seis estavam presos num laboratório secreto, onde foram alterados geneticamente para se tornarem 98% humanos e 2% pássaros. Agora eles conseguem voar e escaparam da sua prisão. Mas desconhecem as razões para tudo o que lhes foi feito, e não sabem quanto tempo de vida lhes resta. No seu encalce estão os Erasers, seres diabólicos criados no mesmo laboratório, que apanham Angel, a menina mais nova e especial do grupo de Max[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Bom Gigante Amigo[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7p0QdYzx6fysscHCFCv9YL1QPBV.jpg</thumbnail><info>[B][COLOR yellow]Sofia é uma menina órfã que vive em um orfanato. Uma noite, em plena Hora das Bruxas, ela é raptada por um gigante orelhudo que a descobriu espiando pela janela. Mas Sofia logo descobriu que ela não precisava ter medo daquele gigante, que era amigável e tinha como função soprar sonhos nas janelas das crianças. Ao lado dele, ela bola um plano para acabar com os gigantes maus, que adoram devorar "serumanos". Um plano que envolve pesadelos terríveis e a rainha da Inglaterra.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Viking – Os Pergaminhos Sagrados[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykufKnJ2zy2cb2MSJZ9Jt2CIn2S.jpg</thumbnail><info>[B][COLOR yellow]Nos tempos antigos, sete livros sagrados são usados para conceder poder e prosperidade para aqueles que os possuem. A profecia também diz que uma criança nascida com sangue real pura pode um dia dominar seu poder e reina sobre as nações. Os homens de combate para se qualificar para estes pergaminhos empurrou a Europa à beira da guerra.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Comboio de Sal e Açucar[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/07/5A2PG3SgIl7mFHanBSp7NLQ0Vcq-185x278.jpg</thumbnail><info>[B][COLOR yellow]Em 1989, Moçambique é um país arruinado pela guerra civil. O trem que liga Nampula ao Malawi é a única esperança para as pessoas dispostas a arriscar suas vidas a trocar alguns sacos de sal por açúcar. Correndo devagar por trilhas sabotadas, a jornada é cheia de obstáculos e violência. Mariamu, uma viajante frequente, compartilha sua viagem com sua amiga Rosa, uma enfermeira que está indo para seu novo hospital, vivendo a realidade da guerra pela primeira vez, tenente Taiar, que só conhece a realidade de sua vida militar, e outro soldado , Salomão, com quem ele não se dá bem. Entre balas e risadas, histórias de amor e guerra se desenrolam à medida que o trem avança em direção à próxima parada.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Lendas do Templo Perdido: O Filme[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayzfHDrJWbmQAvqvm7AsnL6NN0T.jpg</thumbnail><info>[B][COLOR yellow]O que parecia ser um passeio na selva chato e monótono se transforma em uma luta pela sobrevivência, quando três irmãos esbarram em um templo escondido. Agora, o seu conhecimento e as suas habilidades são postas à prova, pois eles têm de completar uma série de obstáculos e serem mais espertos que os perigos que os aguardam, e assim conseguirem escapar do templo vivos.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Espião Por Acaso[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/02/5gxJ4az0PoJeHDHrNxNiIUPjKgT-185x278.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]spião Por Acaso narra a história do garoto Tim, de apenas 10 anos de idade, quando ele e sua família se mudam para um velho hotel situado na região costeira do país. Tim está sofrendo para se adaptar ao novo lar até que ele conhece Simon, um rapaz peculiar que acabou de despertar de um sono que o manteve sem contato algum com a sociedade desde 1974. Com Simon se ajustando ao mundo de hoje e Tim aprendendo a gostar de sua nova casa, a dupla forma uma bela amizade. Quando Tim decide ajudar Simon a encarar o mundo, o menino descobre que seu novo amigo é um antigo espião e eles estão para embarcar em uma incrível aventura![/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Incrível Aventura de Rick Baker[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/02/2wxvvnHKdZRB31Drf7PbRzPb0mR-185x278.jpg</thumbnail><info>[B][COLOR yellow]Um menino e seu tio fogem para as matas da Nova Zelândia. Para capturá-los, é organizada uma verdadeira caçada da qual os dois precisaram fugir unindo suas forças e superando suas diferenças.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Odisséia[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/07/gVptSBXwz9qNyVWMXv8xtg6ll4v-185x278.jpg</thumbnail><info>[B][COLOR yellow]O grande aventureiro oceânico e cineasta francês Jacques-Yves Cousteau (Lambert Wilson) embarca em uma grande viagem à bordo de sua embarcação Calypso. Consigo, ele leva seu filho Phillippe (Pierre Niney), com quem não tem uma boa relação há anos. Apesar dos problemas, os dois terão que ultrapassar todas as suas diferenças e mágoas para poderem sobreviver em alto-mar.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Lenda de Tarzan[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aRwe397WjpHouR5sCRH48XBdpvr.jpg</thumbnail><info>[B][COLOR yellow]Releitura da clássica lenda de Tarzan, na qual um pequeno garoto órfão é criado na selva, e mais tarde tenta se adaptar à vida entre os humanos. Na década de 30, Tarzan, aclimitado à vida em Londres em conjunto com sua esposa Jane, é chamado para retornar à selva onde passou a maior parte da sua vida onde servirá como um emissário do Parlamento Britânico.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Grande Muralha[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg</thumbnail><info>[B][COLOR yellow]No século XV, William (Matt Damon) e Tovar (Pedro Pascal) são dois mercenários em busca de “pó negro” (pólvora). Depois de escaparem do ataque de uma criatura misteriosa, eles se encontram, acidentalmente, aos pés da Grande Muralha. Lá, eles acabam aprisionados pelos guerreiros chineses, que estão na iminência de sofrerem um ataque. Reza a lenda que, a cada 60 anos, uma horda de monstros tenta transpassar a barreira, para se alimentar dos humanos que vivem do outro lado[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Truque de Mestre: O Segundo Ato[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/07/soXEBKoYRhYSNI3Skobi05m25U9-185x278.jpg</thumbnail><info>[B][COLOR yellow]Após enganarem o FBI, os cavaleiros Daniel Atlas (Jesse Eisenberg), Merritt McKinney (Woody Harrelson) e Jack Wilder (Dave Franco) estão foragidos. Eles seguem as ordens de Dylan Rhodes (Mark Ruffalo), que segue trabalhando no FBI de forma a impedir os avanços na procura dos próprios cavaleiros. Paralelamente, o grupo planeja seu novo ato: desmascarar um jovem gênio da informática, cujo novo lançamento coleta dados pessoais dos usuários. Entretanto, durante a revelação da farsa, os próprios cavaleiros são vítimas de um contragolpe, vindo de um inimigo desconhecido.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Mogli: O Menino Lobo[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kNbTwTn0YLm03XrCMa2XUgcyKm8.jpg</thumbnail><info>[B][COLOR yellow]A trama gira em torno do jovem Mogli (Neel Sethi), garoto de origem indiana que foi criado por lobos em plena selva, contando apenas com a companhia do urso Baloo (Bill Murray) e da pantera negra Bagheera (Ben Kingsley), sem nenhum contato com humanos. O menino é amado pelos animais, mas visto como uma ameaça pelo temido tigre Shere Khan (Idris Elba), que está decidido a matá-lo. Com a família de lobos ameaçada, Mogli decide se afastar. Baseado na série literária de Rudyard Kipling.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Caverna: Perigo Subterrâneo[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4r5VRdSS84GesjVxvKR3JTk0W4x.jpg</thumbnail><info>[B][COLOR yellow]Um grupo de ex-militares de elite destinado a explorar um abismo desconhecido, sem saber que o pior pesadelo está esperando por eles nas profundezas da terra[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Z: A Cidade Perdida[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCWCtn9WNXAzVSHRNjB1vkdiqwv.jpg</thumbnail><info>[B][COLOR yellow]A incrível história real do explorador britânico Percy Fawcett (Charlie Hunnam), que viaja para a Amazônia no século XX e descobre evidências de uma civilização avançada desconhecida que pode ter habitado a região. Depois de ter sido ridicularizado pelo corpo científico que considera as populações indígenas como "selvagens", Fawcett está determinado a retornar à sua amada selva e provar seu caso.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Operação Mekong[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/rdoVkg70VU4fh7FiVFNB7iLbmYq-185x278.jpg</thumbnail><info>[B][COLOR yellow]Inspirado na história real de navios mercantes atacados por bandidos no delta do rio Mekong. As autoridades chinesas se juntam com as forças policiais da Tailândia, Laos e Birmânia para iniciar uma investigação.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Gravidade[COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eHLufJ1bHy4PtEBJdPSTu4jIhZ0.jpg</thumbnail><info>[B][COLOR yellow]Matt Kowalski (George Clooney) é um astronauta experiente que está em missão de conserto ao telescópio Hubble juntamente com a doutora Ryan Stone (Sandra Bullock). Ambos são surpreendidos por uma chuva de destroços decorrente da destruição de um satélite por um míssil russo, que faz com que sejam jogados no espaço sideral. Sem qualquer apoio da base terrestre da NASA, eles precisam encontrar um meio de sobreviver em meio a um ambiente completamente inóspito para a vida humana.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Centenário Que Saiu Sem Pagar a Conta e Sumiu [COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/lx7Twm3oBdw8MknGiYNF8C4MFJG-185x278.jpg</thumbnail><info>[B][COLOR yellow]Uma vez espião, sempre alerta. Se um idoso achar a receita de um refrigerante da época da Guerra Fria, ele ficará rico. Em “O centenário que saiu sem pagar a conta e sumiu”, um idoso ex-espião de 101 anos sai em busca da fórmula de um refrigerante soviético que perdeu nos anos 70. Ele conta com a ajuda de um amigo octogenário em suas aventuras.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Offline - Sem Bônus Nessa Vida[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/bpkBy9lQScuYPjnhgR17538Qklw.jpg</thumbnail><info>[B][COLOR yellow]Jan é um dos melhores jogadores de games de computador. Mas de repente sua vida vira de cabeça para baixo, quando um rival rouba sua identidade online.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Peter Pan[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/rHzymmv36kwWjetWV09OVTj459s-185x278.jpg</thumbnail><info>[B][COLOR yellow]Peter (Levi Miller) é um garoto de 12 anos que vive em um orfanato em Londres, no período da Segunda Guerra Mundial. Um dia, ele e várias crianças são sequestradas por piratas em um navio voador, que logo é perseguido por caças do exército britânico. O navio escapa e logo ruma para a Terra do Nunca, um lugar mágico e distante onde o capitão Barba Negra (Hugh Jackman) escraviza crianças e adultos para que encontrem pixum, uma pedra preciosa que concentra pó de fada. Em pleno garimpo, Peter conhece James Hook (Garreth Hedlund), que tem planos para fugir do local.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Evereste[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ5HcyN9Rs1IyYX2y6WQOR6DnVZ.jpg<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQ5HcyN9Rs1IyYX2y6WQOR6DnVZ.jpg</thumbnail><info>[B][COLOR yellow]Inspirado nos incríveis acontecimentos em torno da montanha mais alta do mundo, Evereste documenta a inspiradora jornada de dois diferentes grupos de expedição que são desafiados além de seus limites quando são acometidos por uma das maiores avalanches já registradas. Com a coragem testada por um dos fenômenos mais severos do planeta, os escaladores terão de enfrentar obstáculos quase impossíveis em busca de sobrevivência.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Os Ultimos Cavaleiros[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/2vAFXuGGteE7yePaxTpcBBWRB1v-185x278.jpg</thumbnail><info>[B][COLOR yellow]Um cavaleiro busca vingança quando seu senhor é injustamente executado por um imperador tirano. O comandante do cavaleiro Raiden(Clive Owen) recebe uma grande honra quando Bartok (Morgan Freeman), seu senhor sem filhos, o nomeia como seu herdeiro. Mas sua felicidade acaba quando o maligno emissário do imperador Mott (Aksel Hennie) o força a decepar seu pai adotivo, e o manda com seus homems para seu castelo sem qualquer título. Mas quando o paranoico Mott procura apagar qualquer traço do clã e legado de Bartok, Raiden secretamente conspira um audacioso plano para se infiltrar nos impenetráveis fortes de Mott em busca de vingança.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Destino de Júpiter[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTj7ttPGiStGqin4ew4sMOXWfZO.jpg</thumbnail><info>[B][COLOR yellow]Jupiter Jones é a descendente de uma linhagem que a coloca como a próxima ocupante do posto de Rainha do Universo. Sem saber disto, ela segue sua vida pacata trabalhando como empregada doméstica nos Estados Unidos, país onde vive após deixar a Rússia. Um dia, ela recebe a visita de Caine, um ex-militar alterado geneticamente que tem por missão protegê-la a todo custo e levá-la para assumir seu lugar de direito.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Mara e o Senhor do Fogo[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Jfapk53HvyOmYJxd5RkLTojWcs.jpg</thumbnail><info>[B][COLOR yellow]Mara Lorbeer (Lilian Prent), 15 anos, começa a ter visões com deuses antigos e começa a buscar explicações com um professor de mitologia. Com um desafio no passado, ela descobre que o crepúsculo dos deuses está próximo de acontecer com a iminente libertação do Deus nórdico Loki. E ela é a única capaz de viajar no tempo e salvar a todos.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Fugindo Do Inferno[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7joTfZ0K5leltdwhHfBuHt1Dyn5.jpg</thumbnail><info>[B][COLOR yellow]Quando um grupo de estudantes universitários talentosos executam um experimento de teletransporte secreto, eles acidentalmente abrem um portal para outra dimensão, aprisionando-os no inferno . Um por um, eles são caçados, torturados e mortos pelos habitantes do inferno que estão empenhados em roubar suas almas. Eles descobriram Inferno.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Heidi [COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kpotI68vLR8jJ3b4puzGRhpidIF.jpg</thumbnail><info>[B][COLOR yellow]
+Heidi, uma pequena órfã, vive uma alegre infância junto do seu avô nos Alpes Suíços. Com Pedro, o seu melhor amigo, Heidi passa os dias a tratar das cabrinhas e a passear livremente pelas colinas. As maravilhosas paisagens são o cenário perfeito para as aventuras desta dupla incansável.Até que um dia, a tia de Heidi a leva para uma rica mansão de Frankfurt com a intenção de a colocar como dama de companhia de Clara, uma menina paraplégica que vive confinada a uma cadeira de rodas. Embora de mundos muito diferentes Clara e Heidi mal podem imaginar que o primeiro encontro seria o início de uma marcante amizade.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Crônicas da Tribo Fantasma[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sWuVJpOWNM0UVD0bGwbLZTzu294.jpg</thumbnail><info>[B][COLOR yellow]Em 1979, um jovem soldado está trabalhando nas montanhas cobertas pela neve na China, quando uma explosão revela bizarros fósseis escondidos nas profundezas de uma caverna. A sua descoberta não só irá mudar sua vida para sempre, mas também a história da humanidade.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Perdido Em Marte[COLOR yellow] (2015)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/e6Uo3QAaUesiduyNX9hDLbaT9P8.jpg</thumbnail><info>[B][COLOR yellow]O astronauta Mark Watney (Matt Damon) é enviado a uma missão em Marte. Após uma severa tempestade ele é dado como morto, abandonado pelos colegas e acorda sozinho no misterioso planeta com escassos suprimentos, sem saber como reencontrar os companheiros ou retornar à Terra.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Onda Perfeita[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/01/10BGV99lVM5JIZ1OSpXlE4Q0qX8-185x278.jpg</thumbnail><info>[B][COLOR yellow]Esta é uma história de amor, baseada no amor de um homem pelo surfe, no amor de uma mãe por seu filho, o amor de um jovem que se apaixona pela primeira vez, e o amor vindo de Deus. Este filme levará você a uma jornada seguindo um homem em busca daquilo que ele chama de “onda perfeita”. E seu caminho não será fácil, haverá muitos percalços – uma paixão inesperada que poderá colocar tudo a perder. Todavia, persistente, nosso protagonista finalmente encontrará seu destino, e um evento mudará sua vida para sempre![/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Dragão do Natal[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0C7rm1ZVhmJamigkVHMNCRqobE.jpg</thumbnail><info>[B][COLOR yellow]Na Europa Medieval, a órfã Ayden recebe um cristal mágico de um elfo à beira da morte. Ele a avisa de que o Norte perdeu sua magia e que ela é a única que pode salvar o Natal. Ela reúne seus amigos e parte em uma perigosa jornada repleta de dragões, ogros e outras criaturas fantásticas que tentam impedir o grupo de alcançar o seu objetivo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Aventura Dos Sete Mares[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/lfIC1r5W0xsXudCb8J5bickcxHq-185x278.jpg</thumbnail><info>[B][COLOR yellow]Procurando por reconhecimento e para descobrir mais sobre o seu passado, o jovem orfão Pinky (Vinjar Pettersen) decide seguir o Capitão Sabertooth (Kyrre Haugen Sydness), o famoso pirata. Ele está liderando sua tripulação em uma emocionante e perigosa viagem, em busca de um grande tesouro.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Favela[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link><thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/9GOMpzlEaDZF5CCFSLEKclrPQRJ-185x278.jpg</thumbnail><info>[B][COLOR yellow]Um herói de guerra guiado por culpa e sofrendo de transtorno de estresse pós-traumático, que vai destruir a si mesmo a não ser dado algo a mais para destruir – um arma de último recurso útil para o Departamento de Estado dos EUA. Quando a irmã de Chapman é brutalmente atacado, enquanto em missão no Brasil, Chapman voa para São Paulo para rastrear seus agressores, entrando rapidamente submundo da cidade e descobrir um mundo de drogas, o comércio sexual, policiais corruptos, e organizou sindicatos do crime lutando pelo control[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Caçada ao Presidente[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uY8shuAOyN5epsAAIJBUViBuYeC.jpg</thumbnail><info>[B][COLOR yellow]Após o avião em que estava ter sido abatido por terroristas, o presidente dos Estados Unidos (Samuel L. Jackson) está ferido e perdido no meio de uma zona rural finlandesa. E sua vida agora está nas mãos de Oskari (Onni Tommila), um tímido jovem de treze anos de idade que embarcou em uma viagem para provar sua maturidade a si mesmo e sua família, passando 24 horas sozinho na selva, armado apenas com um arco e flecha. Essa improvável dupla terá que se unir para sobreviver aos criminosos que seguem atrás do presidente.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Iceman – A Roda do Tempo[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/9B5JVTUZXuwz3caoBTZps3E0reh-185x278.jpg</thumbnail><info>[B][COLOR yellow]A Dinastia Ming guarda do palácio – acusado injustamente de assassinato – está sendo caçado por seus três irmãos jurados e todos os quatro são acidentalmente enterrados e mantidos congelados no tempo durante a batalha. 400 anos depois, eles são descongelados e continuam a batalha, enquanto se adaptam à vida moderna.[/COLOR][/B]</info></item>
+]######################################################################################################################################
+<item><title>[B][COLOR white]A Saga Viking [COLOR yellow] (2014)[/COLOR][/B]</title>
+
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Mnb3DcAdZZKI4gYnskmP8RFsxr.jpg</thumbnail><info>[B][COLOR yellow]Séc. IX. Um grupo de guerreiros viking foi expulso da sua tribo por ter recusado submeter-se à tirania do rei. Sob o comando do destemido Asbjöran, seguem viagem num navio junto à costa escocesa, com a intenção de saquear os ricos mosteiros de Lindisfarne e, dessa forma, comprar a sua liberdade. Mas uma terrível tempestade arrasta-os para uma região hostil. Com a ajuda de Conall, um enigmático monge, estes homens tentam cruzar o território inimigo e alcançar a segurança de uma fortaleza viking.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Caminhos da Floresta[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lV9VadnnXvv8qxoHkT9XWwGesQw.jpg</thumbnail><info>[B][COLOR yellow]Nesta saga épica musical sobre ousar aventurar-se na Floresta, personagens famosos como Cinderela, Chapeuzinho Vermelho, João e o Pé de Feijão e Rapunzel encontram seus destinos entrelaçados com o de um padeiro humilde e sua mulher, cujo desejo de ter um filho os envia em uma missão para reverter um feitiço da Bruxa.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Espirito De Lobo[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/AsqHFPWPjcMaD4i0xAUeLAqW0uf-185x278.jpg</thumbnail><info>[B][COLOR yellow]No ano de 1967 na China, o jovem estudante Chen Zhen (Shaofeng Feng) é enviado para viver entre os nômades do interior da Mongólia. Entreo avanço da civilização e os tradições inimigos dos nômades, os lobos, Chen se questiona sobre a similaridade entre humanos e animais, tomando a ideia de que todos são residentes e invasores lutando para encontrar seu lugar no mundo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Maze Runner: Correr ou Morrer[COLOR yellow] (2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHnRw9Kccevck2KdmzJ8Xf7zczM.jpg</thumbnail><info>[B][COLOR yellow]Num cenário pós-apocalíptico, uma comunidade de rapazes descobre que estão presos num labirinto misterioso. Juntos, terão de descobrir como escapar, resolver o enigma e revelar o arrepiante segredo acerca de quem os colocou ali e por que razão.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]De Volta a Ilha da Imaginação[COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/06/qcmBwtLH9waYDD1BdX6RMR7tDAF-185x278.jpg</thumbnail><info>[B][COLOR yellow]uatorze anos de idade, Nim, mais determinada do que nunca a proteger sua ilha e toda a vida selvagem que a chama de lar, enfrenta os desenvolvedores de resorts e caçadores de animais. Logo ela percebe que não pode depender apenas de suas coortes de animais e deve fazer sua primeira amiga humana – Edmund, que fugiu para a ilha do continente – para salvá-la em casa.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Tumba Do Dragão[COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/07/4CFKp1AtAcyF5RHoGCCRVgPULpV-185x278.jpg</thumbnail><info>[B][COLOR yellow]Travis Preston em viagem à China para investigar uma série de assassinatos misteriosos que pode ou não envolver um animal lendário. Com a ajuda de sua equipe, incluindo a bióloga Sarah Anderson, Travis deve rastrear o animal, a fim de parar os assassinatos. Mas ele não tem que lidar apenas com a besta, porque seu concorrente também é sanguinário na caça …[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Um Lugar Solitário para Morrer[COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/feYOjKSxz9UkxamVmjyMpc7bTHZ-185x278.jpg</thumbnail><info>[B][COLOR yellow]Um grupo de alpinistas descobre, durante sua escalada nas montanhas escocesas, uma criança presa em uma pequena câmara no meio da floresta. Eles acabam em um aterrorizante jogo de perseguição com os seqüestradores, na tentativa de salvar a garota.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Uma Jornada Para Toda Vida[COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2018/04/ysXVxDpfPvl6YmojfNYDz9zjVtb-185x278.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Austrália, 1997. Uma jovem embarca em uma caminhada de 2.700 quilômetros pelo deserto australiano, acompanhada apenas de seu fiel cachorro e quatro camelos.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Os Caçadores[COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/vQWrfq3PmPPW9PEeqrZTnnrZLew-185x278.jpg</thumbnail><info>[B][COLOR yellow]Uma família de arqueólogos decide caçar artefatos de contos de fadas que estão escondidos ao redor da Terra.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Jack, O Caçador de Gigantes [COLOR yellow] (2013)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qCp3BLjQc1qZTbw9VrEzuON9NEG.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Uma guerra antiga se reinicia quando um jovem trabalhador do campo abre inconscientemente um portal entre o nosso mundo e uma raça de gigantes apavorantes. Soltos na Terra pela primeira vez depois de séculos, os gigantes tentam reconquistar seu território que foi perdido, forçando o jovem Jack (Nicholas Hoult) a entrar na batalha de sua vida para impedi-los. Lutando por um reino e seu povo, e pelo amor de uma corajosa princesa, ele fica frente a frente com os guerreiros incansáveis que ele pensava serem apenas uma lenda... e recebe a chance de ele mesmo se tornar uma lenda também.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Branca de Neve e o Caçador[COLOR yellow] (2012)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlXNRuDfoCRLvnVwU41DLO0p3ze.jpg</thumbnail><info>[B][COLOR yellow]Um rei viúvo caiu de amores por Ravenna (Charlize Theron) sem saber de seus terríveis planos de conquista e acaba morrendo, deixando para ela todo o seu reino. Para piorar a situação, a filha dele foi jogada em uma masmorra e lá ficou até se tornar uma bela jovem. Obcecada pela beleza e pela juventude, a Rainha não se cansa de perguntar ao seu oráculo para saber de existe alguém mais bela do que ela, até o dia em que a resposta não a agradou. Felizmente, Branca de Neve (Kristen Stewart) consegue fugir sem que seu coração seja arrancado e Ravenna se torne poderosa para sempre. Mas a malvada não desiste fácil e além da ajuda do irmão, um fiel escudeiro, ela contrata Eric (Chris Hemsworth), um exímio caçador para trazer sua presa de volta. Só que ele acaba descobrindo que a missão era um grande erro e vai ajudar a jovem em sua cruzada contra o reinado da malévola. Para isso, eles contarão também com o importante apoio dos seres da floresta e dos unidos sete anões mineiros.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]127 horas[COLOR yellow] (2012)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/gqlmOWbC6hPRZo2HtpI1o57XA5T-185x278.jpg</thumbnail><info>[B][COLOR yellow]“127 Horas” conta a história verídica da impressionante aventura do montanhista Aron Ralston (James Franco), e a sua luta ao ficar preso após uma queda num desfiladeiro isolado no Utah. Durante os cinco dias seguintes Ralston examina a sua vida e sobrevive aos elementos para finalmente descobrir que tem a coragem e os recursos para se libertar por qualquer meio necessário, escalar uma parede com 200m e caminhar mais de 12km antes de ser finalmente salvo. Ao longo da sua viagem, Ralston recorda amigos, amantes (Clémence Poésy), família e as duas caminhantes (Amber Tamblyn e Kate Mara) que conheceu antes do acidente.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]As Aventuras De PI[COLOR yellow] (2012)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/12/rHgta6j8rAQvsfsCTzwxagYFnGB-185x278.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Pi Patel (Suraj Sharma) é filho do dono de um zoológico localizado em Pondicherry, na Índia. Após anos cuidando do negócio, a família decide vender o empreendimento devido à retirada do incentivo dado pela prefeitura local. A ideia é se mudar para o Canadá, onde poderiam vender os animais para reiniciar a vida. Entretanto, o cargueiro onde todos viajam acaba naufragando devido a uma terrível tempestade. Pi consegue sobreviver em um bote salva-vidas, mas precisa dividir o pouco espaço disponível com uma zebra, um orangotango, uma hiena e um tigre de bengala chamado Richard Parker.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B]A Lenda do Dragão[COLOR white][COLOR yellow] (2012)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/07/wsPHJOMxLFkoL9LdxLoFzcQn6fM-185x278.jpg</thumbnail><info>[B][COLOR yellow]Alec, um cavaleiro corajoso, é convocado pelo mais velhos a retornar à sua aldeia. Ao encontrar Francis, seu irmão mais velho, trabalhando na loja de ferreiro da família, Alec descobre que seu pai está doente. Enquanto andam pela aldeia encontram Anabel e Isabel, a quem os irmãos tem admiração já ha algum tempo e juntos começam a ouvir as história de Cid, que narra como criaturas aladas atacaram a aldeia. Houve-se, então um grito de gelar o sangue. Jabberwocky desce sobre eles com o corpo de um dragão, a cabeça de um inseto e com suas terríveis e mortais garras. Alec junto com um grupo, sai em busca da incrível criatura, enquanto Francis permanece para proteger a vila e seu pai doente. Em sua oficina prepara uma nova arma, a Espada Vorpal. De posse da espada Francis vai ao encontro do grupo. Agora os irmãos devem permanecer juntos, empunhar a espada para salvar a aldeia, as mulheres que amam e vingar a morte de seu pai.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]John Carter: Entre Dois Mundos[COLOR yellow] (2012)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/34raAO5zu72ISSjqHaQJfRryuWM-185x278.jpg</thumbnail><info>[B][COLOR yellow]O soldado americano John Carter, para a tristeza de seus parentes, faleceu no planeta Terra. Contudo, para a alegria de outros, ressuscitou em Marte. Agora, em meio a uma guerra civil no planeta vermelho, habitado por seres de cor verde e criaturas gigantescas, ele é visto como a única esperança de ajudar a princesa Deja Thoris, a salvar o seu mundo, numa batalha que mudará para sempre o seu destino.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Os Três Mosqueteiros[COLOR yellow] (2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2020/06/wJy0zURpPTi1TLC1PQOmLlTwDiH-185x278.jpg</thumbnail><info>[B][COLOR yellow]O jovem D’Artagnan, depois de sair da Gasconha e viajar para Paris, conhece os mosqueteiros Athos, Aramis e Porthos, e tentam impedir que o Cardeal Richelieu e sua agente Milady de Winter causem uma guerra entre a França e a Inglaterra.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Hanna[COLOR yellow] (2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/sR8FAvZTfEVK6yk8WVImL9URe8h-185x278.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Hanna não é uma garota comum. Criada por seu pai, um ex-agente da CIA no ponto mais remoto da Finlândia; ela tem a força, a resistência e o instinto aguçado de um soldado. Sua educação e treinamento têm o mesmo objetivo, tudo conspira para fazer dela a assassina perfeita. O momento decisivo da sua adolescência é muito intenso: enviada por seu pai para cumprir uma missão, Hanna viaja escondida pelo norte da África e pela Europa iludindo agentes secretos e assassinos clandestinos que se reportam a uma espiã implacável que esconde segredos sobre ela mesma. Quanto mais próxima de seu objetivo final, Hanna tem que lidar não só com inimigos poderosos, mas também precisa enfrentar revelações alarmantes sobre sua própria existência.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]incontrolavel[COLOR yellow] (2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGuBgnWrWh4ZLj2VcG9OBCYxple.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]Uma composição carregada de produtos altamente tóxicos está desgovernada e o perigo é iminente. Um condutor (Chris Pine) e um maquinista experiente (Denzel Washington) precisam evitar que uma pequena cidade em seu caminho seja destruída. A única saída é botar em prática uma operação muito arriscada, mas o tempo corre contra eles.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]1911 – A Revolução[COLOR yellow] (2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2019/10/6iXrSw9IdbQTZO4mMSzv4J6phje-185x278.jpg</thumbnail><info>[B][COLOR yellow]1911, é um tributo aos 100 anos de aniversário da revolução de 1911. O filme “1911″ tem uma constelação de estrelas, porém deve-se ressaltar que Chan dirigiu, produziu e atuou no mesmo, o filme é uma crônica sobre a revolução artística, conhecido na China como a Revolução de Xinhai, que começou em 1911 e, finalmente, terminou a última dinastia feudal da China[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Robin Hood[COLOR yellow] (2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/12/pgQNCw3dZ0aBkEFKuaHpoQRYyI5-185x278.jpg</thumbnail><info>[B][COLOR yellow]Robin Longstride (Russell Crowe) integra o exército do rei Ricardo Coração de Leão (Danny Huston), que está em plenas cruzadas. Após a morte do rei, ele consegue escapar juntamente com alguns companheiros. Em sua tentativa de fuga eles encontram Sir Robert Loxley (Douglas Hodge), que tinha por missão levar a coroa do rei a Londres. Loxley foi atacado por Godfrey (Mark Strong), um inglês que serve secretamente aos interesses do rei Filipe, da França. À beira da morte, Loxley pede a Robin que entregue a seu pai uma espada tradicional da família. Ele aceita a missão e, vestido como se fosse um cavaleiro real, parte para Londres. Após entregar a coroa ao príncipe João (Oscar Isaac), que é nomeado rei, Robin parte para Nottingham. Lá conhece Sir Walter (Max von Sydow) e Marion (Cate Blanchett), respectivamente pai e esposa de Loxley.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]A Ivenção De Hugo Cabret[COLOR yellow] (2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://megafilmeshd50.com/wp-content/uploads/2017/11/qsWfbpwXItZ9m55Mmum9PisfupM-185x278.jpg</thumbnail><info>[B][COLOR yellow]Paris, anos 30. Hugo Cabret (Asa Butterfield) é um órfão que vive escondido nas paredes da estação de trem. Ele guarda consigo um robô quebrado, deixado por seu pai (Jude Law). Um dia, ao fugir do inspetor (Sacha Baron Cohen), ele conhece Isabelle (Chloe Moretz), uma jovem com quem faz amizade. Logo Hugo descobre que ela tem uma chave com o fecho em forma de coração, exatamente do mesmo tamanho da fechadura existente no robô. O robô volta então a funcionar, levando a dupla a tentar resolver um mistério mágico.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Príncipe da Pérsia: As Areias do Tempo[COLOR yellow] (2010)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b2XfLnlcXMujlQUPgIZAceLiD0Y.jpg</thumbnail><info>[B][COLOR yellow]Na cidade sagrada de Alamut ficam as Areias do Tempo, que dá aos mortais o poder de voltar ao passado. Após liderar um ataque à cidade, Dastan (Jake Gyllenhaal), o filho adotivo do rei da Pérsia, consegue uma adaga que lhe dá acesso às Areias. Dastan foge com uma princesa Alamut chamada Tamina (Gemma Arterton) após ser acusado de matar o pai. O casal precisa proteger o tesouro antigo e desmascarar o assassino do rei.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Alice no País das Maravilhas[COLOR yellow] (2010)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fjaiHtykx4LcHJLzhKhn7tNPpAj.jpg</thumbnail><info>[B][COLOR yellow]A Alice de 19 anos de idade, que regressa ao excêntrico mundo que encontrou pela primeira vez quando era criança reunindo-se assim com os seus amigos de infância: o Coelho Branco, Tweedledee e Tweedledum, a Ratazana, a Lagarta, o Gato Cheshire, e claro, o Chapeleiro Louco. Alice embarca numa fantástica viagem para encontrar o seu verdadeiro destino e acabar com o reino de terror da Rainha Vermelha.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Congo[COLOR yellow] (1994)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hPNSToNIIpRO6y5Rh973leqQqNr.jpg</thumbnail><info>[B][COLOR yellow]Grupo de exploradores, que inclui um professor, uma expert em eletrônica, um guia e um aventureiro, viaja para o Congo por diversos motivos. Um deles é devolver a inteligente e brincalhona gorila Ammy para o seu habitat natural. Seguindo os passos do animal que está voltando para casa, eles estão prestes a descobrir um perigo até então desconhecido na cidade perdida de Zinj, no coração da selva.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+><thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow] ()[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 1 [COLOR yellow]720p[/COLOR] [/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=$$lsname=[B]LINK 2 [COLOR yellow]1080p[/COLOR] [/B]</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR][/B]</info></item>
+######################################################################################################################################
+
+

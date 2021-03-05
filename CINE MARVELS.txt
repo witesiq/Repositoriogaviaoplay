@@ -1,0 +1,252 @@
+<item><title>[COLOR white]Venom[COLOR yellow](2018)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65C85CC02C378672DD4853C1ECF7EE044A547B6C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB2196840A2133A26AEE37CEEE0D2BCC2C7A2D3A</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C63A3383D6C7FF0EC07B64FEE3CA7131D37F607B</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ysV0NOrxUelK290XONEQePpw4zB.jpg</thumbnail>
+<info>[COLOR yellow]O jornalista Eddie Brock desenvolve força e poder sobre-humanos quando seu corpo se funde com o alienígena Venom. Dominado pela raiva, Venom tenta controlar as novas e perigosas habilidades de Eddie. [COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem Formiga[COLOR yellow](2015)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91285D960CCAFA338037284CCCCE818E7E7D1C9F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2e66fc4ad10e95d6e0a25200fcf886fc9d5a098</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771B78D664A04EDD1A4EEB8C45F29F5820F7CD7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yZS7MdWHRJoCfdMryc6wQiS23pb.jpg</thumbnail>
+<info>[COLOR yellow]Dr. Hank Pym (Michael Douglas), o inventor da fórmula/ traje que permite o encolhimento, anos depois da descoberta, precisa impedir que seu ex-pupilo Darren Cross (Corey Stoll), consiga replicar o feito e vender a tecnologia para uma organização do mal. Depois de sair da cadeia, o trambiqueiro Scott Lang (Paul Rudd) está disposto a reconquistar o respeito da ex-mulher, Maggie (Judy Greer) e, principalmente, da filha. Com dificuldades de arrumar um emprego honesto, ele aceita praticar um último golpe. O que ele não sabia era que tudo não passava de um plano do Dr. Pym que, depois de anos observando o hábil ladrão, o escolhe para vestir o traje do Homem-Formiga.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/19ifjdGXRUjphM_mqudT7GOjE6gKQrMwn/view?usp=sharing
+####################################################################################################################################
+<item><title>[COLOR white]Homem-Formiga e a Vespa[COLOR yellow](2018)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B52272C77018DBD4636D73457458D5A6923E2AC</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA361899288EB5F6526047C6D384377F6489BD3C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ADB76EF1C4D2E3DA4BB51B13AB88DFC70E41111</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/azH25XpelbpzSEg8JoQVJQsFNF7.jpg</thumbnail>
+<info>[COLOR yellow]Scott Lang lida com as consequências de suas escolhas tanto como super-herói quanto como pai. Enquanto tenta reequilibrar sua vida com suas responsabilidades como o Homem-Formiga, ele é confrontado por Hope van Dyne e Dr. Hank Pym com uma nova missão urgente. Scott deve mais uma vez vestir o uniforme e aprender a lutar ao lado da Vespa, trabalhando em conjunto para descobrir segredos do passado.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Capitão América :O Filme[COLOR yellow](1991)[/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
+<info>[COLOR yellow]Durante a 2ª Guerra Mundial o americano Steve Rogers (Matt Salinger) se submete a uma experiência comandada por Therese Vaselli (Carla Cassola), uma cientista que fugiu da Itália por não aceitar os "métodos" utilizados. Steve se torna um super soldado, surgindo o Capitão América. Entretanto Vaselli é morta e o segredo de transformar um simples humano num soldado excepcional morre com ela, o que frustra o plano de criar vários super soldados. Ao se defrontar com o Caveira Vermelha (Scott Paulin), um hiper soldado criado pelos nazistas, o Capitão América é preso num foguete, que tem como alvo a Casa Branca. O herói desvia a trajetória, no entanto vai parar no Alasca, onde fica congelado. Nos anos 90 ele acorda e descobre que o Caveira é Tadzio de Santis, que quer seqüestrar o presidente Tom Kimball (Ronny Cox) e usar uma técnica revolucionária para tomar o lugar de Kimball e se tornar o novo presidente dos Estados Unidos.[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Capitão América :O Primeiro Vingador[COLOR yellow](2011)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fef3e8fa4dac082f9699fa30cdd063cc0ba9840</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc1287143cfa8254a73028d7ff239c44bfcd7bc3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0655A73EB55C35B77B2B6CD9DEC12CD4F81CCDC6</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xYijVAPunk6neVW2KHKE4Lp45ZU.jpg</thumbnail>
+<info>[COLOR yellow]Steve Rogers é um jovem que participa de experiências visando a criação do supersoldado americano. Quando os oficiais militares conseguem transformá-lo em uma arma humana, eles percebem que não podem arriscar a vida do jovem nas batalhas de guerra.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Capitão América :O soldado universal[COLOR yellow](2014)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:399A8E539FBD01ABC40F5F5F6EDA0B87ECB694A0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F84FAA636687E86D2F0CC13019BF602706A329A4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DD8C44C46E2E4A64D7FDEA9BF56E0FFB889C7CE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lk0NvgL1ikOYElr5KdnyGnEui9.jpg</thumbnail>
+<info>[COLOR yellow]Após os eventos catastróficos em Nova York com Os Vingadores, Steve Rogers, segue tentando se ajustar ao mundo moderno. Porém, quando um colega da agência S.H.I.E.L.D. é atacado, Steve se vê preso em uma rede de intrigas que ameaça colocar o mundo em risco. Em parceria com a Viúva Negra e Falcão, seu novo aliado, o Capitão América tem que enfrentar um misterioso e inesperado inimigo, o Soldado Invernal.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Capitão América:Guerra Civil[COLOR yellow](2016)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4B93E9070E9A8F20769C2AB855A4398DAB9E5F25</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27D2C99A9ECC3F0378999BF293EAE41AF641971B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2EAA112BC4FDF042DB42B9D1C4CD16F1E69F93A3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_/p/w600_and_h900_bestv2/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
+<info>[COLOR yellow]O ataque de Ultron fez com que os políticos buscassem algum meio de controlar os super-heróis, já que seus atos afetam toda a humanidade. Tal decisão coloca o Capitão América em rota de colisão com Tony Stark, o Homem de Ferro.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Guardiões Da Galaxia [COLOR yellow](2014)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3e228abf902389116392deefdf7d17f07c92aa0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:144B17B99B12CBC4CA0D44497AFFBEE2A4051CFA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BA421C097DED6B7B7654C7B7013065882EAA526</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
+<info>[COLOR yellow]O aventureiro do espaço Peter Quill torna-se presa de caçadores de recompensas depois que rouba a esfera de um vilão traiçoeiro, Ronan. Para escapar do perigo, ele faz uma aliança com um grupo de quatro extraterrestres. Quando Quill descobre que a esfera roubada possui um poder capaz de mudar os rumos do universo, ele e seu grupo deverão proteger o objeto para salvar o futuro da galáxia.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Guardiões Da Galaxia 2[COLOR yellow](2017)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DDBBC15B1ABC1D359A57F729D8CC700C0CE982BE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AD1B0BC8F2B3694D6B66FBA0FAA9418849BE462B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:485F2814E590454D3F21422268190AE2A3A3CEBB</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXi3ExbRXnZCPbdHQkppQdcdMUF.jpg</thumbnail>
+<info>[COLOR yellow]Os Guardiões precisam lutar para manter sua recém descoberta família unida, enquanto descobrem os mistérios sobre o verdadeiro pai de Peter Quill.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Thor[COLOR yellow](2011)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c56f2814e35f8030d089c3f6355ab34c29476ec7</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24e4d465763c62f29004b5c8f5564dfd623b426c</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:486E7174ED99DF144CF25B0F8D1CFFA2AB1276E4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rimMyzCkPR2buxVL7be1ceuNeH.jpg</thumbnail>
+<info>[COLOR yellow]Como filho de Odin, rei dos deuses nórdicos, Thor logo herdará o trono de Asgard de seu idoso pai. Porém, no dia de sua coroação, Thor reage com brutalidade quando os inimigos dos deuses entram no palácio violando o tratado. Como punição, Odin manda Thor para a Terra. Enquanto seu irmão Loki conspira em Asgard, Thor, agora sem seus poderes, enfrenta sua maior ameaça.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+
+####################################################################################################################################
+<item><title>[COLOR white]Thor - O Mundo Sombrio[COLOR yellow](2013)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f7b3768f7e5d78b356b1e4749e9addc43bdb4de</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e69f52c95a871ca5883ff7e66da60464351e42fc</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2D4109F38CFBEFA8FABAB750091F08C5DD4C18B3</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/oip30thvJBpJRveA13Rtd2am5Qg.jpg</thumbnail>
+<info>[COLOR yellow]Thor precisa contar com a ajuda de seus companheiros e até de seu traiçoeiro irmão Loki em um plano audacioso para salvar o universo. Entretanto, os caminhos de Thor se cruzam com Jane Foster e, dessa vez, a vida dela está realmente em perigo.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Thor-Ragnarok[COLOR yellow](2017)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79833591E5030044B8839D710B73B4E820A4B66F</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDF7E7BD4F66930881D69418142CB29F3AED755</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85BDE684F53B390BEB7C0105DD1C3D43E80EFCC6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uagFWLJDUEieSaBjSl2mVEkWWrS.jpg</thumbnail>
+<info>[COLOR yellow]Thor está preso do outro lado do universo. Ele precisa correr contra o tempo para voltar a Asgard e parar Ragnarok, a destruição de seu mundo, que está nas mãos da poderosa e implacável vilã Hela.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Os Vingadores[COLOR yellow](2012)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d430c1bf03ccec2375e7950853dffabdf53c366b</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00f17e8d27157b266b97be6f0be3c25c30287472</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92D001E2AF389EA651CACDB6A2E225C6B22F3511</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xX2xp5QSQPhnqZK9BnluFg9v8qs.jpg</thumbnail>
+<info>[COLOR yellow]Loki, o irmão de Thor, ganha acesso ao poder ilimitado do cubo cósmico ao roubá-lo de dentro das instalações da S.H.I.E.L.D. Nick Fury, o diretor desta agência internacional que mantém a paz, logo reúne os únicos super-heróis que serão capazes de defender a Terra de ameaças sem precedentes. Homem de Ferro, Capitão América, Hulk, Thor, Viúva Negra e Gavião Arqueiro formam o time dos sonhos de Fury, mas eles precisam aprender a colocar os egos de lado e agir como um grupo em prol da humanidade.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]os Vingadores: Era de Ultron[COLOR yellow](2015)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B412966BE87196B0B2101EBA1C9ECF8B3B2FB4BC</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02AB10D81FC77C6C2ED3E8C830767046945CAA70</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7927CB715CBE2109C5DC9A349139EF38B11DD481</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1F8xnBHZlQMkSAacfhUUXhmcgo.jpg</thumbnail>
+<info>[COLOR yellow]Ao tentar proteger o planeta de ameaças, Tony Stark constrói um sistema de inteligência artificial que cuidaria da paz mundial. O projeto acaba dando errado e gera o nascimento do Ultron. Com o destino da Terra em jogo, os Vingadores terão que se unir para mais uma vez salvar a raça humana da extinção.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Os Vingadores-Guerra Infinita[COLOR yellow](2018)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB243CDC591B878A5CED7F86871A27179758E429</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CCDDB37F6ADBEF1B41924FB79E33B844CA45CEF2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:518B4B3F0DC68658C44834085BC2B28D8D377183</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkHe0BfOo1f5N2q6rxgdYac7Zf6.jpg</thumbnail><info>[COLOR yellow]Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Vingadores: Ultimato[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:083992495565e8b8f841e1aaea1cbf07bea036cc</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FE89D311C83D124F203B83CE4CB3BCCD3176FE5</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1FDE83FC6568EF8218A61EB7270DFECAFB5FF97</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg</thumbnail>
+<info>[COLOR yellow]Após os eventos devastadores de "Vingadores: Guerra Infinita", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+
+####################################################################################################################################
+<item><title>[COLOR white]Fenix Negra[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FF60AC1152970B5B23115EFD80030EA7F5A7D9F2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4E8F80B8AF3A5957EBB34FD181CF1D9B8717AB8C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B779439FBB314ACD196B65F770AA3DB5F94812FF</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg</thumbnail>
+<info>[COLOR yellow]Ambientado em 1992, Charles Xavier (James McAvoy) está lidando com o fato dos mutantes serem considerados heróis nacionais. Com o orgulho a flor da pele, ele envia sua equipe para perigosas missões, mas a primeira tarefa dos X-Men no espaço gera uma explosão solar, que acende uma força malévola e faminta por poder dentro de Jean Grey (Sophie Turner).[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Capitã Marvel[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a65399224aca9c92f5a753785e1e21b2da05949f</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22F4A9F1BC8A1C52C06E1820B036A483F5463A20</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4F7076993E62F8096D1F519EC57EEA1C99A0AB54</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hVgLHgnsO46oSHJy5I4ekhqtoYv.jpg</thumbnail>
+<info>[COLOR yellow]Capitã Marvel, parte do exército de elite dos Kree, uma raça alienígena, encontra-se no meio de uma batalha entre seu povo e os Skrulls. Ao tentar impedir uma invasão de larga escala na Terra, em 1995, ela tem memórias recorrentes de uma outra vida, como Carol Danvers, agente da Força Aérea norte-americana. Com a ajuda de Nick Fury, Capitã Marvel precisa descobrir os segredos de seu passado e pôr um fim ao conflito intergalático com os Skrulls.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Deadpool[COLOR yellow](2016)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1A257E0FD066408D7C3D67DB5E7A9ABB8239D10A</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:414421FA93A87AB540BD28F78CBA2111E7592756</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/swS3PsQYD3wGEWZwtgpUlGRMv1G.jpg</thumbnail>
+<info>[COLOR yellow]Baseado no anti-herói não convencional da Marvel Comics, Deadpool conta a história da origem do ex-agente das Forças Especiais que se tornou o mercenário Wade Wilson. Depois de ser submetido a um desonesto experimento que o deixa com poderes de cura acelerada, Wade adota o alter ego de Deadpool. Armado com suas novas habilidades e um senso de humor negro e distorcido, Deadpool persegue o homem que quase destruiu sua vida.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Deadpool 2[COLOR yellow](2018)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30DFA6447A7ACAEAFC5FFA2D49833245955EB5C1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D73B9E510ED00DC0066B20F4CC7DBEE5FB5A856D</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5A226DC885999F166470755A1967C5788238D4B5</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6CABdPx68rYoLdvXhIJkilOj6XZ.jpg</thumbnail>
+<info>[COLOR yellow]Quando o super soldado Cable chega em uma missão para assassinar o jovem mutante Russel, o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Pantera Negra[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A961A533A63E6D89AA0337CEB9299655F21C3B02</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38CD899EB83FC9BE339A81F68D7195886661990C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586A40C2113EFEBF35FCD3EA68B2ABF08C6CAF17</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TjvIO8ZJPKrMKXEjOVGNSzuO6q.jpg</thumbnail><info>[COLOR yellow]O príncipe T'Challa retorna a Wakanda para ser coroado rei. Assumindo o manto de Pantera Negra, ele vai à caça de um vilão que roubou um precioso metal de seu país.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Motoqueiro Fantasma[COLOR yellow](2007)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4da5d18e9bc35d3686c57be8d8bbb824109e76b</link>><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWrw9sOVGQOushf1HmF1nwYgCPJ.jpg</thumbnail>
+<info>[COLOR yellow]Johnny Blaze (Nicolas Cage) trabalha como dublê e piloto de motocicleta. Há muito tempo ele fez um pacto com Mefisto (Peter Fonda) para proteger as duas pessoas que mais amava: seu pai, Barton (Brett Cullen), e sua namorada de adolescência, Roxanne Simpson (Eva Mendes). Em troca Johnny se transforma à noite no Motoqueiro Fantasma, o justiceiro de alguns demônios bastante cruéis. Forçado a obedecer as ordens de Mefisto, Johnny decide enfrentá-lo de forma a usar sua maldição para proteger pessoas inocentes.[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Motoqueiro Fantasma: Espírito de Vingança[COLOR yellow](2011)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A7B5F2EFE332B1528636079EE72C154C71DCA31</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7832D6F5BBF9A73D2393EBAE2D3DCDB92568B789</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsWqvNyvFj8mWTwZCVMZFgkGTHL.jpg</thumbnail>
+<info>[COLOR yellow]Depois de um período recluso na Europa, Johnny Blaze embarca em uma nova missão para se livrar da maldição de ser um motoqueiro fantasma. Desta vez, ele precisa impedir que o próprio demônio encarnado sequestre um garoto de dez anos que pode ser a única esperança da humanidade contra as trevas.[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem De Ferro[COLOR yellow](2008)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8b08624e87e1376c5f31ac04f1dc9a8e37f64e0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D9944D7EAF388108F424874B31AF8D0AAC89CF03</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EA15B7E87EE828614EF79180BC089F733EB2D72</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7w6s8TdJ0Wdayz2MCHZA5wIk9nq.jpg</thumbnail>
+<info>[COLOR yellow]Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem De Ferro 2[COLOR yellow](2010)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2F7940E402727BB8A4969691E9D2C7C20A4A1CC1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7CFCF41160E5B9427FF668B926C52612E4A6E1DB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EC5165E878DAA611BC8383DD41000EE13FD1A2BF</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7NFIOapixCJV3zA3sF823KVrNL.jpg</thumbnail>
+<info>[COLOR yellow]Em um mundo ciente da existência do Homem de Ferro, o inventor bilionário Tony Stark sofre pressão de todos os lados para compartilhar sua tecnologia com as forças armadas. Ele resiste para divulgar os segredos de sua inigualável armadura, com medo de que estas informações caiam nas mãos erradas.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem De Ferro 3[COLOR yellow](2013)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C5DD09712AC0F0B0E844CC191E97CD7A80BF4AB6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C97A57AB8F0040B9B015887B4CFBB63A602A5F32</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7B44AB7C64D5DA7D0FF91B6F48DECD7F86FF33A</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzL3IlELFTRnRLdGqRv33SecqtD.jpg</thumbnail>
+<info>[COLOR yellow]Depois de um inimigo reduzir o mundo de Tony Stark a destroços, o Homem de Ferro precisa aprender a confiar em seus instintos para proteger aqueles que ama, especialmente sua namorada, e lutar contra seu maior medo: o fracasso.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Doutor Estranho[COLOR yellow](2016)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12041A645A5377B8714C56E54ECA2EB772E31472</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CAC8B02E699062D073E5ECE0C6EB22AA252714A3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ECF7532B77DA78C699414D6FF28855CA7197A0E</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0amAZ8KJFxBQZOxOnWlKVT4STi.jpg</thumbnail>
+<info>[COLOR yellow]Da Marvel Studios vem “Doctor Strange”, a história do mundialmente famoso neurocirurgião Dr. Stephen Strange, cuja vida muda para sempre depois de um terrível acidente de carro, que o rouba do uso de suas mãos. Quando a medicina tradicional o falha, ele é forçado a procurar por cura e esperança, em um lugar improvável - um enclave misterioso conhecido como Kamar-Taj. Ele rapidamente descobre que isso não é apenas um centro de cura, mas também a linha de frente de uma batalha contra as forças ocultas invisíveis empenhadas em destruir nossa realidade. Em pouco tempo, Strange - armado com poderes mágicos recém-adquiridos - é forçado a escolher se quer retornar à sua vida de fortuna e status ou deixar tudo para trás para defender o mundo como o mais poderoso feiticeiro existente.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem Aranha[COLOR yellow](2002)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44a2de2223eda3e0925276cc7c9ac16355eca2e6</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43776d3e980526882028542724198c76b6b5caaf</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18ff5f850709c126c91b29610f9c5362cf7e535b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cssvZGCaubdDMbtt20IDK3WXV2.jpg</thumbnail>
+<info>[COLOR yellow]Peter Parker é um jovem estudioso que vive com seus tios, Ben e May, desde que seus pais faleceram. Peter tem dificuldade em se relacionar com seus colegas, por ser tímido e por eles o considerarem um nerd. Até que, em uma demonstração científica, um acidente inesperado faz com que aranha modificada geneticamente pique Peter. A partir de então seu corpo é quimicamente alterado pela picada da aranha.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item
+####################################################################################################################################
+<item><title>[COLOR white]Homem Aranha 2[COLOR yellow](2004)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63436fc25b8f267673e58b1ca2eb00efa6c70b50</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DF5BBD590334D11C19FEDA8D15C424A02B73F388</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63436fc25b8f267673e58b1ca2eb00efa6c70b50</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/41CX8g39cqdA83fAkoZ1SM6d4oG.jpg</thumbnail>
+<info>[COLOR yellow]pós derrotar o Duende Verde a vida de Peter Parker (Tobey Maguire) muda por completo. Temendo que Mary Jane (Kirsten Dunst) sofra algum risco por ser ele o Homem-Aranha, Peter continua escondendo o amor que sente e se mantém longe dela. Ao mesmo tempo precisa lidar com Harry (James Franco), seu melhor amigo, cuja raiva pelo Homem-Aranha aumenta cada vez mais por considerá-lo como sendo o assassino de seu pai.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem Aranha 3[COLOR yellow](2007)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3EE8D53C31A6C911A1CDA7418F258CD09254E19</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3EE8D53C31A6C911A1CDA7418F258CD09254E19</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10bd746f05aa0e23f48ff1a0b902ea940a82a878</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7goptmUGulOnr2jM4wwc5ypHL.jpg</thumbnail>
+<info>[COLOR yellow]O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem-Aranha - De Volta ao Lar[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:204E5CB06516A37B8835B223B98791A3EC31605E</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8756921A33DA280F8C97DD8C127B140549A45869</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9FD0FEA6814B7467F8A03CE7D0CC6233B34086C0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg</thumbnail>
+<info>[COLOR yellow]Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker (Tom Holland) voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre (Michael Keaton) surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem-Aranha: Longe de Casa[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1353539E3C660B4AA1F83D0CFAF5631797BF7B7D</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A728EEB64CF609A49ED9C715D1FB5FCED82729E3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CED02A945F3EE4562605AC2D89E7E92C0DD1BD7A</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg</thumbnail>
+<info>[COLOR yellow]Peter Parker está em uma viagem de duas semanas pela Europa, ao lado de seus amigos de colégio, quando é surpreendido pela visita de Nick Fury. Convocado para mais uma missão heroica, ele precisa enfrentar vários vilões que surgem em cidades-símbolo do continente, como Londres, Paris e Veneza, e também a aparição do enigmático Mysterio.[COLOR lime]OBS: ULTIMO LINK 4k/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Homem-Aranha no Aranhaverso[COLOR yellow](2019)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E9DC782FD74DC47624050D8CCB82B904B6AE55A3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36033201DA817A92D4E96791E289499F89C73FF0</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B1216E7C140FD7038476533FC8716B781476897</link>
+<thumbnail>https://abutretorrents.com/capa/homem-aranha-no-aranhaverso-3d-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[COLOR yellow]Miles Morales é um jovem negro do Brooklyn que se tornou o Homem-Aranha inspirado no legado de Peter Parker, já falecido. Entretanto, ao visitar o túmulo de seu ídolo em uma noite chuvosa, ele é surpreendido com a presença do próprio Peter, vestindo o traje do herói aracnídeo sob um sobretudo. A surpresa fica ainda maior quando Miles descobre que ele veio de uma dimensão paralela, assim como outras variações do Homem-Aranha.[COLOR lime]OBS: ULTIMO LINK 3D[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]O Espetacular Homem Aranha[COLOR yellow](2012)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:599eb1dadfcaf914dd709e1b0ff09eedff1554f3</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74b2783facebbab85dd96a301de39ef244947ae8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f</link>
+https://d2mu534h5p4wkr.cloudfront.net/CFServer1/ondemand/OESPTCLHMNARNH01.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dODKvv9o9BOemWavnulutJBHM80.jpg</thumbnail>
+<info>[COLOR yellow]Peter Parker está tentando saber mais sobre sua origem. Ele encontra uma pasta que pertenceu ao seu pai e quer descobrir por que seus pais desapareceram. Sua busca o leva a Oscorp e ao dr. Curt Connors, que tem como alterego o letal Lagarto.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]O Espetacular Homem Aranha 2 - A Ameaça De Eletro[COLOR yellow](2014)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08fd379b4df90920eef5008b41d82f8700e07747</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f236b1b183bf15cba4754a249528c87fdb73014</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:281070e6bc23569e90d04c13fd1c5093fc5c2c63</link>
+https://d2mu534h5p4wkr.cloudfront.net/RCFServer1/ondemand/OESPTCLHMNARNH02.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKCaomyS92jS9GhEJbdAfzNaf7A.jpg</thumbnail>
+<info>[COLOR yellow]Peter Parker está fascinado com as habilidades de Homem-Aranha. Porém, ele tem que lidar com dois problemas: o retorno de um velho amigo, Harry Osborn, e a chegada de um vilão mais forte e poderoso, Electro.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]Hulk[COLOR yellow](2003)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d416b1e8b6bd0e00b5cc61dea16e52cde380966</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D8C0E023C1AAB6CFD7EC548478DB004095A053E</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7efe8f4a2f095bc098b96eedb2f76f0227f5a958</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1Kl74sn1p6thqUFU6atZA81NHfi.jpg</thumbnail>
+<info>[COLOR yellow]Bruce Banner é um cientista e trabalha ao lado de sua grande paixão, a bela Betty Ross, em um projeto que envolve a reconstituição de tecidos com a utilização da radiação gama. O problema todo começa quando, após ter seus genes alterados por um acidente envolvendo a radiação gama, Bruce Banner passa a se transformar em um ser gigantesco e verde que expressa no corpo todos os seus demônios mais íntimos e pessoais.[/COLOR]</info></item>
+####################################################################################################################################
+<item><title>[COLOR white]O Incrivel Hulk[COLOR yellow](2008)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:171e96900c89846793451b2c5e3ec9365b7ccf0d</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C35AE7BF3A6D932E2AD7E30162E176F364D48F88</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01692F21A562407C3C6A3333F5D369BB8D06EF6F</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8RddLhz0bHigZwltYlngPZJII0.jpg</thumbnail>
+<info>[COLOR yellow]Vivendo escondido e longe de Betty Ross (Liv Tyler), a mulher que ama, o cientista Bruce Banner (Edward Norton) busca um meio de retirar a radiação gama que está em seu sangue. Ao mesmo tempo ele precisa fugir da perseguição do general Ross (William Hurt), seu grande inimigo, e da máquina militar que tenta capturá-lo, na intenção de explorar o poder que faz com que Banner se transforme no Hulk.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+####################################################################################################################################

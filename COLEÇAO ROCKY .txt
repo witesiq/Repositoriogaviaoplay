@@ -1,0 +1,84 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Rocky: Um Lutador[COLOR yellow] (1976)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bd7c1c7f5bdcd824af69aabaf4e423298e15354</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ5rLUltZALHgM0hPUcnfrJehA7.jpg</thumbnail><info>[B][COLOR yellow]Rocky Balboa (Sylvester Stallone), um lutador de boxe medíocre que trabalha como "cobrador" de um agiota, tem a chance de enfrentar Apollo Creed (Carl Weathers), o campeão mundial dos pesos-pesados, que teve a idéia de dar oportunidade a um desconhecido como um golpe publicitário. Mas Rocky decide treinar de modo intensivo, sonhando apenas em terminar a luta sem ter sido nocauteado pelo campeão[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky II - A Revanche[COLOR yellow] (1979)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9babf6b90f35edecddffba5393dc9dda2570ff4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGMd0KljOO5rkDVgwuGjWBAJMME.jpg</thumbnail><info>[B][COLOR yellow]Após o término do confronto contra Apollo Creed (Carl Weathers), Rocky (Sylvester Stallone) promete à Adrian (Talia Shire), sua esposa grávida, que irá largar os ringues de boxe. Porém, Apollo quer provar que Rocky não foi nocauteado por acaso e, como este está sem dinheiro, promovem outra luta entre os dois pugilistas.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky lll: O Desafio Supremo[COLOR yellow] (1982)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4a2b3b09fd0df5a448cf9e2fb13a11240768c7d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/24BKlLHQ3IC2EifNOEg5XVF57j8.jpg</thumbnail><info>[B][COLOR yellow]Após ter sido derrotado por Clubber Lang (Mr. T), um novo e temível adversário, Rocky (Sylvester Stallone) passa a ser treinado para a luta revanche por Apollo Creed (Carl Weathers), seu antigo rival, que deseja de Rocky apenas um pequeno favor em troca dos seus serviços.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky 4[COLOR yellow] (1985)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0b39ba16975652a402b71c3a3327839e15901d6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg</thumbnail><info>[B][COLOR yellow]Apollo (Carl Weathers) morre em uma luta com Drago (Dolph Lundgren), um invencível lutador russo. Assim, Rocky (Sylvester Stallone) decide ir até a União Soviética para enfrentá-lo e vingar o amigo.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky 5 [COLOR yellow](1990)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95af65009aefcd2d354a0bb4398449cd79a9fd3b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg</thumbnail><info>[B][COLOR yellow]Na luta com Drago, o lutador russo, Rocky (Sylvester Stallone) acabou recebendo uma lesão permanente. Assim é forçado a se retirar do boxe e, para piorar as coisas, descobre que seu contador roubou sua fortuna. Sem dinheiro e não podendo voltar a lutar, ele começa a treinar um jovem (Tommy Morrison) que promete ser um grande lutador. Mas seu trabalhado não é terminado, pois um empresário atrai o jovem pugilista com um alto salário, mas mestre e aluno ainda vão se reencontrar como rivais.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky Balboa[COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3765C667F119AC018AFD5C4B8D35CA6C262E196</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/byBlJvZwCqgtIwrZNv0pyE974jC.jpg</thumbnail><info>[B][COLOR yellow]Rocky, aposentado há muito tempo, trabalha em um restaurante na Filadélfia e lamenta a perda de sua amada mulher, Adrian. Com saudade de seus dias de glória, ele pretende voltar ao ringue e aceita o desafio de lutar contra o atual campeão mundial dos pesos pesados, Mason "the Line" Dixon.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Creed: Nascido para Lutar [COLOR yellow](2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BA7B1013E1728BDA093856D1D890E043E8230DA0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp2Vk9XmK8XbGeJ8YmH3N14juw9.jpg</thumbnail><info>[B][COLOR yellow]Adonis Johnson (Michael B. Jordan) nunca conheceu o pai, Apollo Creed, que faleceu antes de seu nascimento. Ainda assim, a luta está em seu sangue e ele decide entrar no mundo das competições profissionais de boxe. Após muito insistir, Adonis consegue convencer Rocky Balboa (Sylvester Stallone) a ser seu treinador e, enquanto um luta pela glória, o outro luta pela vida.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Creed II [COLOR yellow] (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D4DAFAAD6FA36CDAC2BB0A936C23B12B299BE1E2</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAu6ajsuyL9dwMhOFerfwqtjsX4.jpg</thumbnail><info>[B][COLOR yellow]Adonis Creed (Michael B. Jordan) saiu mais forte do que nunca de sua luta contra 'Pretty' Ricky Conlan (Tony Bellew) e segue sua trajetória rumo ao campeonato mundial de boxe, contra toda a desconfiança que acompanha a sombra de seu pai e com o apoio de Rocky (Sylvester Stallone). Sua próxima luta não será tão simples: Ele precisa enfrentar um adversário que possui uma forte ligação com o passado de sua família, o que torna tudo ainda mais complexo.[/COLOR][/B]</info>
+</item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Rocky: Um Lutador[COLOR yellow] (1976)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/RCKY1.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJ5rLUltZALHgM0hPUcnfrJehA7.jpg</thumbnail><info>[B][COLOR yellow]Rocky Balboa (Sylvester Stallone), um lutador de boxe medíocre que trabalha como "cobrador" de um agiota, tem a chance de enfrentar Apollo Creed (Carl Weathers), o campeão mundial dos pesos-pesados, que teve a idéia de dar oportunidade a um desconhecido como um golpe publicitário. Mas Rocky decide treinar de modo intensivo, sonhando apenas em terminar a luta sem ter sido nocauteado pelo campeão[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky II - A Revanche[COLOR yellow] (1979)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/RCKY2.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGMd0KljOO5rkDVgwuGjWBAJMME.jpg</thumbnail><info>[B][COLOR yellow]Após o término do confronto contra Apollo Creed (Carl Weathers), Rocky (Sylvester Stallone) promete à Adrian (Talia Shire), sua esposa grávida, que irá largar os ringues de boxe. Porém, Apollo quer provar que Rocky não foi nocauteado por acaso e, como este está sem dinheiro, promovem outra luta entre os dois pugilistas.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky lll: O Desafio Supremo[COLOR yellow] (1982)[/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/RCKY3.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/24BKlLHQ3IC2EifNOEg5XVF57j8.jpg</thumbnail><info>[B][COLOR yellow]Após ter sido derrotado por Clubber Lang (Mr. T), um novo e temível adversário, Rocky (Sylvester Stallone) passa a ser treinado para a luta revanche por Apollo Creed (Carl Weathers), seu antigo rival, que deseja de Rocky apenas um pequeno favor em troca dos seus serviços.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky 4[COLOR yellow] (1985)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun//RCFServer1/ondemand/RCKY4.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jmvpwgW5M2kduR9zB0q8qGFC4zM.jpg</thumbnail><info>[B][COLOR yellow]Apollo (Carl Weathers) morre em uma luta com Drago (Dolph Lundgren), um invencível lutador russo. Assim, Rocky (Sylvester Stallone) decide ir até a União Soviética para enfrentá-lo e vingar o amigo.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky 5 [COLOR yellow](1990)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95af65009aefcd2d354a0bb4398449cd79a9fd3b</link>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/RCKY5.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nJc3IuQlRgnLfiztfwUt0czaJQR.jpg</thumbnail><info>[B][COLOR yellow]Na luta com Drago, o lutador russo, Rocky (Sylvester Stallone) acabou recebendo uma lesão permanente. Assim é forçado a se retirar do boxe e, para piorar as coisas, descobre que seu contador roubou sua fortuna. Sem dinheiro e não podendo voltar a lutar, ele começa a treinar um jovem (Tommy Morrison) que promete ser um grande lutador. Mas seu trabalhado não é terminado, pois um empresário atrai o jovem pugilista com um alto salário, mas mestre e aluno ainda vão se reencontrar como rivais.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Rocky Balboa[COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/RCKYBLBOA.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/byBlJvZwCqgtIwrZNv0pyE974jC.jpg</thumbnail><info>[B][COLOR yellow]Rocky, aposentado há muito tempo, trabalha em um restaurante na Filadélfia e lamenta a perda de sua amada mulher, Adrian. Com saudade de seus dias de glória, ele pretende voltar ao ringue e aceita o desafio de lutar contra o atual campeão mundial dos pesos pesados, Mason "the Line" Dixon.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Creed: Nascido para Lutar [COLOR yellow](2015)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/CRDNSCDPRLTR.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wp2Vk9XmK8XbGeJ8YmH3N14juw9.jpg</thumbnail><info>[B][COLOR yellow]Adonis Johnson (Michael B. Jordan) nunca conheceu o pai, Apollo Creed, que faleceu antes de seu nascimento. Ainda assim, a luta está em seu sangue e ele decide entrar no mundo das competições profissionais de boxe. Após muito insistir, Adonis consegue convencer Rocky Balboa (Sylvester Stallone) a ser seu treinador e, enquanto um luta pela glória, o outro luta pela vida.[/COLOR][/B]</info>
+</item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Creed II [COLOR yellow] (2018)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/CRED2.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAu6ajsuyL9dwMhOFerfwqtjsX4.jpg</thumbnail><info>[B][COLOR yellow]Adonis Creed (Michael B. Jordan) saiu mais forte do que nunca de sua luta contra 'Pretty' Ricky Conlan (Tony Bellew) e segue sua trajetória rumo ao campeonato mundial de boxe, contra toda a desconfiança que acompanha a sombra de seu pai e com o apoio de Rocky (Sylvester Stallone). Sua próxima luta não será tão simples: Ele precisa enfrentar um adversário que possui uma forte ligação com o passado de sua família, o que torna tudo ainda mais complexo.[/COLOR][/B]</info>
+</item>

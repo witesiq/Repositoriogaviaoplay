@@ -1,0 +1,58 @@
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]SER ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.pinimg.com/originals/fd/e1/05/fde1059defce1e60d9ee807d485691e0.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/gkjVmC1h></externallink>
+<info>SER ESPIRITA E PRATICAR OS ENSINAMENTOS DO CRISTO, ESTUDAR E PRATICAR A CARIDADE, O AMOR AO PROXIMO </info>
+
+</channel>
+#########################################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] A DOUTRINA ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>http://1.bp.blogspot.com/-U56oDmus9XQ/UeCpgw4c2rI/AAAAAAABni4/4HDb71KCwt0/s320/imswsages.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/QfD8C9qz</externallink>
+<fanart>http://1.bp.blogspot.com/-p0Rqf8Q-ONk/WrqlvabDW7I/AAAAAAACUic/mgytbJRMF0MmPP2Z-hyH2JVzg2Eb5KYjgCK4BGAYYCw/s1600/29088965_1864534726941486_5123439304550383616_n-763360.jpg</fanart>
+<info>AQUI ENCONTRÃO UM ESTUDO APROFUNDADO SOBRE A DOUTRINA DO AMOR, DA CARIDADE </info>
+
+</channel>
+#########################################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ESTUDO DO EVANGELHO ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+[COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white][COLOR yellow]"PALESTRAS"[/COLOR][/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR]</name>
+<thumbnail>https://cdn.awsli.com.br/600x450/577/577582/produto/23830835/evangelho-segundo-o-espiritismo-o-e-facil-leitura-37c43569.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/huRw8rJ0</externallink>
+<info> AQUI ENCONTRARÃO UM ESTUDO DO  NOVO TESTAMENTO DE ACORDO COM A DOUTRINA DOS ESPIRITOS</info>
+
+</channel>
+#########################################################################################################################################
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MEDIUNIDADE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://tvmundomaior.com.br/wp-content/uploads/2019/02/Mediunidade-de-Cura--822x689.png</thumbnail>
+<externallink>https://pastebin.com/raw/J0c5KrSG</externallink>
+<<info>AQUI ENCONTRARÃO TUDO SOBRE A MEDIUNIDADE,O QUE E SER MEDIUM,ETÇ.</info>
+
+</channel>
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES ESPIRITAS E ESPIRITUALISTAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkRjbDX2LK7lkB3_06Zqc_CB_OOJjVvgXWrOzROtglRilhMfQUoQ&s</thumbnail>
+<externallink>https://pastebin.com/raw/pXqRcNDC</externallink>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiu5QxaXzezsF-aCWs3ewsyzFUSKpt6zxdSlkqmh-Na89gIQVc-A&s</fanart>
+<info>AQUI ENCONTRARÃO OS FILMES ESPIRITAS E ESPIRITUALISTAS,  </info>
+
+</channel>
+ 
+#########################################################################################################################################
+ 
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PALESTRAS ESPIRITAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>http://1.bp.blogspot.com/-U56oDmus9XQ/UeCpgw4c2rI/AAAAAAABni4/4HDb71KCwt0/s320/imswsages.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/EuZqVVXC</externallink>
+<fanart>http://1.bp.blogspot.com/-p0Rqf8Q-ONk/WrqlvabDW7I/AAAAAAACUic/mgytbJRMF0MmPP2Z-hyH2JVzg2Eb5KYjgCK4BGAYYCw/s1600/29088965_1864534726941486_5123439304550383616_n-763360.jpg</fanart>
+<info>AQUI ENCONTRARÃO PALESTRAS ESPIRITAS COM PALESTRANTES QUE ESTUDAM A FUNDO A DOUTRINA DO AMOR, E FALAM SOBRE OS ENSINAMENTOS DO CRISTO NA VERSÃO ESPIRITA</info>
+
+</channel>

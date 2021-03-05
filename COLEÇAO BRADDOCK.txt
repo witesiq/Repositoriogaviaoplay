@@ -1,0 +1,35 @@
+item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+######################################################################################################################################
+<item><title>[B][COLOR white]Braddock - O Super Comando [COLOR yellow](1984)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bd7855faa6a643c513ba9a30eb9ca580f8b26b6</link><thumbnail>https://i.imgur.com/wkiW8M2.jpg</thumbnail>
+<info>[B][COLOR yellow]James Braddock (Chuck Norris) é um oficial americano que passou 7 anos no Vietnã do Norte como prisioneiro de guerra, e depois conseguiu escapar. Após uma guerra sangrenta, ele acompanha as investigações do governo que chegam até a cidade de Hoh Chi Minh para checar se são verdadeiras as denúncias de que soldados americanos ainda estão como prisioneiros. Braddock então viaja até a Tailândia para encontrar Tucker (M. Emmet Walsh), um antigo amigo do exército. Juntos, eles vão se embrenhar na mata do Vietnã em uma missão para tentarem resgatar os soldados americanos. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Braddock 2 - O Inicio Da Missão [COLOR yellow](1985)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c9d5fe591e5a43d7222992011d299931338c7cd</link><thumbnail>https://i.imgur.com/q5TyRHr.jpg</thumbnail>
+<info>[B][COLOR yellow]O início da saga do coronel Braddock (Chuck Norris) no Vietnã, quando ele ainda era prisioneiro em terras asiáticas. Braddock é capturado e junto com outros americanos obrigado a trabalhar como escravo em uma plantação de ópio para um cruel homem chamado Yin (Soon-Tek Oh), que tem como sua maior ambição acabar com Braddock. Mesmo com forte torturas, o coronel americano irá lutar contra o traficante, e fará de tudo para fugir e resgatar seus companheiros. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Braddock 3 - O Resgate [COLOR yellow](1988)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e0ff4b10479cd857f4820382daa51377f2c67bc</link><thumbnail>https://i.imgur.com/O4CBfG5.jpg</thumbnail>
+<info>[B][COLOR yellow]Os momentos em que viveu no Vietnã nunca foram realmente esquecidos, e dessa vez o coronel Braddock (Chuck Norris) enfrentará uma volta violenta ao passado. O ex-prisioneiro de guerra descobre que sua esposa vietnamita e seu filho ainda estão vivos, e não mortos como ele pensou durante 12 anos. Ao regressar ao Vietnã comunista, ele descobre que muitos filhos de homens americanos com mulheres vietnamitas estão orfãos e sendo explorados por um oficial, que já havia torturado Braddock quando ele estava preso. O coronel irá fazer de tudo para salvar essas crianças que foram esquecidas quando a guerra acabou, e entrará em combate mais uma vez. [/COLOR][/B]</info></item>
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime]links diretos [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS POREM AS VEZES FICAM OF LINE,MAS LOGO VOLTAM ON LINE[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Braddock - O Super Comando [COLOR yellow](1984)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/BRDCK.mp4</link><thumbnail>https://i.imgur.com/wkiW8M2.jpg</thumbnail>
+<info>[B][COLOR yellow]James Braddock (Chuck Norris) é um oficial americano que passou 7 anos no Vietnã do Norte como prisioneiro de guerra, e depois conseguiu escapar. Após uma guerra sangrenta, ele acompanha as investigações do governo que chegam até a cidade de Hoh Chi Minh para checar se são verdadeiras as denúncias de que soldados americanos ainda estão como prisioneiros. Braddock então viaja até a Tailândia para encontrar Tucker (M. Emmet Walsh), um antigo amigo do exército. Juntos, eles vão se embrenhar na mata do Vietnã em uma missão para tentarem resgatar os soldados americanos. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Braddock 2 - O Inicio Da Missão [COLOR yellow](1985)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/BRDCK2.mp4</link><thumbnail>https://i.imgur.com/q5TyRHr.jpg</thumbnail>
+<info>[B][COLOR yellow]O início da saga do coronel Braddock (Chuck Norris) no Vietnã, quando ele ainda era prisioneiro em terras asiáticas. Braddock é capturado e junto com outros americanos obrigado a trabalhar como escravo em uma plantação de ópio para um cruel homem chamado Yin (Soon-Tek Oh), que tem como sua maior ambição acabar com Braddock. Mesmo com forte torturas, o coronel americano irá lutar contra o traficante, e fará de tudo para fugir e resgatar seus companheiros. [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Braddock 3 - O Resgate [COLOR yellow](1988)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/BRDCK3.mp4</link><thumbnail>https://i.imgur.com/O4CBfG5.jpg</thumbnail>
+<info>[B][COLOR yellow]Os momentos em que viveu no Vietnã nunca foram realmente esquecidos, e dessa vez o coronel Braddock (Chuck Norris) enfrentará uma volta violenta ao passado. O ex-prisioneiro de guerra descobre que sua esposa vietnamita e seu filho ainda estão vivos, e não mortos como ele pensou durante 12 anos. Ao regressar ao Vietnã comunista, ele descobre que muitos filhos de homens americanos com mulheres vietnamitas estão orfãos e sendo explorados por um oficial, que já havia torturado Braddock quando ele estava preso. O coronel irá fazer de tudo para salvar essas crianças que foram esquecidas quando a guerra acabou, e entrará em combate mais uma vez. [/COLOR][/B]</info></item>

@@ -1,0 +1,24 @@
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]VIDEO CLIPS[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/25G3gFG9/VIDEOCLIPS.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/jaqqHyWa</externallink>
+<fanart>https://i.postimg.cc/8zR7g4YR/FANART-VIDEOCLIPS.jpg</fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]MUSICAS[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/HxPnkYfQ/MUSICA.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/WQencGfe</externallink>
+<fanart>https://i.postimg.cc/65G7YtL1/FANART-MUSICA.jpg</fanart>
+<info>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[B][COLOR indigo]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR orangered]###[/COLOR] [COLOR white]RADIOS ON LINE[/COLOR] [COLOR orangered]###[/COLOR][COLOR deeppink]###[/COLOR][COLOR indigo]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/PxqNHpFX/RADIOS-ON-LINE.jpg</thumbnail>
+<externallink>#EXTINF:-1 group-title="Rádios" tvg-logo="http://i.imgur.com/MmJBR9j.png" tvg-name=""radio=true,Rádio Kids</externallink>
+<fanart>https://i.postimg.cc/xd9cfHrW/FANART-RADIO-ON-LINE.jpg</fanart>
+<info>

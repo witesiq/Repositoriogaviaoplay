@@ -1,0 +1,70 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Ela Dança, Eu Danço [COLOR yellow](2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a222fedbaf86b7ea0298e2b1ea4e0dd4229f024d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdcpRdrEtvXINLCBv2lko7uxwVo.jpg</thumbnail><info>[B][COLOR yellow]Após depredar um colégio, Tyler Gage (Channing Tatum) é enviado para fazer serviços comunitários em uma escola de artes. Lá ele conhece Nora Clark (Jenna Dewan), uma bela aluna de dança moderna que precisa urgentemente de um novo parceiro. Tyler está acostumado com as danças de rua, mas reluta à idéia de ser o novo parceiro de Nora. Aos poucos ele aceita a idéia e passa a se envolver com Nora.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 2 [COLOR yellow](2008)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e45d9c92452a430e8ad13d4ac2089c5363f421c</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0IBQe9vPjd3CR14uYz9Lklxrfh.jpg</thumbnail><info>[B][COLOR yellow]Andie (Briana Evigan) é uma dançarina de rua rebelde, que entrou para a conceituada Maryland School of the Arts. O local é frequentado pela elite da sociedade local, ou seja, o tipo de pessoa bem diferente das quais Andie costuma lidar. Precisando enfrentar barreiras para se ambientar com os novos colegas, ela inicia fora da escola um projeto ousado: formar um grupo de dança de rua. Para tanto conta com a ajuda de Chase (Robert Hoffman), o dono da escola de dança mais quente da região.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 3  [COLOR yellow](2010)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8cfa2fece7085f9d9177a4e0509053c7645b720</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9eOOfBdSqjeqDLUeX35Q825AzF.jpg</thumbnail><info>[B][COLOR yellow]Um unido grupo de dançarinos de rua, que inclui Luke (Rick Malambri) e Natalie (Sharni Vinson), se une ao calouro da Universidade de Nova York Moose (Adam Sevani). Eles disputam contra os melhores dançarinos de hip hop do mundo em uma competição de alto risco, que mudará suas vidas para sempre.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 4 [COLOR yellow](2012)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9089785bbf6c13e9d83577258e93754a6be1a672</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqTxJfMVYEtz3LpGjf1hCxqiZ7V.jpg</thumbnail><info>[B][COLOR yellow]Emily (Kathryn McCormick) é a filha de uma ocupada empresária que chega a Miami com o sonho de se tornar dançarina profissional. Logo ela se apaixona por Sean (Ryan Guzman), o responsável por criar elaboradas danças para a realização de flash mobs, aglomerações instantâneas de pessoas em um lugar público para realizar uma ação previamente combinada. Líder de um grupo chamado MOB, Sean resolve participar de uma disputa que pode render uma oportunidade de patrocínio.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 5,Tudo Ou Nada [COLOR yellow](2014)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5400B5E87EA6BB9ACDB37653C605FD78FEE9D489</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eoioJdyQc51cHWYWRkLSXtfbr4.jpg</thumbnail><info>[B][COLOR yellow]Quinto filme da franquia Ela Dança, Eu Danço. Na nova trama, um grupo de dançarinos deve participar de uma importante competição de dança em Las Vegas. capaz de determinar o rumo de suas carreiras;[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 6 [COLOR yellow](2019)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FBF37C927015CBAE17CF96A816D4130A216B1CE7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNzLlzZCrqK4fXmxTojTAk1jqnE.jpg</thumbnail><info>[B][COLOR yellow]Jovens de diferentes classes sociais em Pequim se juntam para formar o melhor grupo de dança da China e aprender o verdadeiro significado de família.[/COLOR][/B]</info></item>
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Ela Dança, Eu Danço [COLOR yellow](2006)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/ELDNCEUDNC1.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdcpRdrEtvXINLCBv2lko7uxwVo.jpg</thumbnail><info>[B][COLOR yellow]Após depredar um colégio, Tyler Gage (Channing Tatum) é enviado para fazer serviços comunitários em uma escola de artes. Lá ele conhece Nora Clark (Jenna Dewan), uma bela aluna de dança moderna que precisa urgentemente de um novo parceiro. Tyler está acostumado com as danças de rua, mas reluta à idéia de ser o novo parceiro de Nora. Aos poucos ele aceita a idéia e passa a se envolver com Nora.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 2 [COLOR yellow](2008)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/ELDNCEUDNC2.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0IBQe9vPjd3CR14uYz9Lklxrfh.jpg</thumbnail><info>[B][COLOR yellow]Andie (Briana Evigan) é uma dançarina de rua rebelde, que entrou para a conceituada Maryland School of the Arts. O local é frequentado pela elite da sociedade local, ou seja, o tipo de pessoa bem diferente das quais Andie costuma lidar. Precisando enfrentar barreiras para se ambientar com os novos colegas, ela inicia fora da escola um projeto ousado: formar um grupo de dança de rua. Para tanto conta com a ajuda de Chase (Robert Hoffman), o dono da escola de dança mais quente da região.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 3  [COLOR yellow](2010)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/ELDNCEUDNC3.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9eOOfBdSqjeqDLUeX35Q825AzF.jpg</thumbnail><info>[B][COLOR yellow]Um unido grupo de dançarinos de rua, que inclui Luke (Rick Malambri) e Natalie (Sharni Vinson), se une ao calouro da Universidade de Nova York Moose (Adam Sevani). Eles disputam contra os melhores dançarinos de hip hop do mundo em uma competição de alto risco, que mudará suas vidas para sempre.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 4 [COLOR yellow](2012)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/ELDNCEUDNC4.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/pqTxJfMVYEtz3LpGjf1hCxqiZ7V.jpg</thumbnail><info>[B][COLOR yellow]Emily (Kathryn McCormick) é a filha de uma ocupada empresária que chega a Miami com o sonho de se tornar dançarina profissional. Logo ela se apaixona por Sean (Ryan Guzman), o responsável por criar elaboradas danças para a realização de flash mobs, aglomerações instantâneas de pessoas em um lugar público para realizar uma ação previamente combinada. Líder de um grupo chamado MOB, Sean resolve participar de uma disputa que pode render uma oportunidade de patrocínio.[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 5,Tudo Ou Nada [COLOR yellow](2014)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/ELDNCEUDNC5.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2eoioJdyQc51cHWYWRkLSXtfbr4.jpg</thumbnail><info>[B][COLOR yellow]Quinto filme da franquia Ela Dança, Eu Danço. Na nova trama, um grupo de dançarinos deve participar de uma importante competição de dança em Las Vegas. capaz de determinar o rumo de suas carreiras;[/COLOR][/B]</info></item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Ela Dança, Eu Danço 6 [COLOR yellow](2019)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/ELDNCEUDNC6.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eNzLlzZCrqK4fXmxTojTAk1jqnE.jpg</thumbnail><info>[B][COLOR yellow]Jovens de diferentes classes sociais em Pequim se juntam para formar o melhor grupo de dança da China e aprender o verdadeiro significado de família.[/COLOR][/B]</info></item>

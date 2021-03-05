@@ -1,0 +1,40 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENTS [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Lara Croft: Tomb Raider[COLOR yellow] (2001)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DD9D92035B46B8B5C54EAC65E3C149C2AF14828A</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg</thumbnail><info>[B][COLOR yellow]Lara Croft é uma aventureira que passa o dia a dia explorando impérios perdidos, descobrindo tesouros preciosos e punindo vilões em combates mortais. Mas, um antigo segredo de seu pai, um célebre arqueólogo desaparecido, está prestes a levar Lara a seu maior desafio: o Triângulo de Luz, uma relíquia lendária com o poder de alterar o tempo e o espaço. Ela precisa encontrar o Triângulo antes que caia nas mãos dos Illuminati, uma sociedade secreta que quer dominar o mundo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+magnet:?xt=urn:btih:27011bd1288c60364c20a40b3192edba19b76c55
+<item><title>[B][COLOR white]Lara Croft: Tomb Raider - A Origem da Vida[COLOR yellow] (2003)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:343C6CC571E885BBDF88C08B9D778A7978C6FAF7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDySYjyo0tYKG9QcyF9S4q9RtVk.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]A arqueóloga Lara Croft precisa encontrar a Caixa de Pandora, famosa por conter em seu interior todos os males do mundo. O objeto está escondido em um local conhecido como Origem da Vida, localizado no continente africano. Porém em sua jornada, Croft terá que enfrentar o Dr. Jonathan Reiss, um cientista ganhador do Prêmio Nobel que também está atrás do objeto.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B]Tomb Raider: A Origem[COLOR white][COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:543FB08C244A55A300BC0E824B29A3735AEBAE1C</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR]Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu há sete anos. Com a esperança de resolver o mistério do desaparecimento de seu pai, Lara embarca em uma perigosa jornada para seu último destino conhecido: Um túmulo lendário em uma ilha mítica que pode estar em algum lugar ao largo da costa do Japão. As apostas não podiam ser maiores, pois Lara deve confiar em sua mente aguçada, fé cega e teimosia para se aventurar no desconhecido.][/B]</info></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] LINK DIRETO [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Lara Croft: Tomb Raider[COLOR yellow] (2001)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/LARCRFTTMBRDR.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg</thumbnail><info>[B][COLOR yellow]Lara Croft é uma aventureira que passa o dia a dia explorando impérios perdidos, descobrindo tesouros preciosos e punindo vilões em combates mortais. Mas, um antigo segredo de seu pai, um célebre arqueólogo desaparecido, está prestes a levar Lara a seu maior desafio: o Triângulo de Luz, uma relíquia lendária com o poder de alterar o tempo e o espaço. Ela precisa encontrar o Triângulo antes que caia nas mãos dos Illuminati, uma sociedade secreta que quer dominar o mundo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+magnet:?xt=urn:btih:27011bd1288c60364c20a40b3192edba19b76c55
+<item><title>[B][COLOR white]Lara Croft: Tomb Raider - A Origem da Vida[COLOR yellow] (2003)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/LARCRFTTMBRDRAORGMDVDA.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vDySYjyo0tYKG9QcyF9S4q9RtVk.jpg</thumbnail><info>[B][COLOR yellow][/COLOR]A arqueóloga Lara Croft precisa encontrar a Caixa de Pandora, famosa por conter em seu interior todos os males do mundo. O objeto está escondido em um local conhecido como Origem da Vida, localizado no continente africano. Porém em sua jornada, Croft terá que enfrentar o Dr. Jonathan Reiss, um cientista ganhador do Prêmio Nobel que também está atrás do objeto.[/B]</info></item>
+######################################################################################################################################
+<item><title>[B]Tomb Raider: A Origem[COLOR white][COLOR yellow] (2018)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/TMBRDRORGM.mp4</link>
+<thumbnail></thumbnail><info>[B][COLOR yellow][/COLOR]Lara Croft é a independente filha de um aventureiro excêntrico que desapareceu há sete anos. Com a esperança de resolver o mistério do desaparecimento de seu pai, Lara embarca em uma perigosa jornada para seu último destino conhecido: Um túmulo lendário em uma ilha mítica que pode estar em algum lugar ao largo da costa do Japão. As apostas não podiam ser maiores, pois Lara deve confiar em sua mente aguçada, fé cega e teimosia para se aventurar no desconhecido.][/B]</info></item>
+
+
+

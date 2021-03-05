@@ -1,0 +1,88 @@
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE [COLOR yellow]AÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/sgh6wjPv/cine-on-line-a-o.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/igQkfX0Q</externallink>
+<fanart>https://i.postimg.cc/j5Kz6Kv0/cine-on-line-a-o.jpg</fanart>
+<info>OS MELHORES FILMES DE AÇÃO , NOVOS E ANTIGOS;NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
+</channel>
+
+
+
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]ADULTO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/rpGh2fPT/cine-on-line-adulto.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/WuVcDNK8</externallink>
+<fanart>https://i.postimg.cc/yYNyr1K7/cine-on-line-adulto.jpg</fanart>
+<info>OS MELHORES FILMES DE SEXO , NOVOS E ANTIGOS; NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
+</channel>
+
+
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]AVENTURA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/Px22PPHF/cine-on-line-aventura.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/sjzBYP0j</externallink>
+<fanart>https://i.postimg.cc/JhjNBtN5/cine-on-line-aventura.jpg</fanart>
+<info>OS MELHORES FILMES DE AVENTURAS , NOVOS E ANTIGOS;NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]COMÉDIA[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/m2kW2PkK/cine-on-line-comedia.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/wnThVcMy</externallink>
+<fanart>https://i.postimg.cc/rpMJmdc5/fanart-comedia.jpg</fanart>
+<info>AQUI ENCONTRARÃO OS MAIS VARIADOS ESTILOS DE FILMES , NOVOS E ANTIGOS; NACIONAIS E INTERNACIONAIS </info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]FICÇAO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/x8Z53hcv/cine-on-line-fic-o.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/6sc5s9F6</externallink>
+<fanart>https://i.postimg.cc/SNjc8Nkz/cine-on-line-fic-o.jpg</fanart>
+<info>OS MELHORES FILMES DE FICÇÃO CIENTIFICA , NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]INFANTIL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/FFCTvdDY/cine-on-line-infantil.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/av9uXeVb</externallink>
+<fanart>https://i.postimg.cc/TPvbZVmr/cine-on-line-infantil.jpg</fanart>
+<info>OS MELHORES FILMES INFANTIS , NOVOS E ANTIGOS ;NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]NACIONAL[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/gjt38Tgv/cine-on-line-nacional.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Y1AAtVji</externallink>
+<fanart>https://i.postimg.cc/XJQyw5pd/cine-on-line-nacional.png</fanart>
+<info>OS MELHORES FILMES INFANTIS , NOVOS E ANTIGOS ;NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]ROMÂNCE[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/ZK72fY9S/cine-on-line-romance.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/X2QSKTyz</externallink>
+<fanart>https://i.postimg.cc/XJVCvnsq/cine-on-line-romance.jpg</fanart>
+<info>OS MELHORES FILMES DE TERROR , NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE  [COLOR yellow]TERROR[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
+<thumbnail>https://i.postimg.cc/9F4JQmnJ/cine-on-line-terror.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Gk8Mf79b</externallink>
+<fanart>https://i.postimg.cc/x88NKtDS/cine-on-line-terror.jpg</fanart>
+<info>OS MELHORES FILMES DE TERROR , NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI</info>
+</channel>

@@ -1,0 +1,89 @@
+EXTINF:-1 tvg-logo="" group-title="Flasback Diversos",[COLOR red][COLOR yellow] ()[/COLOR]
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjaWtc1vVJsZQ1fF63ZMYWPXR1k.jpg" group-title="Flashback Diversos",Dirty Dancing - Ritmo Quente[COLOR red]romance/musical [COLOR yellow] (1987)[/COLOR]
+https://netvirtua.azureedge.net/RCFServer4/ondemand/DRTYDNCG.mp4
+#############################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg" group-title="Flasback Diversos",Dirty Dancing 2 - Noites de Havana[COLOR red]drama/romance[COLOR yellow] (2004)[/COLOR]
+#############################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgE5s52w0whbZBkA0lN9vgtbPKu.jpg" group-title="Flasback Diversos",Os Embalos De Sabado A Noite[COLOR red]drama/musical[COLOR yellow] (1977)[/COLOR]
+https://netvirtua.azureedge.net/RCFServer3/ondemand/OSEMBLDSBDANT.mp4
+#############################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JWUmh3cGA73KEmPGt4LBHNXXkZ.jpg" group-title="Flasback Diversos",Os Embalos de Sábado Continuam[COLOR red]drama/musical[COLOR yellow] (2004)[/COLOR]
+https://netvirtua.azureedge.net/RCFServer4/ondemand/OSEMBLDSBDANTCNT.mp4?
+#############################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg" group-title="Flasback Diversos",A Dama de vermelho[COLOR red]comedia/romance[COLOR yellow] (1984)[/COLOR]
+http://sv2.gdrives.net/video.mp4?K2dqb3JhNU1aajBrbWc4dlVrVGhHRnp6ZlZtNDA1NXRHNFFCZ295NlZMV0dpMC9XdFhTc0RzZWNobzRjUXdnSDhHSVN3U09sbzJPZFdKRVp0Mm5NQ3c9PTo6K4Jj+yKAvESOL7r4JWuxMQ==/
+#############################################################################################################################
+<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link>https://svr3.cloudplayer.online/link/qXKl65f15JUSIac/360/af573720914899dd14adaee454d0e459/</link><thumbnail>https://flixfilmes.org/wp-content/uploads/2020/01/2fCGdTyyCpZbVTcBvi0dB0a7kNc.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Grease - No Tempo Da Brilhantina[COLOR yellow](1978)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/cozJE4goxZXd6dI/1080/cc73d12d4025f308fbbff9e876d9aa11/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ReGmRHrW4u84CrRvsln1PfkSfJ.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Grease 2- No Tempo Da Brilhantina Voltaram[COLOR yellow](1982)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/kRZ5KP5YMI4axLw/1080/b2adc4aff1b86a8d0fa9ee7cf1cec6d9/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1suaVe21pJPjLTaQG8YzFRLuHbH.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Footllose- Ritmo louco[COLOR yellow](1984)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/rvfAvpKuFPyMnwc/720/807567f768db83e700e96a14ef76f468/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3RAC5tavbKKjzhLhFNbgprHpAV.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Curtindo A Vida Adoidado[COLOR yellow](1986)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/zgtx39Za98GRXpv/1080/5bd278564bddee721362bc36ed7b102a/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca1D6Pz9pGxPtCSMUodM6jIfbSp.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item><title>[COLOR white]Titanic[COLOR yellow](2004)[/COLOR]</title><link>https://cdn01.ntcdn.stream/prop/httpdelivery/filmes/p2/45899804titanic-1997.mp4</link><thumbnail></thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Xanadu[COLOR yellow](1980)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/SD5yMiwLd76D7Rv/1080/fcae193d39831c542bf5f74ad9a051fb/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zCkz5n80SmVAOHLEolAO4Iav0q.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white] Ghost - Do Outro Lado da Vida[COLOR yellow](2004)[/COLOR]</title><link>https://cdn20.ntcdn.stream/prop/httpdelivery/filmes/p1/371132582ghost-do-outro-lado-da-vida.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlbPxCyGhXoIUkrQY0xsY61xah7.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Flashdance: Em Ritmo de Embalo[COLOR yellow](1983)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/XlXFkS4jCO1AfJw/720/4589d0844a9145bb351f499512cc214f/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqacP0KZHd5FcurxKFpg3WZjuFk.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Salsa  - O Ritmo Quente[COLOR yellow](2004)[/COLOR]</title><utube>yw0_emXe-K0</utube><thumbnail></thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ate O Fim[COLOR yellow](2013)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/ateofim-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzFvQc9HVcTgRXPjuJmQkRmEQBk.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Espirito De Lobo[COLOR yellow](2013)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/espiritodelobo-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vwTzYe1BkSy9FiKpW8DnJYDFwC.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Guerra Nas Ruas[COLOR yellow](2017)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/guerranasruas-dub-720p.mp4</link><thumbnail>https://media.fstatic.com/9_gujJcEjf3FMtOiEI9HSUts8u8=/fit-in/290x478/smart/media/movies/covers/2017/07/download_1_UqFp8jN.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Tempo Contado[COLOR yellow](2016)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/tempocontado-leg-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPMezPW51n4HaQmUPVE1Cz2d0Oc.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]2019- O Ano Da Extincao[COLOR yellow](2009)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/2019-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]A Caverna - Perigo Subterraneo[COLOR yellow](2016)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/acavernaperigo-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOUHiXhsOoDKi1pknA0CL8conNF.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]A Grande Muralha[COLOR yellow](2016)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/agrandemuralha-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Mama Mia[COLOR yellow](2008)[/COLOR]</title><link>https://cdn18.ntcdn.stream/prop/httpdelivery/filmes/p1/31869615mamma-mia-2008.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTy6LB6vY8UhD8ZYKcgMG6RzGJ3.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Efeito Borboleta[COLOR yellow](2004)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/efeitoborboleta-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjFM9vd9g4YhL4UB7OwEjcU9RcG.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Operação Valquiria[COLOR yellow](2008)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/operacaovalquiria-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cJS5ZuVrWRt6sEYDlo21ak1TNC.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Bastardos Inglorios[COLOR yellow](2009)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/bastardosinglorios-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVN78ZkaOFiNr9IHoPQ7M0gyNib.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]A Lista De Schindler[COLOR yellow](2004)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/alistadeschindler-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1UI4XnQF7NZHBXdfRBDhVQheIz.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]A Bruxa De Blair[COLOR yellow](1999)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/abruxadeblair1999-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjr79pTxBJ5bzoIS1FShSAk6TFk.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

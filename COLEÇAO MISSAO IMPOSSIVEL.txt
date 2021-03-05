@@ -1,0 +1,85 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item>
+<title>[COLOR white][B]Missão Impossivel[COLOR yellow] (1996)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB65B03BE973ABD96A2B0572BCF27C65629AB3C7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/70MV8TU1Lxc6vyj8BaEU3HLuU7W.jpg</thumbnail><info>[B][COLOR yellow]Durante uma missão em Praga, um grupo especial de agentes cai em uma cilada. O americano Ethan Hunt (Tom Cruise) descobre que apenas ele e outra agente sobreviveram. Tomado como informante, ele foge e começa a agir por conta própria. Com a ajuda de um novo grupo, ele vai tentar limpar seu nome, descobrindo quem foi o espião que armou para o seu time.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white[B]]Missão Impossivel 2[COLOR yellow] (2000)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:125BEA184F7FB93A470D263A72AE1F071F03EB38</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1cojPNWMS6RHInEiMbcCSGz9LH.jpg</thumbnail><info>[B][COLOR yellow]Um vírus letal, chamado Chimera, e seu antídoto são criados por uma empresa farmacêutica. No entanto, um ex-agente secreto os rouba e pretende liberar o vírus para ganhar dinheiro com o antídoto. O agente Ethan Hunt (Tom Cruise) deve recuperar o Chimera antes que seja tarde demais.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão Impossivel 3[COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f1be1b74dd8b188c3fc201722bf4925ff2e8e45c</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0BDyFojQUy3wGeBkuqDN9jeeND.jpg</thumbnail><info>[B][COLOR yellow]O agente Ethan Hunt (Tom Cruise) está afastado do trabalho de campo para a IMF, trabalhando apenas como treinador de novos agentes. Ele agora leva uma vida tranquila com Julia (Michelle Monaghan), com quem pretende se casar e que nada sabe sobre seu verdadeiro trabalho. Entretanto Ethan é chamado de volta à ativa quando uma de suas pupilas, Lindsey (Keri Russell), é capturada por Owen Davian (Philip Seymour Hoffman), um negociante de armas sem escrúpulos. Para resgatá-la é reunida uma nova equipe, formada por seu velho amigo Luther Stickell (Ving Rhames), o especialista em transportes Declan (Jonathan Rhys Meyers) e Zhen (Maggie Q).[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão: Impossível - Protocolo Fantasma[COLOR yellow] (2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:742ce58d630d50fe8388efc86a95068b1a8ae3df</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMyEZsjcVy6bTgkTNDm05SbYp8A.jpg</thumbnail><info>[B][COLOR yellow]O agente secreto Ethan Hunt (Tom Cruise) é desautorizado pelo presidente dos Estados Unidos após o país ser acusado por um bombardeio no Kremlin. Tem início o Protocolo Fantasma, que visa acabar com os agentes da IMF. Sem qualquer recurso ou apoio, Ethan precisa encontrar um meio de limpar seu nome e o da agência em que trabalha. Para tanto passa a trabalhar com Benji (Simon Pegg) e Jane (Paula Patton), agentes renegados como ele, e ainda Brandt (Jeremy Renner), um ex-agente que agora trabalha como analista.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão: Impossível - Nação Secreta[COLOR yellow] (2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3B39E8EDFB78E0AC0E3EE616B9B4631B961C88A8</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg</thumbnail><info>[B][COLOR yellow]Ethan Hunt (Tom Cruise) descobre que o famoso Sindicato é real, e está tentando destruir o IMF. Mas como combater uma nação secreta, tão treinada e equipada quanto eles mesmos? O agente especial tem que contar com toda a ajuda disponível, incluindo de pessoas não muito confiáveis.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão: Impossível - Efeito Fallout[COLOR yellow] (2018)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54AE7725F9C9483326ADFDA3767CA0634B973C14</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVv60GGRuh3kF6KI5Hn2T7QWWx0.jpg</thumbnail><info>[B][COLOR yellow]Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa. Atormentado por decisões do passado que retornam para assombrá-lo, Hunt precisa se resolver com seus sentimentos e impedir que uma catastrófica explosão ocorra, no que conta com a ajuda dos amigos de IMF.[/COLOR][/B]</info>
+</item>
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item>
+<title>[COLOR white][B]Missão Impossivel[COLOR yellow] (1996)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/MSAOIMPSVEL01.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/70MV8TU1Lxc6vyj8BaEU3HLuU7W.jpg</thumbnail><info>[B][COLOR yellow]Durante uma missão em Praga, um grupo especial de agentes cai em uma cilada. O americano Ethan Hunt (Tom Cruise) descobre que apenas ele e outra agente sobreviveram. Tomado como informante, ele foge e começa a agir por conta própria. Com a ajuda de um novo grupo, ele vai tentar limpar seu nome, descobrindo quem foi o espião que armou para o seu time.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white[B]]Missão Impossivel 2[COLOR yellow] (2000)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/MSAOIMPSVEL02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1cojPNWMS6RHInEiMbcCSGz9LH.jpg</thumbnail><info>[B][COLOR yellow]Um vírus letal, chamado Chimera, e seu antídoto são criados por uma empresa farmacêutica. No entanto, um ex-agente secreto os rouba e pretende liberar o vírus para ganhar dinheiro com o antídoto. O agente Ethan Hunt (Tom Cruise) deve recuperar o Chimera antes que seja tarde demais.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão Impossivel 3[COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/MSAOIMPSVEL03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0BDyFojQUy3wGeBkuqDN9jeeND.jpg</thumbnail><info>[B][COLOR yellow]O agente Ethan Hunt (Tom Cruise) está afastado do trabalho de campo para a IMF, trabalhando apenas como treinador de novos agentes. Ele agora leva uma vida tranquila com Julia (Michelle Monaghan), com quem pretende se casar e que nada sabe sobre seu verdadeiro trabalho. Entretanto Ethan é chamado de volta à ativa quando uma de suas pupilas, Lindsey (Keri Russell), é capturada por Owen Davian (Philip Seymour Hoffman), um negociante de armas sem escrúpulos. Para resgatá-la é reunida uma nova equipe, formada por seu velho amigo Luther Stickell (Ving Rhames), o especialista em transportes Declan (Jonathan Rhys Meyers) e Zhen (Maggie Q).[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão: Impossível - Protocolo Fantasma[COLOR yellow] (2011)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/MSAOIMPSVEL04.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dMyEZsjcVy6bTgkTNDm05SbYp8A.jpg</thumbnail><info>[B][COLOR yellow]O agente secreto Ethan Hunt (Tom Cruise) é desautorizado pelo presidente dos Estados Unidos após o país ser acusado por um bombardeio no Kremlin. Tem início o Protocolo Fantasma, que visa acabar com os agentes da IMF. Sem qualquer recurso ou apoio, Ethan precisa encontrar um meio de limpar seu nome e o da agência em que trabalha. Para tanto passa a trabalhar com Benji (Simon Pegg) e Jane (Paula Patton), agentes renegados como ele, e ainda Brandt (Jeremy Renner), um ex-agente que agora trabalha como analista.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão: Impossível - Nação Secreta[COLOR yellow] (2015)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/MSAOIMPSVEL05.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg</thumbnail><info>[B][COLOR yellow]Ethan Hunt (Tom Cruise) descobre que o famoso Sindicato é real, e está tentando destruir o IMF. Mas como combater uma nação secreta, tão treinada e equipada quanto eles mesmos? O agente especial tem que contar com toda a ajuda disponível, incluindo de pessoas não muito confiáveis.[/COLOR][/B]</info>
+</item>
+########################################################################################################################################
+<item>
+<title>[COLOR white][B]Missão: Impossível - Efeito Fallout[COLOR yellow] (2018)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/MSAOIMPSVELEFTFLOUT.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kVv60GGRuh3kF6KI5Hn2T7QWWx0.jpg</thumbnail><info>[B][COLOR yellow]Obrigado a unir forças com o agente especial da CIA August Walker (Henry Cavill) para mais uma missão impossível, Ethan Hunt (Tom Cruise) se vê novamente cara a cara com Solomon Lane (Sean Harris) e preso numa teia que envolve velhos conhecidos movidos por interesses misteriosos e contatos de moral duvidosa. Atormentado por decisões do passado que retornam para assombrá-lo, Hunt precisa se resolver com seus sentimentos e impedir que uma catastrófica explosão ocorra, no que conta com a ajuda dos amigos de IMF.[/COLOR][/B]</info>
+</item>

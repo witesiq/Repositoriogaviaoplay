@@ -1,0 +1,16 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow]FAROESTE 1[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/YCcwNvtK/cine-flashback-faroeste-1.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/uTz24jda</externallink>
+<fanart>https://s1.dmcdn.net/v/9k-1u1LWCt1YPkohJ/x1080</fanart>
+</channel>
+
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow]FAROESTE 2[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/6QtJSF7M/cine-flashback-faroeste-2.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/5u4RtpcS</externallink>
+<fanart>https://i.pinimg.com/originals/c3/e8/d4/c3e8d4e88c38be1819ab144f5efaa9ba.jpg</fanart>
+</channel>

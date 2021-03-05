@@ -1,0 +1,103 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-rei-leao-the-lion-king-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Rei Leão[COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E6C12A696B44999D3D0BC8929D5D00EB63823BD1
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/a-familia-addams-animacao-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]A Familia Adams[COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56dd1518813ef4ecc0a30410ab3ba567676be077
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/dragon-quest-your-story-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Dragon Quest - Sua Historia [COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e25246d8db00756b7a05c423beb09670a8d79c57
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/os-irmaos-willoughbys-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Os Irmãos Willoughbys [COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8896112CA56020F3A93D56A059FE9BAC3CD3EB84
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/frozen-2-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Frozen 2 [COLOR yellow] (2020)[/B][/COLOR]
+magnet:?xt=urn:btih:7b32c3e984b7baa86aed2cbcecb024e898d2c2e4
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/dragoes-equipe-de-resgate-os-segredos-do-melo-draco-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Dragões - Equipe de Resgate: Os segredos do Melo-Draco[COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:576DD86816998C4D8FE5CCD6B09AFA36D42C7504
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afecdT4uWB9sjo6MnnnjOQmRljq.jpg" group-title="Cine On Line Infantil",[B]Dragões Equipe de Resgate: Em Busca do Dragão Dourado[COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2852f182ce13d51bceafa55239b5354fd0138656
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jsi2UM64Mhr6NmY1LKeeCuZOaCo.jpg" group-title="Cine On Line Infantil",[B]Dois Irmãos: Uma Jornada Fantástica[COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd9de23491b6af01e9246b8005540b6891090be6
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BQGDzllogn2tejHIIVtBJisftn.jpg" group-title="Cine On Line Infantil",[B] Violet Evergarden Gaiden - Eternidade e a Boneca de Automemória[COLOR yellow] (2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0adf8348b7b2e293d5cbd462d47c88c940b317d3
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p42h1Z488l6PBCKyQ12cZRhPLm.jpg" group-title="Cine On Line Infantil",[B]Os Mosconautas no Mundo da Lua[COLOR yellow] (2008)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f931200013e7daf106fa23e8debb9b9578a9738e
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/a-princesa-encantada-o-casamento-real-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B] A Princesa Encantada - O Casamento Real [COLOR yellow] (2020)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa8ba868e635f894e97b0eeb7ce3811a6fa773f3
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/a-princesa-encantada-o-reino-da-musica-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]A Princesa Encantada - O Reino da Música[COLOR yellow] (2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e984e76cc2811a6abc81d012867b4f88bd2b5ea2
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/a-princesa-encantada-um-misterio-real-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]A Princesa Encantada - Um Mistério Real[COLOR yellow] (2018)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:701b294c70376dfda82d5963bb279acb9434cceb
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spJNyS924musoF3Sek7LX9eLBtU.jpg" group-title="Cine On Line Infantil",[B] Princesa Encantada: Princesa e Pirata[COLOR yellow] (2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8C67CBA996E09F25D1C5C2EB2645496F1BF77C6C
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-reino-gelado-fogo-e-gelo-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Reino Gelado - Fogo e Gelo[COLOR yellow] (2016)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4CC8B19A74636829C9C94C55EE0CD53FF5AEFF4D
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vfDbTS4eg5I7x70JoPIFvyzayx0.jpg" group-title="Cine On Line Infantil",[B]A Princesa Encantada: A Fábula da Família Real[COLOR yellow] (2014)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e34aa7044122f04fa427ad278a1b7caaa216832
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jQLCs1HiQ1Y4SZvr3sx1fDhWNZS.jpg" group-title="Cine On Line Infantil",[B]O Natal da Princesa Encantada [COLOR yellow] (2012)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99VFNWidqSTJWamzBOJflFzeh2I.jpg" group-title="Cine On Line Infantil",[B] A Menina e o Porquinho[COLOR yellow] (1973)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7A52331A6071D347D0A677BCA5610ADBEBDB60A
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ikoXGtykZvpppHTaLzpK7bIOhDe.jpg" group-title="Cine On Line Infantil",[B]Anastasia [COLOR yellow] (1997)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7141C4A28910C40882C6313A4E50302A5147D8F
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9aYipPdXLJO2d7Aoa9gnLXHlQfz.jpg" group-title="Cine On Line Infantil",[B] Dinossauro [COLOR yellow] (2000)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2xm0KVi.jpg" group-title="Cine On Line Infantil",[B]Os Smurfs [COLOR yellow] (2011)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54c80484fc4a2698b1770dfa43cc28b022b3c8bf
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uTexYjE.jpg" group-title="Cine On Line Infantil",[B]Os Smurfs 2 [COLOR yellow] (2013)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede825805f040de1fec6a40a2cfc9c4eb4ccf615
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-k1cv7PLdNjo/WUl7PxBQTcI/AAAAAAAADrc/86cKhrnHwLMUcV67vYTgoOCETzRaBcNpACLcBGAs/s1600/os_smurfs_e_a_vila_perdida_torrent_dublado_hd_full_hd_filme.jpg" group-title="Cine On Line Infantil",[B] Os Smurfs E a Vila Perdida[COLOR yellow] (2017)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C34B187D9F7FC054B2A1A14CA8F4CAF6BE3AA3F
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/tom-e-jerry-rumo-a-marte-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B] Tom & Jerry - Rumo A Marte[COLOR yellow] (2012)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B8FCA684297BE8117CB2E3763A5B90786503DC77
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/imagens/barbie-rainhas-do-rock-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Barbie - Rainhas Do Rock [COLOR yellow] (2015)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:985d2f7b1a80d2adae3e5fe8570bcbfdc8a93e71
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-reino-gelado-terra-dos-espelhos-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Reino Gelado - Terra Dos Espelhos[COLOR yellow] (2018)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81794c4e144343a799cad40007d3769719dbb80c
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/carteiro-paulo-o-filme-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Carteiro Paulo[COLOR yellow] (2014)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2b15e26e05c9e005a297d4232c6c409ebcc377a
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/tarzan-animacao-download-torrent-1999-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Tarzan[COLOR yellow] (1999)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3830CBFECB917CF930C1E7E426504CF27FF4228F
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/pocahontas-o-encontro-de-dois-mundos-bluray-download-torrent-1995-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Pocahontas - O Encontro De Dois Mundos [COLOR yellow] (1995)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCAE0AA4BE26EDE2F1724D6EFE8912105BEAB85B
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-bicho-vai-pegar-4-bluray-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Bicho Vai Pegar 4[COLOR yellow] (2015)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06568429dfff07b650bb6e04dbf0ee2bce7a7316
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-bicho-vai-pegar-3-bluray-download-torrent-2010-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Bicho Vai Pegar 3[COLOR yellow] (2010)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1288494377c0c117d09e506fa5143c7dff736477
+##################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-bicho-vai-pegar-2-bluray-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Bicho Vai Pegar 2[COLOR yellow] (2008)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15b561e3681cb0800ab35b3fb4e36b0067576940
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/o-bicho-vai-pegar-bluray-download-torrent-2006-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]O Bicho Vai pegar [COLOR yellow] (2006)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5228e453620238bb34863d5e348950153ad3585c
+###################################################################################################################################
+#EXTINF:-1 tvg-logo="https://abutretorrents.com/capas/galinha-pintadinha-mini-volume-5-e-6-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg" group-title="Cine On Line Infantil",[B]Galinha Pintadinha mini - Vol 5 e 6 [COLOR yellow] (2019)[/B][/COLOR]
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a40f73a0d3b6a479a1165dd46cb3d73bef4fd0a3
+##################################################################################################################################
+

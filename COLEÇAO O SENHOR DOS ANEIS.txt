@@ -1,0 +1,38 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]O Senhor dos Anéis: A Sociedade do Anel[COLOR yellow] (2001)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:591dfe70b117d434353922997368e1132a82aaad</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg</thumbnail><info>[B][COLOR yellow]Numa terra fantástica e única, chamada Terra-Média, um hobbit (seres de estatura entre 80 cm e 1,20 m, com pés peludos e bochechas um pouco avermelhadas) recebe de presente de seu tio o Um Anel, um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso o hobbit Frodo (Elijah Woods) terá um caminho árduo pela frente, onde encontrará perigo, medo e personagens bizarros. Ao seu lado para o cumprimento desta jornada aos poucos ele poderá contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando 9 pessoas que formarão a Sociedade do Anel[/COLOR][/B]</info></item>
+######################################################################################################################################
+
+<item><title>[B][COLOR white]O Senhor dos Anéis: As Duas Torres[COLOR yellow] (2002)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4ffc9d2d098e682e91f28e7e27bee03dd7acca11</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ipAMPu9AMKaOMWthjCRRmVHdSX.jpg</thumbnail><info>[B]Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.[COLOR yellow][/COLOR]</info>[/B]</item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Senhor dos Anéis: O Retorno do Rei[COLOR yellow] (2003)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ddd0dd573e75e5c5e9043e61a6c841c46eab9f37</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg</thumbnail><info>[B][COLOR yellow]O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.[/COLOR]</info>[/B]</item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]O Senhor dos Anéis: A Sociedade do Anel[COLOR yellow] (2001)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/OSNHRDSANSASCEDDANL.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlvsNCwWEIgwAM23aNzTmMIcPEZ.jpg</thumbnail><info>[B][COLOR yellow]Numa terra fantástica e única, chamada Terra-Média, um hobbit (seres de estatura entre 80 cm e 1,20 m, com pés peludos e bochechas um pouco avermelhadas) recebe de presente de seu tio o Um Anel, um anel mágico e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso o hobbit Frodo (Elijah Woods) terá um caminho árduo pela frente, onde encontrará perigo, medo e personagens bizarros. Ao seu lado para o cumprimento desta jornada aos poucos ele poderá contar com outros hobbits, um elfo, um anão, dois humanos e um mago, totalizando 9 pessoas que formarão a Sociedade do Anel[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Senhor dos Anéis: As Duas Torres[COLOR yellow] (2002)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/OSNHRDSANSASDSTRS.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ipAMPu9AMKaOMWthjCRRmVHdSX.jpg</thumbnail><info>[B]Após a captura de Merry e Pippy pelos orcs, a Sociedade do Anel é dissolvida. Frodo e Sam seguem sua jornada rumo à Montanha da Perdição para destruir o anel e descobrem que estão sendo perseguidos pelo misterioso Gollum. Enquanto isso, Aragorn, o elfo e arqueiro Legolas e o anão Gimli partem para resgatar os hobbits sequestrados e chegam ao reino de Rohan, onde o rei Theoden foi vítima de uma maldição mortal de Saruman.[COLOR yellow][/COLOR]</info>[/B]</item>
+######################################################################################################################################
+<item><title>[B][COLOR white]O Senhor dos Anéis: O Retorno do Rei[COLOR yellow] (2003)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/OSNHRDSANSORTNDREI.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg</thumbnail><info>[B][COLOR yellow]O confronto final entre as forças do bem e do mal que lutam pelo controle do futuro da Terra Média se aproxima. Sauron planeja um grande ataque a Minas Tirith, capital de Gondor, o que faz com que Gandalf e Pippin partam para o local na intenção de ajudar a resistência. Um exército é reunido por Theoden em Rohan, em mais uma tentativa de deter as forças de Sauron. Enquanto isso, Frodo, Sam e Gollum seguem sua viagem rumo à Montanha da Perdição para destruir o anel.[/COLOR]</info>[/B]</item>
+
+
+

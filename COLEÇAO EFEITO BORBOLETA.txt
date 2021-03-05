@@ -1,0 +1,39 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Efeito Borboleta[COLOR yellow] (2004)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:073f0602abca0263692932e0b087cc13a2d743bc</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg</thumbnail><info>[B][COLOR yellow]Evan (Ashton Kutcher) é um jovem que luta para esquecer fatos de sua infância. Para tanto ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas ele termina por criar novos, já que toda mudança que realiza gera consequências em seu futuro.[/COLOR][/B]</info></item>
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Efeito Borboleta 2 [COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09bc891c64701ca0dd0dd1a9c82b7ee20d4efe69</link>
+</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqpZjpV4hFs9ExbUcvkXzTQs0Tr.jpg</thumbnail><info>[B][COLOR yellow]Quando Nick Larson perde sua bonita namorada Julie Miller em um acidente, sua carreira de sucesso e sua vida feliz são interrompidas. Lutando para continuar e cheio de culpa, Nick eventualmente descobre que ele pode viajar no tempo e usa sua habilidade para prevenir a morte de Julie. Infelizmente, a alteração do tempo por Nick afeta o futuro de uma forma trágica, o que o leva a procurar salvar Julie sem causar resultados catastróficos.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Efeito Borboleta 3 :Revelaçâo[COLOR yellow] (2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09bc891c64701ca0dd0dd1a9c82b7ee20d4efe69</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZkhTaB0jLaHNulq1q0hULQShu9.jpg</thumbnail><info>[B][COLOR yellow]Quando Sam Reide volta no tempo para salvar sua irmã Jenna de uma casa pegando fogo, ele inadvertidamente cria uma história alternativa em que seus pais morrem prematuramente. Na sequência do acidente, o viajante do tempo jura não interferir com a história novamente. Porém quando um homem inocente acaba no corredor da morte por ter assassinado sua namorada, Reide ignora os avisos e se prepara para uma último pulo no tempo para testemunhar o crime.[/COLOR][/B]</info></item>
+
+
+
+<item><<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Efeito Borboleta[COLOR yellow] (2004)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:073f0602abca0263692932e0b087cc13a2d743bc</link>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/EFTOBRBLTA.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ojyrQRIQ6f0hHFpJoXTAeUx0ynX.jpg</thumbnail><info>[B][COLOR yellow]Evan (Ashton Kutcher) é um jovem que luta para esquecer fatos de sua infância. Para tanto ele decide realizar uma regressão onde volta também fisicamente ao seu corpo de criança, tendo condições de alterar seu próprio passado. Porém, ao tentar consertar seus antigos problemas ele termina por criar novos, já que toda mudança que realiza gera consequências em seu futuro.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Efeito Borboleta 2 [COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/EFTOBRBLTA2.mp4 </link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqpZjpV4hFs9ExbUcvkXzTQs0Tr.jpg</thumbnail><info>[B][COLOR yellow]Quando Nick Larson perde sua bonita namorada Julie Miller em um acidente, sua carreira de sucesso e sua vida feliz são interrompidas. Lutando para continuar e cheio de culpa, Nick eventualmente descobre que ele pode viajar no tempo e usa sua habilidade para prevenir a morte de Julie. Infelizmente, a alteração do tempo por Nick afeta o futuro de uma forma trágica, o que o leva a procurar salvar Julie sem causar resultados catastróficos.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]Efeito Borboleta 3 :Revelaçâo[COLOR yellow] (2009)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/EFTOBRBLTA3.mp4 </link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZkhTaB0jLaHNulq1q0hULQShu9.jpg</thumbnail><info>[B][COLOR yellow]Quando Sam Reide volta no tempo para salvar sua irmã Jenna de uma casa pegando fogo, ele inadvertidamente cria uma história alternativa em que seus pais morrem prematuramente. Na sequência do acidente, o viajante do tempo jura não interferir com a história novamente. Porém quando um homem inocente acaba no corredor da morte por ter assassinado sua namorada, Reide ignora os avisos e se prepara para uma último pulo no tempo para testemunhar o crime.[/COLOR][/B]</info></item>
+
+
+######################################################################################################################################

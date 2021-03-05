@@ -1,0 +1,60 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]O Exterminador Do Futuro [COLOR yellow] (1984)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98D42994283DB329F2AA9C53152083BED2DBEB1B</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d31f8db47296c5188bc3e67a51584e51ebf9ae7</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg</thumbnail><info>[B][COLOR yellow]Num futuro próximo, a guerra entre humanos e máquinas foi deflagrada. Com a tecnologia a seu dispor, um plano inusitado é arquitetado pelas máquinas ao enviar para o passado um andróide com a missão de matar a mãe daquele que viria a se transformar num líder e seu pior inimigo. Contudo, os humanos também conseguem enviar um representante para proteger a mulher e tentar garantir o futuro da humanidade.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador do Futuro 2: O Julgamento Final [COLOR yellow](1991)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdc6ad271f7cbe874b0d04ea0fbff03abc96b61a</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A74D828B27CD365E4A80BAE1CF8FDE591F4FFCDE</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg</thumbnail><info>[B][COLOR yellow]O jovem John Connor é a chave para a vitória da civilização sobre uma rebelião de robôs do futuro. No entanto, ele torna-se alvo de T-1000, um exterminador que pode assumir a forma que desejar e que foi enviado do futuro para matá-lo. Outro exterminador, o renovado T-800, também é enviado de volta ao passado para proteger o menino. Quando John e sua mãe embarcam na fuga com T-800, o menino cria um vínculo forte e inesperado com o robô.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador do Futuro 3: A Rebelião das Máquinas[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d972c709ca21ee18731f354493af921cf7a938c</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68181d8b587d82dee6b4667580965dc78ad85ed9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycs9eita98mrcpkxXAL2GVPI0N8.jpg</thumbnail><info>[B][COLOR yellow]Na intenção de concluir a missão ainda inacabada, a bela e perigosa máquina mortífera T-X é enviada para matar John Connor, líder da resistência humana contra as máquinas da Skynet. Para protegê-lo mais uma vez o ciborgue T-800 volta à cena.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador Do Futuro 4 - A Salvação [COLOR yellow](2009)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12A88692A98ED651D786CBD45138FB50FACC53FC</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12A88692A98ED651D786CBD45138FB50FACC53FC</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNKoEs9ovTLpJURT9WKJASUDktM.jpg</thumbnail><info>[B][COLOR yellow]John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando surge um estranho chamado Marcus Wright, cuja última memória que possui é de estar no corredor da morte, Connor precisa descobrir se ele foi enviado do futuro ou resgatado do passado, ao mesmo tempo em que a Skynet prepara seu ataque definitivo que pode aniquilar a humanidade.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador Do Futuro 5 -Genesis [COLOR yellow](2015)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EB28C2FC06AE9C0CD3BB23FF339EEE6B57324387</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF5D458F3C9FFFB48D3D3A3F0608F1184A9BDB52</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bsLapI6DxME6niIb74aSD71DRH.jpg</thumbnail><info>[B][COLOR yellow]John Connor, líder da resistência humana contra Skynet, envia Kyle Reese de volta a 1984 para proteger sua mãe, Sarah. Porém, Reese se surpreende ao encontrá-la com um exterminador que age como seu protetor, e descobre que o passado foi alterado.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador Do Futuro 6 - Destino Sombrio  [COLOR yellow](2019)[/][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF848063ADF9B0FD3DE22E90304616FB0A565A47</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7EA6E3E1F3F6E07E75FF6EB63DBEEFA2A45E16FA</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail><info>[B][COLOR yellow]A guerreira Sarah Connor se une a Grace, um híbrido entre ciborgue e humano, e ao T-800 para proteger a jovem Dani Ramos de um novo tipo de exterminador que chega do futuro à Cidade do México.[/COLOR][/B]<info></item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]O Exterminador Do Futuro [COLOR yellow] (1984)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/OEXTRMDRDFUT1.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/iHVDy91mpqUbUDdG6hfyniFQPx4.jpg</thumbnail><info>[B][COLOR yellow]Num futuro próximo, a guerra entre humanos e máquinas foi deflagrada. Com a tecnologia a seu dispor, um plano inusitado é arquitetado pelas máquinas ao enviar para o passado um andróide com a missão de matar a mãe daquele que viria a se transformar num líder e seu pior inimigo. Contudo, os humanos também conseguem enviar um representante para proteger a mulher e tentar garantir o futuro da humanidade.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador do Futuro 2: O Julgamento Final [COLOR yellow](1991)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/OEXTRMDRDFUT2.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3TozsOOvgppyDQPVPQntmJhviRF.jpg</thumbnail><info>[B][COLOR yellow]O jovem John Connor é a chave para a vitória da civilização sobre uma rebelião de robôs do futuro. No entanto, ele torna-se alvo de T-1000, um exterminador que pode assumir a forma que desejar e que foi enviado do futuro para matá-lo. Outro exterminador, o renovado T-800, também é enviado de volta ao passado para proteger o menino. Quando John e sua mãe embarcam na fuga com T-800, o menino cria um vínculo forte e inesperado com o robô.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador do Futuro 3: A Rebelião das Máquinas[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/OEXTRMDRDFUT03.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycs9eita98mrcpkxXAL2GVPI0N8.jpg</thumbnail><info>[B][COLOR yellow]Na intenção de concluir a missão ainda inacabada, a bela e perigosa máquina mortífera T-X é enviada para matar John Connor, líder da resistência humana contra as máquinas da Skynet. Para protegê-lo mais uma vez o ciborgue T-800 volta à cena.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador Do Futuro 4 - A Salvação [COLOR yellow](2009)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/OEXTRMDRDFUT4.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNKoEs9ovTLpJURT9WKJASUDktM.jpg</thumbnail><info>[B][COLOR yellow]John Connor é designado para liderar a resistência humana ao domínio das máquinas, coordenadas pela Skynet e seu exército de exterminadores. Quando surge um estranho chamado Marcus Wright, cuja última memória que possui é de estar no corredor da morte, Connor precisa descobrir se ele foi enviado do futuro ou resgatado do passado, ao mesmo tempo em que a Skynet prepara seu ataque definitivo que pode aniquilar a humanidade.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador Do Futuro 5 -Genesis [COLOR yellow](2015)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer2/ondemand/OEXTRMDRDFUT5.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3bsLapI6DxME6niIb74aSD71DRH.jpg</thumbnail><info>[B][COLOR yellow]John Connor, líder da resistência humana contra Skynet, envia Kyle Reese de volta a 1984 para proteger sua mãe, Sarah. Porém, Reese se surpreende ao encontrá-la com um exterminador que age como seu protetor, e descobre que o passado foi alterado.[/COLOR][/B]<info></item>
+######################################################################################################################################
+<item><title>[COLOR white][B]O Exterminador Do Futuro 6 - Destino Sombrio  [COLOR yellow](2019)[/][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/OEXTRMDRDFUTDSTNSMB.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg</thumbnail><info>[B][COLOR yellow]A guerreira Sarah Connor se une a Grace, um híbrido entre ciborgue e humano, e ao T-800 para proteger a jovem Dani Ramos de um novo tipo de exterminador que chega do futuro à Cidade do México.[/COLOR][/B]<info></item>
+

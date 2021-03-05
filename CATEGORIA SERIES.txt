@@ -1,0 +1,20 @@
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] [COLOR white] SERIES ATUAIS [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/W3hXqs4N/series-atuais.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/xb14v42H</externallink>
+<fanart>https://i.postimg.cc/GpjBCDPV/fanart-series-atuais.jpg</fanart>
+<info>[B][COLOR yellow]SÉRIES DE SUCESSOS E QUE ESTAO EM DESTAQUE NOS MEIOS DE COMUNICAÇÃO TELEVISIVO.SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
+</channel>
+
+#########################################################################################################
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SERIES ANTIGAS [/COLOR] [COLOR crimsonb]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/pLJ0g07H/series-antigas.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/AmabmKps</externallink>
+<fanart>https://i.postimg.cc/V6GdScVF/fanart-series-antigas-2.jpg</fanart>
+<info>[B][COLOR yellow]SÉRIES QUE FIZERAM SUCESSOS E QUE NÃO ESTAO EM DESTAQUE NOS MEIOS DE COMUNICAÇÃO TELEVISIVO.SE A SUA PREFERIDA NÃO ESTIVER EM NOSSO ACERVO E SO ENTRAR EM CONTATO E FAZER O PEDIDO , QUE SERÁ ATENTIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
+</channel>
+
+#########################################################################################################

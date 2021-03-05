@@ -1,0 +1,68 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white][B]Piratas do Caribe: A Maldição do Pérola Negra[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2782e7c161c25f4ffa5eb7afa92c488dbd29a65d</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbp03aY63aWpJ9Ihr4aNiiKK94R.jpg</thumbnail><info>[COLOR yellow]O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Piratas do Caribe: O Baú da Morte[COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:560f07f7fd6bdc61ff2029f4d48e183e219a864f</link>
+</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nufZahJOOpBv6MOGmEK8legVzwg.jpg</thumbnail><info>[COLOR yellow]Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. A única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Piratas do Caribe: No Fim do Mundo[COLOR yellow] (2007)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78369b8167a2d2b963396a011285db3b2528598f</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j15lZasREutscon6e61LSSNJoN7.jpg</thumbnail><info>[COLOR yellow]Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Piratas do Caribe: Navegando em Águas Misteriosas[COLOR yellow](2011)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9728044658fe6437c98e321af5ea1650bb1bbba0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEQvNqJZRhGkXG7c3mBqsztwoWD.jpg</thumbnail><info>[COLOR yellow]O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Piratas do Caribe: A Vingança de Salazar[COLOR yellow] (2017)[/B][/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:495F510F19B68BAAEEDD9173360EEC4774BABF6C&</link>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/PRTSDCRB05.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8zYVAvuPI3ImOkC1EsjDs7ilTk.jpg</thumbnail><info>[COLOR yellow]O Capitão Jack, que anda passando por uma onda de azar, sente os ventos da má sorte soprando com muita força quando os marinheiros fantasmas assassinos, liderados pelo aterrorizante Capitão Salazar (Javier Bardem), escapam do triângulo do diabo decididos a matar todos os piratas em seu caminho, especialmente Jack.[/COLOR]</info>
+</item>
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white][B]Piratas do Caribe: A Maldição do Pérola Negra[COLOR yellow] (2003)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/PRTSDCRB01.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbp03aY63aWpJ9Ihr4aNiiKK94R.jpg</thumbnail><info>[COLOR yellow]O pirata Jack Sparrow tem seu navio saqueado e roubado pelo capitão Barbossa e sua tripulação. Com o navio de Sparrow, Barbossa invade a cidade de Port Royal, levando consigo Elizabeth Swann, filha do governador. Para recuperar sua embarcação, Sparrow recebe a ajuda de Will Turner, um grande amigo de Elizabeth. Eles desbravam os mares em direção à misteriosa Ilha da Morte, tentando impedir que os piratas-esqueleto derramem o sangue de Elizabeth para desfazer a maldição que os assola.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Piratas do Caribe: O Baú da Morte[COLOR yellow] (2006)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/PRTSDCRB02.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nufZahJOOpBv6MOGmEK8legVzwg.jpg</thumbnail><info>[COLOR yellow]Will e Elizabeth estão prestes a se casar quando o lendário pirata Davy Jones, comandante do invencível navio assombrado, aparece para cobrar uma dívida do capitão Jack Sparrow, amigo do casal. A única chance de Sparrow se livrar de uma maldição de Jones é encontrando o baú da morte.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Piratas do Caribe: No Fim do Mundo[COLOR yellow] (2007)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/PRTSDCRB03.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/j15lZasREutscon6e61LSSNJoN7.jpg</thumbnail><info>[COLOR yellow]Will Turner e Elizabeth Swann unem forças com o Capitão Barbossa para libertarem Jack Sparrow da prisão de Davy Jones. Enquanto isso, a tripulação do barco fantasma O Holandês Voador causa estragos nos Sete Mares. Os amigos devem navegar através de águas perigosas para enfrentarem o pirata chinês São Feng e, finalmente, eles devem escolher em que lado ficar na batalha, pois a vida do pirata está em jogo.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+<item><title>[COLOR white][B]Piratas do Caribe: Navegando em Águas Misteriosas[COLOR yellow](2011)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/PRTSDCRB04.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEQvNqJZRhGkXG7c3mBqsztwoWD.jpg</thumbnail><info>[COLOR yellow]O passado do capitão Jack Sparrow volta a alcançá-lo quando ele cruza com Angelica, uma bonita pirata que Jack, um dia, amou e depois abandonou. Ela, então, o força a acompanhá-la ao navio Vingança da Rainha Ana, do famoso Barba Negra. Junto com uma tripulação de zumbis, o trio parte em busca da lendária Fonte da Juventude. Mas o rival de Jack, Barbossa, também cobiça a fonte, assim como um navio espanhol.[/COLOR]</info>
+</item>
+
+######################################################################################################################################
+
+<item><title>[COLOR white][B]Piratas do Caribe: A Vingança de Salazar[COLOR yellow] (2017)[/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCFServer3/ondemand/PRTSDCRB05.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8zYVAvuPI3ImOkC1EsjDs7ilTk.jpg</thumbnail><info>[COLOR yellow]O Capitão Jack, que anda passando por uma onda de azar, sente os ventos da má sorte soprando com muita força quando os marinheiros fantasmas assassinos, liderados pelo aterrorizante Capitão Salazar (Javier Bardem), escapam do triângulo do diabo decididos a matar todos os piratas em seu caminho, especialmente Jack.[/COLOR]</info>
+</item>

@@ -1,0 +1,18 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+######################################################################################################################################
+<item><title>[B][COLOR white]Em Nome Do Rei [COLOR yellow](2007)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4A6C1C3758E5BC157240B39EB1D257D49E21E4A6</link><thumbnail>https://1.bp.blogspot.com/-IxmjO6s_aWo/W0oaDJejBMI/AAAAAAAAN70/KIb91zpDx14L9IynTI5nlQscbPVqUhPWQCLcBGAs/s1600/Em%2BNome%2Bdo%2BRei%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info>[B][COLOR yellow]A historia gira em torno de um homem chamado Farmer que arrisca-se numa aventura perigosa para resgatar a esposa sequestrada e vingar-se do assassinato do filho. Ambos os crimes foram cometidos pelos Krugs, como são chamados os animais guerreiros comandados pelo demoníaco Gallian.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Em Nome Do Rei 2 - Entre Dois Mundos [COLOR yellow](2011)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4BCF37D9CB1282B9B992F418D9425B8C85E0DACC</link><thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kM9hjeGLtPZi9ExuBVwIFYrQbx0.jpg</thumbnail>
+<info>[B][COLOR yellow]Granger (Dolph Lundgren), um letal, ex-soldado das Forças Especiais, é teletransportado para uma época mística de magia, dragões e de selvagens combates corpo-a-corpo. Ele foi convocado para derrotar as forças das trevas e cumprir uma antiga profecia. Mas como sempre lutou para encontrar a sua verdade, Granger aprende que que não pode confiar em ninguém, e um movimento errado pode custar-lhe não só a sua vida, mas o futuro de seu mundo.[/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Em Nome Do Rei 3 - A Ultima Missão [COLOR yellow](2014)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5078ad9158f3bb800a43cad7d9c8d79a51a58f88</link><thumbnail>https://i.imgur.com/DWwbhcP.jpg</thumbnail>
+<info>[B][COLOR yellow]Hazen Kaine (Dominic Purcell) é um dos melhores assassinos e está em busca de aposentadoria, então vai atrás de seu último trabalho. Sua missão será uma das mais desafiadoras e arriscadas de sua vida, que não só revela sobre seu passado, mas o leva para a Idade Média, onde ele deve lutar não só por sua sobrevivência e honra. [/COLOR][/B]</info></item>

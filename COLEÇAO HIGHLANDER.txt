@@ -1,0 +1,59 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]Highlander: O Guerreiro Imortal[COLOR yellow](1986)[COLOR red]Ação[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b17f1a74a555c718dd0b9af088a1096e249d3b0</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq7svK5vv8Ex5BXoTWpyhJzkVsj.jpg</thumbnail>
+<info>[B][COLOR yellow]Connor MacLeod (Christopher Lambert), um guerreiro escocês do século XVI, imortal e, após algum tempo, encontra Juan Ramirez (Sean Connery), imortal como ele. Ramirez o ensina a manejar uma espada, pois a única forma de matar um imortal é cortando sua cabeça. Após alguns séculos, surge um inimigo, imortal como ambos, que pretende decapitar Connor, para se tornar o único imortal da face da Terra.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 2: A Ressurreição[COLOR yellow](1991)[COLOR red]Ação[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:55C7529E701E47DFCF84763EA1575CE4F9377B1D</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxKeykPNGbKAK0DJijMUaZ5cVPo.jpg</thumbnail>
+<info>[B][COLOR yellow]Condenado a envelhecer entre os terráqueos, Connor MacLeod (Christopher Lambert), o último guerreiro highlander, aos 75 anos, ainda é uma esperança para seu povo no planeta Zeist. Por isso, o ditador Katana (Michael Ironside) se lança à Terra para matá-lo, desencadeando uma batalha de vida ou morte.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 3: O Feiticeiro[COLOR yellow](1994)[COLOR red]Ação[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:034D544C31E7A87EECA5A3748270E7FA95F44A7F</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lVKy9bsVw78EFhd4yHTDwgBr0U.jpg</thumbnail>
+<info>[B][COLOR yellow]No século XVI, Highlander (Christopher Lambert) visita o feiticeiro Nakano (Mako), que o alerta para o perigo do sanguinário Kane (Mario Van Peebles). O embate entre os dois termina com Kane preso. Quatrocentos anos depois, uma escavação no Japão liberta Kane de sua prisão secular, que ressurge com apenas um desejo: Vingar-se do guerreiro imortal.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 4: A Batalha Final[COLOR yellow](2000)[COLOR red]Ação[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E5A644B297E5F3C828AD70BA8B81059B85971D1E</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDiiDUXQBhO8tcW9iLeRo7TwiLE.jpg</thumbnail>
+<info>[B][COLOR yellow]Connor (Christopher Lambert) e Duncan MacLeod (Adrian Paul) se encontram e passam a lutar juntos contra uma força maligna que surge como a grande ameaça aos imortais da face da Terra. O poderoso Kell (Bruce Payne) cria um exército de imortais com os mais diversos poderes e pretende ganhar o jogo final a qualquer custo. Para enfrentá-lo, um dos dois terá que fazer um sacrifício final.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 5: A Origem[COLOR yellow](2007)[COLOR red]Ação[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29C194D70AC03A28604786E4F50FA731ED7E4787</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEnsDGjeBX9wbW5t2BqDNdEM5Rl.jpg</thumbnail>
+<info>[B][COLOR yellow]Duncan MacLeod (Adrian Paul) perambula por uma cidade destruída, lembrando-se de momentos em que sua vida era mais feliz, antes de perder o amor de sua vida. Descrente, Duncan passa a acompanhar um grupo de imortais, entre eles o misterioso Methos (Peter Wingfried) e também o mortal Joe Dawson (Jim Byrnes). Juntos eles iniciam uma jornada em busca da origem do primeiro imortal e da fonte de sua imortalidade.[/COLOR][/B]<info></item>
+
+
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Highlander: O Guerreiro Imortal[COLOR yellow](1986)[COLOR red]Ação[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/HGHLNDR1.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aq7svK5vv8Ex5BXoTWpyhJzkVsj.jpg</thumbnail>
+<info>[B][COLOR yellow]Connor MacLeod (Christopher Lambert), um guerreiro escocês do século XVI, imortal e, após algum tempo, encontra Juan Ramirez (Sean Connery), imortal como ele. Ramirez o ensina a manejar uma espada, pois a única forma de matar um imortal é cortando sua cabeça. Após alguns séculos, surge um inimigo, imortal como ambos, que pretende decapitar Connor, para se tornar o único imortal da face da Terra.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 2: A Ressurreição[COLOR yellow](1991)[COLOR red]Ação[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/HGHLNDR2.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxKeykPNGbKAK0DJijMUaZ5cVPo.jpg</thumbnail>
+<info>[B][COLOR yellow]Condenado a envelhecer entre os terráqueos, Connor MacLeod (Christopher Lambert), o último guerreiro highlander, aos 75 anos, ainda é uma esperança para seu povo no planeta Zeist. Por isso, o ditador Katana (Michael Ironside) se lança à Terra para matá-lo, desencadeando uma batalha de vida ou morte.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 3: O Feiticeiro[COLOR yellow](1994)[COLOR red]Ação[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/HGHLNDR3.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lVKy9bsVw78EFhd4yHTDwgBr0U.jpg</thumbnail>
+<info>[B][COLOR yellow]No século XVI, Highlander (Christopher Lambert) visita o feiticeiro Nakano (Mako), que o alerta para o perigo do sanguinário Kane (Mario Van Peebles). O embate entre os dois termina com Kane preso. Quatrocentos anos depois, uma escavação no Japão liberta Kane de sua prisão secular, que ressurge com apenas um desejo: Vingar-se do guerreiro imortal.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 4: A Batalha Final[COLOR yellow](2000)[COLOR red]Ação[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer4/ondemand/HGHLNDR4.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/dDiiDUXQBhO8tcW9iLeRo7TwiLE.jpg</thumbnail>
+<info>[B][COLOR yellow]Connor (Christopher Lambert) e Duncan MacLeod (Adrian Paul) se encontram e passam a lutar juntos contra uma força maligna que surge como a grande ameaça aos imortais da face da Terra. O poderoso Kell (Bruce Payne) cria um exército de imortais com os mais diversos poderes e pretende ganhar o jogo final a qualquer custo. Para enfrentá-lo, um dos dois terá que fazer um sacrifício final.[/COLOR][/B]<info></item>
+#####################################################################################################################################
+<item><title>[B][COLOR white]Highlander 5: A Origem[COLOR yellow](2007)[COLOR red]Ação[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCFServer1/ondemand/HGHLNDR5.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vEnsDGjeBX9wbW5t2BqDNdEM5Rl.jpg</thumbnail>
+<info>[B][COLOR yellow]Duncan MacLeod (Adrian Paul) perambula por uma cidade destruída, lembrando-se de momentos em que sua vida era mais feliz, antes de perder o amor de sua vida. Descrente, Duncan passa a acompanhar um grupo de imortais, entre eles o misterioso Methos (Peter Wingfried) e também o mortal Joe Dawson (Jim Byrnes). Juntos eles iniciam uma jornada em busca da origem do primeiro imortal e da fonte de sua imortalidade.[/COLOR][/B]<info></item>
+#####################################################################################################################################
