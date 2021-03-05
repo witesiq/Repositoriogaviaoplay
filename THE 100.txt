@@ -1,0 +1,503 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5319135E7B23011CC2B23162E3E0AE8C31C99955</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[B][COLOR red]#####[COLOR lime]  THE 100[COLOR yellow]   1ªTemporada  [COLOR red]#####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow]Piloto[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP01.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow]Habilidades Terrestres[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP02.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail><</item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 03  -[COLOR yellow]A Terra Mata[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP03.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]A Lei de Murphy[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP04.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]O Último Brilho do Crepúsculo[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP05.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]O Guardião de Sua Irmã[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP06.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Conteúdo Sob Pressão[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP07.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Viagem de um Dia[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP09.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Dia da União[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP09.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Eu Me Tornei a Morte[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP10.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]A Calma[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP11.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Nós Somos Terra-Firmes(PARTE 1)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP12.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Nós Somos Terra-Firmes (PARTE 2)[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T01EP13.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail></item>
+######################################################################################################################################
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]2ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B60B413A3D304FF088EA3E199B2B82E0FF03F06</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]#####[COLOR lime]  THE 100[COLOR yellow]  2ªTemporada  [COLOR red]#####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail><info>[COLOR Yellow][/COLOR][/B]</info></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Os 48[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T02EP01.mp4</link><thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Clima Inclemente[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer09/ondemand/THE100T02EP02.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Repercussões[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP03.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Muitos Anos de Vida[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP04.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Experimentos Humanos[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP05.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Névoa da Guerra[/COLOR][/B]</title
+><link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP06.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Por Muito Tempo no Abismo[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP07.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Caminhante no Espaço[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP08.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Lembre-se de Mim[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP09.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Sobrevivência do Mais Apto[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP10.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Golpe de Misericórdia[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP11.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Rubicon[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP12.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Ressurreição[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP13.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]O Guarda-Costas de Mentiras[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP14.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Sangue Se Paga Com Sangue, Parte Um[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP01.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Sangue Se Paga Com Sangue, Parte Dois[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T02EP01.mp4</link>
+<thumbnail>https://media.fstatic.com/5Hd5tR4_tQWMyBUTgXfjaZlV1lY=/fit-in/290x478/smart/media/movies/covers/2014/08/the-100-2a-temporada_t100254.png</thumbnail></item>
+######################################################################################################################################
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]3ª Temporada[COLOR red] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:519C7ADA7A45D6820BD1E2B2471246AE7BA1B93F</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[B][COLOR red]#####[COLOR lime]  THE 100[COLOR yellow]  3ªTemporada  [COLOR red]#####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item>
+<item><title>[B][/B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Wanheda: Parte Um[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP01.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Wanheda: Parte Dois[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP02.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Vós Que Entrais Aqui[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP03.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Cuidado Com os Tronos[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP04.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Hakeldama[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP05.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Colheita Amarga[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP06.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Treze[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP07.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Termos e Condições[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP08.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Roubando Fogo[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP09.mp4</link><thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Caídos[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/THE100T03EP10.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Nunca Mais[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/THE100T03EP11.mp4</link><thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Demônios[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/THE100T03EP12.mp4</link><thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Junte-se ou Morra[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer10/ondemand/THE100T03EP13.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Céu Vermelho na Manhã[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/THE100T03EP14.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Instanciação Perversa – Parte Um[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/THE100T03EP15.mp4</link>
+<thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Instanciação Perversa – Parte Dois[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/THE100T03EP16.mp4</link><thumbnail>https://media.fstatic.com/hTl0y8rvBacmKQ0YgW5lpvn1Zy4=/fit-in/290x478/smart/media/movies/covers/2016/01/the-100-3a-temporada_t113345.png</thumbnail></item> 	
+######################################################################################################################################
+magnet:?xt=urn:btih:C14E5E63BE4E321F0CC229452F3EDF8D86C98A21
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]4ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:519C7ADA7A45D6820BD1E2B2471246AE7BA1B93F</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[B][COLOR red]#####[COLOR lime]  THE 100[COLOR yellow]   4ªTemporada  [COLOR red]#####[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item>
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg<thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Ecos[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer11/ondemand/THE100T04EP01.mp4</link>
+<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]O Peso da Coroa é Grande[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP02.mp4</link><thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Os Quatro Cavaleiros[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP03.mp4</link><thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Uma Mentira Guardada[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP04.mp4</link><thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]A Caixa de Metal[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP05.mp4</link><thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Nós Ressurgiremos[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP06.mp4</link><thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Me Dê Abrigo[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP07.mp4</link><link>plugin:<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></fanart</item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]O Complexo de Deus[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP08.mp4</link>
+<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]DNR[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP09.mp4</link>
+<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Morram Todos, Morram Felizes[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/THE100T04EP10.mp4</link>
+<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]O Outro Lado[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer05/ondemand/THE100T04EP11.mp4</link>
+<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Os Escolhidos[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer05/ondemand/THE100T04EP12.mp4</link>
+<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Praimfaya[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer05/ondemand/THE100T04EP13.mp4</link>
+<thumbnail>https://media.fstatic.com/IXo2EMfsvOTk3kWobZFSrID4bZo=/fit-in/290x478/smart/media/movies/covers/2015/04/the-100-2a-temporada_t100254.jpeg</thumbnail></item> 
+######################################################################################################################################
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]5ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3123F570C4625CD07A0684F1BC6B084C5AB006D3</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[B][COLOR red]#####[COLOR lime]  THE 100[COLOR yellow]   5ªTemporada  [COLOR red]#####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Éden [/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP01.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]A Rainha Vermelha[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP02.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Gigantes Adormecidos[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP03.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Caixa de Pandora[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP04.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Areias Movediças[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP05.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail</item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Feridas de Saída[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP06mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Perdas Aceitáveis[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP07.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Como Chegamos à Paz[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP08.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item<title>[B][COLOR white]EP 09 - [COLOR yellow]Sic Semper Tyrannis[/COLOR][/B]</title<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP09.mp4</link><thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]A Vontade dos Guerreiros[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP10.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]O Ano Negro[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP11.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+ ######################################################################################################################################
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Dâmocles – Parte Um[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP12.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Dâmocles – Parte Dois[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/THE100T05EP13.mp4</link>
+<thumbnail>https://http2.mlstatic.com/arrow-6-flash-4-e-the-100-5-temporada-D_NQ_NP_666025-MLB28229258278_092018-F.jpg</thumbnail></item> 
+######################################################################################################################################
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]6ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=uri=magnet:?xt=urn:btih:A90CFDE781F1A1F4CB104F586C48321391460530</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]###############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]#####[COLOR lime]  THE 100[COLOR yellow]   6ªTemporada  [COLOR red]#####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://abutretorrents.com/capa/the-100-6-temporada-legendada-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Santuário[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP01.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]  O Nascer do Sol Vermelho[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP02.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Os Filhos de Gabriel[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP03.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]O Rosto Atrás do Vidro[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP04.mp4</link><thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]O Evangelho de Josefina[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP05.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Momento Mori[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP06.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Deixa Pra Lá[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP07.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]O Velho e a Anomalia[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP08.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]o que você leva com você[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP09.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Boneca Russa[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP10.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Cinzas às Cinzas[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP11.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Protocolo de Ajuste[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP12.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]O Sangue do Santuário[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/THE100T06EP13.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+
+
+
+<item><title>[B][COLOR crimson]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]###[COLOR white] THE 100 - [COLOR lime]7ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+
+
+<item><title>[B][COLOR white]EP 01[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c17e2cb1804f75c7cc96cd13f9b19c7e15586e</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 02[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21629662b47cfd28f4cbddcf091642dff33abaa0</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 03[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6988138425c3dd8616ab37d70ccd3913a50c989</link><thumbnail>IGNOREME</thumbnail></item
+
+<item><title>[B][COLOR white]EP 04[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8abb5be1b30b8dc2e06aa2daa15a1a6b92e2626</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 05[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cdbf40a9e724e3d47a0a25aee89775aa0d83f05b</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 06[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4c8d4aa9eb4db44262750c6227e056886e27e6d</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 07[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f92b0245fd884e81599a460a423bdd17996c5b8</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 08[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2797cdce6d16549bf74861c9623a00bb438fa0b</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 09[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9565e99afe1e3535a798de3a2526fe05f18a5c7a</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 10[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0444088a4b7c43ee03ee0e8c7151e70b4f2b5e12</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 11[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21725b0fadfd673edd68f9862543897aacc87670</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 12[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:262b7777b336d0f73e241cb1dd9871855e5c7060</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 13[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df41c6f50eee9e8dd80cdab963856cc2246eb9c7</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 14[/B][/COLOR]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:065a918a0480bb011fe6d63f1b8557d7c00c2d8c</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 15 [COLOR yellow](EM BREVE)[/B][/COLOR]</title><link>IGNOREMEthumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 16 [COLOR yellow](EM BREVE)[/B][/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]#####[COLOR lime]  THE 100[COLOR yellow]   7ªTemporada [COLOR red]#####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Vindo das Cinzas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP01.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]O Jardim [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/ RCServer04/ondemand/THE100S07EP02.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Falsos Deuses [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/ RCServer04/ondemand/THE100S07EP03.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Hesperides [/COLOR][/B]</title><<link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP04.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Bem-vindo Ao Bardo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP05.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Nakara [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP06mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]O Gambito Da Rainha [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP07.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Anaconda [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP08.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]O Rebanho [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP09.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Um Pequeno Sacrifício [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP10.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Etherea [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP11.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]O Estranho [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP12.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Gigante De Sangue [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP13.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Uma Espécie De Regresso A Casa [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP14.mp4</link>
+<thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]A Morte Da Luz [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP15.mp4</link><thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]A Última Guerra [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/THE100S07EP16.mp4</link><thumbnail>https://media.fstatic.com/WeJ_TAYqdBgZG3eqhRnKObIeJAE=/fit-in/290x478/smart/media/movies/covers/2019/03/the-100-season-6-poster-full.jpg</thumbnail></item>
+######################################################################################################################################
+

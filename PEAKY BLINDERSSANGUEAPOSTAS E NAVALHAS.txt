@@ -1,0 +1,95 @@
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]PEAKY BLINDERS;SANGUE,APOSTAS E NAVALHAS -[COLOR yellow] 1ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 01 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT01EP01.mp4</link><thumbnail>https://media.fstatic.com/X0L0leCL4N6dj7n2ifvdiddbyO8=/290x478/smart/media/movies/covers/2019/11/peaky-blinders-54a3c781a28fd.jpg</thumbnail></item>
+ 
+########################################################################################################################################
+<item><title>[COLOR white]EP 02 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT01EP02.mp4</link><thumbnail>https://media.fstatic.com/X0L0leCL4N6dj7n2ifvdiddbyO8=/290x478/smart/media/movies/covers/2019/11/peaky-blinders-54a3c781a28fd.jpg</thumbnail></item>
+ 
+########################################################################################################################################
+<item><title>[COLOR white]EP 03 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT01EP03.mp4</link><thumbnail>https://media.fstatic.com/X0L0leCL4N6dj7n2ifvdiddbyO8=/290x478/smart/media/movies/covers/2019/11/peaky-blinders-54a3c781a28fd.jpg</thumbnail></item>
+ 
+########################################################################################################################################
+<item><title>[COLOR white]EP 04 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT01EP04.mp4</link><thumbnail>https://media.fstatic.com/X0L0leCL4N6dj7n2ifvdiddbyO8=/290x478/smart/media/movies/covers/2019/11/peaky-blinders-54a3c781a28fd.jpg</thumbnail></item>
+ 
+########################################################################################################################################
+<item><title>[COLOR white]EP 05 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT01EP05.mp4</link><thumbnail>https://media.fstatic.com/X0L0leCL4N6dj7n2ifvdiddbyO8=/290x478/smart/media/movies/covers/2019/11/peaky-blinders-54a3c781a28fd.jpg</thumbnail></item>
+ 
+########################################################################################################################################
+<item><title>[COLOR white]EP 06 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT01EP06.mp4</link><thumbnail>https://media.fstatic.com/X0L0leCL4N6dj7n2ifvdiddbyO8=/290x478/smart/media/movies/covers/2019/11/peaky-blinders-54a3c781a28fd.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]PEAKY BLINDERS;SANGUE,APOSTAS E NAVALHAS -[COLOR yellow] 2ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT02EP01.mp4</link><thumbnail>https://media.fstatic.com/ChSImQXno51ZRbMDLAl93MXb-rk=/290x478/smart/media/movies/covers/2018/01/1_YWOaBRQ.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT02EP02.mp4</link><thumbnail>https://media.fstatic.com/ChSImQXno51ZRbMDLAl93MXb-rk=/290x478/smart/media/movies/covers/2018/01/1_YWOaBRQ.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT02EP03.mp4</link><thumbnail>https://media.fstatic.com/ChSImQXno51ZRbMDLAl93MXb-rk=/290x478/smart/media/movies/covers/2018/01/1_YWOaBRQ.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT02EP04.mp4</link><thumbnail>https://media.fstatic.com/ChSImQXno51ZRbMDLAl93MXb-rk=/290x478/smart/media/movies/covers/2018/01/1_YWOaBRQ.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT02EP05.mp4</link><thumbnail>https://media.fstatic.com/ChSImQXno51ZRbMDLAl93MXb-rk=/290x478/smart/media/movies/covers/2018/01/1_YWOaBRQ.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT02EP06.mp4</link><thumbnail>https://media.fstatic.com/ChSImQXno51ZRbMDLAl93MXb-rk=/290x478/smart/media/movies/covers/2018/01/1_YWOaBRQ.jpg</thumbnail></item>
+
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]PEAKY BLINDERS;SANGUE,APOSTAS E NAVALHAS -[COLOR yellow] 3ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT03EP01.mp4</link><thumbnail>https://media.fstatic.com/HiysnAiQjtqJKYCWjOCxUe-y2YQ=/290x478/smart/media/movies/covers/2016/08/peaky3__08190_zoom.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT03EP02.mp4</link><thumbnail>https://media.fstatic.com/HiysnAiQjtqJKYCWjOCxUe-y2YQ=/290x478/smart/media/movies/covers/2016/08/peaky3__08190_zoom.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT03EP03.mp4</link><thumbnail>https://media.fstatic.com/HiysnAiQjtqJKYCWjOCxUe-y2YQ=/290x478/smart/media/movies/covers/2016/08/peaky3__08190_zoom.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT03EP04.mp4</link><thumbnail>https://media.fstatic.com/HiysnAiQjtqJKYCWjOCxUe-y2YQ=/290x478/smart/media/movies/covers/2016/08/peaky3__08190_zoom.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT03EP05.mp4</link><thumbnail>https://media.fstatic.com/HiysnAiQjtqJKYCWjOCxUe-y2YQ=/290x478/smart/media/movies/covers/2016/08/peaky3__08190_zoom.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT03EP06.mp4</link><thumbnail>https://media.fstatic.com/HiysnAiQjtqJKYCWjOCxUe-y2YQ=/290x478/smart/media/movies/covers/2016/08/peaky3__08190_zoom.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]PEAKY BLINDERS;SANGUE,APOSTAS E NAVALHAS -[COLOR yellow] 4ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]A Forca [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT04EP01.mp4</link><thumbnail>https://media.fstatic.com/8RNV2ta6xyN9CvnvYftbo319cdY=/290x478/smart/media/movies/covers/2018/01/hrH_Cmz7ANwBAgJrI2XJOkHfZAD1bvVV1IF2zZ3U0Bs_hngQZog.png</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Bárbaros [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT04EP01.mp4</link><thumbnail>https://media.fstatic.com/8RNV2ta6xyN9CvnvYftbo319cdY=/290x478/smart/media/movies/covers/2018/01/hrH_Cmz7ANwBAgJrI2XJOkHfZAD1bvVV1IF2zZ3U0Bs_hngQZog.png</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Questão de Segurança Nacional [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT04EP01.mp4</link><thumbnail>https://media.fstatic.com/8RNV2ta6xyN9CvnvYftbo319cdY=/290x478/smart/media/movies/covers/2018/01/hrH_Cmz7ANwBAgJrI2XJOkHfZAD1bvVV1IF2zZ3U0Bs_hngQZog.png</thumbnail></item>
+
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Perigo à Vista [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT04EP01.mp4</link><thumbnail>https://media.fstatic.com/8RNV2ta6xyN9CvnvYftbo319cdY=/290x478/smart/media/movies/covers/2018/01/hrH_Cmz7ANwBAgJrI2XJOkHfZAD1bvVV1IF2zZ3U0Bs_hngQZog.png</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 - [COLOR yellow]À Revolução! [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT04EP01.mp4</link><thumbnail>https://media.fstatic.com/8RNV2ta6xyN9CvnvYftbo319cdY=/290x478/smart/media/movies/covers/2018/01/hrH_Cmz7ANwBAgJrI2XJOkHfZAD1bvVV1IF2zZ3U0Bs_hngQZog.png</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 - [COLOR yellow]À Paz! [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PEKYBLNDRSANT04EP01.mp4</link><thumbnail>https://media.fstatic.com/8RNV2ta6xyN9CvnvYftbo319cdY=/290x478/smart/media/movies/covers/2018/01/hrH_Cmz7ANwBAgJrI2XJOkHfZAD1bvVV1IF2zZ3U0Bs_hngQZog.png</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]PEAKY BLINDERS;SANGUE,APOSTAS E NAVALHAS -[COLOR yellow] 5ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Catástrofe na Terça-feira [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/PEKYBLNDRSANT05EP01.mp4</link><thumbnail>https://media.fstatic.com/DxQHmbzmac_duk0I3EEEPrDEhCk=/290x478/smart/media/movies/covers/2019/10/86454.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Gatos Pretos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/PEKYBLNDRSANT05EP02.mp4</link><thumbnail>https://media.fstatic.com/DxQHmbzmac_duk0I3EEEPrDEhCk=/290x478/smart/media/movies/covers/2019/10/86454.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Estratégia [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/PEKYBLNDRSANT05EP03.mp4</link><thumbnail></thumbnail>https://media.fstatic.com/DxQHmbzmac_duk0I3EEEPrDEhCk=/290x478/smart/media/movies/covers/2019/10/86454.jpg</item>
+
+<item><title>[COLOR white]EP 04 - [COLOR yellow]O Ciclo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/PEKYBLNDRSANT05EP04.mp4</link><thumbnail></thumbnail>https://media.fstatic.com/DxQHmbzmac_duk0I3EEEPrDEhCk=/290x478/smart/media/movies/covers/2019/10/86454.jpg</item>
+
+<item><title>[COLOR white]EP 05 - [COLOR yellow]A Surpresa [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/PEKYBLNDRSANT05EP05.mp4</link><thumbnail></thumbnail>https://media.fstatic.com/DxQHmbzmac_duk0I3EEEPrDEhCk=/290x478/smart/media/movies/covers/2019/10/86454.jpg</item>
+
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Sr. Jones [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/PEKYBLNDRSANT05EP06.mp4</link><thumbnail></thumbnail>https://media.fstatic.com/DxQHmbzmac_duk0I3EEEPrDEhCk=/290x478/smart/media/movies/covers/2019/10/86454.jpg</item>

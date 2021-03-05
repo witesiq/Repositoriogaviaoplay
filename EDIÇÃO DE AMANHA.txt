@@ -1,0 +1,70 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="EDIÇÃO DE AMANHÃ",[B][COLOR RED] 1ª TEMPORADA[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",01 -  [COLOR yellow] Piloto [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2001.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",02 -  [COLOR yellow] A escolha [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2002.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",03 -  [COLOR yellow] O bebê [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2003.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",04 -  [COLOR yellow] A loteria [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2004.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",05 -  [COLOR yellow] O jornal [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2005.mp4
+ 
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",06 -  [COLOR yellow] Sonhos [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2006.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",07 -  [COLOR yellow] Depois da meia noite [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2007mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",08 -  [COLOR yellow] A arma [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2008mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",09 -  [COLOR yellow] A namorada [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2009.mp
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",10 -  [COLOR yellow] O homem errado [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2010.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",11 -  [COLOR yellow] Natal [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2011.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",12 -  [COLOR yellow] Congelando de frio [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2012.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",13 -  [COLOR yellow] Namorada de Gangster [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2013.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",14 -  [COLOR yellow] O muro ( parte 1 ) [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2014.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",15 -  [COLOR yellow] O muro ( parte 2 ) [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2015.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",16 -  [COLOR yellow] Batmasterson [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2016.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",17 -  [COLOR yellow] O julgamento [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2017.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",18 -  [COLOR yellow] A sensitiva [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2018mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",19 -  [COLOR yellow] O fantásma da ópera [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2019.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",20 -  [COLOR yellow] O gato [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2020.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",21 -  [COLOR yellow] Fé [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2021.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",22 -  [COLOR yellow] Pai [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2022.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",23 -  [COLOR yellow] O amor é cego [/COLOR]
+https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2023.mp4

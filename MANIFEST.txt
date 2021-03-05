@@ -1,0 +1,12 @@
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] MANIFEST[COLOR lime] 1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54bd73578a503db1cb84b86bb23b01153763dc96</link><thumbnail>https://abutretorrents.com/capas/manifest-o-misterio-do-voo-828-1-temporada-completa-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSARIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] MANIFEST[COLOR lime] 2ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9af1a0594fd50ecb29633caf2d377775948afe03</link><thumbnail>https://abutretorrents.com/imagens/manifest-o-misterio-do-voo-828-2-temporada-completa-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSARIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>

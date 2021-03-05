@@ -1,0 +1,114 @@
+ <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS EPISODEOS  DA SERIE EM LINKS TORRENTES , E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]12 MONKEYS [COLOR lime]1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9EA6D7D442F76434EBDC4F222799314007851A9</link><thumbnail>https://abutretorrents.com/capas/12-monkeys-1-temporada-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSÁRIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]12 MONKEYS [COLOR lime]2ª Temporada [COLOR white](LEGENDADA) - TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:294174A58E65A59D0FF32685459EDCD93DD13635</link><thumbnail>https://1.bp.blogspot.com/-Ig1vuFuazO4/WyWhJSsLjfI/AAAAAAAAMj4/-qBwzaQzpis6J7ZCcpoqBk7pICXeKr3JgCLcBGAs/s1600/12%2BMonkeys%2B2%2Btemporada%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSARIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]12 MONKEYS [COLOR lime]3ª Temporada [COLOR white] - TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF8824D0A3E893EE95CC06FBF3D66BCDB3492C75</link><thumbnail>https://media.fstatic.com/PxpC7iao9eH9AwwGKuUGGEeq0uw=/290x478/smart/media/movies/covers/2017/04/12M-s3-Key-Art.jpeg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSARIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]12 MONKEYS [COLOR lime]4ª Temporada [COLOR white] TORRENT LEGENDADA [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link><thumbnail>https://2.bp.blogspot.com/-rj4vrHbyT4I/WyXFpDFNdlI/AAAAAAAAMlo/zyNo0z-RW6QoGjur4cqFLY-segOHN4etgCLcBGAs/s1600/12%2BMonkeys%2B4%2Btemporada%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail><info>[B][COLOR yellow]TEMPORADA COMPLETA EM ARQUIVOS TORRENTS,É NESCESSARIO TER O ADDON ELEMENTUM E O ELENTUM BURST INSTALADOS PARA RODAR OS LINKS.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR]
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]####[COLOR lime] 12 MONKEYS -[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow] Estilhaço [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow] Mentalmente Divergente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 -[COLOR yellow] Complexo de Cassandra [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 -[COLOR yellow] Atari [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 -[COLOR yellow] O Quarto de Noite [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 -[COLOR yellow] A Floresta Vermelha [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 -[COLOR yellow] As Chaves [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 -[COLOR yellow] Ontem [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 -[COLOR yellow] Amanhã [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 -[COLOR yellow] Movimento Divino [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 -[COLOR yellow] Shonin [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP11.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 -[COLOR yellow] Paradoxo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP12.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 -[COLOR yellow] Meus Braços [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT01EP13.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]####[COLOR lime] 12 MONKEYS -[COLOR yellow] 2ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow] Ano do Macaco [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow] Primário [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 -[COLOR yellow] Cem Anos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 -[COLOR yellow] Emergência [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 -[COLOR yellow] Corpos de Água [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 -[COLOR yellow] Imortal [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 -[COLOR yellow] Fusão [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 -[COLOR yellow] Canção de Ninar [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 -[COLOR yellow] Hiena [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 -[COLOR yellow] Pátria [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT02EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 -[COLOR yellow] Ressurreição [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP11.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 -[COLOR yellow] Sangue Lavado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP12mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 -[COLOR yellow] Memória do Futuro [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/12MONKT02EP13.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]####[COLOR lime] 12 MONKEYS -[COLOR yellow] 3ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>[/B]</item>
+
+
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow] Mãe [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow] Guardiões [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 -[COLOR yellow] Inimigo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 -[COLOR yellow] Irmãos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 -[COLOR yellow] Acidente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 -[COLOR yellow] Natural [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 -[COLOR yellow] Natural [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 -[COLOR yellow] Máscaras [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 -[COLOR yellow] Ladrão [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 -[COLOR yellow] Testemunha [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT03EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]####[COLOR lime] 12 MONKEYS -[COLOR yellow] 4ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 -[COLOR yellow] O Fim [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 -[COLOR yellow] Ouroboros [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 -[COLOR yellow] 45 RPM [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 -[COLOR yellow] Legado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 -[COLOR yellow] Depois [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 -[COLOR yellow] O Sino [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 -[COLOR yellow] Filhas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 -[COLOR yellow] Demônios [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 -[COLOR yellow] Um Minuto A Mais [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/12MONKT04EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 -[COLOR yellow] O Início (Parte 1)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 -[COLOR yellow] O Início (Parte 2) [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/12MONKT04EP11.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2017/04/20170414_122331.png</thumbnail></item>
+
+
+

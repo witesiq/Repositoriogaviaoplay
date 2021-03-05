@@ -1,0 +1,57 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS EPISODEOS  DA SERIE EM LINKS TORRENTES , E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Expresso Do Amanha - O Filme [COLOR yellow]( 2013 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4552E79E1D79491086989DAAA4ECDF0144DAC11B</link><thumbnail>https://abutretorrents.com/capas/expresso-do-amanha-snowpiercer-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Quando um experimento para impedir o aquecimento global falha, uma nova era do gelo toma conta do planeta Terra. Os únicos sobreviventes estão a bordo de uma imensa máquina chamada Snowpiercer. Lá, os mais pobres vivem em condições terríveis, enquanto a classe rica é repleta de pessoas que se comportam como reis. Até o dia em que um dos miseráveis resolve mudar o status quo, descobrindo todos os segredos deste intrincado maquinário. [/COLOR][/B]</info></item>
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR red] EXPRESSO DO AMANHA [COLOR lime] 1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://abutretorrents.com/capas/expresso-do-amanha-snowpiercer-1-temporada-legendada-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 / 02 - [COLOR yellow] Primeiro, O Clima Mudou  / Preparem-se![COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e5a4fc5e0d174c23ed4a6294bfeb29a1b380d5a</link></item>
+
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Acesso é Pode [COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58e3f7a5855719a99e21020dd820b7275b4ed0fc</link></item>
+
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow] Sem Seu Criador [COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcbd2da90b0a31e375891fcbb99465e405de9002</link></item>
+
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow] A Justiça Não Embarcou [COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:803d33926d7644516fd03259d9ec5ff3d0bea5d3</link></item>
+
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow] De Onde Menos se Espera... [COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:803d33926d7644516fd03259d9ec5ff3d0bea5d3</link></item>
+
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow] O Universo é Indiferente [COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8dc5bc91bffb86ab947b0ee3a83b80b4b3a9f03d</link></item>
+
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow] Revoluções [COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d4011699db1f03a37ad036f97277053547d98d5</link></item>
+
+<item><title>[B][COLOR white]EP 09 / 10  - [COLOR yellow] O Trem Exigia Sangue / 994 Vagões [COLOR yellow][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdc98b2fe237140ca54491fcded9bd385ed6818f</link></item>
+
+<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Expresso Do Amanha - O Filme[COLOR yellow](2013)  [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCFServer5/ondemand/EXPRSODOAMNHA.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail><info>[B][COLOR yellow] Filme que aborda uma mudança climática que já dura por 17 anos e congelou o mundo inteiro. A única saída para os sobreviventes é o trem Expresso do Amanhã, que circula sem paradas e separa os passageiros por classes sociais. Enquanto alguns passam fome e frio, outros vivem no luxo. Insatisfeito com essa divisão, Curtis (Chris Evans), um jovem líder da seção mais miserável do trem-máquina, desperta nos outros uma revolta e ele e seus companheiros resolvem invadir os demais vagões atrás da autoridade que está por trás de toda a injustiça e crueldade que comanda o trem.[/COLOR]</info></item>
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow] Primeiro, O Clima Mudou [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP01.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow] Preparem-se! [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP02.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Acesso é Poder [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP03.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow] Sem Seu Criador [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP04.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow] A Justiça Não Embarcou [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP05.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow] De Onde Menos se Espera... [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP06.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow] O Universo é Indiferente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP07.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow] Revoluções [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP08.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow] O Trem Exigia Sangue [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP09.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow] 994 Vagões [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/EXPRSODOAMNHAT01EP10.mp4</link><thumbnail>https://i.imgur.com/62y8VjH.jpg</thumbnail></item>

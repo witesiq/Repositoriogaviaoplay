@@ -1,0 +1,120 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 1 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP01.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 2[COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP02.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 3 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP03.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 4 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP04.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 5 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP05.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 6 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP06.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 7 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP07.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 8 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP08.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 9 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP09.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 10 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP10.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 11[COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP11.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 12 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP12.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 13 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP13.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 14 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP14.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 15 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP15.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 16 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP16.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 17 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP17.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 18 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP18.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 19 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP19.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 20 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP20.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 21 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP21.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 22 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP22.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 23 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP23.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 24 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP24.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 25[COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP25.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 26 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP26.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 27[COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP27.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 28 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP28.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 29 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP29.mp4
+########################################################################################################################################
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/itMRd35PTjoLMo2OrLmUwbQRVRz.jpg" group-title="REI DAVID",Episodeo 30 [COLOR yellow](2013)[/COLOR] - rede canais
+https://cdn.gamesgo.fun/RCServer11/ondemand/REDVIEP30.mp4
+########################################################################################################################################

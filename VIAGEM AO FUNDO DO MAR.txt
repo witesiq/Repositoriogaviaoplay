@@ -1,0 +1,30 @@
+######################################################################################################################################
+<item><title>[COLOR white]VIAGEM AO FUNDO DO MAR - O FILME[COLOR yellow](1962)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0C708C6266F685D86AE71D17B1CEA73B2074FBF</link><thumbnail>https://media.fstatic.com/7IHVlm5-hcqYCSwDrsdJmGb7BeI=/290x478/smart/media/movies/covers/2017/07/viafun.jpg</thumbnail></item>
+
+######################################################################################################################################
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]### [COLOR white] VIAGEM AO FUNDO DO MAR [COLOR lime]1ª Temporada[COLOR white] TORRENT [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C0C708C6266F685D86AE71D17B1CEA73B2074FBF</link><thumbnail>https://media.fstatic.com/4DJkwnSboKEECokYXb0TjgEb27k=/290x478/smart/media/movies/covers/2012/01/4431deada9d9e77ca1ea697f21153219.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]### [COLOR white] VIAGEM AO FUNDO DO MAR [COLOR lime]2ª Temporada[COLOR white] TORRENT [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:00ACFD480733E7B8E2606C384E27111575AE81A0</link><thumbnail>https://media.fstatic.com/KujTNEJL8EQ6dd1mKGpIhoArWhg=/290x478/smart/media/movies/covers/2017/01/Viagem_ao_Fundo_do_Mar-_2%C2%AA_Temp.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]### [COLOR white] VIAGEM AO FUNDO DO MAR [COLOR lime]3ª Temporada[COLOR white] TORRENT [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri= magnet:?xt=urn:btih:DC458B8C827E8B7DBFFC65490D44BE8969F806CC</link><thumbnail>https://i.pinimg.com/originals/78/48/cf/7848cf2eb5ec1700a200ceb12973eb69.png</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow]### [COLOR white] VIAGEM AO FUNDO DO MAR [COLOR lime]4ª Temporada[COLOR white] TORRENT [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EFA8B2DB95CEACFFD4842975DB177E3CB539488D</link><thumbnail>https://media.fstatic.com/mPYBX2vTA7FL1sP7cCgGaF0GQm4=/290x478/smart/media/movies/covers/2016/07/viagem-ao-fundo-do-mar-4a-temp_t211203.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+

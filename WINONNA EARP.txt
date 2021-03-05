@@ -1,0 +1,42 @@
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]Winonna Earp[COLOR yellow] 1ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://2.bp.blogspot.com/-MBd5s0fin2k/W1SqX-qrJ2I/AAAAAAAAOUI/FCj4dOG-uHM1JI-gJ8EjeLrEdAEhVK8YACLcBGAs/s1600/Wynonna%2BEarp%2B1%2Btemporada%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01[COLOR yellow]Purgatório [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02[COLOR yellow]Manter o Fogo Aceso [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03[COLOR yellow]Partindo Em Sua Mente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04[COLOR yellow]A Lâmina [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05[COLOR yellow]Cavando Ossos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06[COLOR yellow]Desejo Constante [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07[COLOR yellow]Caminhando Depois da Meia-noite [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08[COLOR yellow]Jack Duas Caras [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09[COLOR yellow]Enterrar-me Com As Minhas Armas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10[COLOR yellow]Ela Não Teria Ido [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11[COLOR yellow]Desmoronamento [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12[COLOR yellow]Casa de Memórias [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13[COLOR yellow]Eu Ando na Linha [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT01EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]Winonna Earp[COLOR yellow] 2ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://4.bp.blogspot.com/-0QlGcEhSh_Q/W1SqX1BLYMI/AAAAAAAAOUM/5Qh2h8J30r4dZf5cfmeEVpQZiIPqqgZwQCLcBGAs/s1600/Wynonna%2BEarp%2B2%2Btemporada%2Btorrent%2Bdownload%2Bdublada%2Bcompleta.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01[COLOR yellow]Barras de Aço e Paredes de Pedra [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02[COLOR yellow]Derrame Sua Pele [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03[COLOR yellow]Vai Te Pegar Bem [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04[COLOR yellow]Ela Não Está Certa [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05[COLOR yellow] Vamos Fingir que Somos Estranhos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06[COLOR yellow] Canção de Ninar do Uísque [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07[COLOR yellow] Todo Mundo Sabe [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08[COLOR yellow] Não Há Futuro no Passado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09[COLOR yellow] Para Sempre o Meu Nevermind [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10[COLOR yellow] Vejo Uma Escuridão  [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11[COLOR yellow] Ido Como Uma Menina Pode Obter [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12[COLOR yellow] Espero Que Você Dance [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WYNONAT02EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+

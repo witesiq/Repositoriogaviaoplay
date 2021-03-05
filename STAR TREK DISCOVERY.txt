@@ -1,0 +1,43 @@
+
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]star trek discovery [COLOR yellow]1ªTemporada[COLOR red]###[/COLOR]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white][B]EP 01[COLOR yellow] O Olá Vulcano [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP01.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 02[COLOR yellow] Batalha Das Estrelas Binárias[/COLOR yellow][/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP02.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 03[COLOR yellow] Contexto É Para Reis [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP03.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 04[COLOR yellow] A Faca Do Açougueiro Não Ouve O Berro Do Cordeiro [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP04.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 05[COLOR yellow] Escolha Sua Dor [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP05.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 06[COLOR yellow] Lete [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP06.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 07[COLOR yellow] Magia Para Fazer O Homem Mais São Ficar Louco [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP07.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 08[COLOR yellow] Se Queres A Paz, Preparas-te Para A Guerra [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP08.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 09[COLOR yellow] Para A Floresta Eu Vou [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP09.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 10[COLOR yellow] Apesar De Você [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP10.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 11[COLOR yellow] O Lobo Interior [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP11.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 12[COLOR yellow] Ambição Desmentida [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP12.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 13[COLOR yellow] O Passado É Prólogo [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP13.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 14[COLOR yellow] A Guerra Por Fora, A Guerra Por Dentro [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP14.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 15[COLOR yellow] Segure A Minha Mão? [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/STRTRKT01EP15.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]star trek  discovery COLOR yellow]2ªTemporada[COLOR red]###[/COLOR]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white][B]EP 01[COLOR yellow] Irmão [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP01.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 02[COLOR yellow] Novo Éden [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP02.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 03[COLOR yellow] Ponto de Luz [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP03.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 04[COLOR yellow] Uma Moeda para Caronte [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP04.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 05[COLOR yellow] Santos da Imperfeição [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP05.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 06[COLOR yellow] O Som do Trovão [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP06.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 07[COLOR yellow] Luz e Sombras [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP07.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 08[COLOR yellow] Se Não Falha a Memória [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP08.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 09[COLOR yellow] Projeto Dédalo [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP09.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 10[COLOR yellow] O Anjo Vermelho [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP10.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 11[COLOR yellow] Infinito Perpétuo [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP11.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 12[COLOR yellow] Pelo Vale das Sombras [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP12.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 13[COLOR yellow] Doce Tristeza (Parte 1) [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP13.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>
+<item><title>[B][COLOR white][B]EP 14[COLOR yellow] Doce Tristeza (Parte 2) [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/STRTRKT02EP14.mp4</link><thumbnail></thumbnail><info>[COLOR yellow][/COLOR]</info></item>

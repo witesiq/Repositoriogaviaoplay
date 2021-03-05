@@ -1,0 +1,88 @@
+
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]MULHER MARAVILHA[COLOR yellow] 1ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/nEwDkKJbupZGDdZ4xLB265b6LY8=/210x312/smart/media/movies/covers/2015/07/mulher-maravilha-1a-temporada_t26370.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] As Novas Aventuras da Mulher Maravilha (Legendado)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] A Baronesa[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] Fausta: a Mulher Maravilha Nazista[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] Beleza em Desfile[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] A Mística Feminina (Parte 1)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] A Mística Feminina (Parte 2)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] A Mulher Maravilha contra Gargântua[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] A Pasta de Pluto[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] A Última Nota de Dois Dólares[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] Julgamento Espacial (Parte 1)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Julgamento Espacial (Parte 2)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] Fórmula 40[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] Os Batedores[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] A Mulher Maravilha em Hollywood[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT01EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]MULHER MARAVILHA[COLOR yellow] 2ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/0egc_PNvxa3l1RCxDwtLeRp2__o=/290x478/smart/media/movies/covers/2015/07/mulher-maravilha-2a-temporada_t74025.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] A Volta da Mulher Maravilha[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Anexação 77[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] O Homem que Poderia Mover o Mundo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] O Caso do Triângulo das Bermudas[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] Golpe Mortal[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] O Flautista Multicor[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] A Rainha e o Ladrão[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] Sim, Aceito[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] O Homem que Fez Vulcões[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] Ladrões de Cérebro (Parte 1)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Ladrões de Cérebro (Parte 2)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] Brinquedos Mortais[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] A Dama dos Dedos Leves[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] O Zumbir dos Dardos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] O Desaparecimento de Diana[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] A Morte Disfarçada[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] Some um Computador[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Voo para Esquecimento[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Seção de Terror[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow] O Homem que Não Podia Falar[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow] A Moça de Islândia[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow] Míssil Assassino[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT02EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]MULHER MARAVILHA[COLOR yellow] 3ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/lXYllw51poTdqTlcdJ38T4VIkPU=/290x478/smart/media/movies/covers/2015/07/mulher-maravilha-3a-temporada_t113996_L0Uzyft.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] Meu Ídolo Adolescente Está Desaparecido[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Rodas Quentes[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] A Picada Mortal[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] A Bela Arte do Crime[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] Discoteca Diabólica[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] Formicida[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] A Bomba Relógio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] A Rainha do Skate[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] O Golfinho Mortal[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] Rostos Roubados[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Um Monte de Ouro[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] O Cérebro de Gault[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] Vai, Vai, Foi[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] Aventura Espacial[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] As Naves Estrelares[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] Exploradores de Sucesso[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] O Homem Mais Rico do Mundo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Encontro com o Aniquilamento[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Uma Garota com o Dom do Desastre[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow] O Garoto que Sabia o seu Segredo (Parte 1)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow] O Garoto que Sabia o seu Segredo (Parte 2)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow] O Homem que Não Podia Morrer[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 [COLOR yellow] O Fantasma da Montanha-russa (Parte 1)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 [COLOR yellow] O Fantasma da Montanha-russa (Parte 2)[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/MLHRMRVLHAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>

@@ -1,0 +1,132 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR]Ep-01 [B][COLOR yellow]Piloto[/B][/COLOR]
+https://ia801500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2001%20-%20Piloto.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-02 [B][COLOR yellow]A Travessia[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2002%20-%20A%20Travessia.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-03 [B][COLOR yellow]Fantasma, interrompido[/B][/COLOR] 
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2003%20-%20Fantasma%2C%20interrompido.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-04 [B][COLOR yellow]Corações emendados[/B][/COLOR] 
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2004%20-%20Cora%C3%A7%C3%B5es%20emendados.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-05 [B][COLOR yellow]Meninos perdidos[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2005%20-%20meninos%20perdidos.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-06 [B][COLOR yellow]Regresso ao Lar[/B][/COLOR] 
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2006%20-%20Regresso%20ao%20Lar.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-07 [B][COLOR yellow]Esperança e Misericórdia[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2007%20-%20Esperan%C3%A7a%20e%20Miseric%C3%B3rdia.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-08 [B][COLOR yellow]Nas asas de uma pomba[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2008%20-%20Nas%20asas%20de%20uma%20pomba.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-09 [B][COLOR yellow]Vozes[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2009%20-%20Vozes.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-10 [B][COLOR yellow]Noiva Fantasma[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2010%20-%20Noiva%20Fantasma.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-11 [B][COLOR yellow]Shadow Boxer[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2011%20-%20Shadow%20Boxer.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-12 [B][COLOR yellow]Undead Comic[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2012%20-%20Undead%20Comic.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-13 [B][COLOR yellow]Fantasma da vizinhança amigável[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2013%20-%20Fantasma%20da%20vizinhan%C3%A7a%20amig%C3%A1vel.mp4
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-14 [B][COLOR yellow]Última Execução[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2014%20-%20%C3%9Altima%20Execu%C3%A7%C3%A3o.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-15 [B][COLOR yellow]O primeiro fantasma de Melinda[/B][/COLOR] 
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2015%20-%20O%20primeiro%20fantasma%20de%20Melinda.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-16 [B][COLOR yellow]Cume do Homem Morto[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2016%20-%20Cume%20do%20Homem%20Morto.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-17 [B][COLOR yellow]Criança Demônio[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2017%20-%20Crian%C3%A7a%20Dem%C3%B4nio.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-18 [B][COLOR yellow]Miss Fortune[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2018%20-%20Miss%20Fortune.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-19 [B][COLOR yellow]Fúria[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2019%20-%20F%C3%BAria.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-20 [B][COLOR yellow]O Desaparecimento[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2020%20-%20O%20Desaparecimento.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-21 [B][COLOR yellow]Queda Livre (Parte 1)[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2021%20-%20Queda%20Livre%20%28Parte%201%29.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/b9P5r4-cUk8hChDCfe_7MG5cqT0=/290x478/smart/media/movies/covers/2011/05/f324406fd4c49e849fb73b542daa74e8.jpg" group-title="Ghost Whisperer",[COLOR red]1ª Temp [/COLOR] Ep-22 [B][COLOR yellow]O Único (Parte 2)[/B][/COLOR]
+https://ia601500.us.archive.org/32/items/encantador-de-fantasmas/1%C2%AA%20Temp%20Ep%2022%20-%20O%20%C3%9Anico%20%28Parte%202%29.mp4
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-01 [B][COLOR yellow]O Amor nunca morre[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2001%20-%20O%20Amor%20nunca%20morre.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-02 [B][COLOR yellow]O Amor ainda não morre[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2002%20-%20O%20Amor%20ainda%20n%C3%A3o%20morre.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-03 [B][COLOR yellow]Vidas Afogadas[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2003%20-%20Vidas%20Afogadas.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-04 [B][COLOR yellow]O Fantasma Interior[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2004%20-%20O%20Fantasma%20Interior.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-05 [B][COLOR yellow]Um grave assunto[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2005%20-%20Um%20grave%20assunto.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-06 [B][COLOR yellow]A Mulher dos Seus Sonhos[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2006%20-%20A%20Mulher%20dos%20Seus%20Sonhos.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-07 [B][COLOR yellow]Um Ciclo vicioso[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2007%20-%20Um%20Ciclo%20vicioso.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-08 [B][COLOR yellow]A Noite em que nos conhecemos[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2008%20-%20A%20Noite%20em%20que%20nos%20conhecemos.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-09 [B][COLOR yellow]A MaldiçÆo do Nono[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2009%20-%20A%20Maldi%C3%A7%C3%A3o%20do%20Nono.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-10 [B][COLOR yellow]Desistindo do Fantasma[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2010%20-%20Desistindo%20do%20Fantasma.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-11 [B][COLOR yellow]Garra de gato[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2011%20-%20Garra%20de%20gato.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-12 [B][COLOR yellow]Direitos aos mortos(confissao)[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2012%20-%20Direitos%20aos%20mortos%28confissao%29.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-13 [B][COLOR yellow]D‚j… Boo[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2013%20-%20D%C3%A9j%C3%A0%20Boo.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-14 [B][COLOR yellow]Demonio da velocidade[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2014%20-%20Dem%C3%B4nio%20de%20velocidade.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-15 [B][COLOR yellow]Fantasma Medio[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2015%20-%20Fantasma%20M%C3%A9dio.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-16 [B][COLOR yellow]O Berço vai balançar[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2016%20-%20O%20ber%C3%A7o%20vai%20balan%C3%A7ar.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-17 [B][COLOR yellow]O Congelado[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2017%20-%20O%20Congelado.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-18 [B][COLOR yellow]Filhos de Fantasmas[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2018%20-%20Filhos%20de%20Fantasmas.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-19 [B][COLOR yellow]O primeiro fantasma de Delia[/B][/COLOR]
+https://archive.org/download/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2019%20-%20O%20primeiro%20fantasma%20de%20Delia.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-20 [B][COLOR yellow]O Colecionador (Parte 1)[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2020%20-%20O%20Colecionador%20%28Parte%201%29.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-21 [B][COLOR yellow]O Profeta (Parte 2)[/B][/COLOR]
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2021%20-%20O%20Profeta%20%28Parte%202%29.mp4
+
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/hs5yIvkiQAwwWtjwKxw2KQbH2T0=/290x478/smart/media/movies/covers/2009/12/f33564a8131c4ea4d1bb073a8d57c740.jpg" group-title="Ghost Whisperer",[COLOR lime]2ª Temp [/COLOR] Ep-22 [B][COLOR yellow]A Reunião (Parte 3)[/B][/COLOR]	
+https://ia601407.us.archive.org/26/items/2a-encantador-de-fantasmas2/2%C2%AATemp%20Ep%20-%2022%20-%20A%20Reuni%C3%A3o%20%28Parte%203%29.mp4
+

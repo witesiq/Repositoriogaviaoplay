@@ -1,0 +1,75 @@
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]WESTWORLD[COLOR yellow] 1ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] O Original [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Castanha [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] O Disperso [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] A Teoria da Dissonância [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Contrapasso [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] O Adversário [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] Trompe L'oeil [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Decaimento do Vestígio [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] O Cravo BemTemperado [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] A Mente Bicameral [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/WSTWRLDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/VJOQt2wpPdukwBHMUxLyqAjCrW0=/290x478/smart/media/movies/covers/2018/07/132756846SZ.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]WESTWORLD[COLOR yellow] 2ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Jornada na Noite [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP01.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]A Reunião [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP02.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 -[COLOR yellow] Virtù e Fortuna [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP03.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]O Enigma da Esfinge [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP04.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Akane No Mai [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP05.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Espaço de Fase [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP06.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Les Ecorches [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP07.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Kiksuya [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP08.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Ponto de Fuga [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP09.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 -[COLOR yellow] O Passageiro [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/WSTWRLDT02EP10.mp4</link><thumbnail>https://media.fstatic.com/0GcmEi7nX0qd4DnxQ-iBm17ETIM=/290x478/smart/media/movies/covers/2018/12/913LOSzV9KL._SL1500_480x480.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]##[COLOR lime]WESTWORLD[COLOR yellow] 3ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 -[COLOR yellow] Parce Domine  [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 -[COLOR yellow] A Linha De Inverno  [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 -[COLOR yellow] Ausência De Campo  [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 -[COLOR yellow] A Mãe Dos Exilados (Legendado) [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 -[COLOR yellow] Gênero ( Legendado) [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 -[COLOR yellow] Decoerência ( Legendado) [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 -[COLOR yellow] Peão Passado ( Legendado) [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 -[COLOR yellow] Teoria da Crise ( Legendado) [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/WSTWRLDT03EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/Westworld-Season-2-Evan-Rachel-Wood-James-Marsden-Vintage-Paper-Po_xIyKU21.jpg</thumbnail></item>
+
+

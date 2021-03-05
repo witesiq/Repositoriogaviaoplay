@@ -1,0 +1,55 @@
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]######[COLOR lime]   ROMA[COLOR yellow] -  1ªTemporada [COLOR red] ######[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] A Águia Roubada [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP01.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Como Tito Pullo Destruiu A República [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP02.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Uma Coruja No Arbusto [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP03.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Roubado De Saturno [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP04.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] O Aríete Alcançou A Parede [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP05.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Egéria [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP06.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] Farsália [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP07.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Cesárion [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP08.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Útica [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP09.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] O Triunfo [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP10.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] Os Espólios De Guerra [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP11.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] Os Primeiros Dias De Fevereiro [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT01EP12.mp4</link><thumbnail>https://media.fstatic.com/wGFsAVB48eDdrfmNv0Of5w9MLgY=/fit-in/290x478/smart/media/movies/covers/2011/06/f2fb81690e0221df3da061448d31de61.jpg</thumbnail></item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]######[COLOR lime]   ROMA[COLOR yellow] -  1ªTemporada [COLOR red] ######[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] A Passagem Do Poder [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP01.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] O Filho De Plutão [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP02.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Estas São As Palavras De Marco Túlio Cícero [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP03.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] A Tartaruga E A Lebre [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP04.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Os Heróis Da República [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP05.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Filipe [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP06.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] A Máscara Da Morte [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP07.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Uma Ficção Necessária [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP08.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Nem Deus Consegue Parar Um Homem Faminto [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP09.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] Sobre Seu Pai [/COLOR] </title><<link>https://cdn.gamesgo.fun/RCServer09/ondemand/ROMAT02EP10.mp4</link><thumbnail>https://media.fstatic.com/oT4jz5hPKJtq0mooN2hIXfJzOgI=/fit-in/290x478/smart/media/movies/covers/2011/06/5c7a232672fcfcb0eadeaa2cd78e00bf.jpg</thumbnail></item>

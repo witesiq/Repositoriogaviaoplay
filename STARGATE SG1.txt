@@ -1,0 +1,626 @@
+<item>
+<title>[COLOR red]*****[/COLOR]FILME PILOTO DA SÉRIE[COLOR red]***** [/COLOR]
+[COLOR white]STARGATE:A CHAVE PARA O FUTURO DA HUMANIDADE[/COLOR]1994</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:18a51024afb6b4046a86d5cf11fc1b0676cb95ae</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLacy1TrSedHrZcsup1JNHl1upk.jpg</thumbnail>
+<info> Filme que deu origem a série:Um egiptólogo (James Spader) não-reconhecido por suas teorias é convidado a trabalhar em uma base secreta e lá toma contato com um anel de trinta metros coberto de hieróglifos. Ele descobre a chave para se chegar a um novo mundo, pois aquele anel é um portão estelar e, junto com uma pequena tropa de elite, atravessa o portão e se vê diante de uma experiência e uma aventura inimaginável.</info></item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 1ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title> EP 01 - [COLOR yellow]OS FILHOS DOS DEUSES[/COLOR](PARTE 1)</title>
+<link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%20%2001-Os%20Filhos%20dos%20Deuses.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 02 - [COLOR yellow]OS FILHOS DOS DEUSES[/COLOR](PARTE 2)</title>
+<link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%20%2002-Os%20Filhos%20dos%20Deuses%28parte%202%29.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 03 - [COLOR yellow]CARREGANDO O INIMIGO[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%20%2003-%20Carregando%20o%20Inimigo.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 04 - [COLOR yellow]EMANCIPAÇÃO[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%20%2004-Emancipa%C3%A7%C3%A3o.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 05 - [COLOR yellow]A DIVISÃO DA BROCA[/COLOR]</title>
+<linkhttps://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%20%2005-A%20Divis%C3%A3o%20de%20Broca.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 06 - [COLOR yellow]O PRIMEIRO MANDAMENTO[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%20%2006-O%20Primeiro%20Mandamento.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 07 - [COLOR yellow]O REPLICADOR[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2007%20-O%20Replicador.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 08 - [COLOR yellow]OS NOX[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2008-Os%20Nox.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 09 - [COLOR yellow]VIDA BEVE[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2009%20-A%20Vida%20Breve.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 10 - [COLOR yellow]O MARTELO DE THOR[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2010-O%20Martelo%20de%20Thor.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 11 - [COLOR yellow]O TORMENTO DE TÂNTALOS[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2011-O%20Tormento%20de%20T%C3%A2ntalo.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 12 - [COLOR yellow]LAÇOS SANGUINEOS[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2012-La%C3%A7os%20Sangu%C3%ADneos.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 13 - [COLOR yellow]FOGO E AGUA[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2013-Fogo%20e%20%C3%81gua.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 14 - [COLOR yellow]HATOR[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2014-Hator.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 15 - [COLOR yellow]SINGULARIDADE[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2015-Singularidade.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 16 - [COLOR yellow]COR-AI[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2016-Cor-ai.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<title> EP 17 - [COLOR yellow]O ENIGMA[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2017-O%20Enigma.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 18 - [COLOR yellow]SOLIDÃO[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2018-Solid%C3%A3o.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 19 - [COLOR yellow]HOMEM DE LATA[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2019-Homem%20de%20Lata.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 20-[COLOR yellow]TERMINOU GRAÇAS A DEUS[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2020-Terminou%2C%20Gra%C3%A7as%20a%20Deus.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 21 - [COLOR yellow]POLITICA[/COLOR](PARTE1)</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2021-Pol%C3%ADtica%20%28parte%201%29.mp4.mp4</link>
+<thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 22 - [COLOR yellow]NOS DOMINIOS DA SERPENTE[/COLOR](PARTE2)</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.1%C2%AA%20temporada%20EP%2022-Nos%20Dom%C3%ADnios%20da%20Serpente%20%28parte%202%29.mp4</link><thumbnail>https://vignette.wikia.nocookie.net/stargate/images/f/f7/SG-1_season_1_DVD.jpg/revision/latest?cb=20090103151848</thumbnail</item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 2ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item>
+<title> EP 01 - [COLOR yellow]NOS DOMINIOS DA SERPENTE(PARTE 2))[/COLOR](PARTE 1)</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%A %20temporada%20EP%2001%20-%20O%20Covil%20da%20Serpente%20%28parte%203%29.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 02 - [COLOR yellow]NA LINHA DO DEVER[/COLOR](PARTE 2)</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2002%20-%20Na%20Linha%20do%20Dever.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 03 - [COLOR yellow]PRISIONEIROS[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2003%20-%20Prisioneiros.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ul7W8lwLIgxre1LXigFw55upfZ5.jpg</fanart>
+</item>
+
+<item>
+<title> EP 04 - [COLOR yellow]O GUARDIÃO DO JOGO[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2004%20-%20O%20Guardi%C3%A3o%20do%20Jogo.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 05 - [COLOR yellow]NESCESSIDADE[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2005%20-%20Necessidade.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 06 - [COLOR yellow]A CARRUAGEM DE THOR[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2006%20-%20A%20Carruagem%20de%20Thor.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 07 - [COLOR yellow]MENSAGEN NA GARRAFA[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2007%20-%20Mensagem%20na%20Garrafa.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 08 - [COLOR yellow]FAMILIA[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2008%20-%20Fam%C3%ADlia.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 09 - [COLOR yellow]SEGREDOS[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2009%20-%20Segredos.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 10 - [COLOR yellow]PRAGA[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2010%20-%20Praga.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 11 - [COLOR yellow]OS TOKRA'S(PARTE 1)[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2011%20-%20%20Os%20Tok%27ra%20%28parte%201%29.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 12 - [COLOR yellow]OS TOKRA'S(PARTE 2)[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2012%20-%20Os%20Tok%27ra%20%28parte%202%29.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 13 - [COLOR yellow]ESPIRITOS[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2013%20-%20Esp%C3%ADritos.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 14 - [COLOR yellow]PEDRA DE TOQUE[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2014%20-%20Pedra%20de%20Toque.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 15 - [COLOR yellow]A 5ª RAÇA[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2015-%20A%20Quinta%20Ra%C3%A7a.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 16 - [COLOR yellow]UMA QUESTAO DE TEMPO[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2016%20-%20Uma%20Quest%C3%A3o%20de%20Tempo.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 17 - [COLOR yellow]FERIADO[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2017%20-%20Feriado.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 18 - [COLOR yellow]A CANÇAO DA SERPENTE[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2018%20-%20A%20Can%C3%A7%C3%A3o%20da%20Serpente.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 19 - [COLOR yellow]UM PASSO EM FALSO[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2019%20-%20Um%20Passo%20em%20Falso.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 20-[COLOR yellow]MOSTRAR E CONTAR[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2020%20-%20Mostrar%20e%20Contar.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 21 - [COLOR yellow]1969[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2021%20-%201969.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item>
+<title> EP 22 - [COLOR yellow]ENLOUQUECIDOS[/COLOR]</title>
+<link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.2%C2%AA%20temporada%20EP%2022%20-%20Enlouquecido%20%28parte%201%29.mp4.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Stargate_SG-1_Season_2.jpg/220px-Stargate_SG-1_Season_2.jpg</thumbnail>
+</item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 3ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title> EP 01 - [COLOR yellow]PERIGO A VISTA[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2001%20-%20Em%20Dire%C3%A7%C3%A3o%20ao%20Fogo%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 02 - [COLOR yellow]SETH[/COLOR]</title><link>https://ia601404.us.archive.org/0/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2002%20-%20Seth.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 03 - [COLOR yellow]JOGO JUSTO[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2003%20-%20Jogo%20justo.mp4.mp4</link>
+<thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item><item
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<title> EP 04 - [COLOR yellow]LEGADO[/COLOR]</title>
+link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2004%20-%20Legado.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 05 - [COLOR yellow]CURVA DE APRENDIZAGEM[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2005%20-%20Curva%20de%20Aprendizagem.mp4.mp4</link>
+<thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title> EP 06 - [COLOR yellow]PONTO DE VISTA[/COLOR]</title><linkhttps://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2006%20-%20Ponto%20de%20Vista.mp4.mp4></link>
+<thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title> EP 07 - [COLOR yellow]INTERRUPTOR DA MORTE[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2007%20-%20O%20Interruptor%20do%20Morto.mp4.mp4</link>
+<thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 08 - [COLOR yellow]DEMONIOS[/COLOR]</title>
+<link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2008%20-%20Dem%C3%B3nios.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title> EP 09 - [COLOR yellow]REGRAS DE COMBATE[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2009%20-%20Regras%20de%20Combate.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+
+<item><title> EP 10 - [COLOR yellow]PARA SEMPRE EM UM DIA[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2010%20-%20Para%20Sempre%20num%20Dia.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 11 - [COLOR yellow]PASSADO E PRESENTE[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2011%20-%20Passado%20e%20Presente.mp4.mp4</link>
+<thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title> EP 12 - [COLOR yellow]MEMORIAS DE JOLINAR(PARTE 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2012%20-%20Mem%C3%B3rias%20de%20Jolinar%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 13 - [COLOR yellow]O DIABO QUE CONHECEU[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2013%20%20-%20O%20Diabo%20Que%20Conheces%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 14 - [COLOR yellow]BASE DE OPERAÇOES[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2014%20-%20Base%20de%20Opera%C3%A7%C3%B5es.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 15 - [COLOR yellow]PRETENÇÃO[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2015%20-%20Pretens%C3%A3o.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 16 - [COLOR yellow]URGO[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2016%20-%20Urgo.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 17 - [COLOR yellow]CEM DIAS[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2017%20-%20Cem%20Dias.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 18 - [COLOR yellow]SOMBRAS CINZENTAS[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2018%20-%20Sombras%20Cinzentas.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 19 - [COLOR yellow]TERRA NOVA[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2019%20-%20Terra%20Nova.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<<item>title> EP 20 - [COLOR yellow]INSTINTO MATERNO[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2020%20-%20Instinto%20Materno.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title> EP 21 - [COLOR yellow]A CAVEIRA DE CRISTAL[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2021%20-%20A%20Caveira%20de%20Cristal.mp4.mp4</link><thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title> EP 22 - [COLOR yellow]NEMESIS (PARTE 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.3%C2%AA%20temporada%20EP%2022%20-%20N%C3%A9mesis%20%28parte%201%29.mp4.mp4</link>
+<thumbnail>https://media.fstatic.com/W0EqHX-chv0gKyG10QDB72XIo3M=/fit-in/210x312/smart/media/movies/covers/2010/10/334c74f30a64fadfd3af0e7034bf52a6.jpg</thumbnail></item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 4ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white]EP 01- [COLOR yellow]Pequenas Vitórias (parte 2)[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2001%20-%20Pequenas%20Vit%C3%B3rias%20%28parte%202%29.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 02- [COLOR yellow]O Outro Lado[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2002%20-%20O%20Outro%20Lado.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 03- [COLOR yellow]Melhorias[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2003%20-%20Melhorias.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 04- [COLOR yellow]Encruzilhada[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2004%20-%20Encruzilhada.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 05- [COLOR yellow]Dividir e Conquistar[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2005%20-%20Dividir%20e%20Conquistar.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 06- [COLOR yellow]Janela da Oportunidade[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2006%20-%20Janela%20da%20Oportunidade.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 07- [COLOR yellow]Portão de Água[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2007%20-%20Port%C3%A3o%20de%20%C3%81gua.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 08- [COLOR yellow]Os Primeiros[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2008%20-%20Os%20Primeiros.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 09- [COLOR yellow]Terra Devastada[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2009%20-%20Terra%20Devastada.mp4.mp4E</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 10- [COLOR yellow]Abaixo da Superfície[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2010%20-%20Abaixo%20da%20Superf%C3%ADcie.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 11- [COLOR yellow]Ponto Sem Retorno[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2011%20-%20Ponto%20Sem%20Retorno.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 12- [COLOR yellow]Tangente[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2012%20-%20Tangente.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 13- [COLOR yellow]A Maldição[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2013%20-%20A%20Maldi%C3%A7%C3%A3o.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 14- [COLOR yellow]O Veneno da Serpente[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2014%20-%20O%20Veneno%20da%20Serpente.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 15- [COLOR yellow]Reação em Cadeia[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2015%20-%20Rea%C3%A7%C3%A3o%20em%20Cadeia.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 16- [COLOR yellow]2010[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2016%20-%202010.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 17- [COLOR yellow]Poder Absoluto[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2017%20-%20Poder%20Absoluto.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 18- [COLOR yellow]A Luz[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2018%20-%20A%20Luz.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 19- [COLOR yellow]Prodígio[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2019%20-%20Prod%C3%ADgio.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 20- [COLOR yellow]Entidade[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2020%20-%20Entidade.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 21- [COLOR yellow]Perigo Duplo[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2021%20-%20Perigo%20Duplo.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR white]EP 22- [COLOR yellow]Êxodo (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.4%20%C2%AA%20temporada%20EP%2022%20-%20%C3%8Axodo%20%28parte%201%29.mp4.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6IN6cRW2kjDZPmTapa7udU5eiyVG7EzcZxemOJFihLQtjc6bm</thumbnail></item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 5ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 01- [COLOR yellow]Inimigos (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2001%20-%20Inimigos%20%28parte%202%29.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02- [COLOR yellow]Limiar (parte 3)[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2002%20-%20Limiar%20%28parte%203%29.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03- [COLOR yellow]Ascensão[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2003%20-%20Ascens%C3%A3o.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04- [COLOR yellow]O Quinto Homem[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2004%20-%20O%20Quinto%20Homem.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05- [COLOR yellow]Céu Vermelho[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2005%20-%20C%C3%A9u%20Vermelho.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06- [COLOR yellow]Ritual da Passagem[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2006%20-%20Ritual%20da%20Passagem.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 07- [COLOR yellow]Besta de Carga[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2007%20-%20Besta%20de%20Carga.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 08- [COLOR yellow]O Túmulo[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2008%20-%20O%20T%C3%BAmulo.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 09- [COLOR yellow]Entre Dois Fogos[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2009%20-%20Entre%20Dois%20Fogos.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 10- [COLOR yellow]2001[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2010%20-%202001.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 11- [COLOR yellow]Medidas Desesperadas[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2011%20-%20Medidas%20Desesperadas.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 12- [COLOR yellow]Buraco de Minhoca Extremo![/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2012%20-%20Buraco%20de%20Minhoca%20Extremo%21.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 13- [COLOR yellow]Campo de Provas[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2013%20-%20Campo%20de%20Provas.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 14- [COLOR yellow]48 Horas[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2014%20-%2048%20Horas.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 15- [COLOR yellow]Cimeira (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2015%20-%20Conferencia%20%28parte%201%29.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 16- [COLOR yellow]Confronto Final (parte 2)[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2016%20-%20Confronto%20Final%20%28parte%202%29.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 17- [COLOR yellow]Falha de Segurança[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2017%20-%20Falha%20de%20Seguran%C3%A7a.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 18- [COLOR yellow]O Guerreiro[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2018%20-%20O%20Guerreiro.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 19- [COLOR yellow]Ameaça[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2019%20-%20Amea%C3%A7a.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 20- [COLOR yellow]A Sentinela[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2020%20-%20A%20Sentinela.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 21- [COLOR yellow]Meridiano[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2021%20-%20Meridiano.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 22- [COLOR yellow]Revelações[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.5%20%C2%AA%20temporada%20EP%2022%20-%20Revela%C3%A7%C3%B5es.mp4.mp4</link><thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Stargate_SG-1_Season_5.jpg/220px-Stargate_SG-1_Season_5.jpg</thumbnail></item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 6ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Redenção (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2001%20-%20Reden%C3%A7%C3%A3o%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Redenção (parte 2)[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2002%20-%20Reden%C3%A7%C3%A3o%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Descida[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2003%20-%20Descida.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Congelado[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2004%20-%20Congelado.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Caminhantes Noturnos[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2005%20-%20Caminhantes%20Noturnos.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Abismo[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2006%20-%20Abismo.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Sombra[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2007%20-%20Sombra.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Os Outros[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2008%20-%20%20Os%20Outros.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Lealdade[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2009%20-%20Lealdade.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Cura[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2010%20-%20Cura.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Prometeu (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2011%20-%20Prometeu%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Seleção Artificial (parte 2)[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2012%20-%20Sele%C3%A7%C3%A3o%20Artificial%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Vista Invisível[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2013%20-%20Vista%20Invis%C3%ADvel.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Fumo e Espelhos[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2014%20-%20Fumo%20e%20Espelhos.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Paraíso Perdido[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2015%20-%20Para%C3%ADso%20Perdido.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Metamorfose[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2016%20-%20Metamorfose.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Divulgação[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2017%20-%20Divulga%C3%A7%C3%A3o.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Abandonado[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2018%20-%20Abandonado.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 19 - [COLOR yellow]A Troca[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2019%20-%20A%20Troca.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Lembrança[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2020%20-%20Lembran%C3%A7a.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 21 - [COLOR yellow]Profecia[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2021%20-%20Profecia.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 22 - [COLOR yellow]Pleno Círculo[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.6%20%C2%AA%20temporada%20EP%2022%20-%20Pleno%20C%C3%ADrculo.mp4.mp4</link><thumbnail>https://media.fstatic.com/_MUMns95UcDrHSRtawY9w0UNAgw=/fit-in/290x478/smart/media/movies/covers/2011/12/d46da18fd1001a45a5f849779b2c5e18.jpg</thumbnail></item>
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 7ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Caído[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2001%20-%20Ca%C3%ADdo.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Regresso a Casa[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2002.%20-%20Regresso%20a%20Casa.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Frágil Equilíbrio[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2003%20-%20Fr%C3%A1gil%20Equil%C3%ADbrio.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Orfeu[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2004%20-%20Orfeu.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Revisões[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2005%20-%20Revis%C3%B5es.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Barco Salva-Vidas[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2006%20-%20Barco%20Salva-Vidas.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Inimigo Meu[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2007-%20Inimigo%20Meu.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Corrida Espacial[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2008%20-%20Corrida%20Espacial.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Vingador 2.0[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2009%20-%20Vingador%202.0.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Primogenitura[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2010%20-%20Primogenitura.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Evolução (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2011%20-%20Evolu%C3%A7%C3%A3o%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Evolução (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2012%20-%20Evolu%C3%A7%C3%A3o%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Graça[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2013%20-%20Gra%C3%A7a.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Partículas Radioactivas[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2014%20-%20Part%C3%ADculas%20Radioactivas.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Quimera[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2015%20-%20Quimera.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Sentença de Morte[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2016%20-%20Senten%C3%A7a%20de%20Morte.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Heróis (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2017%20-%20Her%C3%B3is%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Heróis (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2018%20-%20Her%C3%B3is%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Ressurreição[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2019%20-%20Ressurrei%C3%A7%C3%A3o.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Inauguração[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2020%20-%20Inaugura%C3%A7%C3%A3o.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 21/22 - [COLOR yellow]Cidade Perdida (parte 1/PARTE2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.7%20%C2%AA%20temporada%20EP%2021-22%20-%20Cidade%20Perdida%20%28parte%201%29%20e%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/bvPQJEoqo3GRUjX1IahhsjUdw28=/fit-in/290x478/smart/media/movies/covers/2011/12/c4d610bd05539690cbd58b3c6ffe7a36.jpg</thumbnail></item>
+
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 8ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Nova Ordem (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2001%20-%20Nova%20Ordem%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Nova Ordem (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2002%20-%20Nova%20Ordem%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Isolamento[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2003%20-%20Isolamento.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04- [COLOR yellow]Hora Zero[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2004%20-%20Hora%20Zero.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Ícone[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2005%20-%20%C3%8Dcone.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Avatar[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2006%20-%20Avatar.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Afinidade[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2007%20-%20Afinidade.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Pacto[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2008%20-%20Pactos.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Sacrifícios[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2009%20-%20Sacrificios.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Fim de Jogo[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2010%20-%20Fim%20de%20Jogo.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Gémeos[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2011%20-%20Gemeos.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Prometeu Libertado[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2012%20-%20Prometeus%20libertado.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 13 - [COLOR yellow]É Bom Ser Rei[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2013%20-%20%C3%89%20Bom%20Ser%20Rei.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Alerta Total[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2014%20-%20Alerta%20Total.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Joe, o Cidadão[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2015%20-%20Joe%2C%20o%20cidad%C3%A3o.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Contagem (parte 1)[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2016%20-%20Contagem%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Contagem (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2017%20-%20Contagem%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Fios[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2018%20-%20Fios.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Moebius (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2019%20-%20Moebius%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Moebius (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.8%20%C2%AA%20temporada%20EP%2020%20-%20Moebius%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/doLliNB_Umc9VGhkH6U-tQnfp4o=/fit-in/290x478/smart/media/movies/covers/2011/12/127d937f31c985cd8447762389c9904d.jpg</thumbnail></item>
+
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 9ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Avalon (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2001%20-%20Avalon%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Avalon (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2002%20-%20Avalon%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Origem (parte 3)[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2003%20-%20Origem%20%28parte%203%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Os Laços Que Unem[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2004%20-%20Os%20La%C3%A7os%20Que%20Unem.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 - [COLOR yellow]O Poder Supremo[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2005%20-%20O%20poder%20supremo.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Linha de Defesa[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2006%20-%20Linha%20de%20defesa.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Ex Deus Machina[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2007%20-%20Ex%20Deus%20Machina.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Babilónia[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2008%20-%20Babilonia.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Protótipo[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2009%20-%20Prot%C3%B3tipo.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 10 - [COLOR yellow]O Quarto Cavaleiro (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2010%20-%20O%20Quarto%20Cavaleiro%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 11 - [COLOR yellow]O Quarto Cavaleiro (parte 2)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2011%20-%20O%20Quarto%20Cavaleiro%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Danos Colaterais[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2012%20-%20Danos%20colaterais.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Efeito Dominó[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2013%20-%20Efeito%20Domin%C3%B3.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Fortaleza[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2014%20-%20Fortaleza.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Etón[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2015%20-%20Et%C3%B3n.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Fora do Sistema[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2016%20-%20Fora%20de%20sistema.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 17 - [COLOR yellow]O Flagelo[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2017%20-%20O%20Flagelo.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 18 - [COLOR yellow]O Manto de Artur[/COLOR]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2018%20-%20O%20Manto%20de%20Artur.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Cruzada[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%20%C2%AA%20temporada%20EP%2019%20-Cruzada.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Camelot (parte 1)[/COLOR]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.9%C2%AA%20%20temporada%20EP%2020%20-%20Camelot%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/Z6IC6C471l2HZ3J_Q6ddP6Rr8aA=/195x289/smart/media/movies/covers/2011/12/29e345fed69848b482f54c33e4fe08cd.jpg</thumbnail></item>
+
+
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]STARGATE SG1[COLOR yellow] - 10ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]###############################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Carne e Sangue (parte 2)[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2001%20-%20Carne%20e%20Sangue%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Morfeu[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2002%20-%20Morpheus.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 03 - [COLOR yellow]O Projeto Pégasus[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2003%20-%20O%20Projeto%20P%C3%A9gasus.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Pessoas Íntimas[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2004%20-%20Pessoas%20intimas.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Não Convidado[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2005%20-%20N%C3%A3o%20Convidado.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 06 - [COLOR yellow]200[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2006%20-%20200.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Contra-Ataque[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2007%20-%20Contra-Ataque.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Momento Mori[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2008%20-%20Momento%20mori.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Companhia de Ladrões[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2009%20-%20Companhia%20de%20Ladr%C3%B5es.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 10 - [COLOR yellow]A Busca (parte 1)[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2010%20-%20A%20Busca%20%28parte%201%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 11 - [COLOR yellow]A Busca (parte 2)[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2011%20-%20A%20Busca%20%28parte%202%29.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Linha na Areia[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2012%20-%20Linha%20na%20areia.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 13 - [COLOR yellow]O Caminho Não Tomado[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2013%20-%20O%20Caminho%20N%C3%A3o%20Tomado.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 14 - [COLOR yellow]A Mortalha[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2014%20-%20Mortalha.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Recompensa[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2015%20-%20Recompensa.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Bandidos[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2016%20-%20Bandidos.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Talião[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2017%20-%20Tali%C3%A3o.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Laços de Família[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2018%20-%20La%C3%A7os%20de%20Fam%C3%ADlia.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Domínio[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia802809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2019%20-%20Dom%C3%ADnio.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>
+
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Interminável[/COLOR] [/COLOR]  -  Legendado]</title>]</title><link>https://ia902809.us.archive.org/31/items/stargatesg1.mp4/Stargate%20SG%201.10%C2%AA%20temporada%20EP%2020%20-%20Interminavel.mp4.mp4</link><thumbnail>https://media.fstatic.com/ID6ug1wp29txCk9M4aZJgPRzGaY=/fit-in/290x478/smart/media/movies/covers/2011/12/ff7e17b868788a0627b37cdf431c2263.jpg</thumbnail></item>

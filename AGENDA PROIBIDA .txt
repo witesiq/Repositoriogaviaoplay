@@ -1,0 +1,46 @@
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[B][COLOR red]####[COLOR lime]AGENDA PROIBIDA[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail></item>
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white][B]EP 01 - [COLOR yellow]O Prazer De Sugarland [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP01.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 02 - [COLOR yellow]Virar A Página [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP02.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 03 - [COLOR yellow]Difícil Amor [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP03.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 04 - [COLOR yellow]O Anel Da Verdade [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP04.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 05 - [COLOR yellow]Tentar De Novo [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP05.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 06 - [COLOR yellow]A Dura e Fria Verdade [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP06.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 07 - [COLOR yellow]A Vida De Riley [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP07.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 08 - [COLOR yellow]Brincadeira De Criança [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP08.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 09 - [COLOR yellow]Travessuras [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP09.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 10 - [COLOR yellow]O Passado Como Prólogo [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT01EP10.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[B][COLOR red]####[COLOR lime]AGENDA PROIBIDA[COLOR yellow] 2ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail></item>
+<item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white][B]EP 01 - [COLOR yellow]Isso Pode Ser Meu [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP01.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 02 - [COLOR yellow]Quem Está Traindo Quem [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP02.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 03 - [COLOR yellow]Caubóis [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP03.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 04 - [COLOR yellow]O Pior Está Por Vir [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP04.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 05 - [COLOR yellow]O Concurso [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP05.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 06 - [COLOR yellow]Preces Não Atendidas [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP06.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 07 - [COLOR yellow]Uma Questão Financeira [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP07.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 08 - [COLOR yellow]Céu E Pecado [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP08.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 09 - [COLOR yellow]Vão-Se As Bolsas [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP09.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 10 - [COLOR yellow]Não É Não [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP10.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 11 - [COLOR yellow]Velhos Tempos [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP11.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 12 - [COLOR yellow]Aceito [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP12.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 13 - [COLOR yellow]Custe O Que Custar [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP13.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 14 - [COLOR yellow]Quem Você Pensa Que Eu Sou [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP14.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>
+<item><title>[B][COLOR white][B]EP 15 - [COLOR yellow]Noite Selvagem [/B][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AGNDPRBDAT02EP15.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t1BPBKbbAGZZbYqJHeDSzQbLnkv.jpg</thumbnail>></item>

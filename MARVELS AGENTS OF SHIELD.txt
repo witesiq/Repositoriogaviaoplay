@@ -1,0 +1,490 @@
+<item>
+<title>AGENTS OF S.H.I.E.L.D. -  [COLOR red]1ª TEMPORADA[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>EP 01 -[COLOR yellow]Piloto[/COLOR]</title>
+<link>https://ia601401.us.archive.org/6/items/piloto_20200329/1x%201%20pilot.mp4?cnt=0</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 02 -[COLOR yellow]0–8–4[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_bc411f99e5a7478dbf7451a34a930743/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 03 -[COLOR yellow]O Activo[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_3f08df9ed5db4020890de9643dbf8e97/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 04 -[COLOR yellow]Olho de Espião[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_6003058ffd6a47b895535b71c5bbbaf3/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 05 -[COLOR yellow]Menina de Vestido de Flor[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_0cb58125238546658d051ca62f2871f0/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 06 -[COLOR yellow]FZZT[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_a464030abeec4778bc6dd53cff1ee8a5/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 07 -[COLOR yellow]O Cubo[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_52615d351a0849f8a6c02145d3e12e95/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 08 -[COLOR yellow]O Poço[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_3c90d00f580f478da7b115b4ba305405/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 09 -[COLOR yellow] Reparos[/COLOR]</title>
+<linkhttps://video.wixstatic.com/video/148228_ccfc45566b5e4abb90254f04fe58b8eb/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 10 -[COLOR yellow]A Ponte[/COLOR]</title>
+<link>https://video.wixstatic.com/video/7c12da_eadf96202f2f4ad1be09841c32df61b5/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 11 -[COLOR yellow] O Lugar Mágico[/COLOR]</title>
+<link>https://dc696.4shared.com/img/hhVE9b6riq/d6fd47a0/dlink__2Fdownload_2FhhVE9b6riq_3Fsbsr_3Dcabb52971a4e37344320dcf57a749314a3a_26bip_3DMTMxLjE5Ni43OC41Ng_26lgfp_3D20_26dsid_3Dc6d0j4OT.c40472ee022eb7cc5c7d6add22f4afe2_26bip_3DMTMxLjE5Ni43OC41Ng_26bip_3DMTMxLjE5Ni43OC41Ng/preview.mp4?cuid=1396869164&cupa=0ae4babf34afc219cd9761bec3a33d83</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 12 -[COLOR yellow]Semente[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_139e78ffa0a140da91abd05842c3863c/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 13 -[COLOR yellow]T.R.I.L.H.A.[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_bcea03dade9046e6b4f57a419db1cb82/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 14 -[COLOR yellow]TAITI [/COLOR]</title>
+<link>https://dc696.4shared.com/img/mOzCPF5Siq/875fb397/dlink__2Fdownload_2FmOzCPF5Siq_3Fsbsr_3D014810373c5b298cffc47e95e3f87a03a3a_26bip_3DMTMxLjE5Ni43OC41Ng_26lgfp_3D20_26dsid_3Dc6d0j4OT.cf41ef74ff134b1604c9a84477eaccd9_26bip_3DMTMxLjE5Ni43OC41Ng_26bip_3DMTMxLjE5Ni43OC41Ng/preview.mp4?</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 15 -[COLOR yellow]Sim Homens[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_94dafa8c6ec24b4184e3ea5eb136e7ef/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 16 -[COLOR yellow]Fim do Começo[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_7d60302290c34450847fb4ea3a0b7037/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 17 -[COLOR yellow]Voltas, Voltas, Voltas[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_dcae4f9558064ff0ad0047eabb6bed8e/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 18 -[COLOR yellow]Providência[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_dcf5c3b0e9e1418cb227cd9d3bb9bf56/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 19 -[COLOR yellow]A Única Luz na Escuridão[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_5e4b53f066a54ae7a995c8d382973349/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 20 -[COLOR yellow]Nada Pessoa[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_98d25d0d4bba45cd9837ceffe40b08a6/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 21 -[COLOR yellow]Gentalha[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_9db91612e66242ada728d2e0cf111b89/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 22 -[COLOR yellow]Início do Fim[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_497a94141bbb421caa3797b8d4843e3e/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>AGENTS OF S.H.I.E.L.D. - [COLOR red]2ªTEMPORADA[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 01 - [COLOR yellow] Sombras [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_d23d6272b0fd45b58f110a83044040fb/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 02 - [COLOR yellow] Traição [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_771a1f2e2147425abc89868d6ee66233/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 03 - [COLOR yellow] Amizades e influências [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_d46835911ecb48969a1f733d25ee7721/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 04 -[COLOR yellow] De cara com o inimigo [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_ca4dc53e84bc40cf9720e55a3d259b00/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 05 -[COLOR yellow] Um cordeiro na casa do lobo [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_e506146a2b5e485fb15ae8addc6340a7/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 06 -[COLOR yellow] Uma casa despedaçada [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_34595924850e43449898d82e07a559ab/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 07 -[COLOR yellow] Escrituras Na Parede [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_a2ebe11fe6fb455590c424b551c91a6b/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 08 -[COLOR yellow] Coisas que sepultamosv [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_56a22d569aea4faba95203b4f12798a0/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 09 -[COLOR yellow] Quem entrou aqui? [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_c557e2fe660648988bec439f9a08edd5/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 10 -[COLOR yellow] No que se tornaram [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_c88c48f250114550abd40b19fe669f52/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 11 -[COLOR yellow] Tremores [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_a88e434be80b4fe1814d0a9fb818c913/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 12 -[COLOR yellow] Quem vocês são realmente [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_6aa700052dbd4acabb1982b206a80196/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 13 -[COLOR yellow] Um de nós [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_03eb6ac8767743c0a38bb0e0f7beb269/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 14 -[COLOR yellow] Amor no tempo da Hidra [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_5d07b9e558d9431492fd4251e7146ac1/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 15 -[COLOR yellow] Uma porta se fecha [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_2f578a5905c34195873ce91307b22c82/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 16 -[COLOR yellow] Pós-vida [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_429c233046644ab3afa05c336f20516c/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 17 -[COLOR yellow] Melinda [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_fab5b24959474b7ba0b97d99396ce151/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 18 -[COLOR yellow] A inimizade do meu inimigo [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_d7fb447ddb7540bca45a72ab0feac74a/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 19 -[COLOR yellow] Meia dúzia de sujos [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_c8a557599c534665aa8232802c43832f/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 20 -[COLOR yellow] Cicatrizes [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_49e6ac98f893436982bc6201910b2610/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 21 -[COLOR yellow] SOS: Parte 1 [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_33b2ebb6ddec4dcb82992d60ffec9e59/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[COLOR white]Ep 22 -[COLOR yellow] SOS: Parte 2 [/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_93d9e68fbbbb4f858a37e82af8869f37/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>AGENTS OF S.H.I.E.L.D. - [COLOR red]3ª TEMPORADA[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item><title>[COLOR white]Ep 01 - [COLOR yellow]Leis da Natureza[/COLOR]</title><link>https://video.wixstatic.com/video/148228_c4f2340c692f4e2ba8df3d0a88979343/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 02 - [COLOR yellow]A Diretriz da Máquina[/COLOR]</title><link>https://video.wixstatic.com/video/148228_8dde4239439c4674b6abea50045694dd/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 03 - [COLOR yellow]Um (Inu)mano Procurado[/COLOR]</title><link>https://video.wixstatic.com/video/148228_4fb472421b7644c4bc800b6515fc2da9/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 04 - [COLOR yellow]Demônios que Você Conhece[/COLOR]</title><link>https://video.wixstatic.com/video/148228_0989f4170ca34f4d8ef36d12ebb32d3d/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 05 - [COLOR yellow]4,722 Horas[/COLOR]</title><link>https://video.wixstatic.com/video/148228_46336fc0c94d42adadd9d634e4140f77/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 06 - [COLOR yellow]Escondido Entre Nós[/COLOR]</title><link>https://video.wixstatic.com/video/148228_dfe565f51d2c466d99d2329269d5fcf4/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 07 - [COLOR yellow]Teoria do Caos[/COLOR]</title><link>https://video.wixstatic.com/video/148228_fcc297536a134502906ffbb5721b1206/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 08 - [COLOR yellow]Muitas Cabeças, Uma História[/COLOR]</title><link>https://video.wixstatic.com/video/148228_5c500b0dee6d4e63bb0a18d3935a04f9/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 09 - [COLOR yellow]Encerramento[/COLOR]</title><link>ignoreme</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 10 - [COLOR yellow]Maveth[/COLOR]</title><link>ignoreme</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 11 - [COLOR yellow]Dando um Pulinho no Passado[/COLOR]</title><link>https://video.wixstatic.com/video/148228_9fbc81b9e2744c359fca4a1e5ce28e5c/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 12 - [COLOR yellow]O Homem de Dentro[/COLOR]</title><link>https://video.wixstatic.com/video/148228_8a08ea8c5f584df9b914c9105890d142/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 13 - [COLOR yellow]A Despedida[/COLOR]</title><link>https://video.wixstatic.com/video/148228_130256868b424846a396372e7246fa35/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 14 - [COLOR yellow]Cães de Guarda[/COLOR]</title><link>https://video.wixstatic.com/video/148228_74b612fde2544fde925bc080012ee097/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 15 - [COLOR yellow]Espaço-Tempo[/COLOR]</title><link>ignoreme</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 16 - [COLOR yellow]Perdido no Paraíso[/COLOR]</title><link>https://video.wixstatic.com/video/148228_3dda51b7d2484fd49a2e83bba713a729/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 17 - [COLOR yellow]A Equipe[/COLOR]</title><link>https://video.wixstatic.com/video/148228_3f7b94143fef4f339ad0902238ca51ba/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 18 - [COLOR yellow]A Singularidade[/COLOR]</title><link>https://video.wixstatic.com/video/148228_6c8269520b4e45fd9c07b63dac7548db/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 19 - [COLOR yellow]Experimentos Falhos[/COLOR]</title><link>https://video.wixstatic.com/video/148228_49a8540eb60f44c0935527204841a978/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 20 - [COLOR yellow]Emancipação[/COLOR]</title><link>https://video.wixstatic.com/video/148228_f38b5aa1b2454a838a05168a67250570/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 21 - [COLOR yellow]Perdão[/COLOR]</title><link>https://video.wixstatic.com/video/148228_093a865840164ccb9d903598a98586d0/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+
+<item><title>[COLOR white]Ep 22 - [COLOR yellow]Ascensão[/COLOR]</title><link>https://video.wixstatic.com/video/148228_f457ac48f8524e779108907a42949d2a/480p/mp4/file.mp4</link><thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>AGENTS OF S.H.I.E.L.D. - [COLOR red]4ª TEMPORADA[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+ 
+<item><title>[COLOR white]Ep 01 - [COLOR yellow]O Fantasma[/COLOR]</title><link>https://video.wixstatic.com/video/148228_e74ddb8494934c3daaca7b33ab4beb75/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 02 - [COLOR yellow]Conhecendo o Novo Chefe[/COLOR]</title><link>https://video.wixstatic.com/video/148228_f43a33ce607940eebb9c9a71f2df5a74/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 03 - [COLOR yellow]Revolta[/COLOR]</title><link>https://video.wixstatic.com/video/148228_a676d9f2249b4ebd8fbd5a74e59ea384/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 04 - [COLOR yellow]Deixe-me Ficar Perto do Seu Fogo[/COLOR]</title><link>https://video.wixstatic.com/video/148228_140ae10deaed4dfe88587d054b5c8713/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 05 - [COLOR yellow]Trancado[/COLOR]</title><linkignoreme</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 06 - [COLOR yellow]O Bom Samaritano[/COLOR]</title><link>https://video.wixstatic.com/video/148228_88028d29dc474c4ea3907200b341ec32/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 07 - [COLOR yellow]Ofertas Com Nossos Demônios[/COLOR]</title><link>https://video.wixstatic.com/video/148228_7dd753d73a1b48e4a403d0826dad0c23/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 08 - [COLOR yellow]As Leis da Dinâmica do Inferno[/COLOR]</title><link>https://video.wixstatic.com/video/148228_3f829ee4b76b497e871877a0d0d6ff19/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 09 - [COLOR yellow]Promessas Quebradas[/COLOR]</title><link>https://video.wixstatic.com/video/148228_e10762eb7c444952bcd324e5d9b98401/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 10 - [COLOR yellow]O Patriota[/COLOR]</title><link>ignoreme</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 11 - [COLOR yellow]Acorde[/COLOR]</title><link>https://video.wixstatic.com/video/148228_495ee6a23eab45e29273820dc6079733/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 12 - [COLOR yellow]Sopa de Batata Quente[/COLOR]</title><link>ignoreme</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 13 - [COLOR yellow]BOOM[/COLOR]</title><link>https://video.wixstatic.com/video/148228_c560af32bea74d789a6fd9ac1a2fbe8a/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 14 - [COLOR yellow]O Homem Atrás do Escudo[/COLOR]</title><link>https://video.wixstatic.com/video/148228_acdd5fad721f4ecbb068020540fa4fdf/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 15 - [COLOR yellow]Autocontrole[/COLOR]</title><link>https://video.wixstatic.com/video/148228_645522c315614d5ba67e7c82afe9c7d7/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 16 - [COLOR yellow]E Se...[/COLOR]</title><link>https://r2---sn-bg0ezn7y.googlevideo.com/videoplayback?expire=1583723770&ei=ekRlXsDEGNHPzLUPy4ez-AY&ip=158.69.142.25&id=848b351df137e860&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2640.759&lmt=1502983018287218&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRAIgALVP7remxJgSTrVNxogCWwkexSiqsnZMlvfYU8b-_HwCIAzZ41bpPIrqT7a7ywQ7FagQzS1XPx3Li50C9VEbvVx-&rm=sn-p5qrz7l&req_id=33eb4ae224bc36e2&ipbypass=yes&redirect_counter=2&cm2rm=sn-jvoxm5vuxaxjvhcg-8j2e7l&cms_redirect=yes&mip=131.196.78.56&mm=29&mn=sn-bg0ezn7y&ms=rdu&mt=1583694929&mv=m&mvi=1&pl=22&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRQIhANc9wRJ2M3JlSAeLuD6QDgKP_EKrq80RItCXun5VR15jAiAwcUmvpx7onM7NFHfouXrOI8CiKUZ_dEUk0dmKaYZ2aw%3D%3D</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 17 - [COLOR yellow]Identidade e Mudança[/COLOR]</title><link>https://video.wixstatic.com/video/148228_1e5a9533871048edacad60e66f29bc32/480p/mp4/file.mp4</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 18 - [COLOR yellow]Sem Arrependimentos[/COLOR]</title><link>https://r5---sn-bg0ezn7l.googlevideo.com/videoplayback?expire=1583723871&ei=30RlXoXlIJ_9j-8Pt4KjqAs&ip=158.69.142.25&id=17e273c939a53d8f&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2581.594&lmt=1503635072323664&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRgIhALbCtz5Pq-5aFjTwXRnPzcs6rHP8_PBxj8JISfJqRWt8AiEAoz1315vx5_eAdlDAZxGjwihNktNN_ooUZvtOW7m8utE%3D&rm=sn-p5qy776&req_id=254f5153e80d36e2&ipbypass=yes&redirect_counter=2&cm2rm=sn-jvoxm5vuxaxjvhcg-8j2e7e&cms_redirect=yes&mip=131.196.78.56&mm=29&mn=sn-bg0ezn7l&ms=rdu&mt=1583695049&mv=m&mvi=4&pl=22&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRQIgBh6PC9daIJx85a0ZVMl7WvXSFbwBsFbYvhwwCsC8aPECIQDkZvv0Z408WIZTeN9_ChMN1HJG_W1Im7quCYCmCMf-2A%3D%3D</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 19 - [COLOR yellow]Todos os Homens da Madame[/COLOR]</title><link>https://r1---sn-n4v7snee.googlevideo.com/videoplayback?expire=1583723975&ei=R0VlXo_HDuXOzLUPg9ayYA&ip=158.69.142.25&id=29a34aceb4423932&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2581.919&lmt=1503635369391829&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRgIhAJngIwzr8Cov3BPZ-AlBG1qN1xyZyCPnG1PcMDMoloZHAiEAvyH6MfPUPG6qVhBLOOt_H_FH85MJ0GBDyiGi6gxXOyM%3D&redirect_counter=1&rm=sn-p5qye7d&req_id=2ecfde78085436e2&cms_redirect=yes&ipbypass=yes&mip=131.196.78.56&mm=31&mn=sn-n4v7snee&ms=au&mt=1583695093&mv=D&mvi=0&pl=0&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRAIgKWNndO3fepOa_QBQBrZCjqgUNNp1i5ch55-qmtkuV3ICIBcakuNQIcbo-L4oCnc1szQtzf9hZsiThXVOvuPtFFGI</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 20 - [COLOR yellow]Adeus Mundo Cruel![/COLOR]</title><link>https://r1---sn-n4v7snee.googlevideo.com/videoplayback?expire=1583723975&ei=R0VlXo_HDuXOzLUPg9ayYA&ip=158.69.142.25&id=29a34aceb4423932&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2581.919&lmt=1503635369391829&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRgIhAJngIwzr8Cov3BPZ-AlBG1qN1xyZyCPnG1PcMDMoloZHAiEAvyH6MfPUPG6qVhBLOOt_H_FH85MJ0GBDyiGi6gxXOyM%3D&redirect_counter=1&rm=sn-p5qye7d&req_id=2ecfde78085436e2&cms_redirect=yes&ipbypass=yes&mip=131.196.78.56&mm=31&mn=sn-n4v7snee&ms=au&mt=1583695093&mv=D&mvi=0&pl=0&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRAIgKWNndO3fepOa_QBQBrZCjqgUNNp1i5ch55-qmtkuV3ICIBcakuNQIcbo-L4oCnc1szQtzf9hZsiThXVOvuPtFFGI</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 21 - [COLOR yellow]O Retorno[/COLOR]</title><link>https://r6---sn-bg07dnzs.googlevideo.com/videoplayback?expire=1583724047&ei=j0VlXuaeI-PyzLUP_fCiqAo&ip=158.69.142.25&id=5a090b13c4a5c82a&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2647.771&lmt=1504295992179406&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRQIhAIz6TxJY5Z5OsG5UxdeCtOtNh7DnETmL5jqVaLCdaRdvAiA5dyIa1oAW0-1V1Qk9bUQGR9UQQ8v3WsKsVuyxT8uwMg%3D%3D&rm=sn-p5qyd7d&req_id=76702320daa136e2&ipbypass=yes&redirect_counter=2&cm2rm=sn-n4vlz7z&cms_redirect=yes&mip=131.196.78.56&mm=34&mn=sn-bg07dnzs&ms=ltu&mt=1583695216&mv=m&mvi=5&pl=22&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRgIhAM1qYhaTifCezwTWXmHkbKxgfJ1mjSQfmhMBnLfgPQv9AiEA-IFxdVgonKVsupgH5dTBiNqWXkrZ7cTcCX-KqarfGsA%3D</link><thumbnail></tumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</item>
+
+<item><title>[COLOR white]Ep 22 - [COLOR yellow]Fim do Mundo[/COLOR]</title><link>https://r6---sn-bg07dnsy.googlevideo.com/videoplayback?expire=1583724072&ei=qEVlXqTeOPKLsAKAxp2YBg&ip=158.69.142.25&id=519a488768dac9ea&itag=18&source=blogger&susc=bl&mime=video/mp4&dur=2580.665&lmt=1504296029648971&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRgIhAOC7yiFjwIjT4USqjleYRJjByB0SRuphEaKl2N0Fq8okAiEAvm7eytfistqMPslwG98jjPh0cE8nQ0WV_YTvrHBJxQM%3D&rm=sn-p5qy77d&req_id=90097aa046a336e2&ipbypass=yes&redirect_counter=2&cm2rm=sn-n4ved7d&cms_redirect=yes&mip=131.196.78.56&mm=34&mn=sn-bg07dnsy&ms=ltu&mt=1583695216&mv=m&mvi=5&pl=22&lsparams=ipbypass,mip,mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRQIhAMFOiqCO9S3bMTdyMyIg7N4fYGFTi0DtU8xfL8WO4nWZAiAQG4ZzQOpa3jeRGZ85fkuTnJKyGYSbzx5AtL9qbuxhKw%3D%3D</link><thumbnail>>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg
+</tumbnail</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>AGENTS OF S.H.I.E.L.D. -  [COLOR red]5ª TEMPORADA[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>EP 01 -[COLOR yellow]Piloto[/COLOR]</title>
+<link>https://r2---sn-jvoxm5vuxaxjvhcg-8j2e.googlevideo.com/videoplayback?expire=1583724476&ei=PEdlXvKOOq3Cj-8PmpC46AM&ip=131.196.78.56&id=6385060d4e227fb7&itag=18&source=blogger&mm=31&mn=sn-jvoxm5vuxaxjvhcg-8j2e&ms=au&mv=m&mvi=1&pl=22&susc=bl&mime=video/mp4&dur=2579.667&lmt=1532538630284772&mt=1583695591&sparams=expire,ei,ip,id,itag,source,susc,mime,dur,lmt&sig=ADKhkGMwRgIhAP-iKttlHveSPMA3zj1a4gjhqFd9SPrYRxCQu4VsRsqJAiEAr6pURyFWavFnLPX9evvLyNaYoSkS5Nmb-oaGXVE06Rk%3D&lsparams=mm,mn,ms,mv,mvi,pl&lsig=ABSNjpQwRQIgGt2xZsu1R2RCjJiwEZsCGfvT6ii9JXOfUWGWwePpKC8CIQDprSkJPEhU_czDc24QMwV-n_RtVZ0cqhy25EN8gPrkPg%3D%3D&cpn=BNm9KajQU2KXe0wH&c=WEB_EMBEDDED_PLAYER&cver=20200304</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 02 -[COLOR yellow]0–8–4[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_bc411f99e5a7478dbf7451a34a930743/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 03 -[COLOR yellow]O Activo[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_3f08df9ed5db4020890de9643dbf8e97/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 04 -[COLOR yellow]Olho de Espião[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_6003058ffd6a47b895535b71c5bbbaf3/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 05 -[COLOR yellow]Menina de Vestido de Flor[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_0cb58125238546658d051ca62f2871f0/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 06 -[COLOR yellow]FZZT[/COLOR]</title>
+<linkhttps://video.wixstatic.com/video/148228_a464030abeec4778bc6dd53cff1ee8a5/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 07 -[COLOR yellow]O Cubo[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_52615d351a0849f8a6c02145d3e12e95/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 08 -[COLOR yellow]O Poço[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_3c90d00f580f478da7b115b4ba305405/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 09 -[COLOR yellow] Reparos[/COLOR]</title>
+<linkhttps://video.wixstatic.com/video/148228_ccfc45566b5e4abb90254f04fe58b8eb/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 10 -[COLOR yellow]A Ponte[/COLOR]</title>
+<link>https://video.wixstatic.com/video/7c12da_eadf96202f2f4ad1be09841c32df61b5/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 11 -[COLOR yellow] O Lugar Mágico[/COLOR]</title>
+<link>https://www1148.o0-3.com/token=3EwfQQ63lUTlXAEvzIepSw/1583025252/131.196.0.0/70/3/7b/f7ac1cc498b6c8cabce326697cc037b3-480p.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 12 -[COLOR yellow]Semente[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_139e78ffa0a140da91abd05842c3863c/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 13 -[COLOR yellow]T.R.I.L.H.A.[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_bcea03dade9046e6b4f57a419db1cb82/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 14 -[COLOR yellow]TAITI [/COLOR]</title>
+<link>ignoreme</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 15 -[COLOR yellow]Sim Homens[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_94dafa8c6ec24b4184e3ea5eb136e7ef/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 16 -[COLOR yellow]Fim do Começo[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_7d60302290c34450847fb4ea3a0b7037/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 17 -[COLOR yellow]Voltas, Voltas, Voltas[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_dcae4f9558064ff0ad0047eabb6bed8e/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 18 -[COLOR yellow]Providência[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_dcf5c3b0e9e1418cb227cd9d3bb9bf56/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 19 -[COLOR yellow]A Única Luz na Escuridão[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_5e4b53f066a54ae7a995c8d382973349/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 20 -[COLOR yellow]Nada Pessoa[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_98d25d0d4bba45cd9837ceffe40b08a6/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 21 -[COLOR yellow]Gentalha[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_9db91612e66242ada728d2e0cf111b89/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>[COLOR white]EP 22 -[COLOR yellow]Início do Fim[/COLOR]</title>
+<link>https://video.wixstatic.com/video/148228_497a94141bbb421caa3797b8d4843e3e/480p/mp4/file.mp4</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>AGENTS OF S.H.I.E.L.D. -  [COLOR red]6ª TEMPORADA[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/qtr5i6hOm6oVzTYl3jOQAYP3oc7.jpg</fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Ep 13 -  [COLOR yellow]xxxxx[/COLOR]</title>
+<link>https://s-delivery7.mxdcontent.net/v/fe6bc1444d435088f85860a72e697c96.mp4?</link>
+<thumbnail>https://image.tmdb.org/t/p/w220_and_h330_face/2f0Rt5wnEHDT8gqVVXuCB4K2UIY.jpg</thumbnail>
+</item>

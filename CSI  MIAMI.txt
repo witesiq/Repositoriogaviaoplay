@@ -1,0 +1,305 @@
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime] CSI : MIAMI[COLOR yellow] 1ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/kgA_3H1jaVuPmsQZA1hzRC9Itlg=/290x478/smart/media/movies/covers/2010/08/c6fb5ad16a612f02e43fe48f344a4efd.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01[COLOR yellow]Paraquedas Dourado[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02[COLOR yellow]Perdendo a Cabeça[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03[COLOR yellow]Pé Molhado/Pé Seco[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04[COLOR yellow]Apenas Um Beijo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05[COLOR yellow]Cinzas por Cinzas[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06[COLOR yellow]Quebrado[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07[COLOR yellow]Sem Fôlego[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08[COLOR yellow]Casa da Matança[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09[COLOR yellow]Zona de Matar[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10[COLOR yellow]Uma Mente Horrível[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11[COLOR yellow]Medo do Campo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12[COLOR yellow]Ferimento de Entrada[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP12mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13[COLOR yellow]Mentira[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14[COLOR yellow]Arrombamento[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15[COLOR yellow]Mulher Morta Ambulante[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16[COLOR yellow]Evidências de Coisas Invisíveis[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17[COLOR yellow]Homem Simples[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18[COLOR yellow]Dia Livre[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19[COLOR yellow]Disputa Dupla[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20[COLOR yellow]Jovens Ameaçadores[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21[COLOR yellow]Férias de Primavera[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22[COLOR yellow]Caixa de Pavios[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23[COLOR yellow]Caprichos e Ajustes[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24[COLOR yellow]Contagem de Corpos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT01EP242.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime] CSI : MIAMI[COLOR yellow] 2ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/isZMwYWUnZS9UmYzL1pncpyaF-s=/290x478/smart/media/movies/covers/2011/07/15209c9876f5f80ef9ad56891a23597c.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 01[COLOR yellow]Irmãos de Sangue[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02[COLOR yellow]Área de Mortos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03[COLOR yellow]Tempo Difícil[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04[COLOR yellow]Posse de Morte[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05[COLOR yellow]A Melhor Defesa[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06[COLOR yellow]Furacão Anthony[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07[COLOR yellow]O Grande Prêmio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08[COLOR yellow]Grande Irmão[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09[COLOR yellow]A Isca[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10[COLOR yellow]Ao Extremo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11[COLOR yellow]Complicações[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12[COLOR yellow]Testemunha de Homicídio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP12mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13[COLOR yellow]Lua de Sangue[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14[COLOR yellow]Queimada Lenta[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15[COLOR yellow]Paparazzo Perseguidor[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16[COLOR yellow]Invasão[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17[COLOR yellow]Dinheiro por Nada[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18[COLOR yellow]Aspirante Entusiasta[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19[COLOR yellow]Prazo de Entrega[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20[COLOR yellow]O Juramento[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21[COLOR yellow]Sem Aterrissagem[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22[COLOR yellow]Lençóis do Rap[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23[COLOR yellow]De Miami à Nova York, Sem Parada[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24[COLOR yellow]Inocente[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT02EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime] CSI : MIAMI[COLOR yellow] 3ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/nbj1hSld_FQ-6lShZ4LNj7rCwtQ=/195x289/smart/media/movies/covers/2017/09/CSI_Miami_The_3rd_Season.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow]Um Filho Perdido[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow]Em Própria Defesa[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow]Sob a Influência[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow]Assassinato Rápido[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow]De Acordo com a Lei[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow]Noite Infernal[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow]Onda de Crimes[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow]A Velocidade Mata[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow]Pirateados[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow]Após a Queda[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow]Vício[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow]Tiroteio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow]Assassino de Policiais[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow]Suporte Uma Noite[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow]Identidade[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow]Nada a Perder[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow]Dinheiro no Avião[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow]Fim de Jogo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow]Seso e Impostos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow]Encontro Assassino[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow]Recuar[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow]Vingança[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 [COLOR yellow]Exausto[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT03EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 [COLOR yellow]10-7[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT03EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime] CSI : MIAMI[COLOR yellow] 4ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/rXp58ToW7Z5GdndttlYdRJBQLIU=/210x312/smart/media/movies/covers/2017/09/ntiEJmcXtgf9bxhKvU8KfsU3daa-1.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+Episódio 01 [COLOR yellow]Do Túmulo para Fora[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 02 [COLOR yellow]Sangue na Água[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 03 [COLOR yellow]Presa[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 04 [COLOR yellow]48 Horas de Vida[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 05 [COLOR yellow]Três Vias[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 06 [COLOR yellow]Sob Suspeita[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 07 [COLOR yellow]Voo Perverso[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 08 [COLOR yellow]Pregados[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 09 [COLOR yellow]Renascido do Inferno[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 10 [COLOR yellow]Destruído[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 11 [COLOR yellow]Payback[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 12 [COLOR yellow]A Partitura[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 13 [COLOR yellow]Silenciador[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 14 [COLOR yellow]Fade Out[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 15 [COLOR yellow]Esqueletos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 16 [COLOR yellow]Desviantes[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 17 [COLOR yellow]Colisão[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 18 [COLOR yellow]Duplo Perigo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 19 [COLOR yellow]Dirigido[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 20 [COLOR yellow]Queda Livre[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 21 [COLOR yellow]Ar Morto[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 22 [COLOR yellow]Em Águas Abertas[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 23 [COLOR yellow]Choque[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 24 [COLOR yellow]Alvoroço[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+Episódio 25 [COLOR yellow]Um dos Nossos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime] CSI : MIAMI[COLOR yellow] 5ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/5kAnJ40Xk2i_5eE2YdWeRKZq_Vw=/210x312/smart/media/movies/covers/2011/07/0879f941fcf8e1a75d10df4677609516.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow]Rio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow]Indo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow]Piscina da Morte[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow]Se os Olhares Pudessem Matar[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow]Morte Iminente[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow]Maldição do Caixão[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP6.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow]Alta Octanagem(Link Indisponível)[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow]Quarto Escuro[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow]Vai Indo Embora[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow]Venha Como Você Estiver[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow]Traidores[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow]Assuntos Internos(Link Indisponível)[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow]Perdendo a Cabeça[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow]Terra de Ninguém[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow]Homem Para Baixo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow]Família Desunida[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow]Um Assassinato Cinzento[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow]Ameaça Tripla[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow]Linha de Sangue[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow]Fúria[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow]Apenas Assassinado[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow]Queimado[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 [COLOR yellow]Alavanca Assassina[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 [COLOR yellow]Nascido para Matar[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT05EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]CSI : MIAMI[COLOR yellow] 6ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/mChARNdbmtAhMzzZnfDxKHaTr_Q=/195x289/smart/media/movies/covers/2011/07/b7cb29187bd2e8b0e9e98f43d77582de.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] Filho Perigoso][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Cyber-lebridade][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] De Dentro Para Fora][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] Bang, Bang, a sua Dívida][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] Congelador][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] Bloqueio Solar][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] Reação em Cadeia][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] Férias Permanentes][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] Mantenha sua Posição][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] Minha Babá][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Guerrilhas na Névoa][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] Confidências em Miami][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] Elevando Caine][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] Agora Você Pode Matar a Noiva][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] Emboscada][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] Tudo Em][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] Para Matar o Predador][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Visão de Túnel][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Rocha e Um Lugar Seguro][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow] Até o Fio][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow] Vão, Balísticos][/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/CSIMIAT06EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]CSI : MIAMI[COLOR yellow] 7ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/-9cm15X-Ry9Sx8v7uaS1DFVEL5o=/195x289/smart/media/movies/covers/2016/01/csi-miami-7a-temporada_t41141.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] Ressurreição[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Não se Alimentou de Novo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] E Como Isso Faz Você Matar?[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] Canibal Indomável[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] Granada Explosiva[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] Tripulação de Destruição[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] Enganando a Morte[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] Bebê Desaparecido[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] Viagem de Poder Link  Indisponível[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] O Motel DeLuca[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Ponto de Disparo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] Pessoa Louca[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] E Eles Estão Fora[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] Fumaça nos CSI's[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] Culpa Presumida[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] Nade ou Afunde[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] Festa de Divórcio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Risco de Fuga[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Alvo Específico[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow] Lobo em Pele de Cordeiro[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow] Chip / Tuck[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow] Mortos à Chegada[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 [COLOR yellow] Danos Colaterais[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 [COLOR yellow] Dissolvido[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 25 [COLOR yellow] Ver o Vermelho[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT07EP25.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]CSI : MIAMI[COLOR yellow] 8ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/rCQrAn_0ifQcAColOPYAjg_w3GI=/195x289/smart/media/movies/covers/2016/01/csi-miami-8a-temporada_t41142.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] Fora do Tempo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Aquisição Hostil[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] Ferrolho[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] À Vista de Avião[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] Semente do Mau[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] Dude, Onde Está o meu Noivo?[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] Viagem Óssea[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] Ponto de Impacto[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] Cláusula de Morte[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] Contem Comigo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP10mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Deixo para a Defesa[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] Show Explosivo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP12mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] Morrer pela Espada[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] Ao Vento[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] Miami, Nós Temos um Problema[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] Los Angeles[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] Recepcionista Odiosa[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Desonra[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Quebra Mola[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow] Tiro Pela Culatra[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow] Fusão[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow] Mamãe Mais Morta[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 [COLOR yellow] Bomba-relógio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 [COLOR yellow] Todos Caímos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT08EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]CSI : MIAMI[COLOR yellow] 9ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/opFcjFWNn_vIvQX6YFGjqFl6_H0=/195x289/smart/media/movies/covers/2016/10/csi-miami-2Bss9.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] Caídos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Morte Súbita[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] Não Veja Nenhum Mal[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] Caçada ao Homem[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] Sem Dormir em Miami[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] Mortes Reais[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] No Gancho[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] Feliz Aniversário[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] Açúcar no Sangue[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] Jogo Feito no Inferno[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] F-T-F[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] Rodas para Cima[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP112.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] Última Posição[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] Apedrejado Frio[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] Sede de Sangue[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] Campo de Caça[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] Entrega Especial[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Meia Volta[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Enjaulado[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 [COLOR yellow] Pintar de Preto[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 [COLOR yellow] G.O.[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 [COLOR yellow] Socorro[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT09EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime] CSI : MIAMI[COLOR yellow] 10ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/7VTf7trgP9BGYtBgNk6qwuSvHtA=/195x289/smart/media/movies/covers/2012/11/950fea8167fff5cfe8099e3656df03ac.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 [COLOR yellow] Contramedidas[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 [COLOR yellow] Rígido[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 [COLOR yellow] Soprado Para Longe[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 [COLOR yellow] Olha Quem Está Zombando[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 [COLOR yellow] Arrependimentos do Assassino[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 [COLOR yellow] Pelo Livro[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 [COLOR yellow] O Pecador Leva Tudo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 [COLOR yellow] Toque Mortos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 [COLOR yellow] Alguns Homens Mortos[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 [COLOR yellow] Muito Longe[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 [COLOR yellow] Coroado[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 [COLOR yellow] Fogo Amigo[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 [COLOR yellow] Velocidade Terminal[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 [COLOR yellow] Última Palha[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 [COLOR yellow] Nenhuma Boa Ação[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 [COLOR yellow] Descanse em Pedaços[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 [COLOR yellow] Em Risco[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 [COLOR yellow] Lei e Desordem[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 [COLOR yellow] Cadáver Habeas[/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/CSIMIAT10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>

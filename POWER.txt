@@ -1,0 +1,109 @@
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]POWER -[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow][B] Não Exatamente Como Planejamos [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP01.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 02 - [COLOR yellow][B] Quem Quer que Ele Seja [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP02.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 03 - [COLOR yellow][B] Isso É Real [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP03.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 04 - [COLOR yellow][B] Quem É Você? [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP04.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 05 - [COLOR yellow][B] Eu Tenho que Ir [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP05.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 06 - [COLOR yellow][B] Com Quem Você Está? [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP06.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 07 - [COLOR yellow][B] Lealdade [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP07.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 08 - [COLOR yellow][B] Melhores Planos [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT01EP08.mp4</link><thumbnail>https://media.fstatic.com/fBgsrSPRGxeRWq5BLeeo-NNLanA=/210x312/smart/media/movies/covers/2014/04/power_t93165.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]POWER -[COLOR yellow] 2ªTemporada[COLOR red] ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow][B] Consequências [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 02 - [COLOR yellow][B] Não Há Amigos na Rua [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 03 - [COLOR yellow][B] Como Se Fôssemos um Casal Comum [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 04 - [COLOR yellow][B] Você É a Única Pessoa em Quem Posso Confiar [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 05 - [COLOR yellow][B] Quem Você É e Quem Você Quer Ser [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 06 - [COLOR yellow][B] Por que Ela? [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 07 - [COLOR yellow][B] Você Não É o Cara [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 08 - [COLOR yellow][B] Três Passos Adiante [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 09 - [COLOR yellow][B] O Tempo Acabou [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 10 - [COLOR yellow][B] Ghost Está Morto [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT02EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/power-2a-temporada_t111807.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+
+<title>[COLOR red]####[COLOR lime]POWER -[COLOR yellow] 3ªTemporada[COLOR red] ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow][B] Me Chame De James [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP01.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 02 - [COLOR yellow][B] Nunca Acaba [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP02.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 03 - [COLOR yellow][B] Eu Tenho Isso No Bloqueio [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP03.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 04 - [COLOR yellow][B] Não Se Preocupe, Baby [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP04.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 05 - [COLOR yellow][B] Ajude- [COLOR yellow][B]me [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP05.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 06 - [COLOR yellow][B] A Decisão Certa [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP06.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 07 - [COLOR yellow][B] Não Vá [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP07.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 08 - [COLOR yellow][B] Confie Em Mim [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP08.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 09 - [COLOR yellow][B] Eu Chamo Os Tiros [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP09.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 10 - [COLOR yellow][B] No Meu Melhor Interesse [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT03EP10.mp4</link><thumbnail>https://media.fstatic.com/3bfvuVCYm8MGwth4oKtsuWePvsQ=/290x478/smart/media/movies/covers/2016/07/power-3a-temporada_t125811.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+ 
+<title>[COLOR red]####[COLOR lime]POWER -[COLOR yellow] 4ªTemporada[COLOR red] ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow][B] Quando Eu Sair [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 02 - [COLOR yellow][B] As Coisas Estão Piorando [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 03 - [COLOR yellow][B] O Tipo De Homem Que Você É [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 04 - [COLOR yellow][B] Estamos Nessa Juntos [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP0.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 05 - [COLOR yellow][B] Não Me Agradeça [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 06 - [COLOR yellow][B] Novo Homem [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 07 - [COLOR yellow][B] Você Mentiu Na Minha Cara [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 08 - [COLOR yellow][B] Está Feito [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 09 - [COLOR yellow][B] Isso Não Sou Eu [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 10 - [COLOR yellow][B] Você Não Pode Consertar Isso [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/12/power-4a-temporada_t215049.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+ 
+<title>[COLOR red]####[COLOR lime]POWER -[COLOR yellow] 5ªTemporada[COLOR red] ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow][B] Todos Estão Envolvidos [/B][/COLOR]</title>
+<link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP01.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 02 - [COLOR yellow][B] Controle de Dano [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP02.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 03 - [COLOR yellow][B] Estamos no Mesmo Time? [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP03.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 04 - [COLOR yellow][B] Segundas Chances [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP04.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 05 - [COLOR yellow][B] Feliz Aniversário [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP05.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 06 - [COLOR yellow][B] Um Novo Homem? [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP06.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 07 - [COLOR yellow][B] O Diabo no Corpo [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP07.mp4</link><thumbnail></thumbnail></item>
+<item><title>[COLOR white]EP 08 - [COLOR yellow][B] Um Amigo da Família [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP08.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 09 - [COLOR yellow][B] Há um Dedo- [COLOR yellow][B]duro Entre Nós [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP09.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 10 - [COLOR yellow][B] Quando Isso Acabar [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT05EP10.mp4</link><thumbnail>https://media.fstatic.com/v2_GuSmAt_kPu76KL7QnuX56dnM=/290x478/smart/media/movies/covers/2018/06/power-season-5-poster-key-art-starz.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+ 
+<title>[COLOR red]####[COLOR lime]POWER -[COLOR yellow] 6ªTemporada[COLOR red] ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow][B] Assassinos [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 02 - [COLOR yellow][B] Você Está Do Lado De Quem [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 03 - [COLOR yellow][B] Esqueceu Dre [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 04 - [COLOR yellow][B] Por Que Tommy Ainda Está Vivo? [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 05 - [COLOR yellow][B] Gambito Do Rei [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 06 - [COLOR yellow][B] Homem Interno [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 07 - [COLOR yellow][B] Tal Pai Tal Filho [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP07.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 08 - [COLOR yellow][B] Acerto Com O Diabo [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 09 - [COLOR yellow][B] Terra Arrasada [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 10 - [COLOR yellow][B] Ninguém Pode Me Parar [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 11 - [COLOR yellow][B] Ainda Dre [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT06EP11.mp4</link><thumbnail></thumbnail></item>
+<item><title>[COLOR white]EP 12 - [COLOR yellow][B] Ele Sempre Vence [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 13 - [COLOR yellow][B] É Tudo Culpa Sua [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 14 - [COLOR yellow][B] Reversão De Fortuna [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>
+<item><title>[COLOR white]EP 15 - [COLOR yellow][B] Exatamente Como Planejamos [/B][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/PWRT04EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2019/07/dssfsff_yG1ylms.jpg</thumbnail></item>

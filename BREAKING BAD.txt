@@ -1,0 +1,167 @@
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[COLOR red]####[COLOR white]BREAKING BAD -[COLOR yellow] 1ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail>
+</item>
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+ 
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Piloto[/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer08/ondemand/OULTMRNOT01EP01.mp4/RCServer05/ondemand/BBT01EP01.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+ 
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Ressurreição [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT01EP02.mp4?</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Dúvida [/COLOR]</title><link>https://cdn.gamesgo.fun/d/RCServer05/ondemand/BBT01EP03.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Homem com Câncer[/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT01EP04.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Matéria Cinzenta[/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT01EP05.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]O Grande Blefe [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT01EP06.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Um Trato Sem Dificuldades [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT01EP07.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+ #####################################################
+
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]####[COLOR white]BREAKING BAD -[COLOR yellow] 2ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/-s89HF1FbJtSZzqeKiGB4R3NjX0=/fit-in/290x478/smart/media/movies/covers/2010/08/b08b85776af57e4f8686149dcb10b775.jpg</thumbnail>
+</item>
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+<item><title>[COLOR white] 01 - [COLOR yellow] 07:37 [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP01.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 02 - [COLOR yellow]Grelhado [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP02.mp4?</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 03 - [COLOR yellow]Picado Por Uma Abelha Morta [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP03.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 04 - [COLOR yellow]Abaixo [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP04.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 05 - [COLOR yellow]Ruptura [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP05.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 06 - [COLOR yellow]Esconde-esconde [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP06.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 07 - [COLOR yellow]Preto e Azul [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP07.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 08 - [COLOR yellow]Melhor Chamar Saul [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP08.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 09 - [COLOR yellow]4 Dias Fora [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP09.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 10 - [COLOR yellow]Sobre [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP10.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 11 - [COLOR yellow]Mandala [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP11.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 12 - [COLOR yellow]Fênix [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP12.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white] 13 - [COLOR yellow]ABQ [COLOR yellow][/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT02EP13.mp4</link><thumbnail>https://media.fstatic.com/68Jb62KJ6N3IQ5ydqffD0ijop-s=/fit-in/290x478/smart/media/movies/covers/2010/08/8e18619ae0e104fab75f5b27493b6bc8.jpg</thumbnail></item>
+
+
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]####[COLOR white]BREAKING BAD -[COLOR yellow] 3ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail>
+</item>
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Não Mas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP01.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Cavaalo Sem Nome [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP02.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]I.F.T. [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP03.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Luz Verde [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP04.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Mas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP05.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Pôr do Sol [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP06.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Um Minuto [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP07.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Vejo Você [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP08.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Kafkiano [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP09.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Voar [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP10.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Abiquiu [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP11.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Meias Medidas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP12.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Medidas Completa [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT03EP13.mp4</link><thumbnail>https://media.fstatic.com/HxDceKvf68Ccl68ciFq9iNt7abw=/fit-in/134x193/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+
+
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]####[COLOR white]BREAKING BAD -[COLOR yellow] 4ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail>
+</item>
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+<item><title>[COLOR white]EP 01 * Estilete [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP01.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 02 * Trinta e Oito Arrebitado [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP02.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 03 * Casa Aberta [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP03.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 04 * Pontos de Bala [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP04.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 05 * Espingarda [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP05.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 06 * Encurralado [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP06.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 07 * Cão Problema [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP07.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 08 * Irmãos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP08.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 09 * Defeito [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP09.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 10 * Saúde [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP10.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 11 * Espaço do Rastejamento [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP11.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 12 * Fim dos Tempos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP12.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 13 * Cara Fora [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT04EP13.mp4</link><thumbnail>https://media.fstatic.com/DXGiOJQmIXVEvACtLSG5MiPsZaA=/fit-in/290x478/smart/media/movies/covers/2012/07/56eb1ab9acd1a73c6552056b421fc5ed.jpg</thumbnail></item>
+
+
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]####[COLOR white]BREAKING BAD -[COLOR yellow] 5ªTemporada[COLOR red]####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail>
+</item>
+<item><title>[COLOR blue]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+<item><title>[COLOR white]EP 01  - [COLOR yellow] Ao Vivo Livre ou Morrer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP01.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 02  - [COLOR yellow] Madrigal [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP02.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 03  - [COLOR yellow] Subsídio de Risco [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP03.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 04  - [COLOR yellow] Cinquenta e Um [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP04.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 05  - [COLOR yellow] Frete Morto [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP05.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 06  - [COLOR yellow] PDV [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP06.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 07  - [COLOR yellow] Diga Meu Nome [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP07.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 08  - [COLOR yellow] Pairando Sobre Tudo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP08.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 09  - [COLOR yellow] Dinheiro de Sangue [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP09.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 10  - [COLOR yellow] Enterrado [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP10.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 11  - [COLOR yellow] Confissões [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP11.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 12  - [COLOR yellow] Cão Raivoso [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP12.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 13  - [COLOR yellow] To'hajiilee [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP13.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 14  - [COLOR yellow] Ozymandias [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP14.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 15  - [COLOR yellow] Estado de granito [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer05/ondemand/BBT05EP10.mp4</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>
+############################################################################################################################
+<item><title>[COLOR white]EP 16  - [COLOR yellow] Felina [/COLOR] (FINAL)</title><link>plugin://plugin.video.gdrivemode=streamURL&amp;url=https://drive.google.com/file/d/1AmRISljzxPp_PiEaA2ydQ3n4xI8AtZKY/viewusp=sharingusp=drivesdk</link><thumbnail>https://lh5.googleusercontent.com/BkULsKFFmo1WUDUkwoWKMC7pNV1O5WDzlOjP7Ufgg8NMgH17LtUUBdKMlmDFDpOms_COPY5TPR68Re-Ohhn0Ryrdgo2PCDBHEa7aOb-dNJRQMIl5HujIqbbdZDuQtb5TBQ=s412</thumbnail></item>

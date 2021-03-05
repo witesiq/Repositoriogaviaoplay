@@ -1,0 +1,314 @@
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 1ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/kn-_94xBYyGbkXLcA733ZgD3IEk=/290x478/smart/media/movies/covers/2018/09/200px-Hawaii_Five-O_season_1_DVD.png</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Piloto [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Família [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Respeite A Terra [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Vitória [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Desaparecido [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Costa Norte De Oʻahu [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Aceitar [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Crença [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]O Cerco [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Raça [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Paraíso [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Medidas Desesperadas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]O Início [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Um Homem Inocente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Maremoto [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Proteger [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Pirata [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]O Longo Adeus [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Heróis E Vilões [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Costa [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Vingança [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Perto Do Coração [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]Até Que O Fim Esteja Próximo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow]Confiar Em [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T01EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 2ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCznI5YEuunsXuefleOhonbX911NozChDsyA&usqp=CAU</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Inquebrável [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Ocupado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]O Herói [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Tesouro [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Limpar [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]A Boa Luta [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Ossos Sagrados [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Cura [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Identidade [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Enganador [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Armadilha [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Se Foi Para Sempre [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]O Conserto [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]O Pacote [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Fora Do Passado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]O Acerto De Contas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Defensor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Rádio [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Fé [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Abandonado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Toque Da Morte [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Apanhado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]Morte Na Família [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T02EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 3ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/Lz4-Xxh5nDgteZYHQ_Joi64RMGk=/290x478/smart/media/movies/covers/2017/10/.jpg_y1OHqpk</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Dia Das Mães [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Dúvida [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]À Deriva [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Infortúnio [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Oferta [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Em Um Tempo Passado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]O Segredo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Mulher Má [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Desejo De Morte [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Viagem Ao Campo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Guardião [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Proibido [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Sentença De Morte [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Escândalo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Homem Gancho [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Guerreiro [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]O Jogo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Bonecas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Amigo Próximo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]A Promessa [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Procure Dentro Da Alma [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Tomar Cativo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]Negócios De Família [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow]Adeus E Cuide-se [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T03EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 4ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/i5NNRzgeVNd1Yw6lL5yxnAjg174=/195x289/smart/media/movies/covers/2017/10/Hawaii_Five-O_Season_4.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Precisamos Uns Dos Outros [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Peixe Fora D'agua [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Verdade Interior [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]De Hoje Em Diante [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Herói Caído [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Quebrado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Infiltrado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Parceiro Relutante [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Ação De Graças [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Honre Teu Pai [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Lembrança [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]De Vez Em Quando [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]O Favor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Pecados Do Pai [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Segredos Ocultos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Fogo No Céu [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Abaixo Da Superfície [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Reunidos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Irmãos De Sangue [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Aqueles Entre Nós [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Ventos Justos E Depois Dos Mares [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Uma Família Reunida É Melhor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T04EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 5ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/mKL0r9h53l9gIPusxJYboQsLXkA=/195x289/smart/media/movies/covers/2017/10/Hawaii_Five-O_Season_5.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Nenhum Lugar Para Se Esconder [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Homem De Família [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]A Última Pausa [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]O Pintor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Legado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Desmascarado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Se, Talvez! [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Trabalho Interno (Infiltrado) [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Tiro No Escuro [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Sonhos Desfeitos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Roubado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Não Esqueça [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Dia Do Julgamento [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Blackout [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Em Busca Da Verdade [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Cinzas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Tocaia [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Justiça Para Todos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Por Um Triz [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Instinto [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Estrela Cadente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Vivendo Do Passado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]Dividindo Tradições [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow]Presa [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 25 - [COLOR yellow]Até Morrermos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T05EP25.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 6ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/NjplESy7t8X8qb1n70SOydYq2VQ=/290x478/smart/media/movies/covers/2016/01/hawaii-five-0-6a-temporada_t124436.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Não Perturbe A Água Que É Tranquila [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Cinzas A Cinzas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]A Tempestade De Resfriamento Está Nas Montanhas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Melhores Planos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Grande Mentira [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Monstros [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Viajante [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]O Artful Dodger [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Charada [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]A Ciência Doce [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]O Senso Pessoal De Responsabilidade [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Acontece Na Felicidade [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Segure A Respiração [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Miséria Ama Companhia [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]O Bom Soldado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]A Pedra Angular Sólida [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Ativos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]O Caçador [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Cuidar Das Pessoas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Desordem [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]O Custo Da Liberdade [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Para O Mundo Saber [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]Laços De Sangue [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow]A Entrada Está Parada Com Uma Teia De Aranha [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 25 - [COLOR yellow]Meu Desejo É Somente Para O Chefe [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T06EP25.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 7ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/lBxO33w_M34Fc7W7IslMrB9caDk=/290x478/smart/media/movies/covers/2016/03/hawaii-five-0-season-7_tNone.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Pronto Para Jogar? [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Para Rainha E País [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Novo Jogador [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]O Fogo De Kamile Sobe Em Triunfo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]A Bancada [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Casa Dos Horrores [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Mãe E Filho [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Rito De Passagem [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Dois Dias Em Novembro [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]O Fardo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Snatchback [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]O Acordo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]As Nuvens Sempre Retornam A Awalua [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Linha Na Areia [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Grande Jogo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Louco De Amor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Caçando Monstros [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Manuseie Com Cuidado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Êxodo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Os Anzóis Dos Pescadores Se Enredam [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]A Água Está Seca [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Lágrimas Negras [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]Prelúdio [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow]Um Coaxar Pelo Mudhen De Hina [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 25 - [COLOR yellow]A Vida Da Terra É Perpetuada Em Retidão [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T07EP25.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 8ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/umSEI1LRcsw3tQh-iaEzftn-X3o=/195x289/smart/media/movies/covers/2017/10/Hawaii_Five-O_Season_8.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]O Fogo Nunca Dirá Que Já Teve O Suficiente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Dias De Cão [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Sua Faca, Minhas Costas. Minha Arma, Sua Cabeça [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Não Importa Quanto Alguém Cobre Um Imu Fumegante, A Fumaça Subirá [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Em Kama'oma'o, A Terra Das Atividades [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Desdobrado Pela Água Estão Os Rostos Das Flores [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Os Olhos Reais Descansam Acima [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]A Trilha Leva A Um Local De Mergulho, Não Siga Depois [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]Morte No Mar [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]O Futuro Está No Passado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Uma Árvore Alta Fica Acima Das Outras [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]O Round Up [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]O Que Se Foi Se Foi [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Os Filhos De Kalaihaohia [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Um Recife De Coral Se Fortalece Em Terra [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Somente As Estrelas Do Céu Sabem Onde Está Pae [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]O Fogo Ardeu, E Só Restaram Cinzas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Cumprir O Dever [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Ninguém Nunca Morreu Pelos Erros Que Cometeu; Somente Porque Não Se Arrependeu [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Tipo É O Pássaro De Kaiona [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]A Resposta Para O Enigma É Vista [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Embora O Peixe Esteja Bem Salgado, Os Vermes Rastejam [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]O Que Os Pais Farão, Os Filhos Farão [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP23.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow]O Ramo Difícil Que Não Quebra No Vendaval De Kona [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 25 - [COLOR yellow]Antigos Expostos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T08EP25.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 9ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/Qc62fGuBsXa96rdsemvnbSbNJZ4=/195x289/smart/media/movies/covers/2018/11/Hawaii_Five-0_S9_poster_2.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Casulo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]O Homem Que Caiu Do Céu [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]Quando O Mar Tira A Maré, As Rochas Onde Os Cauris Se Escondem São Expostas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Na Encosta Do Penhasco, Nenhuma Rocha Se Projeta Escondida Da Vista [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Nada Mais Que Os Olhos Para Procurar [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]É Carregado Nas Costas; É Carregado Nos Braços [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]A Fumaça Vista No Sonho Agora Sobe [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Farinha Do Mesmo Saco... [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP08mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]A Verdade Vem Da Noite [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Quando A Luz Se Apaga, A Casa Está Escura [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Foi Na Estrada Da Qual Não Há Mais Retorno [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Um Hematoma Infligido A Uma Pessoa Inocente Desaparece Rapidamente [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Os Que Estão Acima Estão Descendo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Deprimido Com O Calor De Keawalua [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Feito Prisioneiro Pelo Reinado Da Chuva [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Quando A Cobiça É Concebida, Nasce O Pecado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Ofereça Ao Jovem Taro Folhas Para [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Quem Come Macaco É Obrigado A Ter Coceira Na Boca [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]O Polvo Das Profundezas Vomita Sua Tinta [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Caminho Da Arma [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Filhos De Uma Coruja [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]O Professor, O Aluno, Deixe Surgir [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]Um Estranho Apenas Por Um Dia [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP23mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow]A Mão Está Com Defeito [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP24.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 25 - [COLOR yellow]Derrama Sem Parar A Chuva De Waianae [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T09EP25.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]HAVAII 5 - 0[COLOR yellow] 10ª Temporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/ZnTycJ3vX1h0CvYvTV22IlHPse0=/195x289/smart/media/movies/covers/2019/10/show_asset_01348c2f-d78c-470d-a095-1fcfb247bd86.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]A Pele Foi Ferida Pela Ponta Da Lança [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP01.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]Derrubado Pelo Vento; Desastre Repentino [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP02.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]O Tempo Passa Obscurece O Passado [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP03.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]Minúscula É A Flor, Mas Cheira A Grama Ao Seu Redor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP04.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]Não Culpe Fantasmas E Espíritos Pelos Problemas De Alguém; Um Humano É Responsável [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP05.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Todo Conhecimento Não É Aprendido Em Apenas Uma Escola [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP06.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]DNA [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP07.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]Dessa Maneira E Desta Maneira Muda A Areia De Punahoa [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP08.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]A Árvore Sem Tronco De Kahilikolo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/HWAIFVE0T10EP09.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]Você E Eu; Está Escondido [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP10.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Para Devolver O Mal Pelo Mal [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP11.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Onde Você Estava Quando A Chuva Estava Caindo? [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP12.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]O Rato Foi Pego Bem No Ninho [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP13.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]Houve Uma Pausa, E Então O Vento Começou A Soprar [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP14.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]Tua É A Boca De Um Polvo [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP15.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]O Homem É Um Escravo Do Amor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP16.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]Como Um Redemoinho, Girando A Poeira Para Cima [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP17.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]Perdido Nos Borrifos Do Mar [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP18.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]Vão Para Casa, Os Rapazes Durões Das Colinas [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/HWAIFVE0T10EP19.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]Um Choco Agarrador [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/HWAIFVE0T10EP20.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Ele Não Pode Ser Capturado Porque É Um Peixe Ulua Do Fundo Do Oceano [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/HWAIFVE0T10EP21.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Adeus [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer04/ondemand/HWAIFVE0T10EP22.mp4</link><thumbnail>IGNOREME</thumbnail></item>

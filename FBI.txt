@@ -1,0 +1,256 @@
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]FBI[COLOR lime] 1ªTemporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item>
+<title>[B][COLOR white]EP 01 - [COLOR yellow]Piloto[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP01.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 02 -[COLOR yellow] Pássaros Verdes [/COLOR] </title
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP02.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 03-[COLOR yellow] Presa[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP03.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 04 - [COLOR yellow] Fogo Cruzado[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP04.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 05 - [COLOR yellow] Apocalipse[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP05.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 06 - [COLOR yellow]  Homem de Família[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP06.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 07 - [COLOR yellow] Policiais e Ladrões[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP07.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 08 - [COLOR yellow] Esta Terra é Sua Terra[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP08.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 09 - [COLOR yellow]  Comprometido[/COLOR][/B]</title>
+<link>https://dc588.4shared.com/img/nfgVbWBZea/6590cdbc/dlink__2Fdownload_2FnfgVbWBZea_3Fsbsr_3D938d7e503c32355011889021ea36c610a3c_26bip_3DMTMxLjE5Ni43OC41Ng_26lgfp_3D66_26dsid_3DOk2N2rlj.4096112d05d9f00452df6fecd9544c7d_26bip_3DMTMxLjE5Ni43OC41Ng_26bip_3DMTMxLjE5Ni43OC41Ng/preview.mp4?</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 10 - [COLOR yellow] A Fé do Armadurador[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP10.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 11 - [COLOR yellow] Crise de Identidade[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP11.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 12 - [COLOR yellow] Um Novo Amanhecer[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP12.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 13 - [COLOR yellow]  Parceiros No Crime[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP13.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 14 - [COLOR yellow] Exposto[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP14.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 15 - [COLOR yellow] Terra Arrasada[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP15.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 16 - [COLOR yellow] Invisível[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP16.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 17 - [COLOR yellow] Ápice[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP17.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 18 - [COLOR yellow]  Mais Procurados[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer03/ondemand/FBIT01EP18.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 19 - [COLOR yellow] Conflito de Interesses[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/FBIT01EP19.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 20 - [COLOR yellow] O Que Está Abaixo?[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/FBIT01EP20.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 21 - [COLOR yellow] Aparências[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/FBIT01EP21.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[B][COLOR white]EP 22 - [COLOR yellow]  Fecho[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer06/ondemand/FBIT01EP22.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR white]FBI[COLOR lime] 2ªTemporada[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]###############################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item>
+<title>[COLOR white]Episodio 1 - [COLOR yellow]Pequeno Egito[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer12/ondemand/FBIT02EP01.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 2 - [COLOR yellow]A Vida Dos Outros[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/FBIT02EP02.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 3 - [COLOR yellow]Idolo Americano[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/FBIT02EP03.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 4 - [COLOR yellow]Ciencia Imperfeita[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer13/ondemand/FBIT02EP04.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 5 - [COLOR yellow]Encruzilhada[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer08/ondemand/FBIT02EP05.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 6 - [COLOR yellow]Intermediario[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer08/ondemand/FBIT02EP06.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 7 - [COLOR yellow]Omissão[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer08/ondemand/FBIT02EP07.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 8 - [COLOR yellow][/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer08/ondemand/FBIT02EP08.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 9- [COLOR yellow]Salvação[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP09.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 10- [COLOR yellow]Laços Atados[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP10.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 11- [COLOR yellow]Pequeno Egipcio[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP11.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 12- [COLOR yellow]Decisões Dificeis[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP17.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 13- [COLOR yellow]Vingança[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP17.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 14- [COLOR yellow]Gangster De Estudio[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP14.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 15- [COLOR yellow]Legado[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP15.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 16- [COLOR yellow]Quarto Do Panico[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP16.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################
+<item>
+<title>[COLOR white]Episodio 17- [COLOR yellow]Promessas Desfeitas[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer14/ondemand/FBIT02EP17.mp4.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################>
+<item>
+<title>[COLOR white]Episodio 18- [COLOR yellow]Sonho Americano[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer04/ondemand/FBIT02EP18.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>########################################################################################
+<item>
+<title>[COLOR white]Episodio 19- [COLOR yellow]Resgate Emocional[/COLOR][/B]</title>
+<link>https://cdn.gamesgo.fun/RCServer04/ondemand/FBIT02EP19.mp4</link>
+<thumbnail>http://br.web.img2.acsta.net/pictures/18/08/23/10/20/1583292.jpg</thumbnail>
+</item>
+########################################################################################

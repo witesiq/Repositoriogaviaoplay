@@ -1,0 +1,620 @@
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] A FEITIÇEIRA[COLOR lime] 1ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow] Casei-Me Com Uma Feiticeira[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.01%20-%20I%2C%20Darrin%2C%20Take%20This%20Witch%2C%20Samantha.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow] Cheia Dos Truques[/COLOR][/B]</title><link>https://ia600906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.02%20-%20Be%20It%20Ever%20So%20Mortgaged.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Encantos E Encantamentos[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.03%20-%20It%20Shouldn%27t%20Happen%20to%20a%20Dog.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow] Todas As Sogras São Bruxas[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.04%20-%20Mother%2C%20Meet%20What%27s%20His%20Name.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow] Ajude-Me Se Não Puder[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.05%20-%20Help%2C%20Help%2C%20Don%27t%20Save%20Me.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow] O Toque Mágico[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.06%20-%20Little%20Pitchers%20Have%20Big%20Fears.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow] As Bruxas Estão A Solta[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.07%20-%20The%20Witches%20Are%20Out.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow] O Escudo Invisível[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.08%20-%20Witch%20or%20Wife.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow] Feitiço De Amor[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.09%20-%20The%20Girl%20Reporter.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow] Isto É Normal?[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.10%20-%20Just%20One%20Happy%20Family.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow] Enfeitiçado?[/COLOR][/B]</title><link>https://ia600906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.11%20-%20It%20Takes%20One%20to%20Know%20One.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow] Prenúncios[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.12%20-%20And%20Something%20Makes%20Three.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow] Persuasão Irresistível[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.13%20-%20Love%20Is%20Blind.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow] Uma Nora Excepcional[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.14%20-%20Samantha%20Meets%20the%20Folks.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow] O Lado Bom Da Ilusão[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.15%20-%20A%20Vision%20of%20Sugar%20Plums.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow] Quem É O Mágico?[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.16%20-%20It%27s%20Magic.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow] A Magia Das Coisas Simples[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.17%20-%20A%20Is%20for%20Aardvark.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow] Cuidado, Disfarce[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.18%20-%20The%20Cat%27s%20Meow.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow] Um Encanto Encantado[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.19%20-%20A%20Nice%20Little%20Dinner%20Party.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow] Your Witch Is Showing[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.20%20-%20Your%20Witch%20Is%20Showing.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow] Beleza Felina[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.21%20-%20Ling%20Ling.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow] Séculos Nos Separam[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.22%20-%20Eye%20of%20the%20Beholder.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow] Cuidado, Sinal Vermelho[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.23%20-%20Red%20Light%2C%20Green%20Light.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow] Quem É A Feiticeira?[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.24%20-%20Which%20Witch%20Is%20Which.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 25 - [COLOR yellow] Ciúme, Monstro De Olhos Verdes[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.25%20-%20Pleasure%20O%27Riley.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 26 - [COLOR yellow] Carros Não São Vassouras[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.26%20-%20Driving%20Is%20the%20Only%20Way%20to%20Fly.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 27 - [COLOR yellow] Quanto Mais Velha, Melhor A Bruxa[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.27%20-%20There%27s%20No%20Witch%20Like%20an%20Old%20Witch.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 28 - [COLOR yellow] Abra-Te Porta[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.28%20-%20Open%20the%20Door%2C%20Witchcraft.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 29 - [COLOR yellow] Abrakadabra[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.29%20-%20Abner%20Kadabra.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 30 - [COLOR yellow] Um Corvo Pousou Em Minha Vida[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.30%20-%20George%20the%20Warlock.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 31 - [COLOR yellow] Verdades Difíceis[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.31%20-%20That%20Was%20My%20Wife.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 32 - [COLOR yellow] O Ideal Dos Meus Sonhos[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.32%20-%20Illegal%20Separation.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 33 - [COLOR yellow] Quem Tem Duas Caras?[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.33%20-%20A%20Change%20of%20Face.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 34 - [COLOR yellow] Seus Desejos Serão Satisfeitos[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.34%20-%20Remember%20the%20Main.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 35 - [COLOR yellow] Feiticeira Bem Temperada[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.35%20-%20Eat%20at%20Mario%27s.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 36 - [COLOR yellow] Sugestões Geniais[/COLOR][/B]</title><link>https://ia800906.us.archive.org/4/items/AFeiticeiraBewitchedSeason1/1.36%20-%20Cousin%20Edgar.mp4</link><thumbnail>https://media.fstatic.com/rYS-u8bHOPz2rUEv_CSTVbVx96s=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-1a-temporada_t22968_1.jpg</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 2ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 01 - [COLOR yellow] A Palavra Mágica[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.01%20-%20Alias%20Darrin%20Stephens.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 02 - [COLOR yellow] Serei Pai ou Mãe? [/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.02%20-%20A%20Very%20Special%20Delivery.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 03 - [COLOR yellow] Uma Verdadeira Maldição[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.03%20-%20We%27re%20in%20for%20a%20Bad%20Spell.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 04 - [COLOR yellow] Um Simples Mortal[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.04%20-%20My%20Grandson%2C%20the%20Warlock.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 05 - [COLOR yellow] O Aprendiz de Feiticeiro[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.05%20-%20The%20Joker%20Is%20a%20Card.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 06 - [COLOR yellow] Ingredientes da Poção Milagros[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.06%20-%20Take%20Two%20Aspirins%20and%20Half%20a%20Pint%20of%20Porpoise%20Milk.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 07 - [COLOR yellow] O Anfitrião é um Lobisomen[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.07%20-%20Trick%20or%20Treat.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 08 - [COLOR yellow] A Magia do Bem Trajar[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.08%20-%20The%20Very%20Informal%20Dress.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 09 - [COLOR yellow] Um Talento Muito Especial[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.09%20-%20...And%20Then%20I%20Wrote.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 10 - [COLOR yellow] Brinquedos São Para Crianças[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.10%20-%20Junior%20Executive.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 11 - [COLOR yellow] Feiticeira Sem Encantos[/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.11%20-%20Aunt%20Clara%27s%20Old%20Flame.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 12 - [COLOR yellow] O Estranho Visitante[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.12%20-%20A%20Strange%20Little%20Visitor.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 13 - [COLOR yellow] Meu Patrão, o Urso[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.13%20-%20My%20Boss%2C%20the%20Teddy%20Bear.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 14 - [COLOR yellow] A Verdade Nem Sempre Dói[/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.14%20-%20Speak%20the%20Truth.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 15 - [COLOR yellow]Visão De Ameixas Com Açúcar [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.15%20-%20A%20Vision%20of%20Sugar%20Plums.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 16 - [COLOR yellow]Um Amor de Cabana [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.16%20-%20The%20Magic%20Cabin.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 17 - [COLOR yellow]Mágicas Bem Empregadas [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.17%20-%20Maid%20to%20Order.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 18 - [COLOR yellow]Qualquer Semelhança é Mera Coincidência [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.18%20-%20And%20Then%20There%20Were%20Three.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 19 - [COLOR yellow] Poderes Recém-Nascidos[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.19%20-%20My%20Baby%2C%20the%20Tycoon.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 20 - [COLOR yellow]Samantha Conhece Seu Povo [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.20%20-%20Samantha%20Meets%20the%20Folks.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 21 - [COLOR yellow]Direitos Por Meios Indiretos [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.21%20-%20Fastest%20Gun%20on%20Madison%20Avenue.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 22 - [COLOR yellow] Um Brinquedo Exclusivo  [/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.22%20-%20The%20Dancing%20Bear.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 23 - [COLOR yellow]Os Três Desejos (legendada )Conhecimento de Causa[/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.23%20-%20Double%20Tate%20%5BLegendado%5D.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 24 - [COLOR yellow]Se a Moda Pega [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.24%20-%20Samantha%20the%20Dressmaker.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 25 - [COLOR yellow]Conhecimento de Causa [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.25%20-%20The%20Horse%27s%20Mouth.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 26 - [COLOR yellow]Precocidade Encantadora [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.26%20-%20Baby%27s%20First%20Paragraph.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 27 - [COLOR yellow]O Pote de Ouro Feitiço [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.27%20-%20The%20Leprechaun.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 28 - [COLOR yellow]O Troco de Um Truque[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.28%20-%20Double%20Split.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 29 - [COLOR yellow]Contra Feiticeiro [/COLOR][/B]</title><link></link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.29%20-%20Disappearing%20Samantha.mp4<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 30 - [COLOR yellow]Na Pista da Vassoura (Partes 1) [/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.30%20-%20Follow%20That%20Witch%20Part%201.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 31 - [COLOR yellow]]Na Pista da Vassoura (Partes 2)[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.31%20-%20Follow%20That%20Witch%20Part%202.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 32 - [COLOR yellow]Encantados Com Sua Gentileza [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.32%20-%20A%20Bum%20Raps.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 33 - [COLOR yellow]Duas Metades Fazem Um Inteiro [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.33%20-%20Divided%20He%20Falls.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 34 - [COLOR yellow]Este Homem é Um Cão [/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.34%20-%20Man%27s%20Best%20Friend.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 35 - [COLOR yellow]Era Uma Vez Uma Gata[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.35%20-%20The%20Catnapper.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 36 - [COLOR yellow] O Que Todo Homem Deveria Saber[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.36%20-%20What%20Every%20Young%20Man%20Should%20Know.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 37 - [COLOR yellow] Nariz de Ouro[/COLOR][/B]</title><link>https://ia803004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.37%20-%20The%20Girl%20with%20the%20Golden%20Nose.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR white] EP 38 - [COLOR yellow] Prodígio[/COLOR][/B]</title><link>https://ia903004.us.archive.org/30/items/AFeiticeiraBewitchedSeason2/2.38%20-%20Prodigy.mp4</link><thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZqxO6cbcT0mPuBm7tTaphlaPCo8rPyS_F3A&usqp=CAU</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 3ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow] Ninguém é Perfeito[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.01%20-%20Nobody%27s%20Perfect.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow] A Descoberta da Verdade[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.02%20-%20The%20Moment%20of%20Truth.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Bruxas e Feiticeiros São o Meu Fraco[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.03%20-%20Witches%20and%20Warlocks%20Are%20My%20Favorite%20Things.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow] Bebê em Duplicata[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.04%20-%20Accidental%20Twins.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow] A Ninfa Constante[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.05%20-%20A%20Most%20Unusual%20Wood%20Nymph.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow] Quando as Feiticeiras Discutem[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.06%20-%20Endora%20Moves%20in%20for%20a%20Spell.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow] Superstições Tolas[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.07%20-%20Twitch%20or%20Treat.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow] Espião de Fraldas[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.08%20-%20Dangerous%20Diaper%20Dan.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow] Um Longo Curto-Circuito[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.09%20-%20The%20Short%20Happy%20Circuit%20of%20Aunt%20Clara.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow] O Mistério da Mente[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.10%20-%20I%27d%20Rather%20Twitch%20Than%20Fight.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow] A Pipoca Encantada[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.11%20-%20Oedipus%20Hex.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow] A Estranha Cadeira[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.12%20-%20Sam%27s%20Spooky%20Chair.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow] Benjamin Franklin, o Eletricista[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.13%20-%20My%20Friend%20Ben.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow] Samantha a Defensora[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.14%20-%20Samantha%20for%20the%20Defense.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow] Estória de Elefante[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.15%20-%20A%20Gazebo%20Never%20Forgets.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow] Uma Corrida e Duas Vitórias[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.16%20-%20Soapbox%20Derby.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow] Minha Conhecida, a Lua[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.17%20-%20Sam%20in%20the%20Moon.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow] Uma Verdadeira Palhaçada[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.18%20-%20Hoho%20the%20Clown.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow] O Carro do Futuro[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.19%20-%20Super%20Car.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow] A Vaca Leiteira[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.20%20-%20The%20Corn%20Is%20as%20High%20as%20a%20Guernsey%27s%20Eye.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow] O Julgamento de uma Feiticeira[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.21%20-%20The%20Trial%20and%20Error%20of%20Aunt%20Clara.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow] Os Três Desejos[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.22%20-%20Three%20Wishes.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow] Memória Prodigiosa[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.23%20-%20I%20Remember%20You...%20Sometimes.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 24 - [COLOR yellow] Artes e Artimanhas[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.24%20-%20Art%20for%20Sam%27s%20Sake.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 25 - [COLOR yellow] Aspectos do Sucesso[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.25%20-%20Charlie%20Harper%2C%20Winner.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 26 - [COLOR yellow] A Vitória de Tia Clara[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.26%20-%20Aunt%20Clara%27s%20Victoria%20Victory.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 27 - [COLOR yellow] O Malefício[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.27%20-%20The%20Crone%20of%20Cawdor.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 28 - [COLOR yellow] Um Encantamento Pouco Encantador[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.28%20-%20No%20More%20Mr.%20Nice%20Guy.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 29 - [COLOR yellow] O Poder da Levitação[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.29%20-%20It%27s%20Wishcraft.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 30 - [COLOR yellow] Demasiada Ajuda[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.30%20-%20How%20to%20Fail%20in%20Business%20with%20All%20Kinds%20of%20Help.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 31 - [COLOR yellow] Evitar Acidentes é Dever de Todos[/B][/COLOR]</title><link>https://ia600905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.31%20-%20Bewitched%2C%20Bothered%20and%20Infuriated.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 32 - [COLOR yellow] Era Uma Vez Um Sapo[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.32%20-%20Nobody%20But%20a%20Frog%20Knows%20How%20to%20Live.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 33 - [COLOR yellow] Efeitos Colaterais[/B][/COLOR]</title><link>https://ia800905.us.archive.org/4/items/AFeiticeiraBewitchedSeason3/3.33%20-%20There%27s%20Gold%20in%20Them%20Thar%20Pills.mp4</link><thumbnail>https://media.fstatic.com/W2r3jSndN7zTCUg0JoFxvSshayQ=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-3a-temporada_t76843_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 4ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg<thumbnail></thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 - A Rainha das Feiticeiras[/B][/COLOR]</title>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.01%20-%20Long%20Live%20the%20Queen.mp4<link></link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 02	- Brinquedos Encantados[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.02%20-%20Toys%20in%20Babeland.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 03	- Negócio à Italiana[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.03%20-%20Business%2C%20Italian%20Style.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 04	- Serena, Mas Não Muito[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.04%20-%20Double%2C%20Double%2C%20Toil%20and%20Trouble.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 05	- Minha Cara Feiticeira[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.05%20-%20Cheap%2C%20Cheap%21.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 06	- Perdendo as Forças[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.06%20-%20No%20Zip%20in%20My%20Zap.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 07	- Vencer Nem Sempre É Uma Vitória[/B][/COLOR]</title><link>https://ia600906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.07%20-%20Birdies%2C%20Bogies%20and%20Baxter.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 08	- Figuras Animadas[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.08%20-%20A%20Safe%20and%20Sane%20Halloween.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 09	- Fora de Sincronismo[/B][/COLOR]</title><link>https://ia600906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.09%20-%20Out%20of%20Sync%2C%20Out%20of%20Mind.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 10	- Onipresente[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.10%20-%20That%20Was%20No%20Chick%2C%20That%20Was%20My%20Wife.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 11	- A Estranha Doença[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.11%20-%20Allergic%20to%20Macedonian%20Dodo%20Birds.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 12	- Um Verdadeiro Dia de Graças[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.12%20-%20Samantha%27s%20Thanksgiving%20to%20Remember.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 13	- A Importância da Sogra[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.13%20-%20The%20Solid%20Gold%20Mother-in-law.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 14	- Quem Mente as Orelhas Crescem[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.14%20-%20My%20What%20Big%20Ears%20You%20Have.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 15	- A Vingança do Feiticeiro[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.15%20-%20I%20Get%20Your%20Nannie%2C%20You%20Get%20My%20Goat.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 16	- Papai Noel Existe[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.16%20-%20Humbug%20Not%20to%20Be%20Spoken%20Here.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 17	- O Sorriso Indecifrável[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.17%20-%20Samantha%27s%20Da%20Vinci%20Dilemma.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 18	- Poção do Amor[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.18%20-%20Once%20in%20a%20Vial.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 19	- Arrasando a Concorrência[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.19%20-%20Snob%20in%20the%20Grass.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 20	- Minha Vida Sem Você[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.20%20-%20If%20They%20Never%20Met.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 21	- Gente Pra Frente Atrasa a Vida[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.21%20-%20Hippie%2C%20Hippie%2C%20Hooray.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 22	- O Príncipe Encantado[/B][/COLOR]</title><link>https://ia600906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.22%20-%20Prince%20of%20a%20Guy.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 23	- O Fantasma Impenitente[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.23%20-%20Mc%20Tavish.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 24	- Como Era Verde Meu Gramado[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.24%20-%20How%20Green%20Was%20My%20Grass.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 25	- A Utilidade da Feiticeira[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.25%20-%20To%20Twitch%20or%20Not%20to%20Twitch.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 26	- Seja o Que Lhe Aprover[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.26%20-%20Playmates.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 27	- Espírito de Renovação[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.27%20-%20Tabatha%27s%20Cranky%20Spell.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 28	- Uma Fogueira Para os Bruxos[/B][/COLOR]</title><link>https://ia600906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.28%20-%20I%20Confess.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 29	- O Prato Favorito[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.29%20-%20A%20Majority%20of%20Two.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 30	- Gente de Outro Mundo[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.30%20-%20Samantha%27s%20Secret%20Saucer.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 31	- O Amuleto[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.31%20-%20The%20No-Harm%20Charm.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 32	- O Publicitário do Ano[/B][/COLOR]</title><link>https://ia800906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.32%20-%20Man%20of%20the%20Year.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 33	- O Amor Tem Que Ser Verdadeiro[/B][/COLOR]</title><link>https://ia600906.us.archive.org/11/items/AFeiticeiraBewitchedSeason4/4.33%20-%20Splitsville.mp4</link><thumbnail>https://media.fstatic.com/RsddKfFOQGOEC-M0eO9fI_6q1a4=/210x312/smart/media/movies/covers/2014/09/a-feiticeira-4a-temporada_t76845.jpg</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]  A FEITIÇEIRA[COLOR lime] 5ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 01 -  [COLOR yellow]Um Homem Diminuído[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 02 -  [COLOR yellow]A Bruxa Ciumenta[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 03 -  [COLOR yellow]O Prodígio[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 04 -  [COLOR yellow]Como Desmanchar um Compromisso[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 05 -  [COLOR yellow]Substituições Perigosas[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 06 -  [COLOR yellow]Espelho Meu[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 07 -  [COLOR yellow]Bolo à Napoleão[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 08 -  [COLOR yellow]Mágica ou Imaginação?[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 09 -  [COLOR yellow]O Prestígio de uma Estátua[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 10 -  [COLOR yellow]Faltando À Palavra[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 11 -  [COLOR yellow]Quero Ser Uma Borboleta[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 12 -  [COLOR yellow]Uma Árvore e Muitos Galhos[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 13 -  [COLOR yellow]Um Perfeito Cavalheiro[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 14 -  [COLOR yellow]Uma Empregada Fantástica[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 15 -  [COLOR yellow]Cada Galho Com Seu Macaco (Partes 1)[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 16 -  [COLOR yellow]Cada Galho Com Seu Macaco (Partes 1)[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 17 -  [COLOR yellow]O Feitiço da Boneca[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 18 -  [COLOR yellow]O Verso e o Reverso[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 19 -  [COLOR yellow]Super-Escultura[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 20 -  [COLOR yellow]Cães e Gatos[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 21 -  [COLOR yellow]Um Marido Para Serena[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 22 -  [COLOR yellow]O Impacto da Propaganda[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 23 -  [COLOR yellow]Uma Semana Que é o Fim[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 24 -  [COLOR yellow]Um Clube Muito Fechado[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 25 -  [COLOR yellow]Um Poder Maior[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 26 -  [COLOR yellow]Uma Verdade Salgada[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 27 -  [COLOR yellow]Teimoso Como Uma Mula[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 28 -  [COLOR yellow]Boas Notícias[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 29 -  [COLOR yellow]Comprando Briga[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white]EP 30 -  [COLOR yellow]Os Magos das Olimpíadas[COLOR yellow][/B][/COLOR]</title><link></link><thumbnail>https://media.fstatic.com/GEMd6We7oZctfluHCxZtl382yLI=/290x478/smart/media/movies/covers/2014/09/a-feiticeira-5a-temporada_t76846_1.jpg</thumbnail></item>
+
+ magnet:?xt=urn:btih:f8174fdd14130147b3024287d61057e03dfabba5
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+&01	- Um Homem Diminuído#
+
+&02	- A Bruxa Ciumenta#
+
+&03	- O Prodígio#
+
+&04	- Como Desmanchar um Compromisso#
+
+&05	- Substituições Perigosas#
+
+&06	- Espelho Meu#
+
+&07	- Bolo à Napoleão#
+
+&08	- Mágica ou Imaginação?#
+
+&09	- O Prestígio de uma Estátua#
+
+&10	- Faltando À Palavra#
+
+&11	- Quero Ser Uma Borboleta#
+
+&12	- Uma Árvore e Muitos Galhos#
+
+&13	- Um Perfeito Cavalheiro#
+
+&14	- Uma Empregada Fantástica#
+
+&15	- Cada Galho Com Seu Macaco (Partes 1)#
+
+&16	- Cada Galho Com Seu Macaco (Partes 1)#
+
+&17	- O Feitiço da Boneca#
+
+&18	- O Verso e o Reverso#
+
+&19	- Super-Escultura#
+
+&20	- Cães e Gatos#
+
+&21	- Um Marido Para Serena#
+
+&22	- O Impacto da Propaganda#
+
+&23	- Uma Semana Que é o Fim#
+
+&24	- Um Clube Muito Fechado#
+
+&25	- Um Poder Maior#
+
+&26	- Uma Verdade Salgada#
+
+&27	- Teimoso Como Uma Mula#
+
+&28	- Boas Notícias#
+
+&29	- Comprando Briga#
+
+&30	- Os Magos das Olimpíadas#
+
+Sexta Temporada
+ 
+
+167 - Três Gerações de Bruxas
+
+168 - Empregada Para Todo Feitiço
+
+169 - Uma Salada Histórica
+
+170 - Seja Feita a Sua Vontade
+
+171 - Os Encantos do Bebê
+
+172 - Seu Nome, Por Favor
+
+173 - Mais Forte Que a Magia
+
+174 - Em Vez de Multiplicar, Subtrair
+
+175 - Homem ou Rato?
+
+176 - Magia Por Um Dia
+
+177 - Mania de Magia
+
+178 - Encantos e Desencantos
+
+179 - Um Sujeito Encantador
+
+180 - O Espírito Natalino
+
+181 - Atendendo a Dois Deveres
+
+182 - A Feiticeira Devoradora
+
+183 - Já Ouvi Isso Em Algum Lugar
+
+184 - Revelação de Um Segredo
+
+185 - As Mães Podem Parecer Bruxas
+
+186 - Sinto-me Um Super-Homem
+
+187 - O Que Deu Nele?
+
+188 - Serena Acaba Com a Serenidade
+
+189 - Tão Bom Ser Criança
+
+190 - Geração Zás-Trás
+
+191 - Qual é o Truque?
+
+192 - Atrações e Traições
+
+193 - Os Apertos de Um Sapato
+
+194 - O Mago da Pintura
+
+195 - O Amuleto da Paz
+
+196 - Amor à Primeira Vista
+ 
+
+Sétima Temporada
+ 
+
+197 - Uma Convenção Sem Convenções
+
+198 - Encontro em Salém
+
+199 - Da Panela à Fogueira
+
+200 - O Mago Enfeitiçado -
+
+201 - Um Pedestal Para James
+
+202 - Não Bulas no Bule
+
+203 - Feiticeira Em Apuros
+
+204 - Viagem através dos Séculos
+
+205 - Mordendo a Isca
+
+206 - Velhice Prematura
+
+207 - Primas Gêmeas
+
+208 - A Poção da Inspiração
+
+209 - Mágicas em Preto e Branco
+
+210 - A Sogra do Ano
+
+211 - Mary, a Boa Fada
+
+212 - Dando Asas à Imaginação
+
+213 - Feiticeiro Por Um Dia
+
+214 - O Bruxo Brincalhão
+
+215 - De Cabelos Em Pé
+
+216 - Com a Cabeça Nas Nuvens
+
+217 - Inconveniências da Feitiçaria
+
+218 - Como Capturar um Gorila
+
+219 - Um Achado Perdido
+
+220 - Publicidade e Honestidade
+
+221 - Soluço Indiscreto
+
+222 - O Espelho Mágico
+
+223 - Feitiço Alegre
+
+224 - Querer Não É Poder 
+ 
+
+Oitava Temporada
+ 
+
+225 - Na Corte de Henrique VIII (Partes 1 e 2)
+
+226 - Monstro, Porém, Famoso
+
+227 - A Verdadeira História da Torre de Pisa
+
+228 - As Encantadas, Encantadoras Estátuas
+
+229 - A Magia de Paris
+
+230 - O Espectro Romântico
+
+231 - Um Dom Sobrenatural
+
+232 - Reconquista do Poder
+
+233 - Vivendo em um Conto de Fadas
+
+234 - Um Publicitário Genial
+
+235 - Ciúmes Felinos
+
+236 - O Cavalo Enfeitiçado
+
+237 - Mais Um Mago na Família
+
+238 - Histórias Fantásticas
+
+239 - Gravidade Sem Maior Gravidade
+
+240 - O Poder Mais Forte
+
+241 - Os Patins Mágicos
+
+242 - A Pílula Rejuvenescedora
+
+243 - Cuidado Com Ela
+
+244 - George Washington em Pessoa - (Partes 1 e 2)
+
+245 - A Menina Prodígio
+
+246 - Publicidade ao Alcance de Todos
+
+247 - A Maldição do Tibete
+
+248 - A Verdade, Nada Mais Que a Verdade  

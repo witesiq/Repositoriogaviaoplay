@@ -1,0 +1,82 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS EPISODEOS  DA SERIE EM LINKS TORRENTES , E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR lime]A Biblia[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36D00834A01A7EEA2B8406B4DA122779762AD294</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+ 
+
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]###[COLOR lime]A Biblia[COLOR red]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item>
+<title>[B][COLOR white]EP 01- [COLOR yellow]Primórdios[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2001%20-%20Prim%C3%B3rdios.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail></item>
+
+<item>
+<title>[B][COLOR white]EP 02- [COLOR yellow]Êxodo[/COLOR][/B]</title>
+<link>https://ia802801.us.archive.org/3/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2002%20-%20%C3%8Axodo.mp4</link>
+<thumbnail>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2002%20-%20%C3%8Axodo.MP4</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 03-[COLOR yellow]Patria[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2003%20-%20P%C3%A1tria.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 04-[COLOR yellow]Reino[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2004%20-%20Reino.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 05-[COLOR yellow]Sobrevivencia[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2005%20-%20Sobreviv%C3%AAncia.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 06-[COLOR yellow]Revolução[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2006%20-%20Revolu%C3%A7%C3%A3o.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 07-[COLOR yellow]Missão[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2007%20-%20Miss%C3%A3o.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 08-[COLOR yellow]Traicão[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2008%20-%20Trai%C3%A7%C3%A3o.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 09-[COLOR yellow]Paixão[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2009%20-%20Paix%C3%A3o.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR white]EP 10-[COLOR yellow]Coragem[/COLOR][/B]</title>
+<link>https://ia601505.us.archive.org/15/items/abiblia_202001/A%20B%C3%ADblia%20-%20Epis%C3%B3dio%2010%20-%20Coragem.MP4</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/ch5C616nFjXYiXPE2VlkGJOgAyM.jpg</thumbnail>
+</item>

@@ -1,0 +1,8 @@
+<item>
+<title> *[COLOR yellow]Mundo da Lua[/COLOR] (2005)</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PL0uwSbDRH2pmbFHqut2zKOJxEWTqOiKzM/?page=0</jsonrpc>                                               
+<thumbnail>https://media.fstatic.com/FcF1hhguP-yCv9EfGR-p7EV1sOU=/fit-in/290x478/smart/media/movies/covers/2013/03/cc671e2976a2ac90e2651a3de5510b06.jpg</thumbnail>
+<fanart></fanart>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>

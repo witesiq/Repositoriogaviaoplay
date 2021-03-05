@@ -1,0 +1,260 @@
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 1ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] Piloto [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Graça [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP02.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Pele Clara [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP03.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Semper I [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP04.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Ponto Cego [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP05.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] O Bom Soldado [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP06.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] O Fim de Semana [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP07.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Calcanhar de Aquiles [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP08.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Crossfire [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP09.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] Representante Brody [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP110.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] O Colete [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP11.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] Uma Marinha [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT01EP12.mp4</link><thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 2ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] O Sorriso [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP01.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Beirute Está de Volta [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP02.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Estado de Independência [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP03.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Cheiro de Carro Novo [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP04.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Q&A [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP05.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Um Discurso de Gettysburg [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP06.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] A Clareira [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP07.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Eu Vou Voar Longe [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP08.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Dois Chapéus [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP09.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] Quebrado Corações [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP10.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] Em Memória [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP11.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] A Escolha [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT02EP12.mp4</link><thumbnail>https://media.fstatic.com/u2CWZA1mtrMPVHD0uKHsdKJbNIo=/fit-in/290x478/smart/media/movies/covers/2012/08/77b83198a9f34093d58643e8f3f879ca.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 3ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] Homem de Lata é Para Baixo [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP01.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Uh... OO... Ah... [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP02.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Torre de Davi [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP03.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Jogo Já [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP04.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] A Peça de Yoga [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP05.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Ainda Positivo [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer05/ondemand/HMLNDS03EP06.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] Gerontologia [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP07.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Um Carrinho de Mão Vermelho [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP08.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Cavalo e Carroça [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP09.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] Boa Noite [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP10.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] Grande Homem em Teerã [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP11.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] A Escolha [/COLOR] - [COLOR yellow] Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT03EP12.mp4</link><thumbnail>https://media.fstatic.com/896D3z4P4PoUZVrYbzsz_WMzg5U=/fit- [COLOR yellow]in/290x478/smart/media/movies/covers/2013/08/homeland- [COLOR yellow]3a- [COLOR yellow]temporada_t67703.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 4ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white]EP 00 - [COLOR yellow] Depoimento [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP00.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail><item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 01 - [COLOR yellow] A Rainha dos Drones[/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP01.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Voltando Pra casa [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP02.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Estrategias [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP03.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Plano e Acao [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP04.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Sobre Um Menino [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP05.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Tiro Certeiro [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP06.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] Alucinante [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP07.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] A Troca [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP08.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Tem Algo Mais Acontecendo[/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP09.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] 13 Horas em Islamabad [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP10.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] Guerra Não Amor [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP11.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] Ecos Do Passado [/COLOR] -  Redecanais</title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT04EP12.mp4</link><thumbnail>https://media.fstatic.com/zOWYUxwhwg1i_WijA8X98pji8xc=/fit-in/290x478/smart/media/movies/covers/2015/07/homeland-5a-temporada_t110403.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 5ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] Ansiedade da Separação [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP01.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] A Tradição de Hospitalidade [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP02.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Super Poderes [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP03.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Por que Esta Noite é Diferente [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP04.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Melhor Chamar o Saul [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP05.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Parabiose [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP06.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] Papa- [COLOR yellow]figos [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP07.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Tudo Sobre Allison [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT05EP08.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] O Ardil de Litvinov [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP09.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] Novo Normal [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP10.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] Nosso Homem em Damasco [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP11.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] Um Falso Brilho [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer12/ondemand/HMLNDT05EP12.mp4</link><thumbnail>https://media.fstatic.com/hy1WnBuI5QdGi1VCdnbMS2qGNms=/fit-in/290x478/smart/media/movies/covers/2018/01/Homeland-5%C2%AATemporadaDVDCoverCustom.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 6ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] Jogo Justo [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP01.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] O Homem no Porão [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP02.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] O Pacto [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP03.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Um Flash de Luz [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP04.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Espião Bitencourt [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP05.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] O Retorno [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP06.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] Risco Iminente [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP07.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Alt. Verdade [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP08.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Fantoches de Meia [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP09.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] A Casa da Bandeira [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP10.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] R é Para Romeu [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP11.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+#########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] América Primeiro [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT06EP12.mp4</link><thumbnail>https://media.fstatic.com/O89AlGXt0gyeCI5KN6kbQlw714A=/fit-in/290x478/smart/media/movies/covers/2017/12/download_4.png</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 7ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] Inimigo Do Estado [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP01.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Rebelde Rebelde [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP02.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Impasse [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP03.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Como Ruim em Coisas [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP04.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Medidas Ativas [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP05.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Salto de Espécies [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT07EP06.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] Andante [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT07EP07.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Mentiras, Amplificadoras, Fodendo o Twitter [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP08.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Idiota Útil [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP09.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] Clareza [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP10.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] Tudo Em [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer09/ondemand/HMLNDT07EP11.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] Hino ao Povo [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer13/ondemand/HMLNDT07EP12.mp4</link><thumbnail>https://kayoustore.com/wp-content/uploads/2018/04/HOMELAND-7.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item>
+<title>[COLOR red]##[COLOR lime]HOMELAND-SEGURANÇA NACIONAL -[COLOR yellow] 8ªTemporada[COLOR red]##[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/mPLN2W6MP19R_BpwKeEErUQ9Ci0=/fit-in/290x478/smart/media/movies/covers/2017/12/box-homeland-1-temporada-dvd-semi-novo-D_NQ_NP_990225-MLB253910522_8eSHUAD.jpg</thumbnail>
+</item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] Decepção Indicada  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP01.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow] Capturar e Soltar  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP02.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow] Falsos Amigos  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP03.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow] Um Giz Acima  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP04.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow] Giz Dois Para Baixo  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP05.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow] Dois Minutos  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP06.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow] O Idiota Atirou Em Mim  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP07.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow] Threnody  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP08.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow] Em Pleno Voo  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP09.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow] Driver Designado  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP10.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow] O Professor De Inglês  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP11.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow] Prisioneiros De Guerra  [/COLOR] </title><<link>https://dq5mp0nsze37r.cloudfront.net/RCServer14/ondemand/HMLNDT08EP12.mp4</link><thumbnail>https://i.pinimg.com/474x/54/67/1f/54671f7a9ce157646ea3daa0f724c383--homeland-season-dvd-series.jpg</thumbnail></item>

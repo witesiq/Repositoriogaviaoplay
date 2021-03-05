@@ -1,0 +1,337 @@
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]  CHICAGO P.D.[COLOR yellow] 1ªTemporada[COLOR red]  ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow] Trampolim [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP01.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Lado Errado Das Barras [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP02.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Cheque do Queixo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP03.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Agora É Sempre Temporário [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP04.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Trinta Balões [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP05.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Convenções [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP06.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]O Preço Que Pagamos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP07.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Erros Diferentes [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP08.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Uma Testemunha Material [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP09.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Pelo Menos É Justiça [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP10.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Apague A Luz [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP11.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]20:30 [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP12.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]O Meu Caminho [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP13.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]As Docas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP141.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Uma Linda Amizade [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT01EP15.mp4</link><thumbnail>https://media.fstatic.com/ywd5zEorGfqbwEo_LsqHu46xw5c=/290x478/smart/media/movies/covers/2014/01/chicago-pd-1a-temporada_t79069.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]  CHICAGO P.D.[COLOR yellow] 2ªTemporada[COLOR red]  ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white] 01 - [COLOR yellow]Chame Isso De Macarrão [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP01.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 02 - [COLOR yellow]Pegar Meus Cigarros [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP02.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 03 - [COLOR yellow]A Estação De Pesagem 
+[/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP03.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 04 - [COLOR yellow]Frango, Dinamite, Motosserra [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP04.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 05 - [COLOR yellow]Uma Mulher Honesta [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP05.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 06 - [COLOR yellow]Bola de Prisão [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP06.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 07 - [COLOR yellow]Eles Terão Que Passar Por Mim [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP07.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 08 - [COLOR yellow]Atribuição Do Ano [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP08.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 09 - [COLOR yellow]Chamado Em Morto [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP09.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 10 - [COLOR yellow]Não Deveria Ter Sido Sozinho [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP10.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 11 - [COLOR yellow]Nós Não Trabalhamos Juntos Mais [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP11.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 12 - [COLOR yellow]Disco Bob [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP12.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 13 - [COLOR yellow]Um Pequeno Complexo Do Diabo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP13.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 14 - [COLOR yellow]Mãe De Erin [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP14.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 15 - [COLOR yellow]O Que Você Faz [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP15.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 16 - [COLOR yellow]O Que Te Coloca Nessa Borda [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP16.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 17 - [COLOR yellow]Diga Seu Nome Real [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP17.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 18 - [COLOR yellow]Volte Para O Par [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP18.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 19 - [COLOR yellow]Os Três Gs [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP19.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 20 - [COLOR yellow]O Número De Ratos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP20.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 21 - [COLOR yellow]Tem A Minha Garota [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP21.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 22 - [COLOR yellow]Empurre A Dor Embora [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP22.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white] 23 - [COLOR yellow]Nascido Em Más Notícias [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT02EP23.mp4</link><thumbnail>https://media.fstatic.com/ErnqRwljzN7uSXJ2x737EvQT_t4=/290x478/smart/media/movies/covers/2014/09/chicago-p-d-2a-temporada_t100585.jpg</thumbnail></item>
+
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]  CHICAGO P.D.[COLOR yellow] 3ªTemporada[COLOR red]  ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]A Vida É Fluida [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP01.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Natural Narrador Nascido [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP02.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Violência Física Real 
+[/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP03.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Dívidas Do Passado [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP04.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Subindo Na Cama [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP05.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Você Nunca Sabe Quem É Quem [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP06.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Um Garoto Morto, Um Caderno E Um Monte De Maybes [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP07.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Esqueça Meu Nome [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP08.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Nunca Esqueça Que Eu Te Amo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP09.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Agora Sou Deus [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP10.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Colocou a Família Para Fora [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT0EP11.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Olhando Para Fora Para Stateville [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP12.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Bata Em Mim [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP13.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]A Canção De Gregory Williams Yates [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP14.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Uma Coruja De Noite [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP15.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Os Casos Que Precisam Ser Resolvidos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP16.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Migalha De Pão De Quarenta Calibres [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP17.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Kasual Com Um K [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP18.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Se Fôssemos Normais [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP19.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Em Uma Mochila [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP20.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 21 - [COLOR yellow]Justiça [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP21.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 22 - [COLOR yellow]Ela Nos Pegou [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP22.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 23 - [COLOR yellow]Comece A Cavar [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT03EP23.mp4</link><thumbnail>https://media.fstatic.com/Czd8R_Y58dDhbNHfl5poNKbYZXE=/290x478/smart/media/movies/covers/2015/02/chicago-p-d-season-3_tNone.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]  CHICAGO P.D.[COLOR yellow] 4ªTemporada[COLOR red]  ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Os Silos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP01.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Fez Uma Curva Errada [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP02.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Todos Os Cilindros Disparando [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP03.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Grandes Amigos, Grandes Inimigos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP04.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Uma Zona De Guerra [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP05.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Algum Amigo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP06.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]300.000 Curtidas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP07.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Um Tiro Ouvido Ao Redor Do Mundo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP08.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Não Enterre Este Caso [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP09.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Não Leia A Notícia [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP10.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Você Deseja [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP11.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Santuário [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP12.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Eu Me Lembro Dela Agora [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP13.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Sete Acusações [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP14.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Favor, Carinho, Malícia Ou Má Vontade [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP15.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Proximidade Emocional [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP16.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Lembre-se Do Diabo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP17.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Um Pouco De Luz [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP18.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Resistência De Último Minuto [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP19.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Agarrando Pela Salvação [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP20.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 21 - [COLOR yellow]Fagin [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP21.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 22 - [COLOR yellow]Exército De Um [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP22.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+########################################################################################################################
+<item><title>[COLOR white]EP 23 - [COLOR yellow]Bifurcação Na Estrada [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT04EP23.mp4</link><thumbnail>https://media.fstatic.com/R47FSNsFRPHIKj1hoETJzXa13TE=/290x478/smart/media/movies/covers/2016/08/ChicagoPD.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]  CHICAGO P.D.[COLOR yellow] 5ªTemporada[COLOR red]  ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Reformas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP01.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]A Face do Heróis [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP02.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Promessas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP03.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Dedo-duro [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP04.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Lar [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP05.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Caído em Desgraça [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP06.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Cuidado Sob Fogo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP07.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Política [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP08.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Monstro [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP09.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Buraco [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP10.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Confidencial [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP11.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Refém [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP12.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Caçando Monstros [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP13.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Hino [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP14.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Irmandade [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP15.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Perfis [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP16.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Ponto Fraco [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP17.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Fantasmas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP18.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Vingança [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP19.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Salvos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP20.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 21 - [COLOR yellow]Lealdade [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP21.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 22 - [COLOR yellow]De Volta [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT05EP22.mp4</link><thumbnail>https://media.fstatic.com/X1MVfAndyZbcBGhKHVhjlJStsoc=/290x478/smart/media/movies/covers/2017/09/chicago-pd-season-5-poster1.jpg</thumbnail></item>
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]  CHICAGO P.D.[COLOR yellow] 6ªTemporada[COLOR red]  ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Um Novo Normal [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP01.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Términos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP02.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Bad Boys [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP03.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Visitante [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP04.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Pais e Filhos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP05.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Verdadeiro Ou Falso [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP06.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Gatilho [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP07.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Preto E Azul [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP08.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Afundando [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP09.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Lealdade [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP10.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Confiança [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP11.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Revolta [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP12.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Uma Noite Em Chicago [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP13.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Laços Que Prendem [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP14.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Homens Bons [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP15.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 16 - [COLOR yellow]O Esquecido [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP16.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Remédio Para Dor [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP17.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 18 - [COLOR yellow]Esta Cidade [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP18.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 19 - [COLOR yellow]O Que Poderia Ter Sido [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP19.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 20 - [COLOR yellow]Sacrifício [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP20.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 21 - [COLOR yellow]Confissão [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP21.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 22 - [COLOR yellow]Acerto de Contas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/CHGOPDT06EP22.mp4</link><thumbnail>https://media.fstatic.com/JgtBhmH1ImukCZ0B4JdnqOVhMNw=/290x478/smart/media/movies/covers/2018/09/medium-clean.jpg</thumbnail></item>
+
+
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]####[COLOR lime]  CHICAGO P.D.[COLOR yellow] 7ªTemporada[COLOR red]  ####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]############################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Dúvida [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP01.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Informantes [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP02.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Família [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP03.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Infecção (Parte 3) [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP04.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Responsável [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP05.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Falso Positivo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP06.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Informante [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP07mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Sem Arrependimentos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP08.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Absolvição [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP09.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Misericórdia [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP10.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Na 43 Com A Normal [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP11.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]O Mal Conhecido [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP12.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Eu Estive Aqui [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP13.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Centro de Massa [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP14.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]O Ônus da Verdade [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP15.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Violência Intima [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP16.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Antes da Queda [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/CHGOPDT07EP17.mp4</link><thumbnail>https://cdn.fstatic.com/media/movies/covers/2020/03/8888.jpg</thumbnail></item>
+
+

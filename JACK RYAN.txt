@@ -1,0 +1,55 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/qwkjcyYDChjwCDnkQxL4l_mpKx8=/290x478/smart/media/movies/covers/2018/02/tom_clancys_jack_ryan_ver2.jpg" group-title="Jack Ryan",[COLOR red]1ª TEMPORADA[/COLOR]
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan",EP 01 -[COLOR yellow] Piloto [/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP01.mp4
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan",EP 02 -[COLOR yellow] Conexão Francesa[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP02.mp4
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan", EP 03 - [COLOR yellow]Preto 22[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP03.mp4
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan",EP 04 - [COLOR yellow]O Lobo[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP04.mp4
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan",EP 05 - [COLOR yellow]Fim Da Honra[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP05.mp4
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan",EP 06 - [COLOR yellow]Fontes E Metodos[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP06.mp4
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan",EP 07 - [COLOR yellow]O Menino[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP07.mp4
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/UiBw2kLvFeAW4McyvDCi9PPzmmA=/290x478/smart/media/movies/covers/2018/07/Apm2tNa.jpg" group-title="Jack Ryan",EP 08 - [COLOR yellow]Inshallah[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT01EP08.mp4?
+########################################################################################################################
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/18/08/21/10/26/4657185.jpg" group-title="Jack Ryan",[COLOR red]2ª TEMPORADA[/COLOR]
+
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 01 - [COLOR yellow]Carga[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP01.mp4?
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 02 - [COLOR yellow]Uma Terceira Alternativa[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP02.mp4?
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 03 - [COLOR yellow]Orinoco[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP03.mp4?
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 04 - [COLOR yellow]Vestida Para Matar[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP04.mp4?
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 05 - [COLOR yellow]Ouro Azul [/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP05.mp4?
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 06 - [COLOR yellow]Persona Non Grata[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP06.mp4?
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 07 - [COLOR yellow]Deus e Federação[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP07.mp4?
+########################################################################################################################
+#EXTINF:-1 tvg-logo="https://media.fstatic.com/DqGDhcMTf8NvAcOQ3rvdwAs9O_E=/195x289/smart/media/movies/covers/2019/07/tom_clancys_jack_ryan_ver5.jpg" group-title="Jack Ryan",EP 08 - [COLOR yellow]Homem Forte[/COLOR]
+https://cdn.gamesgo.fun/RCServer14/ondemand/JCKRYNT02EP08.mp4?
+########################################################################################################################

@@ -1,0 +1,160 @@
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]#####[COLOR lime]  LUCIFER[COLOR yellow]   1ªTemporada  [COLOR red]#####[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Piloto [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP01.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Lúcifer, Fique. Bom Diabo. [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP02.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]O Quase Príncipe das Trevas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP03.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Atributos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP04.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Sapatos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP05.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Filho Favorito [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP06.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Parceiro [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP07.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Et Tu, Doutor [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP08.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Um Padre Entra no Bar [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP09.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Pops [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/LCFRT01EP10.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Santo Lúcifer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP11.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]#TimeLucifer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP12.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Leve-me de Volta ao Inferno [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer09/ondemand/LCFRT01EP013.mp4</link><thumbnail>https://media.fstatic.com/c-MsBK2-Ox7OfXm09YgMa7oI920=/290x478/smart/media/movies/covers/2015/08/lucifer-1a-temporada_t107600.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]######[COLOR lime]  LUCIFER[COLOR yellow]  2ªTemporada  [COLOR red]######[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Tudo Favorável a Lúcifer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP01.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]A Mentira Tem Vestido Curto [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP02.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Devorador de Pecados [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP03.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]Partes Femininas [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP04.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Aniquilador [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP05.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Monstro [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP06mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Minha Pequena [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP07.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Levou uma Apunhalada [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP08.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Destruidor de Lares [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP09.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Quid Pro Ho [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP10.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Aeromoça Interromptus [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP11.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Alças de Amor [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP12.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Um Ótimo Dia Para Morrer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP13.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]Doce Morningstar [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP14.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Pequeno Parasita Enganoso [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP15.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Deus Johnson [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP16.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Simpatia Pela Deusa [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP17.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 18 - [COLOR yellow]O Bom, o Mau e o Crocante [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT02EP18.mp4</link><thumbnail>https://media.fstatic.com/qvrPBTouCuYMe4nf04CdR8W-3rk=/290x478/smart/media/movies/covers/2016/07/lucifer.jpg</thumbnail></item>
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]######[COLOR lime]  LUCIFER[COLOR yellow]  3ªTemporada  [COLOR red]######[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Elas Voltaram, Não Foi [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP01.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Aquele com a Cenoura de Bebê [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP02.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Sr. & Sra. Mazikeen Smith [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP03.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]O Que Lucifer Faria [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP04.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Bem-vinda de Volta, Charlotte Richards [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP01.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Vegas com uma Qualquer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP05.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]Fora do Registro [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP07.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Chloe Como Lúcifer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP08.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]O Pecador [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP09.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]A Lixeira [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP10.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 11 - [COLOR yellow]Cidade dos Anjos [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP11.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 12 - [COLOR yellow]Tudo Sobre Ela [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP12.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 13 - [COLOR yellow]Até Que a Morte Nos Separe [/COLOR]</title><link>akamai-standard.azureedge.net/RCServer13/ondemand/LCFRT03EP13.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 14 - [COLOR yellow]O Guardião do Meu Irmão [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP14.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 15 - [COLOR yellow]Tolices do Ensino Médio [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP15.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 16 - [COLOR yellow]Cobaia Infernal [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP16.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 17 - [COLOR yellow]Deixe o Cabeça de Alfinete Cantar! [/COLOR]</title><link>akamai-standard.azureedge.net/RCServer13/ondemand/LCFRT03EP7.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 18 - [COLOR yellow]O Último Coração Partido [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP18.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 19 - [COLOR yellow]Laranja é a Nova Maze [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP19.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 20 - [COLOR yellow]O Anjo de San Bernardino [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer13/ondemand/LCFRT03EP20.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 21 - [COLOR yellow]Tudo Que o Pierce Pode Fazer, Eu Posso Fazer Melhor [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/LCFRT03EP21.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 22 - [COLOR yellow]Todos Ajudam a Decker [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/LCFRT03EP22.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 23 - [COLOR yellow]Clássica Estrela Decker [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/LCFRT03EP23.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 24 - [COLOR yellow]Um Diabo de Palavra [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/LCFRT03EP24.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 25 - [COLOR yellow]Boo, Normal [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/LCFRT03EP25.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 26 - [COLOR yellow]Era Uma Vez [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer10/ondemand/LCFRT03EP26.mp4?</link><thumbnail>https://media.fstatic.com/anRCFoxu-xEBMpub2wgIJTy_2kQ=/290x478/smart/media/movies/covers/2017/07/Lucifer-s3-SDCC-poster-1.jpg</thumbnail></item>
+
+
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
+<title>[COLOR red]######[COLOR lime]  LUCIFER[COLOR yellow]  4ªTemporada  [COLOR red]######[/COLOR]</title>
+<link>IGNOREME</link>
+<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[COLOR red]##################################################################################[/COLOR]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[COLOR white]EP 01 - [COLOR yellow]Está Tudo Certo [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP01.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 02 - [COLOR yellow]Alguém Andou Lendo o Inferno de Dante [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP02.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 03 - [COLOR yellow]Homens de Pouca Fé, Pai [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP03.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 04 - [COLOR yellow]O Assunto é Eva [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP04.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 05 - [COLOR yellow]Expirar Ereto [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP05.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 06 - [COLOR yellow]Calças de Orgia Para Trabalhar [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP06.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 07 - [COLOR yellow]O Diabo é Aquilo Que Faz [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP07.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 08 - [COLOR yellow]Namorado Muito Ruim [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP08.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 09 - [COLOR yellow]Salvem Lucifer [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP09.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+##########################################################################################################################
+<item><title>[COLOR white]EP 10 - [COLOR yellow]Quem é o Novo Rei do Inferno [/COLOR]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/LCFRT04EP10.mp4</link><thumbnail>https://media.fstatic.com/RV_yNzmAIZk35GTU3dcJXzgWNi0=/290x478/smart/media/movies/covers/2019/05/lucifer_ver7.jpg</thumbnail></item>
+
+

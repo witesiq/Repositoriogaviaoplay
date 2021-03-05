@@ -1,0 +1,149 @@
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 01 -[COLOR yellow] Volta ao Passado[/COLOR][/B]</title>
+<link>https://proxy-029.ix7.dailymotion.com/sec(gZypywRCHzTqoDzDQDPWkmSJZcWtPv-2hJqi5rjAJUcm8psd-QIxcE7S8H7yEUH8iwYqidYvnDJEG0GGLDS56uwx6EyXzIqSYCihHatQZwU)/video/501/698/121896105_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 02 -[COLOR yellow] Viagem à Lua[/COLOR][/B]</title>
+<link>https://vod-progressive.akamaized.net/exp=1609116963~acl=%2A%2F856271199.mp4%2A~hmac=fa0e2302cecfe6b14c2c51d3e243f24156ec95f9b588311de2eb631cf8c3353b/vimeo-prod-skyfire-std-us/01/2887/9/239438730/856271199.mp4</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 03 -[COLOR yellow] O Fim do Mundo[/COLOR][/B]</title>
+<link>https://proxy-006.dc3.dailymotion.com/sec(kQ-xm7K7XuJL2OOBtgtlODFHpDodTSkQtbVJdsD2sQ-0PeoxY17L1pGIVOMJZXF4dh5BuxRNTJhQ1stRPhqWHxR8DuU9tcp9T3g5_4QGc2Q)/video/156/022/330220651_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 04 -[COLOR yellow] O Dia em que o Céu Desabou[/COLOR][/B]</title>
+<link>https://proxy-036.dc3.dailymotion.com/sec(c_3UyTQqz2uDejUOzUXOERZapb2PvCZUgad33QewOz_71smW1wWk4ZAuICYL0tZjwLKEZICwUL8p-qd7eAq7Jpnwu_V4rqwJGx3orxWz5JA)/video/738/927/59729837_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 05 -[COLOR yellow] A Última Patrulha[/COLOR][/B]</title>
+<link>https://proxy-06.nyc.dailymotion.com/sec(vO9SD42pxLpuBzh8FBnsbYzN75HipWMqGEv5BAFdONXU31gFlIiwnyfOv9qWYJXaRmoL-2-OJhMsT4X2GTcqO7xF1eTarzXkYHJmesYs5Y8)/video/616/999/59999616_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 06 -[COLOR yellow] O Dia do Juízo Final[/COLOR][/B]</title>
+<link>https://proxy-036.ix7.dailymotion.com/sec(f7C1WGB23Wky-SSXeiIenQChGJsp7GL4IHkSU8hg6HPDLpkmySJeBeftFngS4dFojnP8JSpyFuXKqB_Gi50-xxphABiNYcrlAhIytlnYhmg)/video/052/524/330425250_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 07 -[COLOR yellow] Presente de Grego[/COLOR][/B]</title>
+<link>https://proxy-002.ix7.dailymotion.com/sec(iAXo1UrOAO1i5LjM3lZ0hkv2GEWLlA_eP_CsCBsdc6Y1LS5qBNyDdlQOF0-l9cTJL05FanlDcRICwwRv7QvapdJZL9SgGafijPGLVkd0oC4)/video/359/131/123131953_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 08 -[COLOR yellow] Massacre[/COLOR][/B]</title>
+<link>https://proxy-031.dc3.dailymotion.com/sec(Bf4sEhVqYgA_fMJKdNdkP38b7CtNWuuQ7k10rDGgY4PDBn5vGuXSfv-LXrnt8Pm_Ll1_BEwW5pW9I5agIaqnvp6u6hO8jbdNYyL4LEaT_1I)/video/243/705/123507342_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 09 -[COLOR yellow] A Ilha do Diabo[/COLOR][/B]</title>
+<link>https://proxy-19.nyc.dailymotion.com/sec(YNIM0Z7pM0_G8_IAIuJiEBy86e-4xbE4c_Gyxi-H8XfscauyZShpvMPHdAcLfhhlbAhKaNFBIMnl5SBsM-zKKW8wUhyY7lZK4ypueWVAu2w)/video/444/850/60058444_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 10 -[COLOR yellow] Reinado do Terror[/COLOR][/B]</title>
+<link>https://proxy-02.nyc.dailymotion.com/sec(2GAzbZ8__9P9i_IBM56mqHC6XALGqdsUqT6FgfMyk2GC2H7dXIcjieENM1hg0CsMYSRpiGKegTESfKcUp5Q1pBLHFs_ZWbQoL9Kc1EdNXmQ)/video/806/252/60252608_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 11 -[COLOR yellow] A Arma Secreta[/COLOR][/B]</title>
+<link>https://proxy-02.nyc.dailymotion.com/sec(uI0lmEyiuZevWtjRWMybVZxMq9kqC0AkMNt22OHrTCtkTUqB0w1dc4QBMLPvPxFTAPTG0qJmPs31BcDU15dN3Ap8aZtydkaQ1uy2LmIioMU)/video/980/863/60368089_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 12 -[COLOR yellow] Armadilha Fatal[/COLOR][/B]</title>
+<link>https://proxy-18.nyc.dailymotion.com/sec(_MR2-nuL8DGH1FsPGkJ4STd_foI9XkbXoBE8J5QhldW6fmOwDbHmGd-x1Y4fbD5sZPFmmCxMKxRgz55zioLhzYsfBYJoJXd-0Y3hHL8yaxU)/video/778/957/60759877_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 13 -[COLOR yellow] O Alamo[/COLOR][/B]</title>
+<link>https://proxy-011.ix7.dailymotion.com/sec(OOjjrkNT3EtIOgQ6bbrwrWUbvyqkAp4P4uS3uCp6pGYvykk9s33UlxzrO3rOIq6LTv7hoQGDEaNnHmykl8H-mJ1Y6i-j_dmRSvEOgmN24EU)/video/361/015/357510163_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 14 -[COLOR yellow] A Noite da Grande Batalha[/COLOR][/B]</title>
+<link>https://proxy-022.dc3.dailymotion.com/sec(jTKgwcrKhv91TFF2DjnhPufJ9c1nkoYZb_fSFoZS5Das3dXGm4U96qV1e82wLZBWAo4MRr1Q6747W-5eNPQmSrEelZq9aQzr_T7E5JvjXqI)/video/676/918/123819676_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 15 -[COLOR yellow] A Invasão[/COLOR][/B]</title>
+<link>https://proxy-041.ix7.dailymotion.com/sec(kQ-xm7K7XuJL2OOBtgtlOMXqNfDBA_4ytrtqFuDEcY8KgqWcod4i9QwwHvVTCD4Bcv_Q-dqDzVc_DWnXkhDUqqJ3u8ongH4GVlwlasWZGpQ)/video/158/482/124284851_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 16 -[COLOR yellow] Robin Hood[/COLOR][/B]</title>
+<link>https://proxy-048.dc3.dailymotion.com/sec(S3gE9S9zMTHQTANoX-MBCdqLoNeV43i8LyR0rTZcn9Ecm_MEurvMX-DOmrdgAS5hTol3rCJqJ7IsYxuFqUDkWYR9EcCGjmbOIHm0-IRj0Fw)/video/653/172/383271356_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 17 -[COLOR yellow] A Morte é um Jogo[/COLOR][/B]</title>
+<link>https://proxy-004.dc3.dailymotion.com/sec(EHfdmWMWS3Jm1rUwOSzPqDovqOf9QYfA4JpOPBFMFWXFrtjrX_qsr76eJ6U5kUicyBABT97sd0GjXK4GatMbHkT0rF_m310Aq2ym40xvch0)/video/761/515/124515167_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 18 -[COLOR yellow] Um Mundo Além das Estrelas[/COLOR][/B]</title>
+<link>https://proxy-041.ix7.dailymotion.com/sec(czTSNzcdT4mYlcYSkbvIQ-eMxiqNgku1LzI_V-qmveoNPcMgsYCe4k9drnvtvh2TTnIoGpATdwoyaK683yZ_UNsV-14CzF0snToEn5rNyhM)/video/602/515/124515206_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 19 -[COLOR yellow] O Fantasma de Nero[/COLOR][/B]</title>
+<link>https://proxy-024.ix7.dailymotion.com/sec(MuyucYrWgkoHg2i5QVRo5o0Dz9M5udVJV8slAssXrOfbq8gRRUsnsTUsHxvpVyOLnE5im62eacHsdyvBueJHR6xosNRZ93aH2zqQFa3Hung)/video/314/168/358861413_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 20 -[COLOR yellow] As Muralhas de Jericó[/COLOR][/B]</title>
+<link>https://proxy-043.dc3.dailymotion.com/sec(4pkX4jyJ09RyW9jaEyekknOns48amXrrXC3w_JsnZZozR0GG7jhV2vJu1pMH2m-YpVvYDCZBOW0BrZXglce2Mkep9riFLQfwvyAITIk_GWo)/video/796/112/125211697_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 21 -[COLOR yellow] O Ídolo da Morte[/COLOR][/B]</title>
+<link>https://proxy-030.ix7.dailymotion.com/sec(dE83Zyoa3SvsSFjYNnBY1CZG5EyJtun9rPXsbRxwe6x78C8JahWmspYB7FGvcG0WGoMEkILXty6c7fWdSE27t4b9eTlOHE5eSqoh-9qKBP8)/video/837/112/125211738_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 22 -[COLOR yellow] Billy the Kid[/COLOR][/B]</title>
+<link>https://proxy-009.ix7.dailymotion.com/sec(f7OPR3CuerPHnzETozIU-3V1DDauYj_ZeyHJKwU4YK2s2jpbP5poa1xzmWyfZQ2Awn3fw7-WN-eksVS-H5-rmysveQ82d3Ah23cSlbgM1-U)/video/876/295/202592678_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 23 -[COLOR yellow] Os Piratas da Ilha do Morto[/COLOR][/B]</title>
+<link>https://proxy-010.dc3.dailymotion.com/sec(SR36U2JEgenq7Sr8mbsN2kfr57pp2fQChGJ_Npu_lc6KkZzgToJMkxF6rha79P-ZdhQJ42LVFmc_zAzqR0kkjYDms4r_i3SCo_XgK7aEf94)/video/386/713/125317683_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 24 -[COLOR yellow] Perseguição Pelo Tempo[/COLOR][/B]</title>
+<link>https://proxy-039.ix7.dailymotion.com/sec(wb8UD9xdr7EUNWDnSkNP3RjGQ9r1mMY0xtdDRdyb6GzU4juzMbXYqMOjn3IeoTCu036pPwjPj3Skus4GrKvpJ0TBaZuxe_YYt1Vet1-Ukck)/video/853/904/163409358_mp4_h264_aac_hq.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 25 -[COLOR yellow] O Mercador da Morte[/COLOR][/B]</title>
+<link>https://proxy-035.dc3.dailymotion.com/sec(EHfdmWMWS3Jm1rUwOSzPqOV4420rWznEnszwz7SflGQmqIPnliatf8Dtvd2lHk7153hgMB0l3zNOXdT59EHPvd3ftDngrpA0pDQ7Z-H3EEo)/video/764/599/152995467_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 26 -[COLOR yellow] O Ataque Dos Bárbaros (Marco Polo)[/COLOR][/B]</title>
+<link>https://proxy-031.dc3.dailymotion.com/sec(vO9SD42pxLpuBzh8FBnsba2lFGcccTQ7DgvcQ0sThKJ7XOSvxTzELtuKi-eB5Rp72kWlAYxnOTT1Seq985Q4_in7b1rJ7cY_LDDxXZ0GjIU)/video/612/289/152982216_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 27 -[COLOR yellow] Merlim, o Mágico[/COLOR][/B]</title>
+<link>https://proxy-019.dc3.dailymotion.com/sec(zBLo9_ZO9Yz5cZ8xnl9pTj6TdWsQUiSO5xbrbCNikHy2E-1ghuUQPlZoZd6Y46KzGbWnIF7R7ioivjHXemYJLbd3nN6szTZYNMTtkGZdpVs)/video/645/658/152856546_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 28 -[COLOR yellow] Os Raptores[/COLOR][/B]</title>
+<link>https://proxy-042.dc3.dailymotion.com/sec(Z9sBt96T4qy4QdcnB69AdE8IINo667tyDl34mh4vTPG1UWSeuw2TO9F04PByo7WlvXig9jkDUYRbO997AtAc7UuWTRAkOG01EGa3epvOQhk)/video/496/138/152831694_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 29 -[COLOR yellow] Invasores do Espaço Sideral[/COLOR][/B]</title>
+<link>https://proxy-01.nyc.dailymotion.com/sec(No_TQeY4Fy-YPTx9YHcvGzg0yJ38Ku53lheIkRlY6qag9QcFmNWKH59I3b9buxbIN37DEcJQ7jLv1MvOAUFj0e74-OtdtZrvtHrBjkN9b08)/video/198/228/152822891_mp4_h264_aac.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>
+
+<item><title>[B][COLOR white]O TUNEL DO TEMPO - [COLOR lime]EP 30 -[COLOR yellow] A Cidade do Terror[/COLOR][/B]</title>
+<link>https://proxy-037.dc3.dailymotion.com/sec(aZJbBa-i7L8siFHhRXmEvQCTy2WJ2UpW1oL4jGjiEXZcl_yFtfS8wCM_onA7e6LcRPTOVJPmffPVxSKy0XeH7C11UpVIOr8irHhLUDIZGoY)/video/340/281/360182043_mp4_h264_aac_ld.m3u8</link>
+<thumbnail>http://img.comunidades.net/rep/replayoutv/otuneldotempo.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jRi3TwrEKzTahkww3jWj22V0IFz.jpg</fanart></item>

@@ -1,0 +1,282 @@
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] O MUNDO PERDIDO [COLOR lime]COMPLETA[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7708465C37B4CA2E1AA5F04A605CD8F3E0DE1453</link><thumbnail>https://media.fstatic.com/PkIKs64M4UxmtpQmHRQsgLutfZM=/290x478/smart/media/movies/covers/2012/05/020888c89335bf3b5504fd9ce8f6e463.jpg</thumbnail><info>[B][COLOR yellow]Coleção Completa da serie com as tres temporadas da seie em link torrent [/COLOR][/B]<info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item<title>[B][COLOR red]######[COLOR lime] O MUNDO PERDIDO[COLOR yellow] 1ª Temporada [COLOR red]######[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white]Ep 01 - [COLOR yellow]Começo Da Jornada[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2001.mp4?cnt=0</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 02 -  [COLOR yellow]Encalhada[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2002.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 03 - [COLOR yellow]Mais do que humano[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2003.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white] Ep 04 - [COLOR yellow]Néctar[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2004.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white] Ep 05 - [COLOR yellow]Caverna do Medo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2005.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 06 - [COLOR yellow]Salvação[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2006.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white] Ep 07 - [COLOR yellow]Luxúria de Sangue[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2007.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+<item><title>[B][COLOR white] Ep 08 - [COLOR yellow]Fora do tempo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2008.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 09 - [COLOR yellow]Paraiso encontrado[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2009.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 10 - [COLOR yellow]A Besta Interior[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2010.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 11 - [COLOR yellow]Criaturas do Escuro[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2011.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 12 - [COLOR yellow]Tributo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2012.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 13 - [COLOR yellow]Poder absoluto[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2013.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+<item><title>[B][COLOR white]Ep 14 -  [COLOR yellow]Camelot[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2014.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 15 - [COLOR yellow]Seleção não natural[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2015.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 16 - [COLOR yellow]Tempo após tempo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2016.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 17 - [COLOR yellow]Pai Pródigo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2017.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 18 - [COLOR yellow]Direito de nascimento[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2018.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 19 - [COLOR yellow]Ressurreição[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2019.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 20 - [COLOR yellow]O escolhido[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2020.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+<item><title>[B][COLOR white]Ep 21 - [COLOR yellow]Profecia[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2021.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 22 - [COLOR yellow]Bárbaros no portão[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%201%20ep%2022.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/qMWJBJTndcmO0lLCyGyvuddjcnw.jpg</thumbnail></item>
+
+
+
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item<title>[B][COLOR red]######[COLOR lime] O MUNDO PERDIDO[COLOR yellow] 2ª Temporada [COLOR red]######[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]Ep 01 -  [COLOR yellow]Tudo ou nada[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2001.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+<item><title>[B][COLOR white]Ep 02 -  [COLOR yellow]Amazonas[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2002.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+
+<item><title>[B][COLOR white]Ep 03 -  [COLOR yellow]Estação de turista[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2003.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 04 -  [COLOR yellow]Pedra fria[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2004.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 05 -  [COLOR yellow]Direito divino[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2005.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 06 -  [COLOR yellow]Skin Deep"[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2006.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 07 -  [COLOR yellow]Londres chamando[/COLOR][/B]</title><link><item><title>[B][COLOR white] O Mundo Perdido [/COLOR] -  [COLOR yellow]Ep 03[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2007.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 08 -  [COLOR yellow]O prisioneiro[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2008.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 09 -  [COLOR yellow]Os jogos[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2009.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 10 -  [COLOR yellow]A fonte[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2010.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 11 -  [COLOR yellow]Trofeus[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2011.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 12 -  [COLOR yellow]Voodoou rainha[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2012.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 13 -  [COLOR yellow]O guardião[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2013.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 14 -  [COLOR yellow]Sobre pressao[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2014.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 15 -  [COLOR yellow]O Fora da lei[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2015.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 16 -  [COLOR yellow]Qualidade da Misericórdia[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2016.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 17 -  [COLOR yellow]Marca da Besta[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2017.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 18 -  [COLOR yellow]Sobreviventes[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2018.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 19 -  [COLOR yellow]A maldicao do pirata[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2019.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 20 -  [COLOR yellow][/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2020.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 21-  [COLOR yellow]Um homem de visao[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2021.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 22 -  [COLOR yellowDentro do jogo][/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%202%20-%20ep%2022.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/tEUBQBR5fcvGO7Spr4IGIVA27Hq.jpg</thumbnail></item>
+
+
+
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item<title>[B][COLOR red]######[COLOR lime] O MUNDO PERDIDO[COLOR yellow] 3ª Temporada  [COLOR red]######[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+<item><title>[B][COLOR red]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR white]Ep 01 -  [COLOR yellow]Fora do azul[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2001.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+
+
+<item><title>[B][COLOR white]Ep 02 -  [COLOR yellow]Os Viajantes[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2002.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 03 -  [COLOR yellow]Olho por olho[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2003.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 04 -  [COLOR yellow]Espírito verdadeiro[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2004.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 05 -  [COLOR yellow]A faca[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2005.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 06 -  [COLOR yellow]Fogo no céu[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2006.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 07 -  [COLOR yellow]Colina da Morte[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2007.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 08 -  [COLOR yellow]A vitória oca[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2008.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 09 -  [COLOR yellow]Chamar uma bruxa[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2009.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 10 -  [COLOR yellow]Irmãos de armas[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2010.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 11 -  [COLOR yellow]Era do Gelo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2011.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 12 -  [COLOR yellow]O Fim do Jogo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2012.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 13 -  [COLOR yellow]Fantasmas[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2013.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 14 -  [COLOR yellow]O segredo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2014.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 15 -  [COLOR yellow]A maquina do tempo[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2015.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 16 -  [COLOR yellow]Suspeita[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2016.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 17 -  [COLOR yellow]Os Impostores[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2017.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 18 -  [COLOR yellow]O Elixir[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2018.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 19 -  [COLOR yellow]Tapeçaria[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2019.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 20 -  [COLOR yellow]Legado[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2020.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 21 -  [COLOR yellow]Presos[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2021.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>
+
+#############################################################################################
+
+<item><title>[B][COLOR white]Ep 22 -  [COLOR yellow]Coração da tempestade[/COLOR][/B]</title><link>https://ia802809.us.archive.org/33/items/omundoperdido/o%20mundo%20perdido%20temp%203%20-%20ep%2022.mp4</link><thumbnail>https://image.tmdb.org/t/p/w130_and_h195_bestv2/wb4J7woqgB47R6BkEpMyNLRDDHK.jpg</thumbnail></item>

@@ -1,0 +1,48 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS EPISODEOS  DA SERIE EM LINKS TORRENTES , E NESCESSARIO TER O ADDON ELEMENTUM E O ELEMENTUM BURST INSTALADOS PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]AMERICAN GODS [COLOR lime]1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01522C8DF0FF8F648C578EC6DE9ED1875A2125B1</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Temporada completa com todos os links em torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR crimson]### [COLOR white]AMERICAN GODS [COLOR lime]2ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65818E201492BF2678D19AEFE7FFA90E4ADF5A32</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail><info>[B][COLOR yellow]Temporada completa com todos os links em torrents[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+
+<item><title>[B][COLOR red]####[COLOR lime] AMERICAN GODS [COLOR yellow]1ªTemporada[COLOR red]####[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail>
+</item><item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] 01 -[COLOR yellow] O Pomar dos Ossos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer11/ondemand/AMRCGDST01EP01.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 02 -[COLOR yellow] O Segredo das Colheres [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AMRCGDST01EP02.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 03 -[COLOR yellow] Cabeça Cheia de Neve [/COLOR][/B]</title><link>hhttps://cdn.gamesgo.fun/RCServer12/ondemand/AMRCGDST01EP03.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 04 -[COLOR yellow] Foi Git [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AMRCGDST01EP04.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 05 -[COLOR yellow] Lemon Perfumado Você [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AMRCGDST01EP05.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 06 -[COLOR yellow] Um Assassinato de Deuses [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AMRCGDST01EP06.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 07 -[COLOR yellow] Uma Oração Por Mad Sweeney [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AMRCGDST01EP07.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 08 -[COLOR yellow] Venha Para Jesus [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer12/ondemand/AMRCGDST01EP08.mp4</link><thumbnail>https://media.fstatic.com/I3fE5lBj8OL8i6nNUrubZ_DoGx4=/290x478/smart/media/movies/covers/2018/12/american-gods-season-2.jpg</thumbnail></item>
+
+<item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR red]####[COLOR lime] AMERICAN GODS [COLOR yellow]2ªTemporada[COLOR red]####[/COLOR][/B]</title><link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail>
+</item><item><title>[B][COLOR red]##################################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR white] 01 -[COLOR yellow] Casa na Rocha [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP01.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 02 -[COLOR yellow] O Homem Sedutor [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP02.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 03 -[COLOR yellow] Diferença [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP03.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 04 -[COLOR yellow] A Maior História Já Contada [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP04.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 05 -[COLOR yellow] Os Caminhos dos Mortos [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP05.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 06 -[COLOR yellow] Donar o Grande [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP06.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 07 -[COLOR yellow] Tesouro do Sol [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP07.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
+<item><title>[B][COLOR white] 08 -[COLOR yellow] Sombra da Lua [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer06/ondemand/AMRCGDST02EP08.mp4</link><thumbnail>https://media.fstatic.com/7Gc7yZxveZ3hQfv9W4tiCP8aBsk=/290x478/smart/media/movies/covers/2018/10/american_gods_ver14.jpg</thumbnail></item>
