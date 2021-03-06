@@ -1,48 +1,42 @@
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANACONDA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FNlRHei9SDdlMSXyvzn0A4R42yw=/290x478/smart/media/movies/covers/2009/02/584aa81971082cf28746d287b16eb9e1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ANACONDA.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzvAjXCbpFVbRh-NL8oZFjFt6kFwfNDVdcw&usqp=CAU</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A MUMIA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/O1Dod8MPE97xHvi1OOVdna-dFtg=/290x478/smart/media/movies/covers/2014/06/a-mumia_t113.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20A%20MUMIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/9a9GpRaCkdcPfa5z0vPQj9ldtQh.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BRADDOCK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AonSSoJOFIbOubZt0gMBIZvw9MH.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/majcHNBB</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20BRADDOCK.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/w533_and_h300_bestv2/hXRDREMveK8niPh9o3eD71Dm4HR.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DURO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20DURO%20DE%20MATAR.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/hQ0k6RJwcWLJEHfP5vxrDpMiRdk.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EM NOME DO REI[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4QP0pbVKepSDjkQwWfhXxKknE1z.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20EM%20NOME%20DO%20REI.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/qtmwb0iF41DhfZIXvuk0TIXu23p.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SUPERMAN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/S9cGoZiSP_QWHqPNhXjF2RiM8c0=/290x478/smart/media/movies/covers/2014/09/superman-o-filme_t1083_2.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/wzZGZwV1</externallink>
-<fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20%20SUPERMAN.txt</externallink>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKQqOG0X9OsDBwxi1ea-_qWJd8WladSfLgJw&usqp=CAU</fanart>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
