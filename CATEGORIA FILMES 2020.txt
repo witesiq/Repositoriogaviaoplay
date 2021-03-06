@@ -1,0 +1,17 @@
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/NjxBVh4N/FILMES-2020-SERV-1.jpg</thumbnail>
+<externallink>https://i.postimg.cc/NjxBVh4N/FILMES-2020-SERV-1.jpg</externallink>
+<fanart>https://cdn.emtempo.com.br/img/inline/180000/filmes-2020-jpg_00184136_0_202001011741.jpg?xid=656588</fanart>
+<info>[B][COLOR yellow]TODOS OS FILMES EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info>
+</item>
+
+#########################################################################################################
+<item>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SERVIDOR 2 [COLOR lime] LINKS DIRETOS [/COLOR] [COLOR crimsonb]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/7LYwrBtq/FILMES-2020-SERV-2.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://cdn.emtempo.com.br/img/inline/180000/filmes-2020-jpg_00184136_0_202001011741.jpg?xid=656588</fanart>
+<info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE[/COLOR][/B]</info>
+</item>
+
+#########################################################################################################
