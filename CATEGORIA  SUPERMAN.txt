@@ -1,20 +1,16 @@
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimsom]###[/COLOR] [COLOR white] SERVIDOR 1 [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AaSF0IxlWb959ZHFN20oDpZ9GJr.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/MGqv4b4J</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg</fanart>
 <info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKSL[/COLOR][/B]</info>
-</channel>
-
+</item>
 #########################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] SERVIDOR 2 [/COLOR] [COLOR crimsonb]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AaSF0IxlWb959ZHFN20oDpZ9GJr.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/HRKAPRyG</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/v6MVBFnQOscITvmAy5N5ras2JKZ.jpg</fanart>
 <info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE.[/COLOR][/B]</info>
-</channel>
-
+</item>
 #########################################################################################################
