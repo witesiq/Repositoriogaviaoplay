@@ -200,6 +200,17 @@ plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/fil
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10bd746f05aa0e23f48ff1a0b902ea940a82a878</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7goptmUGulOnr2jM4wwc5ypHL.jpg</thumbnail>
 <info>[COLOR yellow]O relacionamento entre Peter Parker e Mary Jane parece estar dando certo, mas outros problemas começam a surgir. A roupa de Homem-Aranha torna-se preta e acaba controlando Peter, que apesar de aumentar seus poderes, revela o lado obscuro de sua personalidade. Os vilões Venon e Homem-Areia tentam destruir o super-herói.[COLOR lime]OBS: ULTIMO LINK 4k[/COLOR]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Deadpool[COLOR yellow] (2016)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1A257E0FD066408D7C3D67DB5E7A9ABB8239D10A</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8024064918D43CEED1700A459765ECC3C44FE62A</link>
+<thumbnail>https://1.bp.blogspot.com/-Dj_P1Qnarbs/WwfWq4DEpWI/AAAAAAAALsw/njVDpZmn_JIudqkS3FFNXYLGkixWvL9nACLcBGAs/s1600/Deadpool%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail><info>[B][COLOR yellow]Ex-militar e mercenário, Wade Wilson (Ryan Reynolds) é diagnosticado com câncer em estado terminal, porém encontra uma possibilidade de cura em uma sinistra experiência científica. Recuperado, com poderes e um incomum senso de humor, ele torna-se Deadpool e busca vingança contra o homem que destruiu sua vida.  [/COLOR][/B]</info></item>
+######################################################################################################################################
+<item><title>[B][COLOR white]Deadpool 2[COLOR yellow] (2019)[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9618edc489b904714279a07c50a77d780885528a</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ED8BD73A46ED4E7F794E739F915232CA5BD53470</link>
+<thumbnail>https://torrentoon.org/capas/deadpool-2-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]O bocudo mercenário da Marvel está de volta! Maior, melhor e, ocasionalmente, mais pelado do que nunca. Quando um super soldado chega em uma missão assassina, Deadpool é forçado a pensar em amizade, família e o que realmente significa ser um herói - tudo isso, enquanto chuta 50 tons de bundas. Porque,? s vezes, para fazer a coisa certa, você precisa lutar sujo [/COLOR][/B]</info></item> 
 ####################################################################################################################################
 <item><title>[COLOR white]Homem-Aranha - De Volta ao Lar[COLOR yellow](2019)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:204E5CB06516A37B8835B223B98791A3EC31605E</link>
