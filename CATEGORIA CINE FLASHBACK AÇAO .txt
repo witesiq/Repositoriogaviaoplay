@@ -1,16 +1,15 @@
-<channels>
-<channel>
+<item>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK AÇÃO [COLOR yellow]VOL 1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/rFDNfxSs/flashback-ac-o-vol-1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/jtUn0a5Z</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20FLASHBACK%20A%C3%87AO%20VOL%201.txt</externallink>
 <info>[B][COLOR yellow]1ª PARTE COM O CONTEUDO DO ADDON SOBRE FILMES DE AÇÃO ANTIGOS [/COLOR][/B]</info>
-</channel>
+</item>
 
  
- <channels>
-<channel>
+ <item>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK AÇÃO  [COLOR yellow]VOL 2[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/sDb9qxcc/flashback-ac-o-vol-2.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/EfbiE0Xw</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20FLASHBACK%20A%C3%87AO%20VOL%202.txt</externallink>
 <info>[B][COLOR yellow]2ª PARTE COM O CONTEUDO DO ADDON SOBRE FILMES DE AÇÃO ANTIGOS[/COLOR][/B]</info>
-</channel>
+</item>
+
