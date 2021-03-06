@@ -26,7 +26,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DURO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/rauTKnFle1sp4aXjtYgx4tCWNiK.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/YNbyU7Nq</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20DURO%20DE%20MATAR.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/hQ0k6RJwcWLJEHfP5vxrDpMiRdk.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</channel>
 ######################################################################################################################################
@@ -34,7 +34,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EM NOME DO REI[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4QP0pbVKepSDjkQwWfhXxKknE1z.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/9tznYLkh</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20EM%20NOME%20DO%20REI.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/qtmwb0iF41DhfZIXvuk0TIXu23p.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></channel>
 ######################################################################################################################################
