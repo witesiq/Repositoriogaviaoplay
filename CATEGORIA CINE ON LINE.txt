@@ -1,7 +1,7 @@
 <item>
 <name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE [COLOR yellow]AÇÃO[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/sgh6wjPv/cine-on-line-a-o.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20ON%20LINE%20A%C3%87O.txt</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20ON%20LINE%20A%C3%87AO.txt</externallink>
 <fanart>https://i.postimg.cc/j5Kz6Kv0/cine-on-line-a-o.jpg</fanart>
 <info>OS MELHORES FILMES DE AÇÃO , NOVOS E ANTIGOS;NACIONAIS E INTERNACIONAIS VOCES ENCONTRARÃO AQUI</info>
 </item>
