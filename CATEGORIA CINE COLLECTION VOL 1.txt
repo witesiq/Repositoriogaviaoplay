@@ -1,393 +1,344 @@
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JAMES BOND 007[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lh4.googleusercontent.com/-XoX-K4cTXps/UKiMDrUxFkI/AAAAAAAAD3A/OIOnp7Og6PU/s320/5yW8y.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20007.txt</externallink>
 <fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A EXPERIENCIA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/ryy7j9eAdSA08brwJ3q1wEs6D_g=/290x478/smart/media/movies/covers/2012/01/b996f5e517943cc910b7331155e8bf87.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20A%20EXPERIEN%C3%87IA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/bTHqaM1SVXSpEELkZ471MFlt53s.jpg</fanart>
-<info>[B]]Um ser alienígena é o resultado de um código genético desconhecido enviado do espaço e recebido por cientistas. Após o nascimento da criança e seu rápido desenvolvimento, há uma ordem para matar a "menina", que é meio humana e meio extraterrestre, mas ela foge do laboratório onde é mantida. Enquanto procuram por uma criança, ela se transforma em uma atraente mulher (Natasha Henstridge), que deseja acasalar rapidamente para proliferar a sua espécie.[/COLOR][/B]</info></channel>
+<info>[B]]Um ser alienígena é o resultado de um código genético desconhecido enviado do espaço e recebido por cientistas. Após o nascimento da criança e seu rápido desenvolvimento, há uma ordem para matar a "menina", que é meio humana e meio extraterrestre, mas ela foge do laboratório onde é mantida. Enquanto procuram por uma criança, ela se transforma em uma atraente mulher (Natasha Henstridge), que deseja acasalar rapidamente para proliferar a sua espécie.[/COLOR][/B]</info></item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANJOS DA NOITE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/QZD-N9yNfWTEiWfGHuKUjcIjKsM=/290x478/smart/media/movies/covers/2011/06/31e688272adafd0d653fb9f7ff338edf_1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ANJOS%20DA%20NOITE%20.txt</externallink>
 <fanart>https://media.fstatic.com/J29MY8kapJdjxgkBiplQAXxeCG4=/600x250/smart/media/articles/main/2014/03/cacb63a9-2844-42bb-a997-fec81ba19e3b.jpe</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A SAGA CREPUSCULO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51WzVPOsmsL.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20CREPUSCULO.txt</externallink>
 <fanart>https://www.vagalume.com.br/dynimage/news3269-big.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ALIEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/14/40/a6/1440a6f863758811ea8b954d5a555397.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ALIENS.txt</externallink>
 <fanart>https://www.cineset.com.br/wp-content/uploads/2016/10/Aliens-O-Resgate-e1491785686820.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATMAN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FOnZzQN2T9ZZNfKeSkvQNcVVdto=/290x478/smart/media/movies/covers/2019/05/MV5BNjc1ZDhmOTgtNGM5NC00NTRmLWI1OWQtMDIzZDg2ZGE1ODM3XkEyXkFqcGdeQX_6DyyZwT.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20BATMAN.txt</externallink>
 <fanart>https://media.fstatic.com/yOxOgVhHkN4idSSPBcCNgGvaPkY=/600x250/smart/media/articles/main/2016/08/18/602x0_1471532364-1724783869.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
- <channels>
-<channel>
+ <item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]BUSCA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://ondebaixa.com/capa/busca-explosiva-todos-os-filmes-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20BUSCA%20EXPLOSIVA%20.txt</externallink>
 <fanart>https://images.justwatch.com/backdrop/166486581/s480/busca-explosiva-3</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BUSCA IMPLACAVEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/706681/123520847.jpg?v=636966316633830000</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20BUSCA%20IMPLACAVEL.txt</externallink>
 <fanart>https://lh3.googleusercontent.com/proxy/F6WEtG5-mjVuTT00JFT1z96ku2xO9grKLurcd9uSUaE9XDj76F8SDS2XDZM58UqPzVGD1afjyxtPGH53diUwr0vZz1fsv9g_s2Tb3SWNBrmcBBMDK4e5q1SNrqcrnAEYcTnpmFbTvGELCylW</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CARGA EXPLOSIVA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/o6DnRqCvnG-o5CkNuYS3TBW3y-k=/290x478/smart/media/movies/covers/2014/06/carga-explosiva_t302.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20CARGA%20EXPLOSIVA%20.txt</externallink>
 <fanart>https://cdn.fstatic.com/media/movies/photos/2016/03/carga-explosiva-o-legado_t79463.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORAÇÃO DE DRAGÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/GWyjOQsANUph-vXEzdmSqFtW8Ho=/195x289/smart/media/movies/covers/2012/01/c95c10f436d9566d903e1543a65daa29.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20CORA%C3%87AO%20DE%20DRAGAO.txtR</externallink>
 <fanart>https://image.tmdb.org/t/p/original/oASfjqueQdR0wpeI2Q4xW2mSaZ.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CORRIDA MORTAL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://infonet.com.br/wp-infonet/img/Cinema/grande-corrida_mortal.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20CORRIDA%20MORTAL.txt</externallink>
 <fanart>https://br.web.img2.acsta.net/r_1280_720/medias/nmedia/18/87/04/06/19884948.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DESEJO DE MATAR[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/Of2t_XU3DvkE_wkR-IbXux-GED4=/290x478/smart/media/movies/covers/2018/11/e524ad00-53cb-012f-db6c-00505694738d.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20DESEJO%20DE%20MATAR.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/koT46pyZQYoOYEXHcMTS4Kt6WNh.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]EFEITO BORBOLETA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w500/8u1vnFy6Dml73Kb4GGgZkRQlEPk.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20EFEITO%20BORBOLETA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/lfb0yLlwIBYa7N0jnvkULJCKrBZ.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ELA DANÇA,EU DANÇO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdcpRdrEtvXINLCBv2lko7uxwVo.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ELA%20DAN%C3%87A%20EU%20DAN%C3%87O.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/zIYSz2EpMwe3MpdlwGrEPuK4UZR.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]GUERRA NAS ESTRELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://1.bp.blogspot.com/-OCk-fvcs2f0/Xa81sFGwLiI/AAAAAAAAaYM/_63nRuz47OsDV6OfjiA3XR38M4Cs0_gAwCLcBGAsYHQ/s1600/Saga%2BStar%2BWars.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20GUERRA%20NAS%20ESTRELAS.txt</externallink>
 <fanart>https://d1aqqgu1sbyyk.cloudfront.net/wp-content/uploads/2019/12/maxresdefault-1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel> 
+<info>[B][COLOR yellow][/COLOR][/B]</item> 
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HARRY POTTER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://cdn.fstatic.com/public/articles/files/2014/11/31a81d20-23be-41e8-a961-0615456ec87b.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20HARRY%20POTTER.txt</externallink>
 <fqanart>https://image.tmdb.org/t/p/original/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HIGHLANDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://picfiles.alphacoders.com/797/79796.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20HIGHLANDER.txt</externallink>
 <fanart>https://www.einerd.com.br/wp-content/uploads/2020/06/highlander-e1593436715735-890x464.jpeg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]INDIANA JONES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR31xW0PmAVLlEn3IYqn5kzzd8sn9GEEbJNQLE5LEqEL1eh2NFf</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20INDIANA%20JONES.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRrkJ1wMLVxT-ugT7dHRjLIkQNRUlb7pdw9RT0d-kVnmJSkDyGF</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JASON BOURNE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://m.media-amazon.com/images/M/MV5BNmE0YjJlNzctZjdiMy00ZWZmLWIzYzYtMGIxNDNjZDkxZmQyXkEyXkFqcGdeQXVyMTE5NzI0NDM@._V1_SY1000_SX750_AL_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20JASON%20BOURNE.txt</externallink>
 <fanart>https://ogimg.infoglobo.com.br/in/19774691-7a4-3d7/FT1086A/652/xJason-Bourne-2016-2.jpg.pagespeed.ic.xO2L1OgN0_.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JOGOS VORAZES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/CQ2-36VcRm25uTNN56BhBqCMtvk=/290x478/smart/media/movies/covers/2011/12/5e20ba2d5072f9ff5661fb1ddf37deb4.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20JOGOS%20VORAZES.txt</externallink>
 <fanart>https://cdn.fstatic.com/public/articles/files/2013/11/b8689968-f609-4c54-bef1-20a67f1ba695.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR][COLOR white]JOHN WICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://cdn.fstatic.com/media/movies/photos/2016/03/de-volta-ao-jogo_t78749.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20JHON%20WICK.txt</externallink>
 <fanart>https://media.fstatic.com/YRS4-XD-ED-zYeUDlIfmmKcKnVs=/full-fit-in/629x300/media/articles/main/2019/06/11/d37cdd1d-4f9b-45bf-9eb4-c3376b99c788-1807984679.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JORNADA NAS ESTRELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.pinimg.com/originals/af/7a/c7/af7ac705a7ed31a7c7dbe5d436fa145c.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20JORNADA%20NAS%20ESTRELAS.txt</externallink>
 <fanart>https://i.pinimg.com/originals/dd/c4/1a/ddc41ad6bb9725d050cbcd08984c5fa1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JURASSIC PARK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r8TWaAExHbFRzyqT3Vcbq1XZQb.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20JURASSIC%20PARK.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/rl2mFCm04GqHOz3RjSzrXqWB3M9.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]KARATE KID[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOEQmFDkDKz3pgKo25UfC236zVC.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20KARATE%20KID.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/g8Q4QfwO3curRpMqE4JUxPXfL3H.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MAD MAX[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWaYIL6S60Xt47Mud-MiGfRExtSiJuMAN729h9YIvZcUS0UPfu&usqp=CAU</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20MAD%20MAX%20.txt</externallink>
 <fanart>https://http2.mlstatic.com/mad-max-coleco-4-em-1-D_NQ_NP_676374-MLB26218531728_102017-F.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MATRIX[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTv8AdAT4P8ivqK9f3b9WyHApGMhma8HbEwvR1Akz7wLIscWD-r</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20MATRIX.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQbAZN2wr3MhIoAtmThprkS5EgIL3oYZgnZqgfx-Yv8GopPU7E0</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]MISSAO IMPOSSIVEL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN2N23/image?locale=pt-br&purposes=BoxArt&mode=scale&q=90&w=162</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20MISSAO%20IMPOSSIVEL.txt</externallink>
 <fanart>https://delfos.net.br/wp-content/uploads/2018/07/2018-07-23-miss%C3%A3oimposs%C3%ADvelefeitofallout1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel> 
+<info>[B][COLOR yellow][/COLOR][/B]</item> 
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O ESCORPIAO REI[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/original/qFVW76HRCJFRtTha1vZO1tjYVQ1.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20O%20ESCORPIAO%20REI.txt</externallink>
 <fanart>https://conteudo.imguol.com.br/c/entretenimento/e8/2017/06/14/the-rock-e-michael-clarke-duncan-em-cena-de-escorpiao-rei-1497470369818_v2_1482x1000.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel> 
+<info>[B][COLOR yellow][/COLOR][/B]</item> 
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O EXTERMINADOR DO FUTURO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://m.media-amazon.com/images/I/51UrXIxrJsL.jpg/thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20EXTERMINADOR%20DO%20FUTURO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/wh4ze6klUbeichAj603OKZwY1W5.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel> 
+<info>[B][COLOR yellow][/COLOR][/B]</item> 
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]OS MERCENARIOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/30/13/20028673.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20OS%20MERCENARIOS.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSoqONx96pQpWG1EWGmIpfMLKxhurOdUOWN1Tajv86dyz3-Ohvy</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ONZE HOMENS E UM SEGREDO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/8NbSiE9xnymrcMEfiUbSM9it7hq.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ONZE%20HOMENS%20E%20UM%20SEGREDO.txt</externallink>
 <fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]O SENHOR DOS ANEIS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/8/87/Ringstrilogyposter.jpg/250px-Ringstrilogyposter.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20O%20SENHOR%20DOS%20ANEIS.txt</externallink>
 <fanart></fanart>
-</channel>
+</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]PIRATAS DO CARIBE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhSHjTdjlFWk1EREvVFqzV3d566ytQMUR1e-pSUdsdwKSedTso</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20PIRATAS%20DO%20CARIBE.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROvA-XtW6m6fM0MDUG914Om12HlYKQAej1G-gW1nFVi9RwDF3z</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]QUARENTENA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/4wO6cBwV-VPCpYReY01stBqB-wY=/fit-in/290x478/smart/media/movies/covers/2010/08/7a96cb546ceef1f75e2e25ea640f5d61.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20QUARENTENA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ilhxNZplLP0sVp1lxYy0WXuEoJC.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RAMBO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://filmesgratis.org/wp-content/uploads/2019/02/Rambo-4-torrent-download-dublado-bluray.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20RAMBO.txt</externallink>
 <fanart>https://i.pinimg.com/originals/5d/26/98/5d2698c71ed17ccaa88b509736280022.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RESIDENT EVIL[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://sites.google.com/site/downloaddefilmess/_/rsrc/1309477403744/resident-evil-1-2-3-4/Trilogia-Resident-Evil_BaixarFilmesOnline_Tv1.jpg?height=400&width=283</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20RESIDENT%20EVIL.txt</externallink>
 <fanart>https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2017/01/24085001/resimovie.jpg?fit=1500%2C871&ssl=1</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]RIDDICK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/NySWQBzo_zIRHzu12M-lC0E7xLg=/210x312/smart/media/movies/covers/2018/08/A_Batalha_de_Riddick.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20RIDDICK.txt</externallink>
 <fanart>https://media.fstatic.com/N5l6dd_4cUyXqKXElMBXX976jEo=/640x480/smart/media/movies/covers/2012/05/3372ab1aee4b6c9cb1be0e94fa19eb67_2.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROCKY[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://assistirfilmesonline.pro/wp-content/uploads/2019/07/rocky-210x300.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ROCKY%20.txt</externallink>
 <fanart>https://boletimnerd.com.br/wp-content/uploads/2016/06/maratona-rocky-balboa-megapix-1.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ROGUE WARFARE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/78hDh9EHDMbox4FlKlOrRfrmgpU.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ROGUE%20WARFARE.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/iQxJuPqCGOO4Iy3uFbMWCIGHkwE.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  SAGA ROBERT LANGDON[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Robert_Langdon_film_series_home_release_artwork.jpeg/220px-Robert_Langdon_film_series_home_release_artwork.jpeg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20A%20SAGA%20ROBERTO%20LANGDON.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5DjYDwtCRWjGY8acWmFW4I4Pf0Nw9MV1dl1BaIOwM2fSDTTDl</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
 
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SHREK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/e/e6/Shrek_Poster.jpg/215px-Shrek_Poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20SHREK.txt</externallink>
 <fanart>https://live.mrf.io/statics/i/ps/amenteemaravilhosa.com.br/wp-content/uploads/2018/08/shrek-fiona-burro.jpeg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOMB RAIDER[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/hb1xbCaA7VCTrPaWbawDV6IO8Jc=/290x478/smart/media/movies/covers/2018/07/tomb-raider-5b0d895925482.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20TOMB%20RAIDER.txt</externallink>
 <fanart>https://media.fstatic.com/Ob7O2RfyY2SKAZNKx1YIbYMnR0c=/640x480/smart/media/movies/covers/2017/03/IMG_20170328_131317.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/hb1xbCaA7VCTrPaWbawDV6IO8Jc=/290x478/smart/media/movies/covers/2018/07/tomb-raider-5b0d895925482.jpg</thumbnail>
 <externallink></externallink>
 <fanart>https://media.fstatic.com/Ob7O2RfyY2SKAZNKx1YIbYMnR0c=/640x480/smart/media/movies/covers/2017/03/IMG_20170328_131317.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TRANSFORMERS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/e/ee/Transformers-poster.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20TRANSFORMERS.txt</externallink>
 <fanart>https://img.estadao.com.br/thumbs/640/resources/jpg/7/9/1530138434297.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]TROPAS ESTELARES[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://minhateca.org/wp-content/uploads/2019/08/Tropas-Estelares-8211-Trilogia-Dublado.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20TROPAS%20ESTELARES%20.txt</externallink>
 <fanart>https://www.planocritico.com/wp-content/uploads/2020/06/tropas_estelares_plano_critico-620x400.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UMA NOITE NO CRIME (THE PURGE )[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://3.bp.blogspot.com/-WYvK5vonqpE/W47xSRfH83I/AAAAAAAAQhE/u7hBsVPo_QARYRKRbnmiXo3dpUpFZ2r_wCLcBGAs/s1600/Trilogia%2BUma%2BNoite%2Bde%2BCrime%2Bcole%25C3%25A7%25C3%25A3o%2Bcompleta%2Btodos%2Bos%2Bfilmes%2Btorrent%2Bdownload%2Bdublado.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20UMA%20NOITE%20NO%20CRIME.txt</externallink>
 <fanart>https://media.fstatic.com/lg963jYFD4eA8DeymC_PzGgah2Q=/full-fit-in/629x300/media/articles/main/2015/02/dd4a6cf1-9f1a-4c72-a919-6cde9c27a5f1.jpe</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]UM POLICIAL BOM PRA CACHORRO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/21mBNUe0X4WYywe6w5DyihltmAn.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20%20UM%20POLICIAL%20BOM%20PRA%20CACHORRO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/5Qb522GHp2eJlcwr6BHnu3hLTQZ.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VELOZES E FURIOSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://img.comunidades.net/bai/baixefilmeshd/saga_velozes_e_furiosos_340x311_.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20VELOZES%20E%20FURIOSOS%20.txt</externallink>
 <fanart>https://www.coxinhanerd.com.br/wp-content/uploads/2017/04/topolista2.png</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 ######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]X-MEN[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lojasaraiva.vteximg.com.br/arquivos/ids/1417408/1000858937.jpg?v=637003781718900000</thumbnail>
-<externallink>https://pastebin.com/raw/inErSBaS</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87%C3%83O%20X-MEN.txt</externallink>
 <fanart>https://blogs.uai.com.br/opipoqueiro/wp-content/uploads/sites/54/2016/05/x-men-apocalypse.jpg</fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</channel>
+<info>[B][COLOR yellow][/COLOR][/B]</item>
 #####################################################################################################################################
