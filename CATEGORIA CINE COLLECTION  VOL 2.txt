@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANACONDA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FNlRHei9SDdlMSXyvzn0A4R42yw=/290x478/smart/media/movies/covers/2009/02/584aa81971082cf28746d287b16eb9e1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/dr4KpfDn</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20ANACONDA.txt</externallink>
 <fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdzvAjXCbpFVbRh-NL8oZFjFt6kFwfNDVdcw&usqp=CAU</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></channel>
 ######################################################################################################################################
@@ -10,7 +10,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]A MUMIA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/O1Dod8MPE97xHvi1OOVdna-dFtg=/290x478/smart/media/movies/covers/2014/06/a-mumia_t113.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/dd68NMbu</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/COLE%C3%87AO%20A%20MUMIA.txt</externallink>
 <fanart>https://www.themoviedb.org/t/p/original/9a9GpRaCkdcPfa5z0vPQj9ldtQh.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></channel>
 ######################################################################################################################################
