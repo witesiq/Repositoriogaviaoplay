@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]JAMES BOND 007[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://lh4.googleusercontent.com/-XoX-K4cTXps/UKiMDrUxFkI/AAAAAAAAD3A/OIOnp7Og6PU/s320/5yW8y.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/D1Xhx8AW</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20007.txt</externallink>
 <fanart>https://www.ganhador.com/app/uploads/2020/04/007.jpg</fanart>
 <info>[B][COLOR yellow][/COLOR][/B]</info></channel>
 ######################################################################################################################################
