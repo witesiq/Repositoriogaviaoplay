@@ -1,7 +1,7 @@
 <item><name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLLECTION [COLOR yellow]VOL 1[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/tgWx72p8/cine-colection-vol-1.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/239U25TD</externallink></item>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20CINE%20COLLECTION%20VOL%201.txt</externallink></item>
 #####################################################################################################################
 <item><name>[COLOR gold][B]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLECTION [COLOR yellow] VOL 2[/COLOR][COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/B][/COLOR]</name>
 <thumbnail>https://i.postimg.cc/ZRmyNpqn/cine-colection-vol-2.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/YBDfLKAu</externallink></item>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20CINE%20COLELCTION%20%20VOL%202.txt</externallink></item>
