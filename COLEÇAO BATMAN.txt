@@ -1,16 +1,14 @@
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white][/COLOR]BATMAN - FILMES [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/pj6AaYzNoqk5PmXtaCoxmSijWNE=/290x478/smart/media/movies/covers/2019/05/batman1989-187616_x9aoGlA.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ZYrTBECt</externallink>
 <fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channels></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 #######################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]BATMAN - ANIMAÇÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/FD8SCy-2FBJmzGL024glQXJQ9NQ=/290x478/smart/media/movies/covers/2017/05/bat.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/ApWqpXXU</externallink>
 <fanart></fanart>
-<info>[B][COLOR yellow][/COLOR][/B]</info></channels></channel>
+<info>[B][COLOR yellow][/COLOR][/B]</info></item>
 #######################################################################################################################################
