@@ -18,7 +18,7 @@
 ##########################################################################################################################################
 <item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/KvdQkXXF/cine-on-line.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/ANIME%20%20DESENHO%20.txt</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20CINE%20ON%20LINE.txtt</externallink>
 <fanart>https://i.postimg.cc/rm8r0jFq/fanart-cine-n-line.jpg</fanart>
 <info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA DESDE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info></item>
 ##########################################################################################################################################
