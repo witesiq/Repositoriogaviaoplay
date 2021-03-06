@@ -1,6 +1,6 @@
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links Torrente[/COLOR][/B]</info></item>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR white]A Mumia [COLOR yellow](1999)[/COLOR][/B]</title>
@@ -28,8 +28,8 @@
 <info>[B][COLOR yellow]Nas profundezas do deserto, uma antiga rainha, cujo destino foi injustamente lhe tirado está mumificada. Apesar de sepultada em sua cripta, ela desperta nos dias atuais. Com uma maldade acumulada ao longo dos anos, ela espalha terror desde as areais do Oriente Médio até os becos de Londres.[/COLOR][/B]</info></item>
 
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime]links diretos [COLOR orange]###[/COLOR][/B]</title>
-<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]Todos Os Filmes Da Coleção em links diretos porem as vezes ficam of line,mas logo voltam on line[/COLOR][/B]</info></item>
+<item><title>[B][COLOR orange]### [COLOR white]SERVIDOR 2 [COLOR lime] LINK DIRETO[COLOR orange]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTA A FICAR ON LINE[/COLOR][/B]</info></item>
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 <item><title>[B][COLOR white]A Mumia [COLOR yellow](1999)[/COLOR][/B]</title>
