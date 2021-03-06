@@ -1,10 +1,10 @@
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] AÇÃO [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://pastebin.com/raw/DCHDenuQ</externallink>
-<fanart></fanart>
-<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+<thumbnail>https://i.postimg.cc/5N6Lm50n/cine-flashback.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20CINE%20FLASHBACK%20A%C3%87AO%20.txt</externallink>
+<fanart>https://i.postimg.cc/vmGB3BRz/flashback-a-o.jpg</fanart>
+<info>[B][COLOR yellow]FILMES DE AÇÃO ANTIGOS QUE FIZERAM SUCESSOS EM SUA EPOCA[/COLOR][/B]</info>
 </channel>
 
  
@@ -12,48 +12,60 @@
  <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] AVENTURA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://pastebin.com/raw/GhaM4EXT</externallink>
-<fanart></fanart>
-<info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+<thumbnail>https://i.postimg.cc/X71tvBQT/CINE-FLASHBACK-AVENTURA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20FLASHBACK%20AVENTURA.txt</externallink>
+<fanart>https://i.postimg.cc/TPQPS6fX/flashback-aventura.jpg</fanart>
+<info>[B][COLOR yellow]|FILMES DE AVENTURA ANTIGOS QUE FIZERAM SUCESSOS EM SUA EPOCA[/COLOR][/B]</info>
 </channel>
 
  
+  
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FICÇÃO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://pastebin.com/raw/H26Dpq5g</externallink>
-<fanart></fanart>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] DIVERSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/rwd3RyHz/CINE-FLASHBACK-DIVERSOS.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/m97UTqiP</externallink>
+<fanart>https://i.postimg.cc/c6q1Y1Mf/flashback-diversos.jpg</fanart>
 <info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
+</channel>
+
+
+<channels>
+<channel>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] DRAMA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/W4pBbRZ1/CINE-FLASHBACK-DRAMA.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20FLASHBACK%20DRAMA.txt</externallink>
+<fanart>https://i.postimg.cc/y8mxmRGx/flashback-drama.jpg</fanart>
+<info>[COLOR lime]FILMES DE DRAMA ANTIGOS QUE FIZERAM SUCESSOS EM SUA EPOCA[/COLOR]</info>
 </channel>
 
  
 <channels>
 <channel>
 <name>[B][[COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FAROESTE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.postimg.cc/7L0RXsw-k/CINE-FLASHBACK-FAROESTE.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/fgH996zN</externallink>
 <fanart></fanart>
 <info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
 </channel>
 
  
- 
+
 <channels>
 <channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] DIVERSOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://pastebin.com/raw/m97UTqiP</externallink>
-<fanart></fanart>
+<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] EPICO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://i.postimg.cc/mg0qYfxj/CINE-FLASHBACK-EPICO.jpg</thumbnail>
+<externallink></externallink>
+<fanart>https://i.postimg.cc/Pf01KmSQ/flashback-epico.jpg</fanart>
 <info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
 </channel>
+
 
  
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] ROMANCE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://i.postimg.cc/d110cxVZ/flashback-romantico.jpg</thumbnail>
 <externallink>https://pastebin.com/raw/fbhJ8abp</externallink>
 <fanart></fanart>
 <info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
