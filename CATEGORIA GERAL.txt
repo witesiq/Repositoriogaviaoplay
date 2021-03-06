@@ -25,7 +25,7 @@
 <item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE CATÁSTROFES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/QxVnKkHg/cine-catastrofes.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20CATASTROFES.txt</externallink>
-<fanart>https://i.postimg.cc/X7hdH9xg/fanart-cine-catastrofes.jpg</fanart>
+<fanarthttps://i.postimg.cc/J4HVCg0J/FANART-CINE-FLASHBACK.jpg</fanart>
 <info>[B][COLOR yellow]TODOS OS FILMES RELACIONADOS A CATASTROFES NATURAIS, FISICA E ESPACIAIS SERAO ADICIONADOS AQUI., SE FALTAR A DE SEU GOSTO E SO PEDIR E SERÁ ADICIONADO ASSIM QUE FOR ENCONTRADO[/COLOR][/B]</info></item>
 ##########################################################################################################################################
 <item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLLECTION[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
