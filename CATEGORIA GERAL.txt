@@ -1,182 +1,109 @@
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES AVULSOS [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES AVULSOS [COLOR yellow] (LINK DIRETO)[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/3J3jSKD5/filmes-avulsos.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/jKxJn9Z5</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/FILMES%20AVULSOS%20LISTA%201.txt</externallink>
 <fanart>https://i.postimg.cc/wMCz0W00/FANART-FILMES-AVULSOS.jpg</fanart>
-<info>[B][COLOR yellow]TODOS OS FILMES DA LISTA EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]TODOS OS FILMES DA LISTA EM LINKS DIRETOS,POREM AS VEZES FICAM OFF LINE,MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-
-
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANIMES & DESENHOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]ANIMES & DESENHOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/1t9vmDkq/anime-desenho.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/DqRsr4dM</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/ANIME%20%20DESENHO%20.txt</externallink>
 <fanart>https://i.pinimg.com/originals/01/9d/46/019d4698e01c2514ac8bd088a69097fa.jpg</fanart>
-<info>[B][COLOR yellow]COMO ENTRAR EM CONTATO COM O ADMINISTRADOR DO ADDON PARA PEDIDOS,CONVERSAS,AVISOS,ETÇ.[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]COMO ENTRAR EM CONTATO COM O ADMINISTRADOR DO ADDON PARA PEDIDOS,CONVERSAS,AVISOS,ETÇ.[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CONTATO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CONTATO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/cJWmhQ4b/contato.jpg</thumbnail>
 <externallink>IGNOREME</externallink>
 <fanart>https://i.postimg.cc/nzXJfvhw/GAVIAO-PLAY-MODELO.jpg</fanart>
-<info>[B][COLOR yellow]ENTREM EM CONTATO COMIGO ATRAVES DOS ENDEREÇOS QUE ESTAO NA IMAGEM, MUITO OBRIGADO[/COLOR][/B]</info>
-
-</channel>
-
+<info>[B][COLOR yellow]ENTREM EM CONTATO COMIGO ATRAVES DOS ENDEREÇOS QUE ESTAO NA IMAGEM, MUITO OBRIGADO[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE ON LINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/KvdQkXXF/cine-on-line.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/rv2m5Pdg</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/ANIME%20%20DESENHO%20.txt</externallink>
 <fanart>https://i.postimg.cc/rm8r0jFq/fanart-cine-n-line.jpg</fanart>
-<info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA DESDE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]OS MELHORES FILMES EM CADA CATEGORIA DESDE 2015 ESTARÃO AQUI., FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE CATÁSTROFES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE CATÁSTROFES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/QxVnKkHg/cine-catastrofes.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/kdv4ECsp</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20CATASTROFES.txt</externallink>
 <fanart>https://i.postimg.cc/X7hdH9xg/fanart-cine-catastrofes.jpg</fanart>
-<info>[B][COLOR yellow]TODOS OS FILMES RELACIONADOS A CATASTROFES NATURAIS, FISICA E ESPACIAIS SERAO ADICIONADOS AQUI., SE FALTAR A DE SEU GOSTO E SO PEDIR E SERÁ ADICIONADO ASSIM QUE FOR ENCONTRADO[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]TODOS OS FILMES RELACIONADOS A CATASTROFES NATURAIS, FISICA E ESPACIAIS SERAO ADICIONADOS AQUI., SE FALTAR A DE SEU GOSTO E SO PEDIR E SERÁ ADICIONADO ASSIM QUE FOR ENCONTRADO[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLLECTION[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE COLLECTION[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/WzYWftfJ/cine-collection.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Tk58FmxW</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20COLECTION%20CATEGORIA.txt</externallink>
 <fanart>https://i.postimg.cc/PqnZhhgp/fanart-cine-collection.jpg</fanart>
-<info>[B][COLOR yellow]AS MELHORE COLEÇÕES DE FILMES ESTARÃO AQUI,SE FALTAR A QUE VC GOSTE E SO FAZER O PEDIDO E SERA ADICIONADO LOGO QUE FOR ENCONTRADA[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]AS MELHORE COLEÇÕES DE FILMES ESTARÃO AQUI,SE FALTAR A QUE VC GOSTE E SO FAZER O PEDIDO E SERA ADICIONADO LOGO QUE FOR ENCONTRADA[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FAROESTE] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FAROESTE] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/bNMVxDt7/cine-faroeste.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/UTCTaeG8</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20FAROESTE.txt</externallink>
 <fanart>https://i.postimg.cc/P5wZBNRn/fanart-cine-faroeste.jpg</fanart>
-<info>[B][COLOR yellow]SUCESSOS DE FILMES DE FAROESTE DESDE 2014 SERÃO ADICIONADO AQUI , FAÇA O SEU PEDIDO  SE O FILME DE SEU GOSTO NÃO SER ENCONTRADO AQUI .[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]SUCESSOS DE FILMES DE FAROESTE DESDE 2014 SERÃO ADICIONADO AQUI , FAÇA O SEU PEDIDO  SE O FILME DE SEU GOSTO NÃO SER ENCONTRADO AQUI .[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/MGJsLCtt/cine-flashback.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/3QaYCWqq</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20%20CINE%20FLASHBACK%20.txt</externallink>
 <fanart>https://i.postimg.cc/5t5z2TJP/fanart-cine-flashback.jpg</fanart>
-<info>[B][COLOR yellow] OS GRANDES SUCESSOS DE BILHETERIA, PUBLICO DO PASSADO ESTARÃO AQUI NAS SUAS CATEGORIAS, FAÇA O PEDIDO SE O DE SEU GOSTO NÃO SE ENCOTRAR POSTADO.[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow] OS GRANDES SUCESSOS DE BILHETERIA, PUBLICO DO PASSADO ESTARÃO AQUI NAS SUAS CATEGORIAS, FAÇA O PEDIDO SE O DE SEU GOSTO NÃO SE ENCOTRAR POSTADO.[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE MARVEL'S[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE MARVEL'S[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/pVs6d1XX/cine-marvels.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/3eC7L2GD</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20MARVELS.txt</externallink>
 <fanart>https://i.postimg.cc/zvQbQ1wf/fanart-cine-marvels.jpg</fanart>
-<info>[B][COLOR yellow]TODAS AS PRODUÇÕES DO ESTUDIO MARVEL'S ESTARÃO POSTADO AQUI .[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]TODAS AS PRODUÇÕES DO ESTUDIO MARVEL'S ESTARÃO POSTADO AQUI .[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE RELIGIOSO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE RELIGIOSO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/x1M5LsYm/cine-religioso.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Ruw7zHPa</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20RELIGIOSO.txt</externallink>
 <fanart>https://i.postimg.cc/yxx3nNZ5/fanart-cine-religioso.jpg</fanart>
-<info>[B][COLOR yellow]OS FILMES RELIGIOSOS , DE QUALQUER DOUTRINA SERA ADICIONADO AQU, SE O FILME DE SUA PREFERÊNCIA NÃO SE ENCONTRAR E SO FAZER O PEDIDO QUE SERÁ ATENDIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]OS FILMES RELIGIOSOS , DE QUALQUER DOUTRINA SERA ADICIONADO AQU, SE O FILME DE SUA PREFERÊNCIA NÃO SE ENCONTRAR E SO FAZER O PEDIDO QUE SERÁ ATENDIDO ASSIM QUE POSSÍVEL[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DOUTRINA ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]DOUTRINA ESPIRITA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/V6LFQmt9/doutrina-espirita.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/0ATSuHHg</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20DOUTRINA%20ESPIRITA.txt</externallink>
 <fanart>https://i.postimg.cc/q7rtSw-K2/fanart-doutrina-espita.jpg</fanart>
-<info>[B][COLOR yellow]TUDO SOBRE A DOUTRINA ESPIRITA: ENSINAMENTOS SOBRE A DOUTRINA, ESTUDO DO EVANGELHO, PALESTRAS E FILMES ESPIRITAS,ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]TUDO SOBRE A DOUTRINA ESPIRITA: ENSINAMENTOS SOBRE A DOUTRINA, ESTUDO DO EVANGELHO, PALESTRAS E FILMES ESPIRITAS,ETÇ ESTARÃO AQUI[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES LEGENDADOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/fy179dr5/filmes-legendados.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/UdKEvTVw</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20FILMES%20LEGENDADOS.txt</externallink>
 <fanart>https://i.postimg.cc/4NKh9mZH/fanart-cine-legendados.png</fanart>
-<info>[B][COLOR yellow]PARA QUEM GOSTA DE FILMES COM AUDIO ORIGINAL AQUI ESTARÃO OS MELHORES FILMES LEGENDADOS [/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]PARA QUEM GOSTA DE FILMES COM AUDIO ORIGINAL AQUI ESTARÃO OS MELHORES FILMES LEGENDADOS [/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]LANÇAMENTOS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/d11GNnM4/lan-amentos.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/bkLpDePi</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/LAN%C3%87AMENTOS.txt</externallink>
 <fanart>https://i.postimg.cc/FF3gKFNJ/filmes-2020.jpg</fanart>
-<info>[B][COLOR yellow]OS MELHORES LANÇAMENTOS QUE ESTIVER AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
+<info>[B][COLOR yellow]OS MELHORES LANÇAMENTOS QUE ESTIVER AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info></item>
 ###########################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2020[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]FILMES 2020[COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/FF3gKFNJ/filmes-2020.jpg</thumbnail>
-<externallinkhttps://pastebin.com/raw/bMyhcDdv</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20FILMES%202020.txt</externallink>
 <fanart>https://i.postimg.cc/9FvwtCF8/fanart-lan-amentos.jpg</fanart>
-<info>[B][COLOR yellow]OS MELHORES FILMES DE 2020 ,QUE ESTIVER AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]OS MELHORES FILMES DE 2020 ,QUE ESTIVER AO NOSSO ALCANCE, DE TODAS AS CATEGORIAS ESTARÃO AQUI,  SE FALTAR ALGUM DE SUA PREFERÊNCIA E SO FAZER O PEDIDO E SERÁ ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]NOVELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]NOVELAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/G345HxBF/novelas-antigas.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/TdUFWUGA</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/NOVELAS.txt</externallink>
 <fanart>https://i.postimg.cc/MpVM9NnW/fanart-novelas.jpg</fanart>
-<info>[B][COLOR yellow]PARA OS NOVELISTAS MELHORES AQUI ENCONTRARÃO NOVELAS  QUE JA FIZERAM SUCESSO ESTARAO AQUI SE FALTAR A DO SEU GOS  ENTRE EM CONTATO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]PARA OS NOVELISTAS MELHORES AQUI ENCONTRARÃO NOVELAS  QUE JA FIZERAM SUCESSO ESTARAO AQUI SE FALTAR A DO SEU GOS  ENTRE EM CONTATO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail>https://i.postimg.cc/Jh7TmNVB/series.jpg</thumbnail>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<thumbnail>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20SERIES.txt</thumbnail>
 <externallink>https://pastebin.com/raw/rxw512fM</externallink>
 <fanart>https://i.postimg.cc/TwF576J3/series.jpg</fanart>
-<info>[B][COLOR yellow]AS MELHORES SERIES NACIONAIS E INTERNACIONAIS, ATUAIS E ANTIGAS ESTARÃO AQUI[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]AS MELHORES SERIES NACIONAIS E INTERNACIONAIS, ATUAIS E ANTIGAS ESTARÃO AQUI[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
+<item>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]TOP CINE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/RCTNJKj0/top-cine.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/TsQmArhS</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20TOP%20CINE%20.txt</externallink>
 <fanart>https://i.postimg.cc/bJNZNv3J/fanart-top-cine.jpg</fanart>
-<info>[B][COLOR yellow]O MELHOR DO CINEMA EM TORRENTS EM SUAS CATEGORIAS ENCONTRADOS ESTARAO AQUI, SE FALTAR O DO SEU GOSTO ENTRE EM CONTATO E FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]O MELHOR DO CINEMA EM TORRENTS EM SUAS CATEGORIAS ENCONTRADOS ESTARAO AQUI, SE FALTAR O DO SEU GOSTO ENTRE EM CONTATO E FAÇA SEU PEDIDO E SERA ATENDIDO ASSIM QUE POSSIVEL[/COLOR][/B]</info></item>
 ##########################################################################################################################################
-<channels>
-<channel>
-<name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIDEOSCLIPS & MUSICAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
+<item><name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]VIDEOSCLIPS & MUSICAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/4y3XdrPw/video-clips-e-audio.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/nirisiVp</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20VIDEOSAUDIOS.txt</externallink>
 <fanart>https://i.postimg.cc/d0nDL1wD/FANART-VIDEOS-E-MUSICAS.jpg</fanart>
-<info>[B][COLOR yellow]OS MELHORES VIDEOCLIPS E AUDIOS DE MUSICAS ANTIGOS E ATUAIS, RADIOS ON LINE , ETÇ ESTARÃO AQUI[/COLOR][/B]</info>
-
-</channel>
+<info>[B][COLOR yellow]OS MELHORES VIDEOCLIPS E AUDIOS DE MUSICAS ANTIGOS E ATUAIS, RADIOS ON LINE , ETÇ ESTARÃO AQUI[/COLOR][/B]</info></item>
 ##########################################################################################################################################
