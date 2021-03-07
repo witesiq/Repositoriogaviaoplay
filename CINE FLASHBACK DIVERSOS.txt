@@ -1,89 +1,161 @@
-EXTINF:-1 tvg-logo="" group-title="Flasback Diversos",[COLOR red][COLOR yellow] ()[/COLOR]
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjaWtc1vVJsZQ1fF63ZMYWPXR1k.jpg" group-title="Flashback Diversos",Dirty Dancing - Ritmo Quente[COLOR red]romance/musical [COLOR yellow] (1987)[/COLOR]
-https://netvirtua.azureedge.net/RCFServer4/ondemand/DRTYDNCG.mp4
-#############################################################################################################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg" group-title="Flasback Diversos",Dirty Dancing 2 - Noites de Havana[COLOR red]drama/romance[COLOR yellow] (2004)[/COLOR]
-#############################################################################################################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgE5s52w0whbZBkA0lN9vgtbPKu.jpg" group-title="Flasback Diversos",Os Embalos De Sabado A Noite[COLOR red]drama/musical[COLOR yellow] (1977)[/COLOR]
-https://netvirtua.azureedge.net/RCFServer3/ondemand/OSEMBLDSBDANT.mp4
-#############################################################################################################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JWUmh3cGA73KEmPGt4LBHNXXkZ.jpg" group-title="Flasback Diversos",Os Embalos de Sábado Continuam[COLOR red]drama/musical[COLOR yellow] (2004)[/COLOR]
-https://netvirtua.azureedge.net/RCFServer4/ondemand/OSEMBLDSBDANTCNT.mp4?
-#############################################################################################################################
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg" group-title="Flasback Diversos",A Dama de vermelho[COLOR red]comedia/romance[COLOR yellow] (1984)[/COLOR]
-http://sv2.gdrives.net/video.mp4?K2dqb3JhNU1aajBrbWc4dlVrVGhHRnp6ZlZtNDA1NXRHNFFCZ295NlZMV0dpMC9XdFhTc0RzZWNobzRjUXdnSDhHSVN3U09sbzJPZFdKRVp0Mm5NQ3c9PTo6K4Jj+yKAvESOL7r4JWuxMQ==/
-#############################################################################################################################
-<item><title>[COLOR white][COLOR yellow]()[/COLOR]</title><link>https://svr3.cloudplayer.online/link/qXKl65f15JUSIac/360/af573720914899dd14adaee454d0e459/</link><thumbnail>https://flixfilmes.org/wp-content/uploads/2020/01/2fCGdTyyCpZbVTcBvi0dB0a7kNc.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Grease - No Tempo Da Brilhantina[COLOR yellow](1978)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/cozJE4goxZXd6dI/1080/cc73d12d4025f308fbbff9e876d9aa11/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ReGmRHrW4u84CrRvsln1PfkSfJ.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Grease 2- No Tempo Da Brilhantina Voltaram[COLOR yellow](1982)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/kRZ5KP5YMI4axLw/1080/b2adc4aff1b86a8d0fa9ee7cf1cec6d9/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1suaVe21pJPjLTaQG8YzFRLuHbH.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Footllose- Ritmo louco[COLOR yellow](1984)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/rvfAvpKuFPyMnwc/720/807567f768db83e700e96a14ef76f468/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3RAC5tavbKKjzhLhFNbgprHpAV.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Curtindo A Vida Adoidado[COLOR yellow](1986)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/zgtx39Za98GRXpv/1080/5bd278564bddee721362bc36ed7b102a/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca1D6Pz9pGxPtCSMUodM6jIfbSp.jpg</thumbnail>
-</item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item><title>[COLOR white]Titanic[COLOR yellow](2004)[/COLOR]</title><link>https://cdn01.ntcdn.stream/prop/httpdelivery/filmes/p2/45899804titanic-1997.mp4</link><thumbnail></thumbnail>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Xanadu[COLOR yellow](1980)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/SD5yMiwLd76D7Rv/1080/fcae193d39831c542bf5f74ad9a051fb/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zCkz5n80SmVAOHLEolAO4Iav0q.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white] Ghost - Do Outro Lado da Vida[COLOR yellow](2004)[/COLOR]</title><link>https://cdn20.ntcdn.stream/prop/httpdelivery/filmes/p1/371132582ghost-do-outro-lado-da-vida.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlbPxCyGhXoIUkrQY0xsY61xah7.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Flashdance: Em Ritmo de Embalo[COLOR yellow](1983)[/COLOR]</title><link>https://svr3.cloudplayer.online/link/XlXFkS4jCO1AfJw/720/4589d0844a9145bb351f499512cc214f/</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqacP0KZHd5FcurxKFpg3WZjuFk.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Salsa  - O Ritmo Quente[COLOR yellow](2004)[/COLOR]</title><utube>yw0_emXe-K0</utube><thumbnail></thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Ate O Fim[COLOR yellow](2013)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/ateofim-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzFvQc9HVcTgRXPjuJmQkRmEQBk.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Espirito De Lobo[COLOR yellow](2013)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/espiritodelobo-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9vwTzYe1BkSy9FiKpW8DnJYDFwC.jpg</thumbnail>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Guerra Nas Ruas[COLOR yellow](2017)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/guerranasruas-dub-720p.mp4</link><thumbnail>https://media.fstatic.com/9_gujJcEjf3FMtOiEI9HSUts8u8=/fit-in/290x478/smart/media/movies/covers/2017/07/download_1_UqFp8jN.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Tempo Contado[COLOR yellow](2016)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/tempocontado-leg-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPMezPW51n4HaQmUPVE1Cz2d0Oc.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]2019- O Ano Da Extincao[COLOR yellow](2009)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/2019-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLgkMhsGDOvlLrkC8HFNOLhE0wL.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]A Caverna - Perigo Subterraneo[COLOR yellow](2016)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/acavernaperigo-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOUHiXhsOoDKi1pknA0CL8conNF.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]A Grande Muralha[COLOR yellow](2016)[/COLOR]</title><link>http://wozws09969qthkl.belugacdn.link/movies/agrandemuralha-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVcQ5fk2HEZJk2guPVYTxSmP0dX.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Mama Mia[COLOR yellow](2008)[/COLOR]</title><link>https://cdn18.ntcdn.stream/prop/httpdelivery/filmes/p1/31869615mamma-mia-2008.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTy6LB6vY8UhD8ZYKcgMG6RzGJ3.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Efeito Borboleta[COLOR yellow](2004)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/efeitoborboleta-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/xjFM9vd9g4YhL4UB7OwEjcU9RcG.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Operação Valquiria[COLOR yellow](2008)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/operacaovalquiria-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cJS5ZuVrWRt6sEYDlo21ak1TNC.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]Bastardos Inglorios[COLOR yellow](2009)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/bastardosinglorios-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVN78ZkaOFiNr9IHoPQ7M0gyNib.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]A Lista De Schindler[COLOR yellow](2004)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/alistadeschindler-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1UI4XnQF7NZHBXdfRBDhVQheIz.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item><title>[COLOR white]A Bruxa De Blair[COLOR yellow](1999)[/COLOR]</title><link>http://jhbnq95330sexko.belugacdn.link/movies/abruxadeblair1999-dub-720p.mp4</link><thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjr79pTxBJ5bzoIS1FShSAk6TFk.jpg</thumbnail>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>[B][COLOR white]Dirty Dancing - Ritmo Quente[COLOR yellow] ( 1987 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:655421013b9cc602e59e016983c59f4c4847c4a6</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjaWtc1vVJsZQ1fF63ZMYWPXR1k.jpg</thumbnail>
+<info>[B][COLOR yellow]No verão de 1963, a jovem Baby (Jennifer Gray), passa as férias com os pais em um resort, Uma noite, ela segue até o alojamento dos funcionários do lugar, encantada pela música que vinha de lá. è onde encontra Johnny (Patrick Swayze), o instrutor de dança do hotel, um homem experiente e cheio de charme. Desse encontro, surge um inevitável romance entre os dois. Um romance que chega entre muitas aulas de dança e ensinamentos de amor. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white][COLOR yellow]Dirty Dancing 2 - Noites de Havana [COLOR yellow]( 2004 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fe35225b5ac7ad0ffbb3ebb9ddb3c3a87959267</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w0wPl3d1yvveInjV2kpO2NCZNMz.jpg</thumbnail>
+<info>[B][COLOR yellow] Katey Miller (Ramola Garai), jovem americana rica, muda com a família para Cuba um sno antes da revolução de Fidel Castro. Contrariando o desejo dos pais, que querem vê-la casada com um jovem do seu circulo de amizades, ela se apaixona por um garçon de hotel, o cubano Javier (Diego Luna), jovem dançarino nas horas vagas. A paixão, incentivada pelo professor de dança interpretado por Patrick Swayze, cresce durante os ensaios para o concurso de dança e o comportamento de Kattey se torna um desafio ao pai. Como pano de fundo, muito mais do que a libertação de um país, o que está no jogo; é a libertação de uma menina que, com a ajuda deste amor, se transforma em uma mulher. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]Os Embalos De Sabado A Noite[COLOR yellow] ( 1977 [/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BYTU74W34Z3U7NH5WROHTHLPPDEQW72L</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mgE5s52w0whbZBkA0lN9vgtbPKu.jpg</thumbnail><info>[B][COLOR yellow] Tony Manero, um jovem do Brooklyn e um excelente dançarino de disco music, só encontra significado na vida quando dança, pois passar a semana trabalhando em uma loja de tintas não o gratifica de forma nenhuma. Assim ele se perfuma, se veste de um jeito fashion e vai para a discoteca no final de semana. Sob a influência de seu irmão, um padre frustrado, e de Stephanie, sua parceira de dança, começa a questionar a maneira como encara a vida e a limitação de suas perspectivas. Paralelamente Tony, vive uma crise amorosa, enquanto se prepara para participar de um concurso em uma discoteca. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]Os Embalos de Sábado Continuam[COLOR yellow] ( 1983 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57045EC64E28066EC088B217F97763D79E32C34E</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/JWUmh3cGA73KEmPGt4LBHNXXkZ.jpg</thumbnail>
+<info>[B][COLOR yellow] ony Manero, trabalha agora em uma academia de ginástica e anseia ser o dançarino principal de um grande show da Broadway. Em sua vida particular ele se vê dividido entre duas mulheres: Jackie, uma professora de dança que trabalha no mesmo lugar de Tony, e Laura, a dançarina principal do show da Broadway. Enquanto Tony, se apaixona por Laura, ela só o vê como alguém atraente que serve para fazer sexo, o que gera uma rivalidade entre eles na vida profissional. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[B][COLOR white]A Dama de vermelho[COLOR yellow] ( 1984 )[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f280e1a84d7ed945fe5eb25876553426966aec0b</link>
+<thumbnail>ttps://image.tmdb.org/t/p/w600_and_h900_bestv2/ipwqVVhzFMHW56L7PtafgJJJj1A.jpg</thumbnail>
+<info>[B][COLOR yellow] Theodore Pierce (Gene Wilder) é um executivo casado e com filhos, que se vê em uma situação bem complicada. Ele começa a recordar que tudo começou quando conheceu Charlotte (Kelly LeBrock), uma deslumbrante modelo que o perturbou tanto que ele se viu motivado em trair Didi (Judith Ivey), sua amada esposa, apenas para ter um caso com ela. Theodore articula um plano para ir para a cama com esta sensual estranha e para complicar uma colega de escritório, Ms. Milner (Gilda Radner), acredita que Theodore está interessado nela. [/COLOR][/B]</info></item>
+#############################################################################################################################
+<item><title>[COLOR white][COLOR yellow]Duets - Vem Cantar Comigo( 2000 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8BDF4FD60B2B02CF6385F356B40C2590C9421050</link>
+<thumbnail>https://flixfilmes.org/wp-content/uploads/2020/01/2fCGdTyyCpZbVTcBvi0dB0a7kNc.jpg</thumbnail>
+<info>[B][COLOR yellow]Seis cantores amadores resolvem se inscrever no Grande Concurso de Karaokê em Omaha, Nebraska. Lá eles tem a grande chance exibir seus talentos musicais mas, à medida que o concurso avança, eles começam a enfrentar os mais diversos contratempos. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Grease - Nos Tempos Da Brilhantina [COLOR yellow]( 1978 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D47F67A2FA34CAFC81F110AEE5D55D69776C27E9</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ReGmRHrW4u84CrRvsln1PfkSfJ.jpg</thumbnail>
+<info>[B][COLOR yellow]Na Califórnia na década de 50, Danny (John Travolta) e Sandy (Olivia Newton-John), um casal de estudantes, trocam juras de amor mas se separam, pois ela voltará para a Austrália. Entretanto, os planos mudam e Sandy por acaso se matricula na escola de Danny. Para fazer gênero ele infantilmente lhe dá uma esnobada, mas os dois continuam apaixonados, apesar do relacionamento ter ficado em crise. Esta trama serve como pano de fundo para retratar o comportamento dos jovens da época[/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Grease 2- No Tempo Da Brilhantina Voltaram [COLOR yellow]( 1982 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4590043A783177393BBBCDE9156010EC41B717C</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1suaVe21pJPjLTaQG8YzFRLuHbH.jpg</thumbnail>
+<info>[B][COLOR yellow]Em um colégio um concurso de talentos provoca uma disputa interna. Enquanto isto um novo aluno, que veio da Inglaterra, fica apaixonado por uma bela jovem, mas como ela sonha em ter um motoqueiro como namorado ele começa a fazer os trabalhos escolares de seus colegas para assim ganhar dinheiro para comprar sua moto e se transformar em um misterioso motoqueiro, que impressiona a todos. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Footllose- Ritmo louco [COLOR yellow]( 1984 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9994b3523595445b10e317598e148df203a97e1b</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3RAC5tavbKKjzhLhFNbgprHpAV.jpg</thumbnail>
+<info>[B][COLOR yellow]Um jovem da cidade grande se muda com sua mãe para o interior. Apaixonado por dança, ele enfrenta sérios problemas quando o conservador reverendo local resolve considerar a dança como um grave pecado. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]La Bamba [COLOR yellow]( 1987 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ed20efb5eb4def405aa11deecd3805d8d171a5</link>
+<thumbnail>https://i.imgur.com/M4Yfqn3.jpg</thumbnail>
+<info>[B][COLOR yellow]Richard Stephen Valenzuela, mais conhecido como Ritchie Valens (Lou Diamond Phillips), marcou o final dos anos 50 com uma carreira meteórica, recheada de sucessos e pontuada por uma das canções mais famosas de todos os tempos: "La Bamba". [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Curtindo A Vida Adoidado[COLOR yellow]( 1986 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f155eb98f58944f45812d68744d8b5883e9a72bd</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ca1D6Pz9pGxPtCSMUodM6jIfbSp.jpg</thumbnail>
+<info>[B][COLOR yellow]No último semestre do curso do colégio, estudante (Matthew Broderick) sente um incontrolável desejo de matar a aula e planeja um grande programa na cidade com a namorada (Mia Sara), seu melhor amigo (Alan Ruck) e uma Ferrari. Só que para poder realizar seu desejo ele precisa escapar do diretor (Jeffrey Jones) do colégio e de sua própria irmã (Jennifer Grey). [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Footloose - Ritmo Contagiante [COLOR yellow]( 2010 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C05F213097135AD4FA9E6801C3E48789A373E857</link>
+<thumbnail>https://1.bp.blogspot.com/-7t8sb4VHCg8/Wt56Nco8_yI/AAAAAAAAKw4/bjqasyUNhXIlIwIf-DLD_SjRG39T4ga8wCLcBGAs/s1600/Footloose%2BRitmo%2BContagiante%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info>[B][COLOR yellow]Ren MacCormack (Kenny Wormaid) vai morar com os tios em uma cidade do interior, após a morte da mãe. Apaixonado pela dança, ele enfrenta problemas com o reverendo Shawn Moore (Dennis Quaid), que baniu a dança da cidade devido a um grave acidente.
+[/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Xanadu [COLOR yellow]( 1980 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7E44D86957C3FD2C3BA5585F1C07F7243BF8D705</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9zCkz5n80SmVAOHLEolAO4Iav0q.jpg</thumbnail>
+<info>[B][COLOR yellow]Kira (Olivia Newton-John), deusa grega da dança, vem à Terra ajudar o artista Sonny Malone (Michael Beck) a realizar seu grande sonho de abrir uma inovadora casa noturna. O experiente dançarino Danny McGuire (Gene Kelly) também contribui na empreitada, mas tudo se complica quando Kira acaba se apaixonando por Sonny, contrariando as ordens de Zeus. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white] Ghost - Do Outro Lado da Vida [COLOR yellow]( 2004 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71C6F6120C4D437B89CA4D020F243F2A8755DF87</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/wlbPxCyGhXoIUkrQY0xsY61xah7.jpg</thumbnail>
+<info>[B][COLOR yellow]Sam Wheat (Patrick Swayze) e Molly Jensen (Demi Moore) formam um casal muito apaixonado que tem suas vidas destruídas, pois ao voltarem de uma apresentação de "Hamlet" são atacados e Sam é morto. No entanto, seu espírito não vai para o outro plano e decide ajudar Molly, pois ela corre o risco de ser morta e quem comanda a trama, e o mesmo que tirou sua vida, é quem Sam considerava seu melhor amigo. Para poder se comunicar com Molly ele utiliza Oda Mae Brown (Whoopi Goldberg), uma médium trambiqueira que consegue ouvi-lo, para desta maneira alertar sua esposa do perigo que corre. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Flashdance: Em Ritmo de Embalo[COLOR yellow] ( 1983 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4543d32da255629e4001a38b94b1edf10baf5d4</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqacP0KZHd5FcurxKFpg3WZjuFk.jpg</thumbnail>
+<info>[B][COLOR yellow]Flashdance conta a divertida e emocionante história de Alex Owens (Jennifer Beals), uma jovem de 18 anos, bonita e altamente determinada. Owens trabalha como metalúrgica durante o dia e à noite é uma exótica dançarina em uma casa noturna. O filme traz hits clássicos dos anos 80, incluindo as canções mais conhecidas da época como "Flashdance-What A Feeling" de Irene Cara e "Maniac" na voz de Michael Sembello. Esse filme, que propagou a moda de blusas de moleton rasgadas, numa combinação com meias de lã, traça toda a luta e trajetória de Alex, possuidora de muita garra e personalidade forte, na busca pelo amor ideal e, ainda, na realização do sonho de ser, um dia, aluna no Conservatório Pittsburgh de Dança. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Splash - Uma Sereia em Minha Vida [COLOR yellow](1984)[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1EAA468C9BC8B31DBEFFD3F0619A816CA7228F8</link>
+<thumbnail>https://1.bp.blogspot.com/-i5PjeVwn3z8/Vbaz70Gi8nI/AAAAAAAAAeg/hnpxIbomgec/s1600/splash.jpg</thumbnail>
+<info>[B][COLOR yellow] A história começa em 1959 quando um menino tem sua vida salva por uma sereia adolescente. 25 anos depois, a sereia (Daryl Hannah), que se tranformou em uma bela mulher loira, resolve pisar em terra seca atrás de Allen Bauer (Tom Hanks), o garoto que salvara. A sereia, que agora anda sobre duas pernas, adota o nome de Madison à partir de uma placa de rua que viu na cidade de Nova York. Quando Allen e Madison se encontram, se apaixonam, mas um laboratório secreto do governo, comandado por Walter Kornbluth (Eugene Levy) rapta a jovem para fins de pesquisa. A partir daí Allen pede ajuda a seu irmão para Freddie Bauer (John Candy) para recuperar sua amada. [/COLOR][/B]<info></item>
+#############################################################################################################################>
+<item><title>[COLOR white]Lambada! A Dança Proibida [COLOR yellow]( 1990 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:345C2225616A9E4C9DFCE9E54319527F35437BA3</link>
+<thumbnail>https://i.imgur.com/JhG9UNb.jpg</thumbnail>
+<info>[B][COLOR yellow]No início da década de 1990, as florestas tropicais brasileiras estão sob a ameaça de uma grande multinacional americana. Buscando uma solução, a princesa Nisa (Laura Harring) viaja com o xamã Joa (Sid Haig) para Los Angeles, a fim de encontrar um modo de salvar a fauna e flora do local. Mas os planos não dão muito certo: Joa é preso e Nisa deve encontrar, sozinha, a solução para impedir a destruição da floresta. A salvação vem quando ela encontra um jovem que dançarino, e juntos resolvem participar de uma competição de lambada promovida por uma emissora de TV. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Mama Mia [COLOR yellow]( 2008 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7AEFAFA57D62050BB2544742B5C54AD62BC61B1F</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/eTy6LB6vY8UhD8ZYKcgMG6RzGJ3.jpg</thumbnail>
+<info>[B][COLOR yellow]1999, na ilha grega de Kalokairi. Sophie (Amanda Seyfried) está prestes a se casar e, sem saber quem é seu pai, envia convites para Sam Carmichael (Pierce Brosnan), Harry Bright (Colin Firth) e Bill Anderson (Stellan Skarsgard). Eles vêm de diferentes partes do mundo, dispostos a reencontrar a mulher de suas vidas: Donna (Meryl Streep), mãe de Sophie. Ao chegarem Donna é surpreendida, tendo que inventar desculpas para não revelar quem é o pai de Sophie. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Burlesque [COLOR yellow]( 2010 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7B9A8B01269EC4D68BBCA78B0DF840C288526897</link>
+<thumbnail>https://torrentoon.org/capa/burlesque-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow][/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]O Guarda-Costas[COLOR yellow] ( 1992 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c1d96f1662e0f9b59550ab8ea6d4854a76162b</link>
+<thumbnail>https://torrentoon.org/capas/o-guarda-costas-the-bodyguard-download-torrent-1992-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Frank Farmer (Kevin Costner), um guarda-costas altamente eficiente e caro, é contratado para proteger Rachel Marron (Whitney Houston), uma grande cantora e atriz, que está recebendo cartas anônimas e ameaçadoras. Frank é um ex-agente do Serviço Secreto que ainda não se perdoou do sentimento de culpa em relação à sua inabilidade de proteger o presidente Reagan, que quase foi assassinado por John Hinckley. Frank e Rachel se apaixonam mas ele não deixa este amor evoluir, pois quando estão juntos Rachel fica vulnerável. Paralelamente, novos atentados acontecem. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Férias Frustradas em Las Vegas [COLOR yellow](1997 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c3e3a9233e8fc6a6b7d8342271f7505855d0068</link>
+<thumbnail>https://i.imgur.com/0wWjRvB.jpg</thumbnail>
+<info>[B][COLOR yellow]Quando as férias chegam, Clark Griswold (Chevy Chase) decide levar sua família para passar um tempo em Las Vegas. Lá, eles encontram os primos Eddie (Randy Quaid) e Catherine (Miriam Flynn), e também a prima Vicky (Shae D'lyn), que eles descobrem ser dançarina de uma gaiola em uma boate. No meio disso tudo, Clark descobre que não pode se controlar em relação ao jogo, e enquanto isso sua esposa passa o tempo ao lado de outro homem. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Pequena Miss Sunshine [COLOR yellow]( 1996 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9265bc7419e9b646c0c990e1b7d9ab1c6f88d2ac</link>
+<thumbnail>https://i.imgur.com/M14Q0SK.jpg</thumbnail>
+<info>[B][COLOR yellow]Nenhuma família é verdadeiramente normal, mas a família Hoover extrapola. O pai desenvolveu um método de auto-ajuda que é um fracasso, o filho mais velho fez voto de silêncio, o cunhado é um professor suicida e o avô foi expulso de uma casa de repouso por usar heroína. Nada funciona para o clã, até que a filha caçula, a desajeitada Olive (Abigail Breslin), é convidada para participar de um concurso de beleza para meninas pré-adolescentes. Durante três dias eles deixam todas as suas diferenças de lado e se unem para atravessar o país numa kombi amarela enferrujada. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]A Proposta [COLOR yellow]( 1990 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87f140883eb0497151b0fbfa043ee43bfa228aab</link>
+<thumbnail>https://i.imgur.com/II66RTw.jpg</thumbnail>
+<info>[B][COLOR yellow]Margaret Tate (Sandra Bullock) é uma poderosa editora de livros, que se vê em apuros ao ser comunicada de sua deportação para o país-natal, o Canadá. Para evitar que isto ocorra ela declara estar noiva de Andrew Paxton (Ryan Reynolds), seu assistente. Perseguido por Margaret há anos, ele aceita participar da farsa mas impõe algumas condições. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Missão Madrinha de Casamento [COLOR yellow]( 2010 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:935c551b69e4210921a0e72fa96907114b1b2c48</link>
+<thumbnail>https://i.imgur.com/D7tdgTx.jpg</thumbnail>
+<info>[B][COLOR yellow]Lillian (Maya Rudolph) vai se casar e convida a amiga Annie (Kristen Wiig) para ser sua madrinha. Ela, que enfrenta problemas profissionais e amorosos, resolve se dedicar à função de corpo e alma. Só que, logo no primeiro evento organizado, Annie conhece Helen (Rose Byrne), uma bela e rica mulher que quer ser a nova melhor amiga de Lillian. As duas logo passam a disputar a proximidade da amiga, assim como o posto de organizadora do casamento e demais eventos pré-nupciais. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Temos Vagas [COLOR yellow]( 2007 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b62a1bd1ac0f904a9e6c70d31d2e9922ee5fe86</link>
+<thumbnail>https://i.imgur.com/SjRQcmd.jpg</thumbnail>
+<info>[B][COLOR yellow]David (Luke Wilson) e Amy (Kate Beckinsale) estão prestes a se separar e vivem brigando. Eles estão em meio a uma viagem, numa estrada deserta e escura, até que são obrigados a passar a noite num motel de beira de estrada. O gerente do local é Mason (Frank Whaley), um homem estranho mas aparentemente inofensivo. Após se alojarem no quarto, David e Amy encontram em um esconderijo uma coleção de filmes caseiros, que têm muito sangue e são bem realistas. Até que percebem que estão alojados no mesmo quarto onde os vídeos foram filmados e que são as próximas vítimas do cineasta.[/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Temos Vagas 2 - A Primeira Diária [COLOR yellow]( 2008 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e99e5d265bdec971d1349c59eef634f0bb5c6f3</link>
+<thumbnail>https://i.imgur.com/oHGRgfx.jpg</thumbnail>
+<info>[B][COLOR yellow]Conheça a horripilante história de como tudo começou com o Sr. Smith e seu hotel dos horrores neste pavoroso episódio que antecede Temos Vagas, estrelado por Agnes Bruckner (de Cálculo Mortal). Caleb, sua nova e bela namorada Jessica e seu sarcástico amigo Tanner hospedam-se na pousada Meadow View certos de que nada de ruim vai lhes acontecer exceto uma cama dura e uma decoração de mau gosto. Eles não imaginam que não se trata apenas de mais um hotelzinho isolado, mas de uma terrível armadilha em que os hóspedes são brutalmente torturados e assassinados enquanto o sádico Sr. Smith e seus gananciosos capangas filmam os crimes bárbaros para vender os filmes no mercado negro. Presos em um jogo de gato e rato, os três amigos têm que lutar para sobreviver. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Uma Manhã Gloriosa [COLOR yellow]( 2010 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22C39B54C2DEFF0DBE6A95B74EBF4AF1F25416CE</link>
+<thumbnail>https://3.bp.blogspot.com/-t1dRinQH1Js/W3G2lvihBHI/AAAAAAAAPcE/W_LCysgtcCw_kcF2mMPOdN2Pgp1SA5r3QCLcBGAs/s1600/Uma%2BManh%25C3%25A3%2BGloriosa%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info>[B][COLOR yellow]Roteirizado por Aline Brosh McKenna (O Diabo Veste Prada), o filme acompanha uma produtora de telejornal (McAdams) que recruta um icônico e difícil âncora (Ford) para reerguer o programa matinal da emissora, coapresentado por uma ex-rainha de concurso de beleza (Keaton). Patrick Wilson e Jeff Goldblum também estão no elenco.A direção é de Roger Michell (Um Lugar chamado Notting Hill, Vênus). [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Conduzindo Miss Daisy[COLOR yellow]( 1990 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8daed66f2d5f4bd36e6415923fb346d7cf9700f8</link>
+<thumbnail>https://torrentoon.org/capa/conduzindo-miss-daisy-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Atlanta, 1948; Uma rica judia de 72 anos (Jessica Tandy) joga acidentalmente seu Packard novo em folha no jardim premiado do seu vizinho. O filho (Dan Aykroyd) dela tenta convencê-la de que seria o ideal ela ter um motorista, mas ela resiste a esta idéia. Mesmo assim o filho contrata um afro-americano (Morgan Freeman) como motorista. Inicialmente ela recusa ser conduzida por este novo empregado, mas gradativamente ele quebra as barreiras sociais, culturais e raciais que existem entre eles, crescendo entre os dois uma amizade que atravessaria duas décadas. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Os Intocáveis[COLOR yellow]( 1987 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0058B54AFBC1F9FA9EE02488FCC681B70AF50D20</link>
+<thumbnail>https://torrentoon.org/capas/os-intocaveis-the-untouchables-download-torrent-1987-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Na Chicago de 1930, quando ainda vigora a Lei Seca, o gângster Al Capone controla o crime na cidade e o tráfico de bebidas. Para detê-lo, o agente Eliot Ness organiza um grupo de policiais incorruptíveis que recebe a alcunha de "Os Intocáveis". As ações constantes do grupo inflingem duros prejuízos em Capone, que resolve revidar com violência, enquanto a corrupção que se estende aos tribunais e à própria força policial dificulta ainda mais a missão de Ness e seus homens. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]O Paciente Inglês [COLOR yellow]( 1996 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://torrentoon.org/capa/o-paciente-ingles-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]No final da Segunda Guerra Mundial, um desconhecido (Ralph Fiennes) que teve queimaduras generalizadas quando seu avião foi abatido e é conhecido apenas como o paciente inglês acaba recebendo os cuidados de uma enfermeira canadense (Juliette Binoche). Gradativamente ele começa a narrar o grande envolvimento que teve com a mulher (Kristin Scott Thomas) do seu melhor amigo (Colin Firth) e de como este amor foi fortemente correspondido. Mas da mesma forma que determinadas lembranças lhe surgem na mente, outros detalhes parecem não vir a lembrança, como se ele quisesse que tais fatos continuassem enterrados e esquecidos. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Crocodilo Dundee [COLOR yellow]( 1986 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EDF271788420A2E5E36B18F500633BCF14C022B</link>
+<thumbnail>https://torrentoon.org/capas/crocodilo-dundee-download-torrent-1986-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Uma bela e rica jornalista se apaixona por um caçador de crocodilos que a salva, em plena Austrália. Ele a protege dos perigos da selva e ela acaba levando-o para Nova York. Com Paul Hogan e Linda Kozlowski. Recebeu uma indicação ao Oscar. [/COLOR][/B]<info></item>
+#############################################################################################################################
+<item><title>[COLOR white]Crocodilo Dundee 2 [COLOR yellow](1988 )[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AEUXU3RJSI52LWDJ2UATEWXYZFHBAOTH</link>
+<thumbnail>https://torrentoon.org/capa/crocodilo-dundee-em-hollywood-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info>[B][COLOR yellow]Sue Charlton (Linda Kozlowski) é uma jornalista americana que vai até a Austrália entrevistar Michael J. "Crocodilo" Dundee (Paul Hogan), um caçador que foi muito ferido por um crocodilo. Quando ela o leva para Nova York, ele se comporta de forma pouco convencional por estar fora de seu habitat natural. [/COLOR][/B]<info></item>
