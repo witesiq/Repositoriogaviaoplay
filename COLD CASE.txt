@@ -1,20 +1,31 @@
 
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+<item><title>[B][COLOR yellow] ###########[COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR yellow]###########[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
 <item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
 
-<item><title>[B][COLOR yellow]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] COLD CASE [COLOR lime]TODAS TEMPORADAS[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65ddb11ac5a3d6dea554378667379bde3da38a80</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR yellow]### [COLOR white] COLD CASE [COLOR lime]1ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65ddb11ac5a3d6dea554378667379bde3da38a80</link><thumbnail>https://br.web.img3.acsta.net/pictures/14/01/21/15/18/147501.jpg</thumbnail></item>
 
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white] COLD CASE [COLOR lime]1ª TEMPORADA COMPLETA[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbc4c8eb35c6fad829e4febfb5e0020a8c49e1d6</link><thumbnail>IGNOREME</thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
 
+<item><title>[B][COLOR yellow]### [COLOR white] COLD CASE [COLOR lime]2ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcd55a839a1083112379711b3ca720c25a6fdc55</link><thumbnail>https://media.fstatic.com/Sii5bHNn-6HJ0coqlfhka0rCUhI=/290x478/smart/media/movies/covers/2010/05/42b5d312f78967e6e2391c16283cb386.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] COLD CASE [COLOR lime]3ª TEMPORADA COMPLETA [COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ebda8d69324868258f440e9e6e0d56a925c6c6c7</link><thumbnail>https://media.fstatic.com/aoVfhsB1h4358rA4r7PSGJgAUgU=/268x386/smart/media/movies/covers/2010/05/6b8d2fb0b13dc7ee9fba5b8dfffa306e.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] COLD CASE [COLOR lime]4ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ef2b246ee617c8d583ad43d19caaa81be4390ffd</link><thumbnail>https://media.fstatic.com/3AgvYE8J9eol0thWjo2dE60zN3k=/290x478/smart/media/movies/covers/2010/05/dc5c360e9282c726aa79bc56f37e1bb5.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] COLD CASE [COLOR lime]5ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbc4c8eb35c6fad829e4febfb5e0020a8c49e1d6</link><thumbnail>https://media.fstatic.com/DOXzLKa9eOnKgAUeBhpShGSXx4E=/290x478/smart/media/movies/covers/2010/05/657d2204f59710d40bba42891232e6cc.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] COLD CASE [COLOR lime]6ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2300f75b6308adf25a0b9ae7200a7f57fe650fc4</link><thumbnail>https://media.fstatic.com/mkzOJxkeavxTNoxX7mvR40NIOxI=/290x478/smart/media/movies/covers/2010/05/60da5b6d64eda2aa2a1e0bbb06dad4a9.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] COLD CASE [COLOR lime]7ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fe2d2619174ad4e4c070fae0c70cdc0ff912f49</link><thumbnail>IGNOREME</thumbnail></item>
 
 
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
@@ -24,7 +35,7 @@
 
 
 <item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail>[/B]</item>
-<item><title>[B][COLOR red]####[COLOR lime] COLD CASE -[COLOR yellow] 1ªTemporada[COLOR red] ####[/COLOR][/B]</title>
+<item><title>[B][COLOR red]###########[COLOR lime] COLD CASE -[COLOR yellow] 1ªTemporada[COLOR red] ###########[/COLOR][/B]</title>
 <link>IGNOREME</link>
 <thumbnail>IGNOREME</thumbnail></item>
 <item><title>[B][COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail>[/B]</item>
@@ -54,7 +65,7 @@
 <item><title>[B][COLOR white]EP 23 - [COLOR yellow]Namorados [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/ARQVMTOT01EP23.mp4</link><thumbnail>https://br.web.img3.acsta.net/pictures/14/01/21/15/18/147501.jpg</thumbnail></item>
 
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR red]####[COLOR lime] COLD CASE -[COLOR yellow] 2ªTemporada[COLOR red] ####[/COLOR]</title>
+<title>[COLOR red]###########[COLOR lime] COLD CASE -[COLOR yellow] 2ªTemporada[COLOR red] ###########[/COLOR]</title>
 <link>IGNOREME</link>
 <thumbnail>IGNOREME</thumbnail></item>
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
@@ -85,7 +96,7 @@
 
 
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR red]####[COLOR lime] COLD CASE -[COLOR yellow] 3ªTemporada[COLOR red] ####[/COLOR]</title>
+<title>[COLOR red]###########[COLOR lime] COLD CASE -[COLOR yellow] 3ªTemporada[COLOR red] ###########[/COLOR]</title>
 <link>IGNOREME</link>
 <thumbnail>IGNOREME</thumbnail></item>
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
@@ -115,7 +126,7 @@
 <item><title>[B][COLOR white]EP 23 - [COLOR yellow]Joseph [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer02/ondemand/ARQVMTOT03EP23.mp4</link><thumbnail>https://media.fstatic.com/aoVfhsB1h4358rA4r7PSGJgAUgU=/268x386/smart/media/movies/covers/2010/05/6b8d2fb0b13dc7ee9fba5b8dfffa306e.jpg</thumbnail></item>
 
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR red]####[COLOR lime] COLD CASE -[COLOR yellow] 4ªTemporada[COLOR red] ####[/COLOR]</title>
+<title>[COLOR red]###########[COLOR lime] COLD CASE -[COLOR yellow] 4ªTemporada[COLOR red] ###########[/COLOR]</title>
 <link>IGNOREME</link>
 <thumbnail>IGNOREME</thumbnail></item>
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
@@ -146,7 +157,7 @@
 <item><title>[B][COLOR white]EP 24 - [COLOR yellow]Stalker [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/ARQVMTOT04EP23.mp4</link><thumbnail>https://media.fstatic.com/3AgvYE8J9eol0thWjo2dE60zN3k=/290x478/smart/media/movies/covers/2010/05/dc5c360e9282c726aa79bc56f37e1bb5.jpg</thumbnail></item>
 
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR red]####[COLOR lime] COLD CASE -[COLOR yellow] 5ªTemporada[COLOR red] ####[/COLOR]</title>
+<title>[COLOR red]###########[COLOR lime] COLD CASE -[COLOR yellow] 5ªTemporada[COLOR red] ###########[/COLOR]</title>
 <link>IGNOREME</link>
 <thumbnail>IGNOREME</thumbnail></item>
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
@@ -171,7 +182,7 @@
 <item><title>[B][COLOR white]EP 18 - [COLOR yellow]Fantasma do Meu Filho [/COLOR][/B]</title><link>https://cdn.gamesgo.fun/RCServer14/ondemand/ARQVMTOT05EP18.mp4</link><thumbnail>https://media.fstatic.com/DOXzLKa9eOnKgAUeBhpShGSXx4E=/290x478/smart/media/movies/covers/2010/05/657d2204f59710d40bba42891232e6cc.jpg</thumbnail></item>
 
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item><item>
-<title>[COLOR red]####[COLOR lime] COLD CASE -[COLOR yellow] 6ªTemporada[COLOR red] ####[/COLOR]</title>
+<title>[COLOR red]###########[COLOR lime] COLD CASE -[COLOR yellow] 6ªTemporada[COLOR red] ###########[/COLOR]</title>
 <link>IGNOREME</link>
 <thumbnail>IGNOREME</thumbnail></item>
 <item><title>[COLOR red]############################################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
