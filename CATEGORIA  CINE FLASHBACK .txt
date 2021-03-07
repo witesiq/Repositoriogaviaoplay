@@ -44,7 +44,7 @@
 <channel>
 <name>[B][[COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] FAROESTE[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/7L0RXsw-k/CINE-FLASHBACK-FAROESTE.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/fgH996zN</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CATEGORIA%20FLASHBACK%20FAROESTE.txt</externallink>
 <fanart></fanart>
 <info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
 </channel>
@@ -55,7 +55,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]CINE FLASHBACK [COLOR yellow] EPICO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://i.postimg.cc/mg0qYfxj/CINE-FLASHBACK-EPICO.jpg</thumbnail>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/CINE%20FLASHBACK%20EPICO.txt</externallink>
 <fanart>https://i.postimg.cc/Pf01KmSQ/flashback-epico.jpg</fanart>
 <info>[COLOR lime]|[/COLOR] - ADICIONE AQUI A DESCRIÇÃO - [COLOR lime]|[/COLOR]</info>
 </channel>
