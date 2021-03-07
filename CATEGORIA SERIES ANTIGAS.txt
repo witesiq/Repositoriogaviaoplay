@@ -2,7 +2,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] 24 HORAS[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/71OcHSi5dV0VYHsczS5gdUeWNW6.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/iCUHHEma</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/24%20HORAS.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/w500_and_h282_face/u1nLaddBiOQkWcGYFCtGxzHh1dw.jpg</fanart>
 <info>[B][COLOR yellow]O Agente federal Jack Bauer não se pode dar ao luxo de jogar pelas regras. Como membro da UCT (Unidade Contra Terrorismo), Jack deve parar bombas, vírus, tentativas de assassinato, e geralmente salvar alguém que lhe é próximo. Cada temporada da série tem 24 episódios, cada um, em desdobramento em tempo real, de uma hora consecutiva num dia muito ruim.[/COLOR][/B]</info>
 ######################################################################################################
@@ -10,15 +10,15 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  A BIBLIA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cqGupIDrTHosdGTm5N0V4qMrZyf.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/SYkhPTZe</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/A%20BIBLIA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/qDDnuOJxq3jd91PHlea8XWFmfzt.jpg</fanart>
 <info>[B][COLOR yellow]Misturando contos bíblicos e parábolas, esta minissérie recria para um público moderno a visão da Bíblia sobre a humanidade e o divino.[/COLOR][/B]</info>
 ######################################################################################################
 <channels>
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  A FEITIÇEIRA [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
-<thumbnail></thumbnail>
-<externallink>https://pastebin.com/raw/tx0Xy9ND</externallink>
+<thumbnail>https://i.pinimg.com/originals/0b/d7/1e/0bd71efb1308fc406e88ea5f1f8a16d1.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/A%20FEITI%C3%87EIRA.txt</externallink>
 <fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQiQOwu7boQQU5NneAOtyYcxff80Og3HZE-MFPAUAL3oCj42oaW</fanart>
 <info>[B][COLOR yellow]A série mostra o dia a dia de uma dona de casa comum que tem poderes paranormais, Samantha, casada com o mortal Darrin, sobre quem promete não usar seus poderes. Mais tarde, já no meio da série, eles tem uma filha, Tabatha. [/COLOR][/B]</info>
 ######################################################################################################
@@ -26,7 +26,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]  ARQUIVO X [/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/p0uhiJmkzlJsvTyn0KKiLwrwGwA.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/4fYXcfvN</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/ARQUIVO%20X.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/ucyQMoSTH5FkCcQl4G4rLMtRSsJ.jpg</fanart>
 <info>[B][COLOR yellow]Dana Scully (Gillian Anderson) e Fox Mulder (David Duchovny), dois agentes do FBI investigam casos não solucionados, estranhos e inexplicáveis que envolvem fenômenos paranormais.[/COLOR][/B]</info>
 ######################################################################################################
