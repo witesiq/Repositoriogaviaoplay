@@ -1,70 +1,112 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="EDIÇÃO DE AMANHÃ",[B][COLOR RED] 1ª TEMPORADA[/B][/COLOR]
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",01 -  [COLOR yellow] Piloto [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2001.mp4
+<item><title>[B][COLOR red]#######[COLOR lime]EDIÇÃO DE AMANHA - [COLOR yellow][COLOR yellow] 1ª Temporada[COLOR red]########[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/dndYPBzvPb2G8EtDvL3kWISiV4A=/210x312/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863.jpg</thumbnail></item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",02 -  [COLOR yellow] A escolha [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2002.mp4
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow]Piloto [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2001.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow]A escolha [/COLOR][/B]</title><link>https://ia903106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2002.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow]O bebê [/COLOR][/B]</title><link>https://ia903106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2003.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow]A loteria [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2004.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow]O jornal [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2005.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow]Sonhos [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2006.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow]Depois da meia noite [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2007mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow]A arma [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2008mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow]A namorada [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2009.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow]O homem errado [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2010.mp4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow]Natal [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2011.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow]Congelando de frio [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2012.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow]Namorada de Gangster [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2013.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow]O muro ( parte 1 ) [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2014.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow]O muro ( parte 2 ) [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2015.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow]Batmasterson [/COLOR][/B]</title><link></link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2016.mp<thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow]O julgamento [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2017.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow]A sensitiva [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2018.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow]O fantásma da ópera [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2019.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow]O gato [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2020.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow]Fé [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2021.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow]Pai [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2022.mp</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow]O amor é cego [/COLOR][/B]</title><link>https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2023.mp</link><thumbnail>IGNOREME</thumbnail></item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",03 -  [COLOR yellow] O bebê [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2003.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",04 -  [COLOR yellow] A loteria [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2004.mp4
+<item><title>[B][COLOR red]#######[COLOR lime]EDIÇÃO DE AMANHA -[COLOR yellow] 2ª Temporada[COLOR red]########[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/r3h_2Ll4q8DCewuWrxco-7eGZGo=/210x312/smart/media/movies/covers/2014/11/edicao-de-amanha-2a-temporada_t91575.jpg</thumbnail></item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",05 -  [COLOR yellow] O jornal [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2005.mp4
- 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",06 -  [COLOR yellow] Sonhos [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2006.mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",07 -  [COLOR yellow] Depois da meia noite [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2007mp4
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow][COLOR yellow] Casa[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow][COLOR yellow] A Medalha[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow][COLOR yellow] O Casamento[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow][COLOR yellow] Jenny Sloan[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow][COLOR yellow] Reduzido[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow][COLOR yellow] Anjos e demônios[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow][COLOR yellow] Redfellas[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow][COLOR yellow] March In Time[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow][COLOR yellow] A Regular Joe[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow][COLOR yellow] A Bris é apenas a Bris[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow][COLOR yellow] Um pequeno milagre[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow][COLOR yellow] Romancing The Throne[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow][COLOR yellow] Ande, não corra[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow][COLOR yellow] O retorno da migalha[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow][COLOR yellow] A Palavra da Mãe[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow][COLOR yellow] Onde ou quando[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow][COLOR yellow] O Quarto Cárpato[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow][COLOR yellow] A Qualidade da Misericórdia[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow][COLOR yellow] Mostre-[COLOR yellow]me o Monet[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow][COLOR yellow] Não se afaste, Renée[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow][COLOR yellow] Tempo quente na cidade velha[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow][COLOR yellow] Segunda Visão[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",08 -  [COLOR yellow] A arma [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2008mp4
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",09 -  [COLOR yellow] A namorada [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2009.mp
+<item><title>[B][COLOR red]#######[COLOR lime]EDIÇÃO DE AMANHA - [COLOR yellow][COLOR yellow] 3ª Temporada[COLOR red]########[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/yPyP1dbMYiOwia1ebQ4Gi5KieFo=/210x312/smart/media/movies/covers/2014/11/edicao-de-amanha-3a-temporada_t91576.jpg</thumbnail></item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",10 -  [COLOR yellow] O homem errado [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2010.mp4
+<item><title>[B][COLOR white]EP 01  - [COLOR yellow] Blackout[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow] Colisão[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Um cavalo é um cavalo[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow] Tenente Hobson, USN[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow] São Nicolau[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow] Halloween[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow] Up Chuck[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow] Prazo[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>)
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow] Em Gary We Trust[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>)
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow] Nest Egg[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>)
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow] Teen Angels[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow] Slippity-Doo-Dah[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow] O Último Intocável[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow] Apenas uma daquelas coisas[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 15 - [COLOR yellow] Dia dos Namorados Engraçados[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow] Número um com uma marca[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow] Dois para emaranhar[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow] Destino[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow] Migalha de novo[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow] Pinch Hitters[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow] Home Groan[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow] Toque novamente Sammo[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 23 - [COLOR yellow] Explodir é difícil de fazer[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>)
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",11 -  [COLOR yellow] Natal [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2011.mp4
+<item><title>[B][COLOR red]#######[COLOR lime]EDIÇÃO DE AMANHA - [COLOR yellow][COLOR yellow] 4ª Temporada[COLOR red]########[/COLOR][/B]</title>
+<link>IGNOREME</link>
+<thumbnail>https://media.fstatic.com/kEetQQAqw5N7uojuGuGJz_ezk3k=/210x312/smart/media/movies/covers/2014/11/edicao-de-amanha-4a-temporada_t29909.jpg</thumbnail></item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",12 -  [COLOR yellow] Congelando de frio [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2012.mp4
+<item><title>[B][COLOR white]EP 01 - [COLOR yellow] The Out-Of-Towner[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 02 - [COLOR yellow] Tarde do Dia do Pato[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 03 - [COLOR yellow] Leve-me para o jogo de bola[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 04 - [COLOR yellow] The Iceman Taketh[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 05 - [COLOR yellow] Câmera tímida[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 06 - [COLOR yellow] Wild Card[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 07 - [COLOR yellow] Edição fatal - Parte 1[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 08 - [COLOR yellow] Edição fatal - Parte 2[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 09 - [COLOR yellow] Weathergirl[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 10 - [COLOR yellow] Corra, Gary, Corra[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 11 - [COLOR yellow] Rose[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 12 - [COLOR yellow] Snow Angels[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 13 - [COLOR yellow] Superdotado[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 14 - [COLOR yellow] Ansiedade de desempenho[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 16 - [COLOR yellow] The Play's The Thing[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 17 - [COLOR yellow] Fé Cega[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 18 - [COLOR yellow] Ocasionalmente âmbar[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 19 - [COLOR yellow] Mel Schwartz, caçador de recompensas[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 20 - [COLOR yellow] Hora[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 21 - [COLOR yellow] Everybody Goes To Rick's[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white]EP 22 - [COLOR yellow] Luck O 'The Irish[/COLOR][/B]</title><link></link><thumbnail>IGNOREME</thumbnail></item>
 
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",13 -  [COLOR yellow] Namorada de Gangster [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2013.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",14 -  [COLOR yellow] O muro ( parte 1 ) [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2014.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",15 -  [COLOR yellow] O muro ( parte 2 ) [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2015.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",16 -  [COLOR yellow] Batmasterson [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2016.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",17 -  [COLOR yellow] O julgamento [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2017.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",18 -  [COLOR yellow] A sensitiva [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2018mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",19 -  [COLOR yellow] O fantásma da ópera [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2019.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",20 -  [COLOR yellow] O gato [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2020.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",21 -  [COLOR yellow] Fé [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2021.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",22 -  [COLOR yellow] Pai [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2022.mp4
-
-#EXTINF:-1 tvg-logo="https://media.fstatic.com/MCOzXy1UpY1gt8DZRCXs9TS7Ec0=/290x478/smart/media/movies/covers/2014/11/edicao-de-amanha-1a-temporada_t75863_1.jpg" group-title="Edição de Amanha EP",23 -  [COLOR yellow] O amor é cego [/COLOR]
-https://ia803106.us.archive.org/23/items/EdioDeAmanhaTemporada01/Edi%C3%A7%C3%A3o%20de%20Amanha%201%C2%BA%20temporada%2023.mp4
