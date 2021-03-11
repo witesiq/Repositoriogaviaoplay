@@ -1,3 +1,115 @@
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
+<item><title>[B][COLOR yellow] ###########[COLOR white] SERVIDOR 1 [COLOR lime] TORRENT [COLOR yellow]###########[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS FILMES DA COLEÇÃO EM LINKS TORRENTE,É NESCESSÁRIO TER O ADDON ELEMENTUM E O  ELEMENTUM BURST INSTALADO PARA ABRIR OS LINKS[/COLOR][/B]</info></item>
+<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]1ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B43F32993B1311C012DA2D83EC1627EFC5A848DE</link><thumbnail>https://www.themoviedb.org/t/p/w342/neZuaVx5r6MoaOPnh4BSkZ5yy7e.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]2ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD5F601B4A5790F0AB20E528BC333DD46575046A</link><thumbnail>https://www.themoviedb.org/t/p/w342/mxytlJqr51qMrw2RGky2pb0LoNQ.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]3ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7E1AB3069961A2E08B3665BC5550FC4648DC3A3</link><thumbnail>https://www.themoviedb.org/t/p/w342/sPBOmNZ40pGLdlTW3wteMT91B5Y.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]4ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A4BC307AAEFCD379AA2B88608510800526DBBA09</link><thumbnail>https://www.themoviedb.org/t/p/w342/aAcgPVFfIDt2sK6vMWsP5xyvgo9.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]5ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7A469CB447B54E6D663D4E222FFC7747881E0447</link><thumbnail>https://www.themoviedb.org/t/p/w342/fsy6QAgPaY9gscYqMWU0IhFRq7V.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]6ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:481F746BE03EBAE0416C8C2856B086A0278D4622</link><thumbnail>https://www.themoviedb.org/t/p/w342/avZvb3LRJvhcJFtWdCkJkig4ae2.jpg</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]7ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w342/A0DMpkDMJMh25EwVlCZCemrvqed.jpg</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 01 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd73de1b4df1d475c643bd8c30c7842af43e915b</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 02 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6a85f5da202350eec51dba624bb6db2384e3f41</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 03/09 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eedae585f1400dfbfe2525293ddc914575906897</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 10 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd568421f2c48c2045f0dbd51f10eaaae9c6263e</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 11/12 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:007ec37134bf9ae7b011aeead2fb228c7232940f</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 13/14 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e01e5f565c6d7222b0ca1b38c72afcf28288798</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 15 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5fbf29f47c04aebcde6e97b37c060921a577c51</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 16 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbeb0a283c1b6744bd8eedd72c024cac07c22287</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 17/19 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26de5fb60a96753852d4b0598003b2b94da89bd2</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 20 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:473b12b2de7883cec9cc4108c21229f4ab91d3e4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 21 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f3a42332630860277ef7181bf2a40d4ae5312d8</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 22 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:816417c910b37ba66f4d5b63016b27ce90f39d01</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 23 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a36cb269fd0338ec85a588fd78cb5987ab52717</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 24 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ff384717703f18d5b344c3f5ad2e4524a621e68</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 25 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d92fe8563eb3efaefa23d99db970960524f28ae</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]8ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w342/xpRyeZhUNJK6espbGWHvvcgN8Pr.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white][B]EP 01 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2bd565e847d06a21c0fc074212a92872190e382</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP O2 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40e7a711e7f0fef993ec5ff60a713a546bf04c84</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 03 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5edc3e2ad22e011168140f6dd82083355d6e517</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 04 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a5d7ac51d1df3aa49c1548de44c467403479e34</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 05 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44d1ffbf1c9aab4547a5f9752b92379e6b87b24c</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 06 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8255602967e24b166ea0648ca77b43c2e1122818</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 07 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823bfb4b8368be30edd24039c0a7cfe863a30799</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 08 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0e44c96698efd77246b32ac98854d60a06b0f52</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 09 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ff966458c5fa442b577a46407209e69cbfde01e</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 10 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b8459ba7691ccdc29fdacf6ae434e44e13387ac</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 11 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57409675f54093bf49bd0e4c5fd5df114d8e7e5f</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 12 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22d18dad3943d4e8ebcb296a21f3a798d1f92d70</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 13 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9255008aafca03e33d58a668fdd0fe66418bb84a</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 14 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbb1917b2aca2ec70772306dcc5dda1b053ab126</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 15 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba0ef191b6bbf4be5b755ff91d21c1b163c1254</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 16 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06393cb7a0398dee8ffd5c65a559389cc17c04ab</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 17 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97765845da1f00b97d3bd99fbae5c9a3338260a6</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 18 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:643d35c2da16b98d88e5c6262bf4f25726334c7c</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 19 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84b3f194d08aab1f13d11a38eeee7dd1c7448807</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 20 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f686d9e8032a0608b4db5e6c3beb3ae1be86fe2e</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 21 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A9303AE86B09A7F951FD81150DDBC0A0A786B4A9</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 22 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3bd39bf88e41b85b5f87c97851044691500ad74</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 23 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26c245cab41a23e68f5ed809aa43f96d6d98bab7</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 24 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff35bcf327e06c0ed8b6408404943675eda766cb</link><thumbnail>IGNOREME</thumbnail></item>
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]9ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w342/gEbD5od43txhKQ7BaNCjN7q4txR.jpg</thumbnail></item>
+
+<item><title>[B][COLOR white][B]EP 01/02 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:120fa891a1b6ade9d8b9a999dde6d38fa7e08afd</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 03 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57c8b91ccc482c4cba537682d404ab1dbbdc05b3</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 04- [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0fd8570ddc6555148970d30871d1c812b7a30d4</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 05/06 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ec8ef65f724fe47e4486632ea7291f93fe340e1</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 07 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9ced307f6616996e851390eed90ce14e453865</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 08 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe55581e3be9babf8ddabb8258a5587b74d5278b</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 09 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60dade32b6ac5e35b859ac9c550c85d8dc51c49c</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 10 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:456073a31675d75bf36555631b77315e7e35247a</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 11/15 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73bb44621700e696f85c4ca20b12417f57d7e9bf</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 16 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f660f3be4a8c3ea8d86265f90e211d78d293cf3a</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 17 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17b806e67a6c088615af53424ffeba093c02aac8</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 18 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:356bd672dc2107e888ee29d7c9ee091ea2c802af</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 19 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3353c3cad39d4a10f20b0c9ab84bbe3e621736cf</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 20 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:647a7d133c8c12145b6d4e2059193808b8b69970</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 21/25 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83e62c5613d612ecef5dec6d95abc63bd7e3a2f1</link><thumbnail>IGNOREME</thumbnail></item>
+
+
+<item><title>[B][COLOR yellow]### [COLOR white] HAWAII 5.0 [COLOR lime]10ª TEMPORADA COMPLETA[COLOR yellow]###[/COLOR][/B]</title>
+<link>IGNOREME</link><thumbnail>https://www.themoviedb.org/t/p/w342/sIdCKlmM2nU4akIvFQaAIiU8YES.jpg</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 01/02 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b8767dd640aaf3620f464b93ea2d4a334236244</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 03/04 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b755306a33206555263ddc0446110e14b7e9c4de</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 05/06 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ca97c457c7cf07505c5526666d5043edefab3f6</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 07 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0cf4570d5c718fbd7bb9880197c5b06820dda71</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 08 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32bca5310d87b09786b645c4ffa04a9d20d63ac1</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 09 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2907e9c59c7a16105ac7b021d7ea07c76ca0b3d</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 10 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2907e9c59c7a16105ac7b021d7ea07c76ca0b3d</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 11 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:464b8a3740f35388dba207ac09922debdfeedc9a</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 12 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=<magnet:?xt=urn:btih:767a2c7507216e8fd9063f6496ec5d59a882df1a/link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 13 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0cce3c78302909ac463d170122852ee90d7910c</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 14 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ac7a4dd1999116a5b8d8af58bc97d5ed528a29a</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 15 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5769fd293d57fe955f6093817086a2a34ebdfffb</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 16/17 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c9f560e0d2bee419782c214605e348c8091d8b2</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 18 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76bf6861705f5c605cf0191d021eda2b53269e9f</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 19 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d0ec35a3104afd775a8545b433f182ab4da728a</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 20 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba1a71ce6797d7d8345297ca0ab9348f86cc39cb</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 21 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ef3aa70aed76502289031c1f008b4e209363ea8</link><thumbnail>IGNOREME</thumbnail></item>
+<item><title>[B][COLOR white][B]EP 22 - [COLOR yellow] [/B][/COLOR][/B]</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:420f55e4ff5e5ecd61e3a1fad7c4695f20c89ec7</link><thumbnail>IGNOREME</thumbnail></item>
+
 <item><title>[B][COLOR orange]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
 <item><title>[B][COLOR orange]### [COLOR white] SERVIDOR 2 [COLOR lime] LINK DIRETO [COLOR orange]###[/COLOR][/B]</title>
 <link>IGNOREME</link><thumbnail>IGNOREME</thumbnail><info>[B][COLOR yellow]TODOS OS EPISODEOS DA SERIE EM LINKS DIRETOS, POREM AS VEZES FICAM OFF LINE, MAS LOGO VOLTAM A FICAR ON LINE.[/COLOR][/B]</info></item>
