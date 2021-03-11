@@ -1,7 +1,7 @@
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</tumbnail></item>
-<item><title>[B][COLOR crimson]### [COLOR white]JEANNIE É UM GENIO[COLOR lime] 1ª Temporada[COLOR white] TORRENT [COLOR crimson]###[/COLOR][/B]</title>
+
+<item><title>[B][COLOR crimson]### [COLOR white]JEANNIE É UM GENIO[COLOR lime] 1ª Temporada [COLOR crimson]###[/COLOR][/B]</title>
 <link>ignoreme</link><thumbnail>https://media.fstatic.com/S8QUdC5K68VA5EkRu10uRz3b-Xk=/195x289/smart/media/movies/covers/2010/11/edcc3cacb1ee32f775a32149f9f766e4.jpg</thumbnail></item>
-<item><title>[B][COLOR crimson]##############################################################[/COLOR][/B]</title><link>IGNOREME</link><thumbnail>IGNOREME</thumbnail></item>
+
 
 <item><title>[B][COLOR white]EP 01  -  [COLOR yellow] Um Gênio Passou Por Minha Vida [/B][/COLOR]</title><link>https://proxy-20.nyc.dailymotion.com/sec(xC_iF4nXGoWVwevj08vdLZW8c59mJK8DoWDqHE_Cqw4Bth12OUuMUOq4zOMQPHR_6VmSm5PN5X-5IcD2efzL6ToljNFhhCO6DNIJnZiRnPU)/video/074/778/155877470_mp4_h264_aac_hq.m3u8</link><thumbnail></thumbnail></item>
 
