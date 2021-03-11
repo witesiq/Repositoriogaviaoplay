@@ -71,7 +71,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HAWAII 5 - 0[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://media.fstatic.com/Dx2J1m6McIedbL0izICP8tpiBg4=/fit-in/640x480/smart/media/movies/covers/2018/09/hawaii_five-o.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/DuW4BYs4</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/HAWAII%205%20%200.txt</externallink>
 <fanart>https://media.fstatic.com/BRCxWQB7Q6j-RaUOjEz1BZjBL4c=/640x480/smart/media/movies/covers/2018/09/hawaii_five-0.jpg</fanart>
 <info>[B][COLOR yellow]A equipe especial de policiais, liderada pelo comandante Steve McGarret, recebeu carta branca da governadora do Havaí para fazer o que for preciso para erradicar o crime na ilha.[/COLOR][/B]</info>
 </channel>
@@ -82,7 +82,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white]HERCULES - A LENDARIA JORNADA[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/9cVJ8YzHUD2vHiDLtyfUxgO2im4.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Tp9g4B8a</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/HERCULES%20%20A%20LENDARIA%20JORNADA.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/4OQnb2QoifmFCe3TnUS2kxt3afM.jpg</fanart>
 <info>[B][COLOR yellow]A série acompanha a vida e aventuras do semideus da mitologia grega Hércules, filho de Zeus com uma mortal, que nasceu em uma época que a Terra precisava de um herói. Com sua grande generosidade, ele vai cuidar do povo e trazer a paz, com a ajuda de seu melhor amigo Iolaus para se aventurar matando monstros místicos e fazendo uso de toda sua força.[/COLOR][/B]</info>
 </channel>
@@ -92,7 +92,7 @@
 <channel>
 <name>[B][COLOR gold]###[/COLOR][COLOR lime]###[/COLOR][COLOR crimson]###[/COLOR] [COLOR white] IMPERIO ROMANO[/COLOR] [COLOR crimson]###[/COLOR][COLOR lime]###[/COLOR][COLOR gold]###[/COLOR][/B]</name>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gr4hFhqfuGUQPyQ2a2dOTM1ewnm.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/84gEFTvx</externallink>
+<externallink>https://raw.githubusercontent.com/witesiq/Repositoriogaviaoplay/main/IMPERIO%20ROMANO.txt</externallink>
 <fanart>https://image.tmdb.org/t/p/original/boooA17n9ojRj7Rh43ucOybZORh.jpg</fanart>
 <info>[B][COLOR yellow]Esta mistura de documentário e épico histórico narra o período de turbulência e violência em Roma durante os impérios de Cômodo e Júlio César  e Caligula.[/COLOR]/info>
 ######################################################################################################
