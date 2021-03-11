@@ -1,90 +1,90 @@
 <item>
-<title>[COLOR red]1ª TEMPORADA[/COLOR]- CÔMODO : IMPÉRIO DO SANGUE</title>
+<title>[B][COLOR red]1ª TEMPORADA[/COLOR]- CÔMODO : IMPÉRIO DO SANGUE[B]</title>
 <link>IGNOREME</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/06/28/15/56/2060585.jpg</thumbnail>
 </item>
 <item>                     
-<title> EP 01 -[COLOR yellow]NASCIDO DA REALEZA[/COLOR]</title>
+<title>[B] EP 01 -[COLOR yellow]NASCIDO DA REALEZA[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%201%C2%AA%20Temporada%20-%20C%C3%B4modo-%20Imp%C3%A9rio%20de%20Sangue%20-%20Epis%C3%B3dio%2001%20-%20Nascido%20na%20Realeza.mp4?cnt=0</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/06/28/15/56/2060585.jpg</thumbnail>
 </item>
 <item>
-<title> EP 02 - [COLOR yellow]CRIAÇÃO DE UM IMPERADOR[/COLOR]</title>
+<title>[B] EP 02 - [COLOR yellow]CRIAÇÃO DE UM IMPERADOR[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%201%C2%AA%20Temporada%20-%20C%C3%B4modo-%20Imp%C3%A9rio%20de%20Sangue%20-%20Epis%C3%B3dio%2002%20-%20A%20Cria%C3%A7%C3%A3o%20de%20Um%20Imperador.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/06/28/15/56/2060585.jpg</thumbnail>
 </item>
 <item>
-<title> EP 03 - [COLOR yellow]INIMIGO NO SENADO[/COLOR]</title>
+<title>[B] EP 03 - [COLOR yellow]INIMIGO NO SENADO[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%201%C2%AA%20Temporada%20-%20C%C3%B4modo-%20Imp%C3%A9rio%20de%20Sangue%20-%20Epis%C3%B3dio%2003%20-%20Inimigo%20do%20Senado.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/06/28/15/56/2060585.jpg</thumbnail>
 </item>
 <item>
-<title> EP 04 - [COLOR yellow]ROMA EM CHAMAS[/COLOR]</title>
+<title>[B] EP 04 - [COLOR yellow]ROMA EM CHAMAS[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%201%C2%AA%20Temporada%20-%20C%C3%B4modo-%20Imp%C3%A9rio%20de%20Sangue%20-%20Epis%C3%B3dio%2004%20-%20Roma%20em%20Chamas.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/06/28/15/56/2060585.jpg</thumbnail>
 </item>
 <item>
-<title> EP 05 - [COLOR yellow]LUTA E GLORIA[/COLOR]</title>
+<title>[B] EP 05 - [COLOR yellow]LUTA E GLORIA[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%201%C2%AA%20Temporada%20-%20C%C3%B4modo-%20Imp%C3%A9rio%20de%20Sangue%20-%20Epis%C3%B3dio%2005%20-%20Luta%20e%20Gl%C3%B3ria.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/06/28/15/56/2060585.jpg</thumbnail>
 </item>
 <item>
-<title> EP 06 -[COLOR yellow]14 DIAS SANGRENTOS[/COLOR]</title>
+<title>[B] EP 06 -[COLOR yellow]14 DIAS SANGRENTOS[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%201%C2%AA%20Temporada%20-%20C%C3%B4modo-%20Imp%C3%A9rio%20de%20Sangue%20-%20Epis%C3%B3dio%2006%20-%2014%20Dias%20Sangrentos.mp4</link>
 <thumbnail>http://br.web.img3.acsta.net/pictures/18/06/28/15/56/2060585.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR red]2ª TEMPORADA[/COLOR]- JULIO CESAR : O SENHOR DE ROMA</title>
+<title>[B][COLOR red]2ª TEMPORADA[/COLOR]- JULIO CESAR : O SENHOR DE ROMA[B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://www.oneindir.com/wp-content/uploads/2018/08/roman-empire.jpg</thumbnail>
 </item>
 <item>
-<title> EP 01 - [COLOR yellow]O TRIUNVIRATO [/COLOR]</title>
+<title>[B] EP 01 - [COLOR yellow]O TRIUNVIRATO [/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%202%C2%AA%20Temporada%20-%20J%C3%BAlio%20C%C3%A9sar-%20O%20Senhor%20de%20Roma%20-%20Epis%C3%B3dio%2001%20-%20O%20Triunvirato.mp4</link>
 <thumbnail>https://www.oneindir.com/wp-content/uploads/2018/08/roman-empire.jpg</thumbnail>
 </item>
 <item>
-<title> EP 02 - [COLOR yellow]O GRANDE CONQUISTADOR [/COLOR]</title>
+<title>[B] EP 02 - [COLOR yellow]O GRANDE CONQUISTADOR [/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%202%C2%AA%20Temporada%20-%20J%C3%BAlio%20C%C3%A9sar-%20O%20Senhor%20de%20Roma%20-%20Epis%C3%B3dio%2002%20-%20O%20Grande%20Conquistador.mp4</link>
 <thumbnail>https://www.oneindir.com/wp-content/uploads/2018/08/roman-empire.jpg</thumbnail>
 </item>
 <item>
-<title> EP 03 - [COLOR yellow]ATRAVESSANDO O RUBICÃO[/COLOR]</title>
+<title>[B] EP 03 - [COLOR yellow]ATRAVESSANDO O RUBICÃO[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%202%C2%AA%20Temporada%20-%20J%C3%BAlio%20C%C3%A9sar-%20O%20Senhor%20de%20Roma%20-%20Epis%C3%B3dio%2003%20-%20Atravessando%20o%20Rubic%C3%A3o.mp4</link>
 <thumbnail>https://www.oneindir.com/wp-content/uploads/2018/08/roman-empire.jpg</thumbnail>
 </item>
 <item>
-<title> EP 04 - [COLOR yellow]A RAINHA DO NILO[/COLOR]</title>
+<title>[B] EP 04 - [COLOR yellow]A RAINHA DO NILO[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%202%C2%AA%20Temporada%20-%20J%C3%BAlio%20C%C3%A9sar-%20O%20Senhor%20de%20Roma%20-%20Epis%C3%B3dio%2004%20-%20Rainha%20do%20Nilo.mp4</link>
 <thumbnail>https://www.oneindir.com/wp-content/uploads/2018/08/roman-empire.jpg</thumbnail>
 </item>
 <item>
-<title> EP 05 - [COLOR yellow]IDOS DE MARÇO[/COLOR]</title>
+<title>[B] EP 05 - [COLOR yellow]IDOS DE MARÇO[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%202%C2%AA%20Temporada%20-%20J%C3%BAlio%20C%C3%A9sar-%20O%20Senhor%20de%20Roma%20-%20Epis%C3%B3dio%2005%20-%20Idos%20de%20Mar%C3%A7o.mp4</link>
 <thumbnail>https://www.oneindir.com/wp-content/uploads/2018/08/roman-empire.jpg</thumbnail>
 </item>
 <item>
-<title>[COLOR red]3ª TEMPORADA[/COLOR]- CALIGULA : IMPERADOR LOUCO</title>
+<title>[B][COLOR red]3ª TEMPORADA[/COLOR]- CALIGULA : IMPERADOR LOUCO[B]</title>
 <link>IGNOREME</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdjsNBG3chIvdV3j6sQ_SSvgPUtjkuzj5pgkiWc0MZzSo4tGFf</thumbnail>
 </item>
 <item>
-<title> EP 01 - [COLOR yellow]O HERDEIRO POR DIREITO[/COLOR]</title>
+<title>[B] EP 01 - [COLOR yellow]O HERDEIRO POR DIREITO[/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%203%C2%AA%20Temporada%20-%20Cal%C3%ADgula-%20O%20Imperador%20Louco%20-%20Epis%C3%B3dio%2001%20-%20Herdeiro%20por%20Direito.mp4</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdjsNBG3chIvdV3j6sQ_SSvgPUtjkuzj5pgkiWc0MZzSo4tGFf</thumbnail>
 </item>
 <item>
-<title> EP 02 - [COLOR yellow]UMA NOVA ESPERANÇA[/COLOR]</title>
+<title>[B] EP 02 - [COLOR yellow]UMA NOVA ESPERANÇA[/COLOR][B]</title>
 <link>https://ia903102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%203%C2%AA%20Temporada%20-%20Cal%C3%ADgula-%20O%20Imperador%20Louco%20-%20Epis%C3%B3dio%2002%20-%20Uma%20Nova%20Esperan%C3%A7a.mp4</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdjsNBG3chIvdV3j6sQ_SSvgPUtjkuzj5pgkiWc0MZzSo4tGFf</thumbnail>
 </item>
 <item>
-<title> EP 03 - [COLOR yellow]A NESCESSIDADE DE UM HERDEIRO [/COLOR]</title>
+<title>[B] EP 03 - [COLOR yellow]A NESCESSIDADE DE UM HERDEIRO [/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%203%C2%AA%20Temporada%20-%20Cal%C3%ADgula-%20O%20Imperador%20Louco%20-%20Epis%C3%B3dio%2003%20-%20A%20Necessidade%20de%20um%20Herd.mp4</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdjsNBG3chIvdV3j6sQ_SSvgPUtjkuzj5pgkiWc0MZzSo4tGFf</thumbnail>
 </item>
 <item>
-<title> EP 04 - [COLOR yellow]LOUCURA TOTAL [/COLOR]</title>
+<title>[B] EP 04 - [COLOR yellow]LOUCURA TOTAL [/COLOR][B]</title>
 <link>https://ia803102.us.archive.org/8/items/imperioromano/Imp%C3%A9rio%20Romano%20-%203%C2%AA%20Temporada%20-%20Cal%C3%ADgula-%20O%20Imperador%20Louco%20-%20Epis%C3%B3dio%2004%20-%20Loucura%20Total.mp4</link>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTdjsNBG3chIvdV3j6sQ_SSvgPUtjkuzj5pgkiWc0MZzSo4tGFf</thumbnail>
 </item>
